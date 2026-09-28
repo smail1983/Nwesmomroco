@@ -1,61 +1,117 @@
-const API_KEY="YOUR_API_KEY_HERE";
 const newsContainer=document.getElementById("newsContainer");
 const searchInput=document.getElementById("searchInput");
 const searchButton=document.getElementById("searchButton");
 const sectionTitle=document.getElementById("sectionTitle");
 
-const demoNews=[
-{title:"أحدث الأخبار والتحديثات",description:"يمكنك ربط الموقع بمصدر أخبار خارجي لعرض الأخبار بشكل تلقائي.",image:"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",url:"#"},
-{title:"أخبار التكنولوجيا",description:"تابع آخر التطورات في عالم التكنولوجيا والذكاء الاصطناعي.",image:"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",url:"#"},
-{title:"آخر الأخبار الرياضية",description:"أهم الأخبار والنتائج والتحديثات الرياضية.",image:"https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=900&q=80",url:"#"}];
+const GDELT_API="https://api.gdeltproject.org/api/v2/doc/doc";
 
-document.addEventListener("DOMContentLoaded",()=>displayNews(demoNews));
+const categoryQueries={
+  general:'(Morocco OR المغرب OR مغرب)',
+  business:'(Morocco OR المغرب OR مغرب) (اقتصاد OR اقتصاد OR business OR economy)',
+  technology:'(Morocco OR المغرب OR مغرب) (تكنولوجيا OR تقنية OR technology OR AI OR الذكاء الاصطناعي)',
+  sports:'(Morocco OR المغرب OR مغرب) (رياضة OR كرة OR football OR sports)'
+};
+
+document.addEventListener("DOMContentLoaded",()=>fetchNews("general"));
 
 document.querySelectorAll("nav a").forEach(link=>{
   link.addEventListener("click",e=>{
     e.preventDefault();
     const category=link.dataset.category;
-    sectionTitle.textContent={general:"أحدث الأخبار",business:"أخبار الاقتصاد",technology:"أخبار التكنولوجيا",sports:"أخبار الرياضة"}[category];
-    if(API_KEY!=="YOUR_API_KEY_HERE") fetchNews(category);
+    sectionTitle.textContent={
+      general:"أحدث الأخبار",
+      business:"أخبار الاقتصاد",
+      technology:"أخبار التكنولوجيا",
+      sports:"أخبار الرياضة"
+    }[category]||"أحدث الأخبار";
+    fetchNews(category);
   });
 });
 
 searchButton.addEventListener("click",searchNews);
-searchInput.addEventListener("keydown",e=>{if(e.key==="Enter")searchNews()});
+searchInput.addEventListener("keydown",e=>{
+  if(e.key==="Enter") searchNews();
+});
 
 async function fetchNews(category="general"){
-  if(API_KEY==="YOUR_API_KEY_HERE"){showError("أضف API Key صالحًا لتفعيل جلب الأخبار تلقائيًا.");return}
-  newsContainer.innerHTML='<div class="loading">جاري تحميل الأخبار...</div>';
+  showLoading("جاري تحميل آخر الأخبار...");
   try{
-    const response=await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=${category}&pageSize=12&apiKey=${API_KEY}`);
-    if(!response.ok)throw new Error();
+    const query=categoryQueries[category]||categoryQueries.general;
+    const url=`${GDELT_API}?query=${encodeURIComponent(query)}&mode=artlist&maxrecords=18&timespan=1d&format=json&sort=datedesc`;
+    const response=await fetch(url);
+    if(!response.ok) throw new Error("API error");
     const data=await response.json();
-    displayNews((data.articles||[]).map(a=>({title:a.title,description:a.description,image:a.urlToImage,url:a.url})));
-  }catch(e){showError("حدث خطأ أثناء تحميل الأخبار. تحقق من API Key ومصدر الأخبار.")}
+    const articles=(data.articles||[]).map(a=>({
+      title:a.title,
+      description:a.domain?("المصدر: "+a.domain):"خبر حديث من مصدر إخباري",
+      image:a.socialimage||"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      url:a.url
+    }));
+    displayNews(articles);
+  }catch(error){
+    showError("تعذر تحميل الأخبار الآن. حاول تحديث الصفحة بعد لحظات.");
+  }
 }
 
 async function searchNews(){
-  const query=searchInput.value.trim(); if(!query)return;
-  if(API_KEY==="YOUR_API_KEY_HERE"){showError("البحث يحتاج إلى ربط الموقع بمصدر أخبار API.");return}
+  const query=searchInput.value.trim();
+  if(!query)return;
+
   sectionTitle.textContent=`نتائج البحث عن: ${query}`;
-  newsContainer.innerHTML='<div class="loading">جاري البحث...</div>';
+  showLoading("جاري البحث عن الأخبار...");
+
   try{
-    const response=await fetch(`https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=ar&pageSize=12&sortBy=publishedAt&apiKey=${API_KEY}`);
-    if(!response.ok)throw new Error();
+    const searchQuery=`(Morocco OR المغرب OR مغرب) ${query}`;
+    const url=`${GDELT_API}?query=${encodeURIComponent(searchQuery)}&mode=artlist&maxrecords=18&timespan=7d&format=json&sort=datedesc`;
+    const response=await fetch(url);
+    if(!response.ok) throw new Error("Search error");
     const data=await response.json();
-    displayNews((data.articles||[]).map(a=>({title:a.title,description:a.description,image:a.urlToImage,url:a.url})));
-  }catch(e){showError("حدث خطأ أثناء البحث.")}
+    const articles=(data.articles||[]).map(a=>({
+      title:a.title,
+      description:a.domain?("المصدر: "+a.domain):"نتيجة بحث إخبارية",
+      image:a.socialimage||"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      url:a.url
+    }));
+    displayNews(articles);
+  }catch(error){
+    showError("حدث خطأ أثناء البحث. حاول مرة أخرى.");
+  }
 }
 
 function displayNews(articles){
   newsContainer.innerHTML="";
-  const valid=articles.filter(a=>a&&a.title&&a.image);
-  if(!valid.length){newsContainer.innerHTML='<div class="empty">لا توجد أخبار متاحة حاليًا.</div>';return}
+  const valid=articles.filter(a=>a&&a.title&&a.url);
+
+  if(!valid.length){
+    newsContainer.innerHTML='<div class="empty">لا توجد أخبار متاحة حاليًا.</div>';
+    return;
+  }
+
   valid.forEach(article=>{
-    const card=document.createElement("article");card.className="news-card";
-    card.innerHTML=`<img src="${escapeHTML(article.image)}" alt="${escapeHTML(article.title)}" loading="lazy"><div class="news-content"><h3>${escapeHTML(article.title)}</h3><p>${escapeHTML(article.description||"لا يوجد وصف لهذا الخبر.")}</p><a href="${escapeHTML(article.url||"#")}" target="_blank" rel="noopener noreferrer">اقرأ المزيد ←</a></div>`;
+    const card=document.createElement("article");
+    card.className="news-card";
+    card.innerHTML=`
+      <img src="${escapeHTML(article.image)}" alt="${escapeHTML(article.title)}" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80'">
+      <div class="news-content">
+        <h3>${escapeHTML(article.title)}</h3>
+        <p>${escapeHTML(article.description||"خبر حديث")}</p>
+        <a href="${escapeHTML(article.url)}" target="_blank" rel="noopener noreferrer">اقرأ الخبر كاملًا ←</a>
+      </div>
+    `;
     newsContainer.appendChild(card);
   });
 }
-function showError(message){newsContainer.innerHTML=`<div class="error"><h3>مصدر الأخبار غير متصل</h3><p>${message}</p></div>`}
-function escapeHTML(value){const div=document.createElement("div");div.textContent=value||"";return div.innerHTML}
+
+function showLoading(message){
+  newsContainer.innerHTML=`<div class="loading">${message}</div>`;
+}
+
+function showError(message){
+  newsContainer.innerHTML=`<div class="error"><h3>تعذر تحميل الأخبار</h3><p>${message}</p></div>`;
+}
+
+function escapeHTML(value){
+  const div=document.createElement("div");
+  div.textContent=value||"";
+  return div.innerHTML;
+}
