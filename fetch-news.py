@@ -4,24 +4,29 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-# Google News RSS: no API key required.
-# Morocco-focused queries, with extra emphasis on Moroccan sport.
 FEEDS = {
     "sports": [
+        "أخبار الرياضة المغرب",
         "Morocco football",
         "Raja Wydad Morocco football",
-        "Moroccan national team football",
+        "المنتخب المغربي كرة القدم",
         "Morocco sports"
     ],
     "general": [
-        "Morocco Maroc news",
-        "Morocco latest news"
+        "أخبار المغرب",
+        "آخر أخبار المغرب",
+        "Morocco latest news",
+        "Morocco Maroc news"
     ],
     "business": [
+        "اقتصاد المغرب",
+        "أخبار الاقتصاد المغربي",
         "Morocco economy",
         "Morocco business"
     ],
     "technology": [
+        "تكنولوجيا المغرب",
+        "أخبار التكنولوجيا المغرب",
         "Morocco technology",
         "Morocco tech"
     ]
@@ -48,10 +53,13 @@ def text_of(parent, tag):
     node = parent.find(tag)
     return (node.text or "").strip() if node is not None else ""
 
-articles = []
+# Keep a separate pool for each category so sports cannot fill all 80 slots.
+articles_by_category = {category: [] for category in FEEDS}
 seen = set()
 
 for category, queries in FEEDS.items():
+    category_seen = set()
+
     for query in queries:
         try:
             root = ET.fromstring(fetch_feed(query))
@@ -61,11 +69,13 @@ for category, queries in FEEDS.items():
                 pub_date = text_of(item, "pubDate")
                 source = text_of(item, "source")
 
-                if not title or not url or url in seen:
+                if not title or not url or url in seen or url in category_seen:
                     continue
 
+                category_seen.add(url)
                 seen.add(url)
-                articles.append({
+
+                articles_by_category[category].append({
                     "category": category,
                     "title": title,
                     "description": "المصدر: " + (source or "Google News"),
@@ -77,8 +87,12 @@ for category, queries in FEEDS.items():
         except Exception as exc:
             print("Warning:", category, query, exc)
 
-# Put Moroccan sports first, then the other categories.
-articles.sort(key=lambda x: (x["category"] != "sports", x.get("date", "")))
+# Maximum 20 per category: 20 sports + 20 general + 20 business + 20 technology.
+articles = []
+for category in FEEDS:
+    items = articles_by_category[category]
+    items.sort(key=lambda x: x.get("date", ""), reverse=True)
+    articles.extend(items[:20])
 
 if not articles:
     raise SystemExit("No news was fetched; deployment stopped to avoid an empty feed.")
@@ -90,3 +104,4 @@ with open("news.json", "w", encoding="utf-8") as f:
     }, f, ensure_ascii=False, indent=2)
 
 print("Fetched", len(articles), "articles.")
+print("By category:", {k: len(v) for k, v in articles_by_category.items()})
