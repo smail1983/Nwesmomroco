@@ -6,24 +6,24 @@ const sectionTitle=document.getElementById("sectionTitle");
 const GDELT_API="https://api.gdeltproject.org/api/v2/doc/doc";
 
 const categoryQueries={
-  general:'(Morocco OR المغرب OR مغرب)',
-  business:'(Morocco OR المغرب OR مغرب) (اقتصاد OR business OR economy)',
-  technology:'(Morocco OR المغرب OR مغرب) (تكنولوجيا OR تقنية OR technology OR AI OR الذكاء الاصطناعي)',
-  sports:'(Morocco OR المغرب OR مغرب) (رياضة OR كرة OR football OR sports)'
+  general:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (رياضة OR كرة القدم OR البطولة OR Botola OR المنتخب المغربي OR أسود الأطلس OR الوداد OR الرجاء OR الجيش الملكي OR نهضة بركان OR الفتح الرباطي OR المغرب الفاسي OR الحسنية OR الكوكب)',
+  business:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (اقتصاد OR اقتصاد المغرب OR شركات مغربية OR درهم OR business OR economy)',
+  technology:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (تكنولوجيا OR تقنية OR الذكاء الاصطناعي OR startup OR technology OR AI)',
+  sports:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (كرة القدم OR البطولة OR Botola OR المنتخب المغربي OR أسود الأطلس OR الوداد OR الرجاء OR الجيش الملكي OR نهضة بركان OR الفتح الرباطي OR المغرب الفاسي OR الحسنية OR الكوكب OR كرة السلة OR كرة اليد OR الفوتسال OR كرة القدم النسوية OR المنتخب النسوي)'
 };
 
-document.addEventListener("DOMContentLoaded",()=>fetchNews("general"));
+document.addEventListener("DOMContentLoaded",()=>fetchNews("sports"));
 
 document.querySelectorAll("nav a").forEach(link=>{
   link.addEventListener("click",e=>{
     e.preventDefault();
     const category=link.dataset.category;
     sectionTitle.textContent={
-      general:"أحدث الأخبار",
-      business:"أخبار الاقتصاد",
-      technology:"أخبار التكنولوجيا",
-      sports:"أخبار الرياضة"
-    }[category]||"أحدث الأخبار";
+      general:"أحدث الأخبار المغربية",
+      business:"أخبار الاقتصاد المغربي",
+      technology:"أخبار التكنولوجيا في المغرب",
+      sports:"أبرز أخبار الرياضة المغربية"
+    }[category]||"أحدث الأخبار المغربية";
     fetchNews(category);
   });
 });
@@ -105,7 +105,7 @@ async function searchNews(){
   showLoading("جاري البحث عن الأخبار...");
 
   try{
-    const searchQuery=`(Morocco OR المغرب OR مغرب) ${query}`;
+    const searchQuery=`(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) ${query}`;
     const data=await gdeltRequest(searchQuery,"7d");
     displayNews(normalizeArticles(data));
   }catch(error){
