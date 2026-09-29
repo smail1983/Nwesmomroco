@@ -6,10 +6,10 @@ const sectionTitle=document.getElementById("sectionTitle");
 const GDELT_API="https://api.gdeltproject.org/api/v2/doc/doc";
 
 const categoryQueries={
-  general:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (رياضة OR كرة القدم OR البطولة OR Botola OR المنتخب المغربي OR أسود الأطلس OR الوداد OR الرجاء OR الجيش الملكي OR نهضة بركان OR الفتح الرباطي OR المغرب الفاسي OR الحسنية OR الكوكب)',
-  business:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (اقتصاد OR اقتصاد المغرب OR شركات مغربية OR درهم OR business OR economy)',
-  technology:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (تكنولوجيا OR تقنية OR الذكاء الاصطناعي OR startup OR technology OR AI)',
-  sports:'(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) (كرة القدم OR البطولة OR Botola OR المنتخب المغربي OR أسود الأطلس OR الوداد OR الرجاء OR الجيش الملكي OR نهضة بركان OR الفتح الرباطي OR المغرب الفاسي OR الحسنية OR الكوكب OR كرة السلة OR كرة اليد OR الفوتسال OR كرة القدم النسوية OR المنتخب النسوي)'
+  general:'Morocco',
+  business:'Morocco economy',
+  technology:'Morocco technology',
+  sports:'Morocco football'
 };
 
 document.addEventListener("DOMContentLoaded",()=>fetchNews("sports"));
@@ -33,32 +33,34 @@ searchInput.addEventListener("keydown",e=>{
   if(e.key==="Enter") searchNews();
 });
 
-/*
-  GDELT supports JSONP. Using JSONP here avoids browser CORS/network
-  issues that can leave the page stuck on "جاري تحميل آخر الأخبار...".
-*/
-function gdeltRequest(query,timespan="1d"){
+/* GDELT supports JSONP. We use short English queries because GDELT
+   searches multilingual news through English machine translation. */
+function gdeltRequest(query,timespan="2d"){
   return new Promise((resolve,reject)=>{
     const callbackName="gdeltCallback_"+Date.now()+"_"+Math.random().toString(36).slice(2);
     const script=document.createElement("script");
-    const timer=setTimeout(()=>{
-      cleanup();
-      reject(new Error("GDELT timeout"));
-    },12000);
+    let finished=false;
 
-    function cleanup(){
+    const timer=setTimeout(()=>{
+      finish();
+      reject(new Error("GDELT timeout"));
+    },10000);
+
+    function finish(){
+      if(finished)return;
+      finished=true;
       clearTimeout(timer);
       script.remove();
-      try{ delete window[callbackName]; }catch(e){ window[callbackName]=undefined; }
+      try{delete window[callbackName];}catch(e){window[callbackName]=undefined;}
     }
 
     window[callbackName]=(data)=>{
-      cleanup();
+      finish();
       resolve(data||{});
     };
 
     script.onerror=()=>{
-      cleanup();
+      finish();
       reject(new Error("GDELT network error"));
     };
 
@@ -72,7 +74,7 @@ function gdeltRequest(query,timespan="1d"){
       sort:"datedesc"
     });
 
-    script.src=`${GDELT_API}?${params.toString()}`;
+    script.src=GDELT_API+"?"+params.toString();
     document.head.appendChild(script);
   });
 }
@@ -89,9 +91,16 @@ function normalizeArticles(data){
 async function fetchNews(category="general"){
   showLoading("جاري تحميل آخر الأخبار...");
   try{
-    const query=categoryQueries[category]||categoryQueries.general;
-    const data=await gdeltRequest(query,"1d");
-    displayNews(normalizeArticles(data));
+    let data=await gdeltRequest(categoryQueries[category]||categoryQueries.general,"2d");
+    let articles=normalizeArticles(data);
+
+    /* If the sports query is temporarily sparse, broaden it slightly. */
+    if(!articles.length && category==="sports"){
+      data=await gdeltRequest("Morocco sports","3d");
+      articles=normalizeArticles(data);
+    }
+
+    displayNews(articles);
   }catch(error){
     showError("تعذر تحميل الأخبار الآن. حاول تحديث الصفحة بعد لحظات.");
   }
@@ -101,11 +110,11 @@ async function searchNews(){
   const query=searchInput.value.trim();
   if(!query)return;
 
-  sectionTitle.textContent=`نتائج البحث عن: ${query}`;
+  sectionTitle.textContent="نتائج البحث عن: "+query;
   showLoading("جاري البحث عن الأخبار...");
 
   try{
-    const searchQuery=`(Morocco OR المغرب OR مغرب OR مغربي OR مغربية) ${query}`;
+    const searchQuery="Morocco "+query;
     const data=await gdeltRequest(searchQuery,"7d");
     displayNews(normalizeArticles(data));
   }catch(error){
