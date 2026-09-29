@@ -3,6 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#17212b">
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="NewsMorocco">
 <title>NewsMorocco | آخر أخبار المغرب والعالم</title>
 <meta name="description" content="NewsMorocco — تابع آخر أخبار المغرب والعالم في الاقتصاد والتكنولوجيا والرياضة والمجتمع، بتحديثات إخبارية متجددة.">
 <meta name="robots" content="index, follow">
@@ -37,7 +43,46 @@
   </section>
 </main>
 
+
+<section id="installAppBox" class="install-app-box" style="display:none;">
+  <button id="installAppButton" type="button">📱 تثبيت تطبيق NewsMorocco</button>
+</section>
+
 <footer><p>© 2026 NewsMorocco. جميع الحقوق محفوظة.</p></footer>
+
+<script>
+let deferredInstallPrompt = null;
+const installBox = document.getElementById('installAppBox');
+const installButton = document.getElementById('installAppButton');
+
+window.addEventListener('beforeinstallprompt', (event) => {
+  event.preventDefault();
+  deferredInstallPrompt = event;
+  if (installBox) installBox.style.display = 'block';
+});
+
+if (installButton) {
+  installButton.addEventListener('click', async () => {
+    if (!deferredInstallPrompt) return;
+    deferredInstallPrompt.prompt();
+    await deferredInstallPrompt.userChoice;
+    deferredInstallPrompt = null;
+    installBox.style.display = 'none';
+  });
+}
+
+window.addEventListener('appinstalled', () => {
+  deferredInstallPrompt = null;
+  if (installBox) installBox.style.display = 'none';
+});
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  });
+}
+</script>
+
 <script src="script.js?v=20260929"></script>
 </body>
 </html>
