@@ -60,7 +60,20 @@ const installButton = document.getElementById('installAppButton');
 window.addEventListener('beforeinstallprompt', (event) => {
   event.preventDefault();
   deferredInstallPrompt = event;
-  if (installBox) installBox.style.display = 'block';
+  if (installBox) {
+    installBox.style.display = 'block';
+    installBox.style.visibility = 'visible';
+    installBox.style.opacity = '1';
+  }
+  if (installButton) installButton.textContent = '📱 تثبيت تطبيق NewsMorocco';
+});
+
+window.addEventListener('DOMContentLoaded', () => {
+  if (installBox) {
+    installBox.style.display = 'block';
+    installBox.style.visibility = 'visible';
+    installBox.style.opacity = '1';
+  }
 });
 
 if (installButton) {
