@@ -44,7 +44,7 @@
 </main>
 
 
-<section id="installAppBox" class="install-app-box" style="display:block;margin:18px 16px;text-align:center;">
+<section id="installAppBox" class="install-app-box" style="display:block !important;visibility:visible !important;opacity:1 !important;margin:18px 16px;text-align:center;">
   <div style="background:#17212b;border-radius:14px;padding:14px;box-shadow:0 4px 14px rgba(0,0,0,.15);">
   <button id="installAppButton" type="button" style="border:0;border-radius:10px;padding:13px 22px;background:#10b981;color:#fff;font-size:16px;font-weight:700;cursor:pointer;">📱 تثبيت تطبيق NewsMorocco</button>
   </div>
@@ -69,7 +69,6 @@ if (installButton) {
       deferredInstallPrompt.prompt();
       await deferredInstallPrompt.userChoice;
       deferredInstallPrompt = null;
-      installBox.style.display = 'none';
       return;
     }
     alert('إذا لم يظهر التثبيت تلقائياً، افتح قائمة Chrome ⋮ ثم اختر "تثبيت التطبيق" أو "إضافة إلى الشاشة الرئيسية".');
@@ -78,7 +77,7 @@ if (installButton) {
 
 window.addEventListener('appinstalled', () => {
   deferredInstallPrompt = null;
-  if (installBox) installBox.style.display = 'none';
+  if (installBox) installBox.style.setProperty('display', 'none', 'important');
 });
 
 if ('serviceWorker' in navigator) {
