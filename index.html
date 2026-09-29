@@ -31,11 +31,8 @@
   <h1>نبض المغرب والعالم</h1>
   <p>اكتشف آخر الأخبار وأهم المستجدات لحظة بلحظة</p>
 
-  <div id="installAppBox" class="install-app-box" style="display:block !important;visibility:visible !important;opacity:1 !important;margin:16px 16px 18px;text-align:center;position:relative;z-index:5;">
-    <div style="background:#17212b;border-radius:14px;padding:12px;box-shadow:0 4px 14px rgba(0,0,0,.15);">
-      <button id="installAppButton" type="button" style="width:100%;border:0;border-radius:10px;padding:13px 22px;background:#10b981;color:#fff;font-size:16px;font-weight:700;cursor:pointer;">📱 تثبيت تطبيق NewsMorocco</button>
-      <a href="https://github.com/smail1983/NewsMorocco-App/actions/artifacts/11045726984" target="_blank" rel="noopener" style="display:block;width:100%;margin-top:9px;border-radius:10px;padding:12px 22px;background:#2563eb;color:#fff;text-decoration:none;font-size:16px;font-weight:700;">⬇️ تحميل APK NewsMorocco</a>
-    </div>
+  <div style="margin:16px 16px 18px;text-align:center;position:relative;z-index:5;">
+    <a href="https://github.com/smail1983/NewsMorocco-App/actions/artifacts/11045726984" target="_blank" rel="noopener" style="display:block;width:100%;border-radius:10px;padding:13px 22px;background:#2563eb;color:#fff;text-decoration:none;font-size:16px;font-weight:700;">⬇️ تحميل APK NewsMorocco</a>
   </div>
 
   <div class="search-box">
@@ -54,53 +51,7 @@
 
 <footer><p>© 2026 NewsMorocco. جميع الحقوق محفوظة.</p></footer>
 
-<script>
-let deferredInstallPrompt = null;
-const installBox = document.getElementById('installAppBox');
-const installButton = document.getElementById('installAppButton');
 
-window.addEventListener('beforeinstallprompt', (event) => {
-  event.preventDefault();
-  deferredInstallPrompt = event;
-  if (installBox) {
-    installBox.style.display = 'block';
-    installBox.style.visibility = 'visible';
-    installBox.style.opacity = '1';
-  }
-  if (installButton) installButton.textContent = '📱 تثبيت تطبيق NewsMorocco';
-});
-
-window.addEventListener('DOMContentLoaded', () => {
-  if (installBox) {
-    installBox.style.display = 'block';
-    installBox.style.visibility = 'visible';
-    installBox.style.opacity = '1';
-  }
-});
-
-if (installButton) {
-  installButton.addEventListener('click', async () => {
-    if (deferredInstallPrompt) {
-      deferredInstallPrompt.prompt();
-      await deferredInstallPrompt.userChoice;
-      deferredInstallPrompt = null;
-      return;
-    }
-    alert('إذا لم يظهر التثبيت تلقائياً، افتح قائمة Chrome ⋮ ثم اختر "تثبيت التطبيق" أو "إضافة إلى الشاشة الرئيسية".');
-  });
-}
-
-window.addEventListener('appinstalled', () => {
-  deferredInstallPrompt = null;
-  if (installBox) installBox.style.setProperty('display', 'none', 'important');
-});
-
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').catch(() => {});
-  });
-}
-</script>
 
 <script src="script.js?v=20260929"></script>
 </body>
