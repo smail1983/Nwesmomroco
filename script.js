@@ -67,7 +67,7 @@ function gdeltRequest(query,timespan="1d"){
       mode:"artlist",
       maxrecords:"18",
       timespan,
-      format:"json",
+      format:"jsonp",
       callback:callbackName,
       sort:"datedesc"
     });
