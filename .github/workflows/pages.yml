@@ -8,7 +8,7 @@ on:
     - cron: "17 * * * *"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -28,6 +28,16 @@ jobs:
 
       - name: Fetch latest Moroccan news
         run: python fetch-news.py
+
+      - name: Save generated news feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Moroccan news feed"
+            git push
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
