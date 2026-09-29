@@ -7,7 +7,7 @@ const GDELT_API="https://api.gdeltproject.org/api/v2/doc/doc";
 
 const categoryQueries={
   general:'(Morocco OR المغرب OR مغرب)',
-  business:'(Morocco OR المغرب OR مغرب) (اقتصاد OR اقتصاد OR business OR economy)',
+  business:'(Morocco OR المغرب OR مغرب) (اقتصاد OR business OR economy)',
   technology:'(Morocco OR المغرب OR مغرب) (تكنولوجيا OR تقنية OR technology OR AI OR الذكاء الاصطناعي)',
   sports:'(Morocco OR المغرب OR مغرب) (رياضة OR كرة OR football OR sports)'
 };
@@ -33,21 +33,65 @@ searchInput.addEventListener("keydown",e=>{
   if(e.key==="Enter") searchNews();
 });
 
+/*
+  GDELT supports JSONP. Using JSONP here avoids browser CORS/network
+  issues that can leave the page stuck on "جاري تحميل آخر الأخبار...".
+*/
+function gdeltRequest(query,timespan="1d"){
+  return new Promise((resolve,reject)=>{
+    const callbackName="gdeltCallback_"+Date.now()+"_"+Math.random().toString(36).slice(2);
+    const script=document.createElement("script");
+    const timer=setTimeout(()=>{
+      cleanup();
+      reject(new Error("GDELT timeout"));
+    },12000);
+
+    function cleanup(){
+      clearTimeout(timer);
+      script.remove();
+      try{ delete window[callbackName]; }catch(e){ window[callbackName]=undefined; }
+    }
+
+    window[callbackName]=(data)=>{
+      cleanup();
+      resolve(data||{});
+    };
+
+    script.onerror=()=>{
+      cleanup();
+      reject(new Error("GDELT network error"));
+    };
+
+    const params=new URLSearchParams({
+      query,
+      mode:"artlist",
+      maxrecords:"18",
+      timespan,
+      format:"json",
+      callback:callbackName,
+      sort:"datedesc"
+    });
+
+    script.src=`${GDELT_API}?${params.toString()}`;
+    document.head.appendChild(script);
+  });
+}
+
+function normalizeArticles(data){
+  return (data.articles||[]).map(a=>({
+    title:a.title,
+    description:a.domain?("المصدر: "+a.domain):"خبر حديث من مصدر إخباري",
+    image:a.socialimage||"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    url:a.url
+  }));
+}
+
 async function fetchNews(category="general"){
   showLoading("جاري تحميل آخر الأخبار...");
   try{
     const query=categoryQueries[category]||categoryQueries.general;
-    const url=`${GDELT_API}?query=${encodeURIComponent(query)}&mode=artlist&maxrecords=18&timespan=1d&format=json&sort=datedesc`;
-    const response=await fetch(url);
-    if(!response.ok) throw new Error("API error");
-    const data=await response.json();
-    const articles=(data.articles||[]).map(a=>({
-      title:a.title,
-      description:a.domain?("المصدر: "+a.domain):"خبر حديث من مصدر إخباري",
-      image:a.socialimage||"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      url:a.url
-    }));
-    displayNews(articles);
+    const data=await gdeltRequest(query,"1d");
+    displayNews(normalizeArticles(data));
   }catch(error){
     showError("تعذر تحميل الأخبار الآن. حاول تحديث الصفحة بعد لحظات.");
   }
@@ -62,17 +106,8 @@ async function searchNews(){
 
   try{
     const searchQuery=`(Morocco OR المغرب OR مغرب) ${query}`;
-    const url=`${GDELT_API}?query=${encodeURIComponent(searchQuery)}&mode=artlist&maxrecords=18&timespan=7d&format=json&sort=datedesc`;
-    const response=await fetch(url);
-    if(!response.ok) throw new Error("Search error");
-    const data=await response.json();
-    const articles=(data.articles||[]).map(a=>({
-      title:a.title,
-      description:a.domain?("المصدر: "+a.domain):"نتيجة بحث إخبارية",
-      image:a.socialimage||"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      url:a.url
-    }));
-    displayNews(articles);
+    const data=await gdeltRequest(searchQuery,"7d");
+    displayNews(normalizeArticles(data));
   }catch(error){
     showError("حدث خطأ أثناء البحث. حاول مرة أخرى.");
   }
