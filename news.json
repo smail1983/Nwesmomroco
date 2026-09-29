@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:01:14.586993+00:00",
+  "updated_at": "2026-09-29T18:24:39.394007+00:00",
   "articles": [
     {
       "category": "sports",
@@ -156,15 +156,6 @@
     },
     {
       "category": "sports",
-      "title": "المغرب يحجز مكانا له في نهائي كأس أفريقيا - BBC",
-      "description": "المصدر: BBC",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wczhMS1Z2WkhRRlB4VDRGSGk4RW81VThJM1B2WTRSS0UxckY5NjFSTG5qT2o1UGJIUkJCa3NQbEJ4ZUlocDNVdGpTc1RqVjVXbDkzeklJVzN4VDQyM3dNMWxJeUhBVXB2OUVrZlNyLXQwQQ?oc=5",
-      "domain": "BBC",
-      "date": "Wed, 11 Feb 2004 08:00:00 GMT"
-    },
-    {
-      "category": "sports",
       "title": "بث مباشر مباراة البرازيل والمغرب في كأس العالم 2026 - بوابة أخبار اليوم الإلكترونية",
       "description": "المصدر: بوابة أخبار اليوم الإلكترونية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -180,6 +171,15 @@
       "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxPb1BkWGlJN1lDVHllNFlHRmJiMU5WVmlDUkYyTU95VlZyS01LUjRJS0FUMW5sUEFGaTZVY2JyLVJSZ1JlQ1JEQ3hRbVlNS2pqTHF6UzA1bldwRThIYXcyTkp5cjloSTZZbFBaV3BGNFdFMk90eEFLUDI0U3BYRmR6WVVRQ0UyQUFJRloxcGlLU2t5dHl6czNHT0E2bHVHUDdGSEUyMm9mcXJWQXFaWjJTMEVXeURvQ3N3ZnZ1VTQ5NVNyR0lqMHNvU01XNGZlRW4tZkQ2UUlSSWJCNmZ6M0pSVTJ6aVI5X2NQSndVUTdGUWVLN1dZMG81YWlpdTc5UzVmSjBDUEFRaC1TX2QxbkNPS0NJRjZHTmxpRWc4ZWRkRExSV0FrOFpwb2l2ZWtHOTVFcDZuRmE3N2RkelVhbjBZcldtOE8xS2FmUkFIQlJ0R0pKZ2hwTHhXNmk5UVlkUXBnSFVWbUg4NU1JVmlUNFNkdHVOTENmbHBWX0RQZ0RQUi1XRlBFemhVMm9HUmlvQkEyZUdESlhhWU4xTjA0ZHNoT0xfRUpYVFJKdzJIV1V2bXYwS1p5bl9pcnNYZkE0OE85MHdpQ2hfVkwyaUQyRy11SU9KV2N2amMwV19VY2JrU01KNXNGQzV3RDRZdFJVc1FKakFHZHhSTmU2Yi1haXV4N2lUOFR1alZVeG9kSkRGSlBQa2N2aF8xMVRGcHJzM2dzb2dVLTZUZExkOGN1M0NEWVZ6R0tyRnIzblVRWmd3SG1BcTl2Ym9SenpyVzc?oc=5",
       "domain": "Kooora",
       "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "موعد مباراة المغرب وسوريا في ربع نهائي كأس العرب 2025 والقنوات الناقلة - Goal.com",
+      "description": "المصدر: Goal.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPcEhHUTNxdGUySTdyb0hkSzFrWWMtRUlnWU1Vb0hSUWRydDZzYUo3T0pjYXpZQVROd1l4LTFjQmZNWnBMbW9hRDV4cG0yd0QwSjFlcW5pSXVJVEhGOUZPVjBfSHFGTmNzRFBJbDZLU1ZHUkFIdXRBTThSWFlGZEZpbXBKRk1DRjBaNjhFd1JZWFZaOU9KTVBqQ3dRQURhNXdKdGg3d1l2a3hSRV84MmVRbXFjNHUtcDBDR0p6ODdrcFRpMUN3OFg1UXB2QlV1a1Q4UkYwbWxVekJUX0VQNldLR3BNYmFQYkJtSTNXYVhxeC1QNC1LYndKNUNzNU1DT2htRlROWVQ5aUxLY0xGbVpHdnhIVzV5TENhMlg1MmF1cnM1ZU9BTjhLcS15TVhkRGIwcXVuZ2dDVkVNTUZRazJHMlYxSFV5S0ROdEh6OVluYkxUX3pmRzZfc2g1LU8tQ0UtT0Y1MGEycHhnUURkR1hWYnZITEV2MUYyZ3F1S0FfaEtpOVNuVmdJamNMeGN0bUZHZFpsT1lvQ0RwM2NINkNPa0xGRkZjV21KYTFaTXhERUNSTTZQMTBkM2FmQXU5SFpYSnZUT05Bb2ZaT0JhVHhJWEFBT1I2aUVxMWRXZHpuUmJ5clhTZ2VzT1dMVVNRRUxQSC1lWWREMUtpak1VZWxFbUhteVdRSjl2bktpRDQ1VEtjY0lsN2RKUkd3REZ2dktDMU9WZGVmbV95Yzhlbzdma25HTTYxeF9wOGJwaFd6aUxZczhjd0g1anl6QlZha0tGVDBkenJEcVdOZ21URk9DeU85b2s5VTktRGlSZzVvVGc?oc=5",
+      "domain": "Goal.com",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT"
     },
     {
       "category": "general",
@@ -228,11 +228,11 @@
     },
     {
       "category": "general",
-      "title": "من يناير حتى دجنبر.. أحداث كبرى عاشها المغرب في 2025 - medi1news.com",
-      "description": "المصدر: medi1news.com",
+      "title": "من يناير حتى دجنبر.. أحداث كبرى عاشها المغرب في 2025 - Medi1 News",
+      "description": "المصدر: Medi1 News",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbndFQnB3aWJLSzVhZWpXNWhMSGJGakZRVE9JV0JTODRFVGJuN1AzMVNZZERkV0dIZVhmdEtWb1JuVFNlT1ZaOGZsUWdhUjhnMTVLMDRQZlZjVnZV?oc=5",
-      "domain": "medi1news.com",
+      "domain": "Medi1 News",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT"
     },
     {
@@ -345,11 +345,11 @@
     },
     {
       "category": "general",
-      "title": "Africa Morocco Link تطلق خط الناظور-ألميريا وتوفر 2.5 مليون مقعد لصيف 2026 - اقتصادكم",
-      "description": "المصدر: اقتصادكم",
+      "title": "Africa Morocco Link تطلق خط الناظور-ألميريا وتوفر 2.5 مليون مقعد لصيف 2026 - iktissadkom.ma",
+      "description": "المصدر: iktissadkom.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOZHI1TGd0Y3dHVk1zdzA2cGZoYndwdzNUaUNmOVBsVk5NZVRwZEd0R05mV21DdktXTlFFS0ctQ05EbVhyTG9reUxqVG4yakd6djZ0a0NGNzJ1MlZGb0VvSmJ6czQ2Zm1Yc3J6R0NwU1UyZmRUVC1ueVdqazVfbGRaR0sxZnlfclZnY2VwRXA0SWt6czFwTDNqYi0yQUhVeHBsalo2MmZRU0FHV242RExiQ3pvVjJlNlRSSFg1Y0pWcV9yblRWQ1VkU2VxZjdRdUc4RU9GQzh1S3Ewbk1MRml1MUlXLVEtQ01kQm1qZlotWV8wRnBtV3BTNVhoTzAxOHZlUlVPbzFNRzBuQW5XMFl1THh6eGU1bFpFd2lsQXltMWFyWnJlSEJPQ3poWWtVMV93d2hvMnlpWS1kLTRXQ3VwVWJRYk9MdTZIUTc2ckgybFBEOWpUT2ViYzdaS1doRXZXNE5iazc3RFpxRWtLMlJHck14VEJ6Y2F2LTVVa2Jtd1V0VnpZUDU0dWNJMk01eFZkeHlJRjUyYnNhcVNNbVRlNVU2R2V4Rjc2N09hOFdhLXo?oc=5",
-      "domain": "اقتصادكم",
+      "domain": "iktissadkom.ma",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
@@ -372,11 +372,11 @@
     },
     {
       "category": "business",
-      "title": "الملك محمد السادس: الاقتصاد المغربي يواصل الصعود بنمو يناهز 5 في المائة وسيادة إنتاجية متنامية - ahdath.info",
-      "description": "المصدر: ahdath.info",
+      "title": "الملك محمد السادس: الاقتصاد المغربي يواصل الصعود بنمو يناهز 5 في المائة وسيادة إنتاجية متنامية - أحداث.أنفو",
+      "description": "المصدر: أحداث.أنفو",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVWJYdlVqS1RMUTd5aVQ2eTlnbExVY2JaNFZkZklQMWp3V2lySGUtOU9mY0hwVmx6dnBSeTl0akpXcHhZU1Z6Qms3Q3NYMG15cUNUZDdLWXowZmJlcl81bmE0c3JmRmw1cWxTdzlKWUJodThvSFlCdXkyZ2FiZjN2cGNhN2dHYnJHSVdXQnN1Nzl0b3I2enlvMGxjOVRvaXNjVlVrbXdFMlJWdzMyd0w4TU5MR0dOU0dKd0J2NWhOM19QNUY1Qy1TX21tT0RsMWdEZl82bzV0UnlubXBvVW1XRnV4MkZuNXJaX3ZZOHdmS1pEVmVoRnNZcTZEbmJTbV93czhzdGQ3YzJpSVBvYkQ0aE5mSVNGeXBteGwzOWwxbDg1NS1uelN0cG1xYXUxOEplU2NDTkE2QWdhREVIaHhZ?oc=5",
-      "domain": "ahdath.info",
+      "domain": "أحداث.أنفو",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -489,20 +489,20 @@
     },
     {
       "category": "business",
+      "title": "خبير اقتصادي يرصد لـ\"اقتصادكم\" خمسة رهانات ترسم مستقبل الاقتصاد المغربي - iktissadkom.ma",
+      "description": "المصدر: iktissadkom.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNbDc2QTBQTXQtNUtyakZrYWVZZjhxYnZPaGlqVXBqTjJOMmljTTlMc2hQYlgwS2hEcTdfdTBreklmY3h2c2tVY0pMY3ZXQTlYYUkyV3NIWlZCVV9fWnk1NFRId0pDajMwX0I2MUJ5bXVRWDEwTE5wSXhlY1h3bWQ5MGNQcnBjRGlDSTdjWGlBY2FYX1lUcXRkZW1oODNZdGRLQnVJSDhXbE1xbXhvbmd2SElwOTJ5MjJpUFplUVNCZ0ZfU3lYZ19JbTIxYzl5QnJfMFI0MkVTT0d6V3R1aGhPdWtlT0JnejNrSnBFYTNxbjlmckJJeHJGRGNLbHZRVWNIWGRVY3Vkam9SenhIdU42VFViRE54UEg2UXJKbS1vd1RWSVFUOVRBaDNXd0szU09KU28zM1JEcDhrdFNTcXNhbnJGMURsMzBfUkRkcHBCdVR5a3hlZDN2R3R1THZ3U3ZsOXoyS05aOE9Sd2FoS0pDRFZuRWh6V2VtczhMVy1ESVRCLWwxemFZTkZ6SmZWeGh5VTFENWpoRV83ckV5ZERPQTBPOFZ1cTlvZjhjcHRoQkVqbGdxMVhaanFyVzJYRWhiVzhFLU0xZlc1UUR4c0FLc0lxdnVxVlJuZXVvVEhUdUZTV1lremNSTk44Q2J5TkRZVmN0V0NyUlBGVnN1YWNWU1BiXzRfc0k4Mm1DbkNDN1YtSGhGYzFubWJmTVVPdGRQa2hhMWhPdE8zcDFCaVR0ZzNZR2ZEZw?oc=5",
+      "domain": "iktissadkom.ma",
+      "date": "Wed, 16 Sep 2026 13:03:49 GMT"
+    },
+    {
+      "category": "business",
       "title": "النفط والأسواق الخارجية والفلاحة يرسمون ملامح النمو الاقتصادي بالمملكة - Hespress",
       "description": "المصدر: Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZ202Y3FYUHJVQnZQUnpFRGpseEFWa3JUZ0hVcmJlZjh1eWhDQzMwc0JDZnlkMFZwdEdmaUF3MEhrQzlKblVjc0NralgxdUQ2X2lwbWJNUFVXZldpQ3hDaTNPX0ltLVlPR3dLWVdZMHRUWWxCN25JWnluV0RJdlZTZ193R2ItdzhDZkZVNWpMZkp0LUR5QnNIWUlZbW5XQ2hWeDVTcGktZEZHaExPcTJodlk4Y0FxZUJ6NFA1UWdnMDRPRm9TZmlsZzFhSFg5NUl3M1ZWcXhHUmF5aWxsTzR6M3JReWdTc0FHRzJFQmFFR19Ud0tKVXB1eExKdDJ1SnpmZ09Vb3VKTk1QdThaVFpmaVJrX2tybEVWcEF0d041Qnd6WTVnZGg5MGdfOEx0b2t0U3U2QTMzaERwaXpaWEpUTE1vRFhsNndJWUU4NjJDeUoyeks3?oc=5",
       "domain": "Hespress",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "خبير اقتصادي يرصد لـ\"اقتصادكم\" خمسة رهانات ترسم مستقبل الاقتصاد المغربي - اقتصادكم",
-      "description": "المصدر: اقتصادكم",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNbDc2QTBQTXQtNUtyakZrYWVZZjhxYnZPaGlqVXBqTjJOMmljTTlMc2hQYlgwS2hEcTdfdTBreklmY3h2c2tVY0pMY3ZXQTlYYUkyV3NIWlZCVV9fWnk1NFRId0pDajMwX0I2MUJ5bXVRWDEwTE5wSXhlY1h3bWQ5MGNQcnBjRGlDSTdjWGlBY2FYX1lUcXRkZW1oODNZdGRLQnVJSDhXbE1xbXhvbmd2SElwOTJ5MjJpUFplUVNCZ0ZfU3lYZ19JbTIxYzl5QnJfMFI0MkVTT0d6V3R1aGhPdWtlT0JnejNrSnBFYTNxbjlmckJJeHJGRGNLbHZRVWNIWGRVY3Vkam9SenhIdU42VFViRE54UEg2UXJKbS1vd1RWSVFUOVRBaDNXd0szU09KU28zM1JEcDhrdFNTcXNhbnJGMURsMzBfUkRkcHBCdVR5a3hlZDN2R3R1THZ3U3ZsOXoyS05aOE9Sd2FoS0pDRFZuRWh6V2VtczhMVy1ESVRCLWwxemFZTkZ6SmZWeGh5VTFENWpoRV83ckV5ZERPQTBPOFZ1cTlvZjhjcHRoQkVqbGdxMVhaanFyVzJYRWhiVzhFLU0xZlc1UUR4c0FLc0lxdnVxVlJuZXVvVEhUdUZTV1lremNSTk44Q2J5TkRZVmN0V0NyUlBGVnN1YWNWU1BiXzRfc0k4Mm1DbkNDN1YtSGhGYzFubWJmTVVPdGRQa2hhMWhPdE8zcDFCaVR0ZzNZR2ZEZw?oc=5",
-      "domain": "اقتصادكم",
       "date": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
@@ -534,11 +534,11 @@
     },
     {
       "category": "business",
-      "title": "المغرب يراهن على نمو يتجاوز 5.3% في 2026 رغم تداعيات حرب إيران - cnnbusinessarabic.com",
-      "description": "المصدر: cnnbusinessarabic.com",
+      "title": "المغرب يراهن على نمو يتجاوز 5.3% في 2026 رغم تداعيات حرب إيران - CNN الاقتصادية",
+      "description": "المصدر: CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQdFEtcHVsN1RLV2xxUnJqc0N5Q3VjUGYzaGZrQkVYLWttVUt0Z2NSaDhGWFlOOUN6ZWZoWTFKOEJyTHp5MEpKTlBYQV9Pak56aTJjb3ZnUElXVVZCLV84c19FVElvS2xVVllJTWhlQjVRU3ZHWTJKNzBxeXdjTHFtY3d0MVF6S1h0VEFvLTMySXlfYnNTRmRmenZJdmZGeVA0ZkgxSVlLQU9YSjl1c0diTUpySkVSYVJtcmQ2ZDBPSGN2c1lyMWpEU0RBVjdQSlo2ZmF5a05TaDJ1eS1aT25hNDlxcDZKeXkyZXd2WlhxQktoYXpKellKN2NoX2pCOE02Z2tPS2stWHB0bVRlQ19Bc1V5UU00UzJXUC1iMWtndGNmbENsZHdSbHg2WFhGa1hybUJJcVNYaENrbFhMTXhJTkdUdEJLeEo5Vnlqc2QyeWhUQ1M0LUJIMGtoSzFZUGg1QUlZcVNCLWRVZkc1aDlEY1M1TEpNTThxc0Z2MXNGdktUMzQteDFqOHpnOWdBc2tFZFBHczI1bVJDbkd3bzl5WXc3dDY5SEhDME9oSFhjR0Q5ejhtVkJKQ2FyblpMVmN2VFU0cnNma04?oc=5",
-      "domain": "cnnbusinessarabic.com",
+      "domain": "CNN الاقتصادية",
       "date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
@@ -615,15 +615,6 @@
     },
     {
       "category": "technology",
-      "title": "استقالات داخل فيدرالية تكنولوجيا المعلومات والاتصالات بالمغرب قبيل جيتكس إفريقيا بمراكش - الصحيفة",
-      "description": "المصدر: الصحيفة",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1BWdmxsMWZxejljMnp4WjNMdkwwWVdVcW5EbE9fTU5mZkRZQnVkYVFWZk1BQUZTT3pWZFFwYmt6bkg3VmpwYmxWMHVYUDI0dkFDbGZmckU0WEo2b2VFUXZyakR4b0xkRWFkWHA4azdROElsVlRrR0tjQUVXNEJSbXBSRHRfMFd0NlRiMTE1bTJ5UGtCNVVUdmhTWDVNR09uTDYtS3ZqaHNtWjIza19KRjk3UlBFY3FOQkFoemo0UHQzdFFwekZyYzZYekpVSmFNemUwSGwzcGZ1Q2s5cXFOclVGYTVsWnlJaUlfNW05UWVQN3NwMWsxd0dkNnR4bUloa2ZodUlkSC1mVHEwZTduS3JvVC1Keno5TUp4WVQ4czhBOUotd1pSaVpUcEs4ZWdDTVA0Wmg0dlFpNUVSQlFINk8wcVI?oc=5",
-      "domain": "الصحيفة",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
       "title": "\"المخترع الصغير\" يدهش المغاربة بابتكاراته - سكاي نيوز عربية",
       "description": "المصدر: سكاي نيوز عربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -687,11 +678,11 @@
     },
     {
       "category": "technology",
-      "title": "أمين أخباش - UNICEF",
-      "description": "المصدر: UNICEF",
+      "title": "أمين أخباش - unicef.org",
+      "description": "المصدر: unicef.org",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZuTy1SeUFLanJyYmtueFhxXzFnU1JfUzdVaGg5MjdBckZGaHVfMC1tRktYTnNvWnl0TnZUc0lRdWJhZHFXa0otV01uaVdGaTFhc3ppcmdJcTBYNG5JVWxkMllVdTN2Wjc5MEFseG54YThYVjFxZHdDRl90bjRFdTdCZUJiYVRWWi1VT0h6M0ZGY0gyZjdNOEhUeG1yNUxjeXhtZjNYbUhxeUQx?oc=5",
-      "domain": "UNICEF",
+      "domain": "unicef.org",
       "date": "Wed, 19 Nov 2025 08:00:00 GMT"
     },
     {
@@ -720,6 +711,15 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54cWF4V04wQmw2Wjh1Tk9yWjBNNXlmbmFRbVZIX1dMZjRyekdaRW93aFdjVk5aRGIxdzRUYTNWVWJicjNEMURZVkd1QkM1dG_SAVRBVV95cUxQSUYyMHh5dVhWY1lGSVNqOFM0UTNoNUR5dG1vMzg2TVVkSmRxVk9paTVMYkpkbmgxUXI2X2lTZWJ2MnNqSVphdGdEcjRJR21fZ2t2WDI?oc=5",
       "domain": "فضاء التلاميذ والأساتذة",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "جرائم الإنترنت بالمغرب.. معالجة 13643 قضية مرتبطة بالتكنولوجيا الحديثة والابتزاز - SNRT News",
+      "description": "المصدر: SNRT News",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jcnFqRjFNZzA0TXktM3RSVDFXRVY3Y2duV2dOcEhrTW4wMFUxakNhWmdiRktGSzJnRk9VWUxGd2hsQ3RSTTN5ZVVfMA?oc=5",
+      "domain": "SNRT News",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT"
     }
   ]
 }
