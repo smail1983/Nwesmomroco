@@ -9,7 +9,7 @@ const categoryQueries={
   general:'Morocco',
   business:'Morocco economy',
   technology:'Morocco technology',
-  sports:'Morocco football'
+  sports:'Morocco football OR Morocco soccer OR Raja OR Wydad'
 };
 
 document.addEventListener("DOMContentLoaded",()=>fetchNews("sports"));
@@ -33,58 +33,37 @@ searchInput.addEventListener("keydown",e=>{
   if(e.key==="Enter") searchNews();
 });
 
-/* GDELT supports JSONP. We use short English queries because GDELT
-   searches multilingual news through English machine translation. */
-function gdeltRequest(query,timespan="2d"){
-  return new Promise((resolve,reject)=>{
-    const callbackName="gdeltCallback_"+Date.now()+"_"+Math.random().toString(36).slice(2);
-    const script=document.createElement("script");
-    let finished=false;
-
-    const timer=setTimeout(()=>{
-      finish();
-      reject(new Error("GDELT timeout"));
-    },10000);
-
-    function finish(){
-      if(finished)return;
-      finished=true;
-      clearTimeout(timer);
-      script.remove();
-      try{delete window[callbackName];}catch(e){window[callbackName]=undefined;}
-    }
-
-    window[callbackName]=(data)=>{
-      finish();
-      resolve(data||{});
-    };
-
-    script.onerror=()=>{
-      finish();
-      reject(new Error("GDELT network error"));
-    };
-
-    const params=new URLSearchParams({
-      query,
-      mode:"artlist",
-      maxrecords:"18",
-      timespan,
-      format:"jsonp",
-      callback:callbackName,
-      sort:"datedesc"
-    });
-
-    script.src=GDELT_API+"?"+params.toString();
-    document.head.appendChild(script);
+/* GDELT supports JSON and JSONP. JSON via fetch is more reliable on GitHub Pages
+   than dynamically injecting JSONP scripts. */
+async function gdeltRequest(query,timespan="2d"){
+  const params=new URLSearchParams({
+    query,
+    mode:"artlist",
+    maxrecords:"18",
+    timespan,
+    format:"json",
+    sort:"datedesc"
   });
+
+  const response=await fetch(GDELT_API+"?"+params.toString(),{
+    method:"GET",
+    cache:"no-store",
+    headers:{Accept:"application/json"}
+  });
+
+  if(!response.ok) throw new Error("GDELT HTTP "+response.status);
+
+  const data=await response.json();
+  return data||{};
 }
 
 function normalizeArticles(data){
   return (data.articles||[]).map(a=>({
-    title:a.title,
-    description:a.domain?("المصدر: "+a.domain):"خبر حديث من مصدر إخباري",
+    title:a.title||"خبر مغربي",
+    description:a.domain?("المصدر: "+a.domain):"خبر حديث",
     image:a.socialimage||"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    url:a.url
+    url:a.url,
+    date:a.seendate||""
   }));
 }
 
@@ -94,15 +73,15 @@ async function fetchNews(category="general"){
     let data=await gdeltRequest(categoryQueries[category]||categoryQueries.general,"2d");
     let articles=normalizeArticles(data);
 
-    /* If the sports query is temporarily sparse, broaden it slightly. */
     if(!articles.length && category==="sports"){
-      data=await gdeltRequest("Morocco sports","3d");
+      data=await gdeltRequest("Morocco sports","7d");
       articles=normalizeArticles(data);
     }
 
     displayNews(articles);
   }catch(error){
-    showError("تعذر تحميل الأخبار الآن. حاول تحديث الصفحة بعد لحظات.");
+    console.error("News loading error:",error);
+    showError("تعذر الاتصال بمصدر الأخبار الآن. اضغط تحديث الصفحة وحاول مرة أخرى.");
   }
 }
 
@@ -114,10 +93,10 @@ async function searchNews(){
   showLoading("جاري البحث عن الأخبار...");
 
   try{
-    const searchQuery="Morocco "+query;
-    const data=await gdeltRequest(searchQuery,"7d");
+    const data=await gdeltRequest("Morocco "+query,"7d");
     displayNews(normalizeArticles(data));
   }catch(error){
+    console.error("Search error:",error);
     showError("حدث خطأ أثناء البحث. حاول مرة أخرى.");
   }
 }
@@ -134,28 +113,38 @@ function displayNews(articles){
   valid.forEach(article=>{
     const card=document.createElement("article");
     card.className="news-card";
-    card.innerHTML=`
-      <img src="${escapeHTML(article.image)}" alt="${escapeHTML(article.title)}" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80'">
-      <div class="news-content">
-        <h3>${escapeHTML(article.title)}</h3>
-        <p>${escapeHTML(article.description||"خبر حديث")}</p>
-        <a href="${escapeHTML(article.url)}" target="_blank" rel="noopener noreferrer">اقرأ الخبر كاملًا ←</a>
-      </div>
-    `;
+
+    const img=document.createElement("img");
+    img.src=article.image;
+    img.alt=article.title;
+    img.loading="lazy";
+    img.onerror=()=>{img.src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80";};
+
+    const content=document.createElement("div");
+    content.className="news-content";
+
+    const h3=document.createElement("h3");
+    h3.textContent=article.title;
+
+    const p=document.createElement("p");
+    p.textContent=article.description||"خبر حديث";
+
+    const a=document.createElement("a");
+    a.href=article.url;
+    a.target="_blank";
+    a.rel="noopener noreferrer";
+    a.textContent="اقرأ الخبر كاملًا ←";
+
+    content.append(h3,p,a);
+    card.append(img,content);
     newsContainer.appendChild(card);
   });
 }
 
 function showLoading(message){
-  newsContainer.innerHTML=`<div class="loading">${message}</div>`;
+  newsContainer.innerHTML='<div class="loading">'+message+"</div>";
 }
 
 function showError(message){
-  newsContainer.innerHTML=`<div class="error"><h3>تعذر تحميل الأخبار</h3><p>${message}</p></div>`;
-}
-
-function escapeHTML(value){
-  const div=document.createElement("div");
-  div.textContent=value||"";
-  return div.innerHTML;
+  newsContainer.innerHTML='<div class="error"><h3>تعذر تحميل الأخبار</h3><p>'+message+"</p></div>";
 }
