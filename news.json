@@ -1,365 +1,455 @@
 {
-  "updated_at": "2026-09-30T08:29:45.578707+00:00",
+  "updated_at": "2026-09-30T15:54:04.447669+00:00",
   "articles": [
     {
       "category": "sports",
-      "title": "بسبب تعادل بوروندي.. منتخب الجزائر يتلقى ضربة قوية في تصنيف الفيفا - العين الإخبارية",
+      "title": "بطولة اتحاد شمال إفريقيا لكرة القدم تحت 20 عاما: المنتخب المغربي يفوز على نظيره الجزائري 3-1 - Babnet",
+      "description": "المصدر: Babnet",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TVkYyOGpNSjNvQUpsbEhYVmNUQlhCRWplS3VVVnRIaEdBYlg3V0FkRzhtRDM1T0ZsX1R6ZDhxTVB3VGhRXzNnbGlLY3FwOEE1LW1Wd0o1NUQ?oc=5",
+      "domain": "Babnet",
+      "date": "Wed, 30 Sep 2026 15:44:32 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "كاس تحسم موعد جلسة الاستماع في أزمة نهائي كأس أمم إفريقيا بين المغرب والسنغال - 365Scores",
+      "description": "المصدر: 365Scores",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQb1B4Ny1LSnJJcjZJRjBhQUhxTFM0elUwOGtoOURscVh0ZWJJN0VFSFZYVFZuaTJpaVVJbXUxMWlPQ1RIUW5WUHhXU2VQR0ItdjN6T203MEFLWTNnN3dNLVNwZ3NtVmxaY0VoUWVIV3NSZGVVdy03em5hWDh0QThlaVM0X2I5ck9SZU5FVFlFTzRGTXI0N2JsM2Utek9DbVlEaVFqVGMxeVYtRzBOQUlxbDduenEyMVVfNFdDM1dvU2FyY2x0WTZueFA2TFkxWXhfX1pOVVNLRjdxOC14dFFVYTlLcWEyM29KUWVJTzRHdU8tZXVMd1czeF9UYzR1RHNVQmtwbS1vamxZTEpvTW8yVVVHc2kzNXAzdm5OOHoxU1EyLW9ETGh2alJfY3QtLUpUYV9DbEZOT2txMVB1eXl5T3hyaUZUWTZhMTgwVGZHU0lwa2VpZnlEOFppTUZnaDBn?oc=5",
+      "domain": "365Scores",
+      "date": "Wed, 30 Sep 2026 15:32:31 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "عيسى ديوب.. رقم مميز لصخرة دفاع المغرب في تصفيات «الكان» - العين الإخبارية",
       "description": "المصدر: العين الإخبارية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WVWM5MFQ0bFU1QllxT3dhcXVncnlIVGlQU1JqczByX19QaDAwNkd4MUZ3NzBLMWVzSWxieUNGdktYVTBHbUZxektKMlJMUFg0MjVGeFZpZUN2WV8zVnU1UEVScWlMdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yc3JNN25iMlBVNHQtNFZ4cDVCV183Z2JGZFc0eUJESDFiN2dxeVI4WVFPcFhicUJtU2NsekRLMG5pbnZiLVMxSkduNm04VnBBRUhvMnV0Z2pOYnF6a2lmeFBIcEYydw?oc=5",
       "domain": "العين الإخبارية",
-      "date": "Wed, 30 Sep 2026 07:42:02 GMT"
+      "date": "Wed, 30 Sep 2026 15:11:05 GMT"
     },
     {
       "category": "sports",
-      "title": "باكتساح كرواتيا.. منتخب إسبانيا يعيد كتابة تاريخ كرة القدم - يلاكورة",
-      "description": "المصدر: يلاكورة",
+      "title": "منتخب المغرب يواجه مالي وديًا بعد إلغاء مباراة غانا - قناة صدى البلد",
+      "description": "المصدر: قناة صدى البلد",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNeFlrZjBveHAzM3VKZ2JBQlNBYi01dnF4Qmg3cnVtWVN4SzRjSEsteXJzQXk0TzNYekxJNVE1S3lMalQzV2F5emdyX1ppZU9COUxtdnBkQ21nZXBMenZKRXNOYTlEMW9peW9fY0k1Q3FoT19XN2ZnMExQRXdfSlAtOXdIU0hTNkpUVVdGdUZCUjBjZ19ua2F5MEQ1Y3FmQm1sZ2E1aDhsRDFpZW83NjhJNVpSRWdnM2d0NEY4Ujk2UE9yOG5XdjRGdGZZUzdfeC1jSDROcG9ydGhWQXI2eVd2U0E1Z201V0haYWFyQjRWaHVkd0x3WG9yRmozZmI5VkFhTDhPa2ZXa29LMm90aTh0OFFDTnR2Q1Y0S1BGbWZNd2NMa0dyZDVuUVpwbU1DMTBhQlFRVURyNXJxaXkxWXdwajRLRlV0ME1TQ3pONDBvZHlIREtuRTV4YnZiTzZEQkFMZDgwQ2NGdnBoWlFPcjk1UGJBNlQtWEdINmtiQlRsSXg5SV9lWDVORlQ4OU5hZWFHYWk1eXNuSFI3eGNEN1dkby0xcGVFbWhzOXRWc2IwQm1OenRieEJtcDRPcG1UQ1REcFI2andqRkxRVFdOcnZ1VHVidjhDTFZlUFU2RUtfeDVCVDJpRGRfX2xUbzZiSlJHUksxU2I5Wm1aVUXSAYAEQVVfeXFMT0NwQzBZUDFLajVSTldTRHFvMXJMaFhUTEdEcEpTSjVsUE9qUlhiUlNqMWQ5LU1vQ0VQNFBNMkdISEgzTEJ3ZDFNdjNsOVZvV1l3aFBKLVdmUHVYekkyRF9Nem1TZnJOeDZVUWJ5VXpNeTZwRTlQYUh4N3pTdnRUOG5EeGdZeFA5MEs1VG1mcVF5NHd3RldCUHRIVmxzWXBwXy1IajhqaGlyVHR3Z0lLOVc1S2tKNWFtWVpwQUp4MXJjZEJYRERRdXV1RGxHbVZUMmtZOXpKMUhVbUhzb0R2Y0FmRXR5NmtCRzlkZzQ5QklrMG42NVhEUnFnRHVPZEszVmV2cnNveE9adnlxbUphWlRrTE9nbWlVQi1lRDB6OGh2VXpRV0JYMUdBYXM2Q0FubU40WkZZb3JfRTNLTDh0dnNCOGx0QXQxQzA5N29aQWNHWV9kWFJ3Wm5vbUhzTWdKVUJJOWVZRWVUUWRHelZWNFU0QjZrYTIzbmp5YXprbG5VLXlxcW1fSm9MODctcE5NRUhpbFR1Nkt3YVVyT001S3JDelRMWllGd3BqZFYwU3dGSG4wSHF5NEJsby1KRXFRU0ltRGlKMGFWc2V5YWhfeU5nNVJUZTVhNzBSMjhPZTUyVGhaTkh5Y3RlT2lnaDd1c3R6Nlk0OTZmS3dVMVpuSko?oc=5",
-      "domain": "يلاكورة",
-      "date": "Wed, 30 Sep 2026 07:33:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOSjF5d1E1MEZTTkJnNnh5MTNwM3lmNFFtZFJLQ3NlSUhIU0RHX2M1UHpIdGtIMVRQQ1laNGVqcG0xMmJPVEtLcjhDcDFYdTRHekZrR3o3b2RNNXM4RS1paTNmOWRmbWlTYldjLS1tYXA3MENVSVhGNlR5UXJpNTBkQzAzN21QZTFwQnZJRDd1Y0M0cVFUbjh4bTdleHBpZTNULUNGNDAtbm1rOS0wQzhocmhxNHRBbzhQUV9CajByMTRDdDRtdHNuTDlNczNXNXRiR3BIVFd3VmZrQkthXzVtVTlYRE80RmRITEZKSnVxdHJMS3dlbHZCVXBsNUM1VjhrNUt1RkJYMjhWc2N6T1phaXo0ZmdRdW15ZVAwemVNSXVfVy1nR2o4WmNjd0NtQzBMd1dLNG5iRUNOZTRKYnNaTjVB?oc=5",
+      "domain": "قناة صدى البلد",
+      "date": "Wed, 30 Sep 2026 14:48:18 GMT"
     },
     {
       "category": "sports",
-      "title": "عُمان تنضم إلى قائمة المنتخبات التي ابتسم لها الحظ في تاريخ كرة القدم - شبكة تواصل الإخبارية",
-      "description": "المصدر: شبكة تواصل الإخبارية",
+      "title": "هشام الدكيك يوجه الدعوة إلى 14 لاعبا للمشاركة في كأس إفريقيا – اليوم 24 - اليوم 24",
+      "description": "المصدر: اليوم 24",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52eDlaM194RlJnMlhsUWE2ejB3VVlLSXEzQU9uMUtuaWRlTFV6VXk5ZnhaUkY1ZEVSU3VESzRmRDVOVnF3bVQ3WUhOWEFYWVU5eU1Z?oc=5",
-      "domain": "شبكة تواصل الإخبارية",
-      "date": "Wed, 30 Sep 2026 07:05:48 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEaWY5eWxfMVJlR1ZlbHdsWmNyeTlSM2piaUdpTmlvV19mWFAtV1BfNUZ3a0hOVDF1a3lCWDNYT25pMmRsMV96TkN3?oc=5",
+      "domain": "اليوم 24",
+      "date": "Wed, 30 Sep 2026 14:32:40 GMT"
     },
     {
       "category": "sports",
-      "title": "وهبي يقترب من إنجاز جديد مع الأسود بعد إسقاط ليسوتو - سبورت Le360",
-      "description": "المصدر: سبورت Le360",
+      "title": "تطور حاسم في ملف قضية نهائي كأس أفريقيا بين السنغال والمغرب - إرم نيوز",
+      "description": "المصدر: إرم نيوز",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXM1Z0ajFEZTFjV19pNktneG5MZlozdlpKWGlvOVlqRE02NjVQUzk2R2pna0MyQWRLdDdBbkRFMF85X1BtYmV6STJUNXBQcDBHTTRDVDlCZmdFT0JRem45aENraUZZSzdQOFNXRUNUTQ?oc=5",
-      "domain": "سبورت Le360",
-      "date": "Wed, 30 Sep 2026 07:02:52 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CcnVhRFNMU09Sd1d0eFpfVkpidnd4ZFUxRzBXWlJfWFlnc1QwdjBHemZBT25RTkdzMlNJZVVSRTJpQjY4WWpIcnd2YUhyZG9h?oc=5",
+      "domain": "إرم نيوز",
+      "date": "Wed, 30 Sep 2026 14:19:57 GMT"
     },
     {
       "category": "sports",
-      "title": "توفيق بنطيب يشيد بأداء المغرب أمام ليسوتو - 365Scores",
+      "title": "أسباب إلغاء مباراة تونس ومالي الودية - aljazeera.net",
+      "description": "المصدر: aljazeera.net",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQNEljcDRMVEZVd1ZYNTV2MHFmTGJ1am5veFBmbmc4T0hONTFXdnBSLTVOQnFsVXVNY3I3RHl1dDJHaThIbEdjcjFMajNwbGQ3YlZ4RWxmOVA2dzRPN05nWGg3TFluM0szUzJwa2RpX2hZYjFkakZERk52eGpTX0IxcVU2dG5ra0lGUHBtSndjV0c5R1JoWmd4R20zcEw3UmVzSkxibTdUZTNrMDB3RUZnUnNjUDgyLThFeUhSU2FYaUdUcU5sazA4eW9OcUw3ZjhZaVk0X0dXelZzbDYwWVNiMW5kNTEteDlsTGZIVTd2TzZ3NS16Q2d5YTRETmd3ZGZWNXJmSTE0SmhxdWptcGhDcWh2cHB1UlpyQ09KUUk4X3BRbkhydlNqeVlKSdIBsAJBVV95cUxQWGZfT3FRbHI1Q2dvM1A1Y25lS2J5ZTlWZW9tZFZ5Vm5sRmY2amF2VW0tMVdBVVZNeHB2ZUlEOUZjQjVuNDdSWWY2Yl9NZG1McnFLSHFlejVsVjVoeWw3dGFZYTRBR0VGdFFqcy1QQ0NOLWFmOVlrdFo3Rm9DeElST3gzWTlPNmdsRlFaaU9WYm54ZmFyMkpYYjdRQlJqeHVTbG1iMkppeDZxYlhWOWg4aW5DQlkxWjg1SjdfUjJKTHJhQWhWUlNPRmUxSEZnamJOdlU2ZVpnYV9PTXk3QXoybmhyaWRQUzJaOHlNUFdZYnVVRXoyeG9pbTN3OVZNSDItbnowZEl2UWdLTDl4ZUdHNU5mSHV1WnA5a1FTdnhCM3VHRmF1NmhTTDRiV1M3M181?oc=5",
+      "domain": "aljazeera.net",
+      "date": "Wed, 30 Sep 2026 14:13:10 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "«كاس» تحدد موعد جلسة الاستماع في استئناف السنغال على أزمة نهائي أمم أفريقيا 2025 - الوطن",
+      "description": "المصدر: الوطن",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yR2JlbHhIeDgxRGlNVDY2YVFwV2t4eHBuMkJWekhPUVRYb3lKcDY2RUx1ZXlhTXNmSmNxSWtQZ04xdHpuLUN5c3J6eWRuUUYwaldFR0l2SUxZaVlW?oc=5",
+      "domain": "الوطن",
+      "date": "Wed, 30 Sep 2026 14:09:40 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "بعد اعتذار غانا.. منتخب «الأسود» يواجه مالي يوم 4 أكتوبر - كازا 24",
+      "description": "المصدر: كازا 24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjbVdnNEg4OHA3blRLUXplSnU0UUhYMTdkNGFxenZra0tua1FzbEo3V2VQX3dqVnhGRzJVNEhPZFJxRVRpWWNEMg?oc=5",
+      "domain": "كازا 24",
+      "date": "Wed, 30 Sep 2026 14:06:35 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "المنتخب المغربي يواجه مالي وديا بطنجة بعد اعتذار غانا - Africa For Press",
+      "description": "المصدر: Africa For Press",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOT3UwMk9COFdXRklzU1k3SUJJYTVka3dYRldoTWxwLVl3cld1aWZ2emtYR3hKbmlDZFBieDM2bUx5VUFSZkRfeXljMWtDZ2NhMF95TVpCLXhyZnVkX0pJQWJIRFZOZWZMY3pfVjFwazVxTmVPbS1VeFVjTFM1cmhtVkxoUERkZ0ZGOG5mNk5xemFOYkNkR2NlYVdaRHVKd3pGSWNxWG8wSVBGRzBmU19OOEFPSnNzV2hJWUFfcDAyeXJ0M3Vxd3V6Qm5ubkhrZ2YzQloxR1RaNjI0SENhSlNlazdrUzJ6UzZBWUdjMlNPNXh4aldyc0VhQWdCdmV4X1pFM0tCOVNmMEMxX0FZRDRUc0dZQmJFWm80bEptU2toeG9aN0ZnLXFZeWtqNnZic1lKem9JZ054WERMQ0NYV2lDaElFWEJyRTQ4V0pBTE5xSUZzRVplZXBTMjZ3a2FCQnAwQUZSNXBCY2c3VHJ3ZjVTSUducGppdWVPMVNtanhjMkozdkJ3VmFyanF0cjQ3b1pZUW9BYy14TGY0d3JKakptSmpQVHVpRm5QYmk1TExlaGlodC1CTnpjczdTd2Q?oc=5",
+      "domain": "Africa For Press",
+      "date": "Wed, 30 Sep 2026 13:53:30 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "رسمياً.. هشام الدكيك يعلن قائمة المنتخب المغربي للفوتسال في كأس أمم إفريقيا - radiomars.ma",
+      "description": "المصدر: radiomars.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQQWJVNzRnUmd5alp5bEZhY1kxc3pIX0wzLXI3dXdaakRfNXhTMTJ4OFg0N0NDS0N1RVVTZGlTUTRuemJLdXRyZVBCenFLOWxyQW82MW5tUmdheFluOHR4UGJSQk5fOXNtaUkzMzZRanhuNGNyTm9WOFZ2SVdST0tLMzg1OGJCZlRqLW9yQTZ6WWdJcUo0cnZBRFRuaE52MU9YVVp4NDZjQnJsQXlERlBIVVJLQVdpaENKRGtiN1RWeDg3UnA4ZURCajdrNlJ1ckNLYV9aRUNyUVR3Z29CczJ6dW8xcjFqclN5MDBKaWEyMWN5MlQ1d3F6Tk4xRzFIMUlZUUVvT0UtVnNEVV94a1lwYnZtYUplaXZLTGpnT1pzeGVNTXVkNFpXNVdHdC1SUndFNjMtVTJIZXlyaV9hd1NCMg?oc=5",
+      "domain": "radiomars.ma",
+      "date": "Wed, 30 Sep 2026 13:53:22 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "بعد إلغاء مواجهة غانا.. منتخب المغرب يواجه مالي في طنجة - إرم نيوز",
+      "description": "المصدر: إرم نيوز",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubnQxeHNWUHdKX3EtUzBkbTVOd3BBQzNMcUU2MGJNanBpd2c4UzNzVUdIMmYzbmhCSlZwS2xsb3dYQ3hvQ2R5RHFlRWlUcVAw?oc=5",
+      "domain": "إرم نيوز",
+      "date": "Wed, 30 Sep 2026 13:51:45 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "المنتخب المغربي سيواجه نظيره المالي بملعب طنجة الكبير - اكسبريس TV",
+      "description": "المصدر: اكسبريس TV",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5enhlTzZ5UlJMaVBqR3c0VFJyTzJHN2c3eC1vY1liWUxZTVdhTzB6ekQ3RC1uQllPRm1EbnVuMXJacUt4d1BHOUxn?oc=5",
+      "domain": "اكسبريس TV",
+      "date": "Wed, 30 Sep 2026 13:36:36 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "حصاد العرب في تصفيات أمم أفريقيا.. خماسية منتخب مصر وصدارة المغرب الأبرز - اليوم السابع",
+      "description": "المصدر: اليوم السابع",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPZ1NtVnpWSzllN21wM2xDcTgtVWtVbktRR1B1ZHAyajFMYmdWWFpNRmhnN0JzWTFZUXVfUERFQkhhb3RPOU1RdGpJOENjRTZia2l4YnRkQzU4djV2SXUxMHZUajlLdjRzbHBlVk5WMVRaMmRobENEQ0lVTFo3SGNma3o0WmdZRVF3QTZ6UkI5UV9jZTNZTkJJbUpYOWFaWDNST0RxN1FuV0ltaVVkNEZWY1dGVk1QcTFJOVhsNThBRFdSYzNwZXlKZm9BcnpaWnA3WFBDSUlPT21wOXdVS19lNVZUaFBwektYYmtOYkZyNFJxX1dzeTZZUjBuNUkyVEZlcHVjWG80VGNVN1NielZyaDFjbGotSGhoZ3pOUDFUWkx2S0VING9YUkk5S09JLXFOU2c2V3dhclZ1Rk1YQzk4NzNDUEdXN3VhMkpQU1VCSFBRQ0lYdElLNVZ6R3NGQWNOZEhtN1pNSmhZNFZpTkhsaC1FUjlmXy1WNzdHLWE3MF9BQWdGTzBwOVkzeV8wemFZclJxNDZXb01YMVNWZEhJWlJUeXdqUV8xZDg0TGo5S2JZSGVkZ0JtdTI3TjBBbHd2eXIwWXFMTGh5cDV2S3g1anpPMGN5ekptYi1rZURR0gHYA0FVX3lxTE5fM1NBb0g1eFYxWjExQVpRd285T3RNMG80UjY5WTFUOG5MUmVHazlxc1pudkNlNV9HNnNjQVhYcXVMSGFlaW5vTHplVlJZb0tfZ0ljb0JWY254V0pndjFqZ091OVdEeFdGRG12RWJfZmo0ZXpsT0tDSDFWSWFJU0dhYng4X0R1LTFrbmVHOHl2cFZEN3Vrejg5VU1mR1o4XzYzbGowWmE5ZV9fbnNZaEc4THg4LWlOMWZSck1xejhjb05hT0JvekY2SnI5ZG9NT0lIdkYxQlZsa2hDX2xYdFJKOVhqRHFjeFg4ZDdpNjRCZnZzMFpXSnUyNUppRW5Cd29NX05NQW5DM0xPMld2MDZwSm9WcnV1MjVERXhKRno0dHBYLVlXVkdDUDRDSTZtQ05aeFVzd01kS2drQjdob0NMMDRXY2JZcGIxbm5tTUd1RWxMVHVDQzJ0VHBEcWdqTDFza1l6SmE3Sk5yR2NuazBKNmxXVGo0NEJIQWtSYVlJcDRFUENjWUp3Y2phTFFMakd1Qm1BRVgwdkRELTVEcnJvSnVERXh4ZV9vY214bDdfMWd1S2JkVGNfSEgwRU9QUUs5WWptdC1PTHdWVnBZd1lSNnVFVkdDaFY?oc=5",
+      "domain": "اليوم السابع",
+      "date": "Wed, 30 Sep 2026 13:24:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "منتخب المغرب يحقق إنجازًا تاريخيًا في تصنيف فيفا - Jawhara FM",
+      "description": "المصدر: Jawhara FM",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxPX2lnVkFrRTBURkt5Vk1WNWVhNERoOG5ySFBmc1ExNjNFWVZCVzI3YUpfTzdWdHlzXzM4N3hLQlZXX29RZjJSMWhxTWtiYTRJbi1qQkJGMDd5X0NSZHNOa2lYRjlnOGp0dDZ2Nnl5UkVwNGlPVDFuaW9PUHJ2Q2NBdzlVWXc5ckNreFk2cXRLWXNtTlowM3Y1dHRWTjVZVEZnMEEyaHBFSTlDNFByTFJ3RS1FemFkWVgwUlBQWWZhX0NRTEpEQzlfQXloRTBPLVZEb1Jua29hWUo1OTNLcU5JYzZ6eEw0MWR4cUg4VzgwQUhEZHctcVowYjM3SENoUzFIdGxkOVByY09CQl9GSzdvOEVJT3A3WEt2d3k3UG9RVUx2VHNHQktsR29xQkFfaWxXc3oxSU1iRThMQ0dkZm9WdE5WaHRwaVRwMl9ZQWd5akhyQzVidU43Y2VoMDFwVGRFcTVXMERILWEtUktnRkZjZ3RrOVQ0dVdoTzJTYV9QUXk1YWdZLWs0WW5ySmtoS1dBVUZLSnNmeUVLdk5WaEc1VXBuSEEtREEweGpuMHBtSHpkSno0N3RrMnJPbVJEWFFDdWVxMFNYNzA4TVU2OEx6RDRyYjB1eEpPbnkyWDFMcndzYWhlMGsyazIxeU9JOEl2dTBTU1RSVGV0SzJkOWhPSWowUDVJVVJzRHF5WS1lN0M3R0JFZkdnd19YcGU2ME1FMUowR1FtWVNDYVQ4ZGxxYmJfdjZUQWJHWVR3VU52ckszOXZ1VDNyWU5NX1ZXeUk1UlA5ckxBWmRqVlIzYldNcnJpWkx0Z2VPLTJJTmcweEpxeS0zQXZXWnBTcXVPYXVXeXZQbXpENEY?oc=5",
+      "domain": "Jawhara FM",
+      "date": "Wed, 30 Sep 2026 13:22:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "المنتخب الوطني يواجه نظيره المالي وديا بطنجة بدلا من المنتخب الغاني - برلمان.كوم",
+      "description": "المصدر: برلمان.كوم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNTVBIUjJiNkE1VVFHc0NwNEo0dU1sN2xXWUtIeEdhZVRIaEdHRXlkTHZyaFNLMGxjNHd4ZUQxM0Y5dS14dDNWUVFQNXctUkFfaWVxQks4THVFY3JJYkQ5NFhPY1BDRXk2QVZIWGd4dDhCcVNjeWN5a19KQlJzRHBnVUhQcm5USDFweWhHdjZMY3ZIOVpSVXNHNVkwRGdoUi1KQ0dhTXN1SXhVSmlGS0pHUVZMdUtoSkRrVTkwODk0VVBYMVFoamtPVzI2cmtHTjl2OGdILUpycUFRUFNSWXpPS0FoelNqUDNJRFlHelctT0d2RzlyWlZrNHptWHpWYTBCc0NZV05CaVpjQlh3b2dkSHdHQWRWalFZOGhWVEdXTnQwbEZ0Wi1hUWRHenFKYkxORGRGTVFPWUhxclFQTTZoZzB3?oc=5",
+      "domain": "برلمان.كوم",
+      "date": "Wed, 30 Sep 2026 13:21:09 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "بعد اعتذار غانا.. المنتخب المغربي يواجه مالي وديا بملعب ابن بطوطة بطنجة - tanja24.com",
+      "description": "المصدر: tanja24.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxObDZQODhSLWtPZnBvS2tMbWxCajJnT25YSmt4eHM2TS1tZmhBby12Mkg3Qmw2UFE0MlpKbGxmRlJydWJ1bHhBdTZrR0ZwRnItNUFtdTBMWVRuZ2V1cHVqeW9PQTQtalJSWER2T1lRTkRQaEUwdWFFY25oUWFvVHh4dzJmOXdNVUdMdVBiOGxnYVVJb0I5VWxXNDN6LVFRSHFnYWhBdy1DUHQ3YndrWENCVTJ5cU9ZZUVtYk1CVWFpOGpvVnBQTHQ0ZWdGNmUxbTFZLXVPeFdUb21UdWR6cXk3Z1I2dExad25xVml1bllCUFNwNzY1RHNqN2t2Z25uRHUyWGctNWZnWk5PZW5SSnptaGo0eVRBdkxJdHJFeVhyWnRKU0tHZjJpZjZzeE04Tk1TOVR1cjlCR1V1dkk3TzE0?oc=5",
+      "domain": "tanja24.com",
+      "date": "Wed, 30 Sep 2026 13:17:14 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "رسميًا.. منتخب المغرب يواجه مالي بدلًا من غانا في ودية طنجة - 365Scores",
       "description": "المصدر: 365Scores",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPS3VfeGhPaDZlQm5MLVlrRFlGYmJSYW9YanRiT2prN3c1X2E3WmhwWG9UOWZETld1bXRsMlluMlVhVl8yZGNlemxXb3BYUU5NOFBIanVqVFdtMXljc2w0OEo3U2Y3dkJMWklUTnRoT2ppV1liYU5YWHAwN0EtaU9PcG1rWkNKdjBZUmZMeFFvUWg3OFdWSUdzMDY0aWdXNXh1VG9lMzlyYUxYZVdjSWhKUFdsMUFtclQ4eFhjTTNUeXlZOFRqT3kwQmljSENuMm0zeXozWTdaX2EzVEYtVWJOWWFGN19EdXh5TjNzM2JrMnlDUE1EX0U2R1ltX08xVXVJel9QTUZhWl9laE5fVExRQkdZbGlYenl0WllseVNybkpCaVp6VW1kWF9EZXN0Z1RGWXR5WDdnNHZBcWJpdnVYVGN5aGhDVG1aOXYyMzdfOFB1VmhxaEhtRXc4UzN0T0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU2tpMWltd0ZRYjdBWk5NSGFVMzhTYS1KY01aRjRaSFk2WUptX2FoQkF3Wkt2ZkZhT0NLQmF5WnQ3UjcwZkFxQjJkc050LVFSQ05SM0dBOVNMU2d4WENtaENhbWVqSUdFa3BRQ0JVUDhEVm5CMXJHaFF3blZMazduYTVOdlRFeHZ5S1hrcTZsbkZ1NF9JRjlDUlFQcHowNG1yNnM3R0FpeVFBbS1fLUFGMlRMMF9IUExCUkYwbmZ2c0U5MXIxT1VaM1d0LTl2UGNBc1kwRWEyTnF6U2ROZkt2RXlCanJGYWgxUzItc0xJWFZnRk1nOU1aanA2ZklDNndFS3hIWmozZ19wR1A3S0NwN05TV2RUZmMwOEVfNXlJZVF1bFNkZ0xyZmc3MzFRR2xNbE41bjZoT0tfbWZLT2czTnphWGppTVlmYzVHSGZlTUktUkNNZG42RE9DdkpRdFE?oc=5",
       "domain": "365Scores",
-      "date": "Wed, 30 Sep 2026 06:50:49 GMT"
+      "date": "Wed, 30 Sep 2026 13:14:30 GMT"
     },
     {
       "category": "sports",
-      "title": "بعد جدل الساعات الماضية.. حسم مصير مباراة المغرب ضد غانا - 365Scores",
-      "description": "المصدر: 365Scores",
+      "title": "بعد اعتذار غانا.. المنتخب المغربي يواجه مالي وديا بطنجة - anfaspress.com",
+      "description": "المصدر: anfaspress.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMFcwTFRfWnFIRklDWVNHZHd4U0lhTkFVWkU3SDlYay14dUV5OHpUZ0h4bTlJLTNvZHZwdkNGdUlEMUdyMzU0TllkaDQ1dF9uR0JaU1UwdUEwdnprVTh3TkVHT3dESTk3cGJuX1Z6TlE4dnhsTVRFcVE5ZkRXNThVUlV4RU90VEtpQ1NtS19qakdmc2pia0JZaTBfbWxKTVRzRm5oSVVVaWZMN3JONjk4MmoxUmcxWUsxNVRqSE1UbkZpV2x1dHZpLWRRRldBZWdqUWlGVi00N2xJN002NlJwUmxKc0JlVlA5Z1pGQWxzSmk4ZDRmV3RrN0NlM2s2WHlaS3RycDNOTGp1dVFfTW5ibGhlaUwwb0pRWWU4d3ZiRW5FeDJiNmJkUDNXSm0zVHlZWUJNTnBLRXVOZ29PNzQ3S3JvMjUtZXgtdnRMbDllSi11X3lwNjljQlJnRFNwNFE?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 30 Sep 2026 06:36:34 GMT"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43RnprVl9LM3AwY3ZybXIxSC1lb1pscWloM1Z0YlZpUklHMWoyZmJRQXFwa3RZMnhFb3hzdFNGVUtvWU4wZU9CaWhmMDlnRUpyUW1qRlhPZVM5V08xbWFjZHZONmlCbXpvRUhJ?oc=5",
+      "domain": "anfaspress.com",
+      "date": "Wed, 30 Sep 2026 13:03:20 GMT"
     },
     {
       "category": "sports",
-      "title": "تصفيات أمم أفريقيا 2027: فوز الجابون ومالي والمغرب ومصر وتعادل الكاميرون والكونغو - sabanew.net",
-      "description": "المصدر: sabanew.net",
+      "title": "رسميا.. المغرب يواجه مالي وديًا بعد اعتذار غانا - elbalad.news",
+      "description": "المصدر: elbalad.news",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmWmZpOWNJMlQ4dTg2UkZrUUZGRnFJZDVWbkVlalFNaDFhTGJ4WWxodF9LRFh0d1lFWEJrbW52a2M4UVlKTVVkZ2lHZkpEcjNO?oc=5",
-      "domain": "sabanew.net",
-      "date": "Wed, 30 Sep 2026 05:51:22 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "تصفيات أمم أفريقيا: مصر تستعيد الثقة وفوز ثان للمغرب - القدس العربي",
-      "description": "المصدر: القدس العربي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOVGdKc20xdy1ocDdHVUN5VTM3QllFdlNpTUJhRTZZQ2RUQmlYaHkzeW1SSnV0ZXVSUEUzVnhtUlpOZmtDYnpuVGdWck80YmxiT05IaTF4TWlDRHpHV2hYUU5LWFRMVi1UVGtibnp2MlRVNTdsOVdfY3p3bWhvQkgzbngtSC1YcWEzZlZEMGdOSjBZaGhWMFJBX3V2Ui1GUE9URmE0VWMxZzNLTDFKSFNFaWl4eWJ4YlJUanBzRkF6ZWJST2c5V0NFaWtoWXJyVGp1NjR6b3B3ZGsweFhvUUVQX0p2QmQ4T0R2bDFHU21waHBfX05DSkpvZEx6STVGVWdYQld6TnlpbGpMdmFwczBRX0c5WnE0X3Y3eVVNU3F6Q3Rxa3I4VFF1Ulo4NVc4NExwci1VZ01Tc0hfdktOQXN2a3lEN0lJVlE?oc=5",
-      "domain": "القدس العربي",
-      "date": "Wed, 30 Sep 2026 05:06:25 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "جدول مباريات وترتيب مجموعة المغرب في تصفيات أمم أفريقيا 2027 .. والقنوات الناقلة - Goal.com",
-      "description": "المصدر: Goal.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxOZkZlbW1kTTlLbG5CV0ZVV3d2WkxyUHRYcWFPWnlXUlE0QUljY3pKYkxKOG5vWW5mUjVERjdNS050S2VENHlyUXFxQXZtbFZiR1ozNm5zbWtFOVphUUtFckFwbXZvQU1lQllYZkRjU05IZGhHSmJ2ZksxeC11T0hNczloUmZ2T3hsTTRpNW5zMHY3LVloVk5Ra2JhMXRKajJCYlk5X2FNWUMtT3J6T094WEpyOF90VHBZU1lIcTdLRDNDS2ZCVW5uaVd3UjEyN04xQjV3UUFjT3EteU1PY1ZyZThoQnlXMEpIWV80aGdHQnU0ZnMtRm5tRVBzM2wzVXlSVm9PMnFhMzc5emNnRE9XZlhrNWp0cXk0a0I0OVBydVNkM3g5ZkQ0NEVCVXRsbUNJdFg5S284MUxRbnVqb25zOHpFRWN2TzZvLTNsX1ZZa0tJMFo2MUJxMENoRDQ5OU5Gcll0ODVYNGhEQlg4SG03bWNLVExrOC1GdlBwU2s0UWVIX0REY25WSm51UFlKZFVFcjh3NXpSN3R2cFRadlpoSGVlZzFwMS1VUUNHaXhaSjVoY3Q3LXdFa2d0WW84Tng3cEN5eWFULXVBRm1jU25hQjJRZXJLZ2h3SGtKOF9oTmxlai1fWVZpemJQdUN6eE1rZTJ5N256ekZjRzhUeXI2YU9SVlktZUk2ZDZxakEzb0d0akp2bS0zRmI0Nm1HeXMxV0hNaG1FcGh0XzlFZGI3RUc4NFhpby1oWGhIalR6dVYwbzUzVTY4aWw4Tm1EVmRqVy1oWTlNd0lJdllCTTltLUZFMndhWHhFbnFRMDdQclFtaUJFZHJTdlRNVFBrVllKemMtVlp4elBVVno0dm1lQ3F1blo?oc=5",
-      "domain": "Goal.com",
-      "date": "Wed, 30 Sep 2026 03:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "بث مباشر: مباراة الوداد والرجاء في الدوري المغربي 2026 - العين الإخبارية",
-      "description": "المصدر: العين الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xUlNmT1dSRDNIMTVtSEtkOC1nb3IwMHNLZUt4bXZ6X1JKeTRBRmJ5dEw1dmhoY04tZmtOWFJIWG5XcUhFR0FXZHlPVy1iN0V5QXBZLXZNZTJWeW9ZdjlDVjJ1Y3lZTVhEZ05LVTdR?oc=5",
-      "domain": "العين الإخبارية",
-      "date": "Wed, 29 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "هل ارتدى منتخب مصر للسيدات قميص منتخب الرجال؟ ما القصة؟ - BBC",
-      "description": "المصدر: BBC",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ma2ZoM1hNZkJvU05hVXJUa3k3T0pXRWp2WFhWam9qMHp5dVlVZnh1UTVBWGNNOEl3UlQ3X2oyd3NjSnhNTFpsSzh1RU5tN29GbWg5YmFYSzNNMVRB0gFiQVVfeXFMUG9LMXJHOUJpWDcwbHY2eDJlZGl6LTI1bzFZUzlaZFphLTJjRXU2Y1NORDRtNmg3eTlwdjFRb2xpSi0zVkpFS1NjaGVIeTV4Y25nVVlLWlk0SlJpOXVzLTd1VlE?oc=5",
-      "domain": "BBC",
-      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "تعيين عبد الهادي رازقو مديرا لقناة “الرياضية” خلفا لحسن بوطبسيل - al3omk.com",
-      "description": "المصدر: al3omk.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WMmpPbWFUNGZCckJPWDhRNXZjSERKSjVKYkNlRXhnQWFrTEhPRTloNHJoT25PdlF2STE4Wmk1SDlqQ0pTYmc?oc=5",
-      "domain": "al3omk.com",
-      "date": "Wed, 25 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "بث مباشر الرياضية المغربية Tnt.. مشاهدة القناة الناقلة لمباراة المغرب وهايتي - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQQlRMdGVfU01BdnlVOGUxWTVSUWYwdGozRFBCLWQ5NnNqdHI0b21aR1lyWF9ZclQ2Tl81UURlMzVRcW1uLW9hLWlYSjRFd1JsdEhvWGlEWFUxdTdKUUQxLUtzZXNnUk1GZEtacjdnZWxabm14NnRmTDRfdDBxVi0wekk4QU9VeXRzRDdfcUZWTEI0WHpiRkpkNnZ0OVpET2dhQ0tyVzZ6c3ktMUNkLUpPT1hwRXdsdXlhMmp0T3RHTENGTkJsZVZoV0s4VTlTbEF3bkVkUGFtMDVLczR5MXEzQjcwWVdYU194c1huZ3ROVHl2U1VUcVJwNTJGbUk1RV9GN0FUa1h6WElQRmFMOUpteTFSbG1DTmZJcGRZeVAyNVFxb1BUSW5TSm1BQkoyVHFjV0pwdmxGQWZFbzNYZHowNFRB?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "نتائج مباريات المجموعة الثالثة من كأس العالم 2026: المغرب 4-2 هايتي: صنع سايباري التاريخ حيث حقق المغرب عودة مثيرة ضد هايتي للتأهل إلى الدور التالي. - Vietnam.vn",
-      "description": "المصدر: Vietnam.vn",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQejRmOXdWSVo3VldvRnIxcEZ4enZqdU1INzB3M3ZMWTk1eTFya2pHZE5KeVNSaTlGWGZFS2xxeGxUaU1RbTNpRUhBLXpSSmxQdTF3blhiNDlkRWtYaHVZS0hQV0tsczZIYkVIYkN4eDJSTnV3RzRHNjdqNFBEZi00SkNDOTBQRWYtMHVhaGR2UVVFWFdXOVFNRkk0dk9ZX1JzMDZfV0FkNDlrRVNyVEJ4REdyWGFXc0hKU2NnYzY4VUJMRWpFa1JRd0M3czhJRTJVbVlFbkg2X1RrRktlTlA3anNUMzVYUXAtVEw1T0haRkpvLU02TTNzcQ?oc=5",
-      "domain": "Vietnam.vn",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "ملخص وأهداف مباراة المغرب ضد هايتي في كأس العالم 2026 - annahar.com",
-      "description": "المصدر: annahar.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQX2l5WWR5bUd1Sk9DV2RoYzd1bi1qSG8tUEJNVHFoMGpFcDhjcmFEWG9DQnIwOFJZd0tlaDc2U3dIZDZFeWJFQzFSMFNsaUs5NWNoeWIyVW95eTJ3bjJsYmJmMExyX3BzSXd1eTlpVElQSjlEdGhnOHZiUHF6MmVBRFhPUjE0ZmZGM01aVmI2R1BuSkJ6Ymo1MXUtRkxxTlpURTdCdEJxaUxwWFpMNW9pTmhVZzZGdlVvMG5zeW00V2s0eUtFa1dneVJIUXhNcTJFY25FVWFZYkhvR0dUTmNBNVpXRWhnYm5oQTNzY2kwSHNoUVNIdmtob2xEOUNLdUp2Mms3YzE5dW51QVFFUFVhV0pxdU9DTUNvWlBmWWVpa0JzNEVJa1otVnMyLUE0dVFLS0xvc2RFNlFmbUJPOTJZOTNqRHRhWHpOUGRRdHI5cmtCNzZ4Y1JTS2w3MmdrazVaak9BUGtORFo1cjJSMjh1ZXU1RW1pZFBoYnVjWE1WOFp2NFk1Y0xsQUUzVnFXdWN4?oc=5",
-      "domain": "annahar.com",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "جدول مباريات اليوم الخميس 25 يونيو 2026 في كأس العالم ..القنوات الناقلة والمعلقين - Kooora",
-      "description": "المصدر: Kooora",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNNUtwM1g5X0lmZDAwYXZ4YTNyWVMzVFJxT3pQQUR5V29oTWNVdGNHTVc2cFNrUFR3aHRFbUI2RUJWa2xSQXBWWE9jTzhzSk9Tci1rQ0FzNFloX0stakxQYms2R3ctbWxsVzFWekhKYWhha1hiem9aQklWSzNrVzlFUmpIZUp0YXBjb05yWHVHZnBQUEJoQjR0VWVjdVFSVVdROVlKXzdIbHIySnVaVEtlcUFwUTZoVW1OVTcxTXJfZ1dtd0x5Vjl6N3NrbXUtWEt5WFBfak1NWHBpSXdleUJ3VFRlWlk5dE91ZXFzZnZJUVVLMm5CZnY5X1ZGbkRJMG1XWDRNYjQ4TklXaHlwd0s0QUlkWUExR1dGTkQwVVE2XzBqTWw0RUhsR0g4MGVxRTdTWFhEQzRjNnVISFhyTFk4d043NTd2eGs2YzhEbXlNZmFFaW8zRDRIZXRwRXNOX3FZSHMxQU1XaU85WVdFZU9hYjVNdnB6Tkk0bWdZX3l6amx5VTJ5YWNfN0tpYnk2U2lZUV9BZHptQ0Q3djVwcWF2ek9sSUxpdWxrRnNyVXZBb3B2Um9USHBXbmxXYWpBdXRteE12VzlrYy1fRHpwVzFIZl9MV1psbEZ6S2pZbXVnNTBhTlhXdG54Mm1Lay1wcnU3NWVhaHlyR3N0YkVHcFlGbERMcV9ub0taVU9GRENlTEk0dWM2WlBjeVN0eGc1Q3k5SUJjMXhaLXFmZEpfQW9zZ292dHEyT25HSWNNeVhiZ3h3OUZwUTA1YnV5Zjg4Y2RpenNMUFRNNTFVN1F2Y01LYnB5bmpRQVNNQWZfUGNUOV81eVBJVTgwX2lLZXNqV2JCQjlHREszNWZTTEM0NGFsVWVTQnFZQ3h1cTVPbHFqSE04ZUVWX1lYbGxFZlFwQ3c1RDJoR2p4QmdsaDA?oc=5",
-      "domain": "Kooora",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "تاريخ المغرب في كأس أمم إفريقيا لكرة القدم داخل القاعة توتال إنيرجيز - cafonline.com",
-      "description": "المصدر: cafonline.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2AlBVV95cUxNQ3JFQUlRV05NUXktYW1yblNEQXdMVmRET0tWR0JzbEJGWXFhV19GcXJHVUF2ZUo3eEU0MlU2V1NPOU9PRVlyb0JFNGZMeXV3REl5ZE1Wd0NBN3hzQWhzVnhyb2QwN3dyanpCUkJuUzYwSWVfQjZjUXhuSFZrV1VXT2JXSS11Q3pHSXAtTWFhd0NYVl80QzVvSXE3QWp2MnhFajdXV3lwclRUa3oyU1FXbUN0UXlVSF9YbmlCSHBvNnNNLWwyc0o4a0dyRmRtdElxVVBqbmpaUWF4YXVzcE1jd2JwN2xEX3FkNmw2SzU0MW5UTFNuTWpTdGNyRE1tOEhPY0ItNnFBb1o5ZTN3M0hreE84N0tCQzlJWDNLYU1mZUdJNWZSeTZrMEdvZjNSRkpaQTV1MFBVeWdVM21HVjluZGxHMG40cndCc0Vrb09Tek0zTXNQVEdIR21DRG5YdWJjQ2h2N041cmZWSk8wVE51RUdkc056VnVtbld4b3V2S1N0bmNMV1BnTDBDVFgyclZ5Wlo4V281RU5KUkZ0X2VwVnhxMnhGMzdJT191QkZaelFWNVNmbHZDci1uOXcyNkRodk9Nb3c5bjBLcXZYamhna0J1cWFKYk1GQ2hnS2NUZVJlWHMwX3VtMEIzVjFpMDZYclNzcjlJTmpub1c1em4xWk5wdjdVMlN2NHpoSGNRdmVhVi1XMlBDcUFvc2pwTFZsNWpWM3J1WTFkMmtad2ZnQ2ZiZkZ1Z2VlQXM3MFR1bUdKeUlZSDZaeXpPWThiWklmR3NVakd0alNPY2tYSk5jQXhodVZnWFJrem5YYl93czd2U05lWjQ3Qk1IWmk1S0Y2MHRfYWZLX1dDLU9nenIzVjB3OFBITGM0VWZldGt6bFExa0ZORnIycVlfSHFycloxb2NXYnhhc2ROLWVoM1F1c1JBMXU4aFAteVJod0w2X3Q4bjk2VXZaTHdSSURpRC1yQ19qV3VCMTBSalU4VldsNi1YVnVsNmwwZlVJR3M4Sm9UYlhVTm0ycnNXSXk4SVBXMjVjY2I5TXFDMG5JdkttdWFKUlhsMGZtTW12d0hQZDU5Mlo1TlJDU2t4b3BFYWphQ2ZTRVBYVkFkb0VnamVIWDFkcXZVeXpmMWloMEJYTkN2cC1qS2RXMTJvRkpfVHUyMGdnTWFYeDJGNXlsS3NXZmV1Vi1vbzI4REtrWkIwd3NUUGZaOEVWV2pZQWUyYnh4eVRsSFQtMFoxRFI5SGJ5UnplQ2pudEc1dkpkUDRfM3hxVE12eVhLR2MxRjREUkY0dzVoanc3Yl9hU3g4RDU3V0laeXVPQmVMcEpqRVNrWEZMY3RhM0xnOURyazNmRC1OaFNER0NPajgxeEtNMXdRNXc4NE5YYXF3MERhclpmanRfSVV0X2g4LThfRGlmaU5SeWxKb3MxdFp6MzQ3M3FoaEFBRlBFRXM1Q3FzdzNFWXZBa0FPMmdwcTVpTFQtWjdnUXZlTnZNa0toZXVCRjhrbkVZT2JYUm43MmJYczc2c0N0Rm5RV3llc2dxWEZlMFBvQmhvckZiNXRGZ3plcnJUX3dfQmxTdVV6VE1WSFByYXhwV3hsNGMxaEVEQno2YWRCZ3kzcWoxU3lfZmlHQlJUenRYQUZMZUVs?oc=5",
-      "domain": "cafonline.com",
-      "date": "Wed, 23 Sep 2026 22:34:32 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "Lekjaa: 2030 World Cup Final In Morocco Would Be Victory For Africa - bsnsports.com.ng",
-      "description": "المصدر: bsnsports.com.ng",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTno1T1hkMjJXdGlCbldhbEtRcmszeDQyQktld01GdFFGTXdEM0ZIbjJYOTltTHhKWmFveTRxS2VkUU5qcElUX0h2MXhNUHpnVWM3UFk0LWNheFM0TGVwZm5fc3RnZGlUN0djckdXZC0zY3RoT0FmR0F5T3lKUWJXaTNYZGhIVlBhQ1lEMU9meGE0RHNOMXBzVEx6N2xaZ2Ff?oc=5",
-      "domain": "bsnsports.com.ng",
-      "date": "Wed, 23 Sep 2026 20:09:40 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "المغرب 4 - 0 مدغشقر (٠٢‏/٠٦): مجريات المباراة، الإحصائيات، والتشكيلات، والمواجهات ، المباشرة، والقنوات الناقلة. - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxuSDM3T1RGSFlPSmJDN1plZjQwV0FGMGgycks5SXBnbXlqbHNReXE5SVRnQVF2N2x2QnBRTU4tR0tfWmNieWNRcTBUVF9mVzFZMkdvZXZLbjROWkpudEdpcWhiaE9wZHloUEVGbGlaS0Y4ZnR0SF9iT2NOdkJwbFgwMl8xbmN3aXhBRjlxNFpaMHRWTDAxdHR3Tm05R2pwVVZSeHlR?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 20 May 2026 15:24:58 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
-      "description": "المصدر: Goal.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
-      "domain": "Goal.com",
-      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBib1hfV3NNUVRjQTZGeG1yVjF3OTRyS3ZFUXNTZ0RkNHJ2RU5LNWI1Y0UxMlh4dE9neElhYUtmdzVDclhJNTlj?oc=5",
+      "domain": "elbalad.news",
+      "date": "Wed, 30 Sep 2026 12:53:00 GMT"
     },
     {
       "category": "general",
-      "title": "طقس الأربعاء: حار بالسهول الداخلية ومنطقة سوس وبالأقاليم الجنوبية – اليوم 24 - inews.ma",
+      "title": "المغرب يحصل على 307.8 مليون دولار من \"الإفريقي للتنمية\" - gate.ahram.org.eg",
+      "description": "المصدر: gate.ahram.org.eg",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oTWJYMlRmQl94QWNnU0hhdEk5cFpBTm40N21wckpZbzhuY3BFeHRhdm1tblk4Q1dRWWFENUdOSWRXTkZ4TmNiR1Z3Rl9aeFlmLUFILUFn?oc=5",
+      "domain": "gate.ahram.org.eg",
+      "date": "Wed, 30 Sep 2026 14:49:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "المحكمة الرياضية تعلن تفاصيل جلسة الاستئناف السنغالي بشأن نهائي « كان » المغرب 2025 – اليوم 24 - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wSkxBd0JpNlJBRGZTRjVHbHlGX3Z1Q0Fxc3kwM1N6bWZYY0ZwSUlYYTh6cDg4N3k3V3M1dDFlVVNQa2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BMXVOQk5uNzBNYlItWWh6NV93ZU5qaWFqY1BDaURaWXhoM2VRVGlCaXdSaXJLNzZUSkdTdjhlVHk2cUU?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 08:08:23 GMT"
+      "date": "Wed, 30 Sep 2026 14:43:47 GMT"
     },
     {
       "category": "general",
-      "title": "حكومة تصريف الأمور الجارية والحكومة المُعينة: أي مهام؟ – اليوم 24 - inews.ma",
+      "title": "المغرب يرتقي إلى الرتبة 54 عالميا في مؤشر الابتكار العالمي لسنة 2026 - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ySkVSOE9MTDRzMWt5MzEyaFdjLXd4VnNFSk1vTEIyYmlDV29haUhSbXduUzF3emFsX0ROM2tYbmpjeHM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9mZ3VIWFUxaFFfV1VieVVrdXZnYldzRk5zZm9YX1cyZFBJLXYtZGhTU285dmZmbU5aWG1KUHV2VkVnRkk?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 07:58:14 GMT"
+      "date": "Wed, 30 Sep 2026 14:38:47 GMT"
     },
     {
       "category": "general",
-      "title": "مطالب للسلطات بحماية التلاميذ من خطر شخص يهدد سلامتهم ببنجرير - inews.ma",
+      "title": "ماذا يعني أن تصبح الحرب \"الوضع الطبيعي\"؟ - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MX3kwaHZxNXZWSVNiWjBvTUQ4YkkxYml5TmZaT1BHZ1hNWTZueUxyWjdvUmdhMzhTV0NObG9zS3VjUjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBhNFBtQWFfbTMzY3pjYnlFZWN4Z29Ma3RMc0RrMzJ0UlZYTXF0ZTYtZ2FSa29MRHFqVWZfYzAzQlptYkE?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 07:13:29 GMT"
+      "date": "Wed, 30 Sep 2026 14:38:14 GMT"
     },
     {
       "category": "general",
-      "title": "رئيسة الحكومة المغربية: سنبدأ مشاورات تشكيل الحكومة - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "خلف الأبواب المغلقة.. جلسة في كاس لحسم مصير لقب كأس أمم أفريقيا 2025 بين المغرب والسنغال - masrawy.com",
+      "description": "المصدر: masrawy.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNWDl6dnNOUDZfR0JTTVBvUXFIOXhNZmZGX2g0bzRSajFUTzM4R1l3TVRCM0huUU1FSHQ5ZnFGTzRGQVRvbUU3MzZTajJlSFdxNkFHdkRXMU9FZU92Sm5GOTBodUloQ01kNnF2bldOV2FjUnJBdjV0Sk5zOEtDOHZwaUE2ZmpEdmhkWEVIZndJZHZ6UHpFd0RBdElWekRnYWxkY3VrS1VFcVNHMllHOUhPV1l1Mkg2c0xlZTFSZnA0VmhKeDdCSEZVcGt6eWprN0Fod2IxdmlIWHdMSW9keV9zUk1lOUFkaXkzaEtxc0ltLWtoUTllT1p4SFcyanNldzVUOVRnYnlIcGl1a05uY25LY1ZZUTRCNjg3Z1JJaEFtX25hb0pCeU1KSFZpa1U1YVZVeGkxcFVsZzQ0ZnBYdDJ1RjhoRXV6T1Vxck1ZNWg5OGlkYmFFWlFaWm1OT2k1eFlzd0pvRHBfRzhyZDhRbG9GblBDLTNLa1RtMXVmXzlWUWF3WWJ0MEdSR2lGUTZlZ09UeEJla1IyU2pvUTRPcHNWUHJFcEdkd18zTEI3UHFBRUlscjR2MUVldjRiNHItRmfSAcQDQVVfeXFMTjQ2NGZTTTVidVdJckRHYWNpMFNHLWhyN3dKZmdMeldkSHR1SkJmTGw0VDA2WnlxMzZwUklNWVVOQlJtSkRwaUdZZ1pkdk5VVGhCWERCRFVETkxyb0dKREZGU0JwckpjOTQybVA4WGNpS2xlN2RyVVg0S09fbzlnY1N1ZzFnOGREdldxblBZTjJwLThFX3cyX3R6bFRXcHY1ZDJId0tnNV9fLXFGMWNZVWlKcUp5eE9Kd3JXOHpON1d5QV9Uel9VazBzSG53VWVqRFJ6US16a2gxQ1V0aDJpeDE2bDdZNEpYZkF5eDMyOEZ5bmRCMEpiTFVsSTI1MFR5aEJCLWU1U0FaVHM2ekxRY256VnhPZE04V0ZGWmdINVpWcmZ6RlBYQm95RTdfTkJuQm9ST0YzNjdYN0t0M2FzVjJmNXJiWlZ0V3ptVklfRkIyR0J5OW9hZnYwZFBTTzlKT0ViRlpBdFFCeUZTNWkyem9GMENEY3dPaUpyb2hCOGVOMmFJb2t2VjZObFQ1aXRYczhfY29OR1dyOTVxaFR1QzBnWHNpRWlxeEJ4RHU2RlB5Vi1oUVBZRkZDaVdDU1ZIeHpIUUU?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 30 Sep 2026 07:00:38 GMT"
+      "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPQ1hLUWZKTS1uemNPM0ZnQWR1clc4WVBaNDJ0WHFycmpNQkctd1oyeFY0Yko4bnZQWlVPMDNxUlN2R2dhUkFWbW1Ua3pOMmN0WnRQZ1BUYWhuOFJ6SlZjckZLY0M1RXd0QUxnSVhSUXJabGc3aGJIWEJlTE8zUmZDSmZzWDFyY2hnSXNwRTBRMlVoQWdTWFJsZE9EcmdPT1Z1R2s0bG9QaDR5ekF1b2E3ZkU0bE5TVU1YNHluQU01N1ZIQUY2OXM5UWZMMXE3b2tCT0FEcWJiVUxWdE1SVXV0RjlpM2t0eU1KTjRVNDZkWmU3WXhIQzdscFB4eFJyM2RBUXhISE5ZdEE2bEJuUHJZVS1tc3NMTm81dHJjd0x6SFZ2bGZaMzVhTzdnaHBBdVlXTzZzaU1iaDE3VC1mdzFGYmd4VXNQX3Bidm1VTkY1T0tiNXdiS0lFcllZU0JRam4xLXBWenRRdWZBcTlRUjdqdDluM2kwWUI4YXU0dlE1Y2VqdXFBQ2g0bGtYSHlyMjYyNF9ZVHBLalRyX0VzcGVjRHppNHZpTDQwNVd2dWpZVkdFZExwaC1uRDRJY0NGNjhOeHZpejduT0laNUxJS2taemx5LUFTOHBXWEdhVlVwX1hPbXF5azhXSzFBNDdmMWI3VlBrc3hxZ0hVVF9BYndVZnpndjRsZzZ4TUpVOTE2eGR6SkNEOEptUTFUeEVJQW1FYTV0OWlLc2lVTU5HY3NCStIBwgVBVV95cUxOZUlraHIwRnNDNUt3Z2RmOGFJTWtEWW55cFhSYzNTNDZzSFVYU1pCdHUzMDJjdmV4OHhWTjNLODBUUTJyRHB6YXpsVk9xRGRNY0pOOHFPYjVNdGh3VXFFTXlTVW9WWU55b1FadmxaRVJjR0N2QVE0U1Z0Qk9EQUpIWks4QlkxS2MxY084aGVqalRtN054MWU5WURIYTVCZzN6VHU2LXMtS3RwS2M1cWxrUS0tX2E0VE1FSWRnSWlWckhRY0tLbF9ldllYRHhUdVRSNWttRzU3Qm14SUhINFo2WGJnQXh1NTJabDhhVzQ5YS1CdG1rM1NwMWZMMDJFX3ltV0M0MWtaaFlrMHZ3eUpEMkZrR2tNa2tnTGtCWjVrdFlfQkg1aFZXd2xaWmxVcEk4WjU3WFpPTVVvazhlWjNmR01HUjBOeUdOUFpCbXUyMVZJQzVDR2xOSV9Vb0FIRUk5T3pMcEE1ZjBKb0dQNmYzNjRBLWNieEVyUkNzU2dMYVhiV04taFZKYVhSUWtVMUdvZDFKYXhONkhNLTlLUFdfcUphUDhTU2x0VHRhR0QyVVBTVjFJbi1NVUpBYURFemJSYk1WeTliVlRPUzBtMWFaZW42bWN5VkU3bGRGZklhS3RObG1TTVp2d3FhQ1MwR3JsZVdGTDZsSkYtNU5HZkYyR0taNDRXZVNFb1BEVU5OV1JLVW9FT1pPWlRkVU44VEdQc05CZFVRLUNjS2g2Rm8wVHpYRGRFZHlPRHBnZG5tckxmQkZkUmZMTFdlV3gwNmplaHY3TF83aDVFSDl1VWtKa0V5dTZhb2dRZUkxOUlNTk1iMUw3ZHpxNVFEOG9fUHdXUVJFREV5YXZSSlcxZm42Ry12NmoxM1lsbDZnWldFSk1nNGZZcFpmd0hiSV92SUEtaWZfd2VPYl9iLUh5dXVTUmJB?oc=5",
+      "domain": "masrawy.com",
+      "date": "Wed, 30 Sep 2026 14:30:00 GMT"
     },
     {
       "category": "general",
-      "title": "التعيين الملكي للمنصوري عرفان بالمسار النضالي لنساء المغرب - inews.ma",
+      "title": "نتنياهو يوجه المنظومة الأمنية للاستعداد للتهديدات المحتملة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9aVnlTbEozcUNSdkRjNVBHZzF1aG96RF8tdGRobUNUb1pjeGpOWDZneHZJYmJERFpGR0R0TWtIVFlld2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6S01wRnpwelI5ckxBQkpiSUVYb3psTmdyYk5CVUNad3NjOWNRbjhLYU1obXVmWFdHQ3VrZHF3T1dZSW8?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 06:58:19 GMT"
+      "date": "Wed, 30 Sep 2026 14:23:31 GMT"
     },
     {
       "category": "general",
-      "title": "أجواء حارة وأمطار خفيفة بهذه المناطق الأربعاء - inews.ma",
+      "title": "الواحدي أفضل بديل لحكيمي - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VWktkM25NN3diY1N6UTh0cHdfc2hPTGF1cERVcnhQUjJMZlV5UG1fTGFXaXl6bE5oS3dfdG1XMERRaXM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Wb09YYzJnMzNHam83ODVqLVZ0Z3RjbDBnd1dmcDFSRDJBQWZLSmI0UldtOWFzSHhKZ3hRWm00djFjTGc?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 06:48:26 GMT"
+      "date": "Wed, 30 Sep 2026 14:23:29 GMT"
     },
     {
       "category": "general",
-      "title": "طقس الأربعاء.. أجواء حارة بعدد من مناطق المملكة - inews.ma",
+      "title": "العراقي المرشدي والمغربي المليتي يتوجان مناصفة بجائزة بلند الحيدري للشعراء العرب الشباب (صور) - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA2N2ZmVnd6a2tDalFOTENDQ0RGWE9DWVE5QVA0Qk9KQVU5OURkc28ybzhOd2hjX3FaT0dIbGVTQzdGcms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oX09qTXRYbENpdENSeTRxS3I2TXBSaGVyRGU2bU5hTmgyQjEydjNRWHdFQW9fNkNoYWJhNlpkV1Q4Tjg?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 06:43:24 GMT"
+      "date": "Wed, 30 Sep 2026 14:18:39 GMT"
     },
     {
       "category": "general",
-      "title": "الصحافة الإسبانية تُسلط الضوء على تعيين المنصوري رئيسة جديدة للحكومة المغربية - inews.ma",
+      "title": "إشادة ألمانية بموثوقية المغرب كشريك استراتيجي في صناعة الأمن الإقليمي والدولي - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaQzdzVWhNaWQ0ZHhfYldyWEZtUXZXOS02ZDRNVkE5U2xSUXdDZXJnaFVaWms5MzlmTjhBS2pUbWxtZFk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE53QVRTSGhzb2tvc0hPMmdtdTZUUnZnbnRfanEtVXU4WWFyMFAzZW4yYmVPZ284RkRuNE84WUhwN2JZeGs?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 06:23:07 GMT"
+      "date": "Wed, 30 Sep 2026 14:03:12 GMT"
     },
     {
       "category": "general",
-      "title": "بركان.. إطلاق برنامج تكويني في مجال الثقافة المالية لفائدة فلاحي جهة الشرق - inews.ma",
+      "title": "74 طالبا يدشنون بالعيون أول تجربة لتكوين مهندسي التكنولوجيات المتقدمة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ucGFNLXFYYXl3NGZUbm5DdFdUQmtxaUlvS3paQURxVlJIQ0lFbUJwMFdxbm5nYVZFeFY2QnZSdGJBQzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE56N0cwcUQ4eHJIaWlGd0ZZS2lWbzRtTUVQcHlPWVRVaEZnX085ek9wc1c2b1hTb08xajhSQzNFbU02Yzg?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 06:13:31 GMT"
+      "date": "Wed, 30 Sep 2026 13:43:26 GMT"
     },
     {
       "category": "general",
-      "title": "أجواء الأربعاء.. حرارة بالداخل وسحب ممطرة فوق المرتفعات - inews.ma",
+      "title": "بين العراق والمغرب.. جائزة \"بلند الحيدري\" تواصل الاحتفاء بالتجديد في القصيدة العربية المعاصرة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1wSkJxbG03aFhESi1tWllWSENBQjJ4QTgtSWQtRXRUcWJvU3FBZDY5SGVhaGdaNUxfZnJOYl9HOFVIZ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtdVJyYU1taFdCT1JPTWg0LXR5LWlHc0hOQlFZeEpWYTUxLW1kZk1UUEJSekpHeGkzdG5abWFBaklXZGs?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 06:08:30 GMT"
+      "date": "Wed, 30 Sep 2026 13:43:25 GMT"
     },
     {
       "category": "general",
-      "title": "صورة لأول رئيسة وزراء في تاريخ المغرب. - Vietnam.vn",
-      "description": "المصدر: Vietnam.vn",
+      "title": "تخزين الكهرباء في المغرب.. مشروع بقدرة 362 ميغاواط يدعم خطط التحول - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "description": "المصدر: الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEk3VHZvX1hfMVdta1NVR18xdkxXN3EzbE1IdU5yUVVRYW5vdzhtS2o0Z2RKS3pjTFE0NURlZXd5QTBLYjMxOHVLWWlIaTRibjJXQTB3MlRYcDZGUnJpLUhYWlRZNFFvU0QxWk85SEVSM2RqSFdVM0VWelhMOUxidDNJQQ?oc=5",
-      "domain": "Vietnam.vn",
-      "date": "Wed, 30 Sep 2026 05:28:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOSmVNM0pwd2hyUUVycnJkSVlGOEZ4aHFtWGNnN25kWUVTOVRDdjZIVzlpNlBvR0FDb0lNOWNGOU9lVTY1cElNclpicFVDSXhsLVNpSGZhb2VfSnU3dWRtNEVUYVRpLXBELXg1eWl3d3Jmbk5TRzh0a3E3ZkhndjROZFFBR3doNkZLTG8zdVdjLVRzdmJpZ1FxTzFYcmN4ekVpSzU1WlRTLWIwYkN4TkZlVVpTX1lSVF9LeDNlcXNOVlZ0N3V0TmNiRXR3TzRZYjdqQjYyODIwa1JZeG5RVWJXQjR3NDJITWYzRDcyZ1lBSTlxa1NleFdYQUlLQnQwZVllQk5KX0Z6QzZQZ0h6YUFOT1RoaDlkX2dDcWZ4czJ2Y3RrODRBZVdubzBod1pfbHE4amdxWmRkUC1TbFpOeTFjNERNWHB6SFJzbnc?oc=5",
+      "domain": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "date": "Wed, 30 Sep 2026 13:42:55 GMT"
     },
     {
       "category": "general",
-      "title": "قطر تتهم « اسرائيل » بارتكاب جرائم حرب في سابقة خطيرة في تاريخ الحروب – اليوم 24 - inews.ma",
+      "title": "\"كاس\" تحدد موعد جلسة استئناف السنغال ضد تتويج المغرب بأمم إفريقيا 2025 - قناة ومنصة المشهد - أخبار العالم اليوم",
+      "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNdmdqQThCbURiWXBWd1RoNTVHMGdFMk43VnJVTXkwMU11blhHY3NwUndaZE1EM3duNTdQNW5GLWhLTmx6a3piM0NiOTZSMGxxdFVSZTFQd2I2WC1ZOHN3eV9Db0dXYVd4R1FkaXFFSTIwNW9CWWZqODV3RWtDVHZkUkZxTVVBQkVlaEJhWDhST3c0YkdKNll0VFFuanppUjJDdTBueEdqdHdSSmVidjFjUjhxWTU2ZWp1TVlXYTFGSmpaQU01d0FudVkxZjF1X05HWjBabUNFRk45dlp3ZkY3Qm9sOEs5WGlCT0hibnpYX2xDcENvNVQyNmRPT0hBeUcxQzFma3dkX1J5MjNpekg3bXktUnVlY3YtWHoyZ3ZCMTh5WnRRQXJjNG5iV2E2VVlUQVJ3Mkxja09WMWhPVEItejNMS0UxbmRmR2FPUmlqeVdlaGl5YjBIaGdiSGR4X2d1WE51NDJ5aVM0Yl9fUXl4YjhGeHBnWUpNZ2w3QjRKUVJ5bWdtUk5zZWVMVmthTHQzV2U4TWF2cVkwdVo1ZFNjc0ZmcjByV1A1U19WdFZaXzZfRkpnQkNPTkdUVmkzcTU3M3JSNndjODlMTFlGc1BBSUJqV1g0VUxuOWZqMlQ3UC1yNlRaanc4bWlPLURkVENHNVlJeGJfR3RWeUJlN2NSbFg3bUVEbG1HeTN2WG90U01PZy1LSGpOblYwNTNtWHVOMDdhVmJKYWpnRzFBN1RqdkZZN09PN3NodVcw0gHABEFVX3lxTFBVbVhsak5sc1V1WjQwN25aXzhpcm9KNVB1TmlyQ0ttUF84dldhY0dXUHBIU1Y4aVlpZERHalREVGt5SGYxbGdzZXdiN1pobXZyc04yZTc3WTFxdkpEcm5EUjVDbVNrYnZCSUd6cTVGdTJWOUhZaURoLWdTYm1sZm1EY3hkY2tjbWg5YzM1Uk9hQUNVZGNEaWFQOTMyQ2NleUZiY3J3NzBHb0lUNWhXeDVuY0dBbkFGUVZlWWxOZ2toN3pCdmEzSEc2VHQxOHpSX0JjNnAxdElibE9hX3VDaTNWcl8xcTZPS0dKRlNIVHNuQkZac1NUV3picDdDczFKM2k1QmZTWmRGbUtQSkhPSGxoZGFxclJIdHUxbUtwbmZDVHNFQXpvbXVvalZoZHNYWk9zTzhXWUxQd1FvaDhtQVh4a0VjSlF3ejBSdG9IaVBZVk9peXpSdDRTZGFIaW9PX3JiVXI0ZGM4M2N0SDVNZXl3OXRjbnhYa1RtZzAzRGxjTGFmY1BiOURFbldORUJYbzk1TF9WS2dzR0djQUNLU0ZfNENUc3JQUEllSGhzZVFFYTRSZFd0cXJVM0tvOGpRaEJSa3pGSTAwV3Bkb2RwZzlWRmpObWwwZkdZYnV4SHFYOE5FVzlKMWNjcUkwRURNbTNibmpHQjBONS04NVFmSHN3Tzg2UlVheUJaZnRrRTh6OVkwQUdxUUFHcXZyaUlCakdUQTZaRGRENDRKMDZOaUh1N3ZtVnlZZVY2b25XRERSYw?oc=5",
+      "domain": "قناة ومنصة المشهد - أخبار العالم اليوم",
+      "date": "Wed, 30 Sep 2026 13:40:34 GMT"
+    },
+    {
+      "category": "general",
+      "title": "رافينيا يغيب عن ودية البرازيل والهند بسبب الإصابة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04TzhNNEpyOGctbzN3dnA1eW9vX0xsOGNIZjFpaWpaSi1EU2VvN3ZHSDF5RURvdkV0ZEdiQkZaNDZzajA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9hbEsyU2JOT0thd1pCNXZldzVHTC1MQ2tsS3lzN3Q2QURrZm1qVjBpeXl1aUdVMjEyNnpBdzQxcjhTRTQ?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 05:13:16 GMT"
+      "date": "Wed, 30 Sep 2026 13:13:40 GMT"
     },
     {
       "category": "general",
-      "title": "آيس كريم وحلوى وسط الركام.. حافلة تبحث عن ابتسامة أطفال غزة - inews.ma",
+      "title": "مطالب حقوقية بحماية صحة النساء ورفع التجريم عن الإجهاض - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1NSnNuakxsc20tcDljOVpjN1gteTRRemVocmYyakJ5ZnhUQWRKNl9zZU4tVmswVk83T1JPQmh5OTNZdVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBOUkdSNWYzQjBVZGVOWnFnYlpiOTk0VXpWTTE3NW1jWm94d1hpR2F0dkVnZ1VRWG40SEpYT1BaUTJaX2M?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 04:13:09 GMT"
+      "date": "Wed, 30 Sep 2026 13:03:39 GMT"
     },
     {
       "category": "general",
-      "title": "المغرب يرتقي إلى أفضل ترتيب له في مؤشر الابتكار العالمي - inews.ma",
+      "title": "مقتل طفل وإصابة خمسة في هجمات روسية على كييف ومحيطها - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1Sa3BfcU5pdDRBRXR2a2xyaE9CbnM4dExKQ0cwLXlGelgwWUNlRUFTaVd3ZXR1dGMtN3ZGNFVvdFZDc28?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5QVFhNdXN4ejhITng4R19rR0hkQ3JfUmtwZ1dZbDRMUGdnQTBYS0w2NlFBLVZiNjhzRzZnTUhBWmtoQnM?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 04:03:13 GMT"
+      "date": "Wed, 30 Sep 2026 12:53:42 GMT"
     },
     {
       "category": "general",
-      "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - inews.ma",
+      "title": "أسعار صرف أهم العملات الأجنبية اليوم الأربعاء - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB5QWk3Y1FYZVZsbWlMNFZ1eFZUVzhNa2tCMUhvenZYaFdwejczNjZabVA2X18tVW5oY3NWdmxwYlV2Uk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1SQzZHWW9sMmtQLThNWURnTjliQzhzenNyemVlVTdTck5HQkprTERVZFVfQ29XV1ZDV2dwR0ZhYks3Vkk?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 03:38:20 GMT"
+      "date": "Wed, 30 Sep 2026 12:43:29 GMT"
     },
     {
       "category": "general",
-      "title": "حصيلة ثقيلة على الطرقات.. 26 قتـ.يلاً و2447 حـ.ادثة سير خلال 7 أيام - inews.ma",
+      "title": "رسميا.. المنتخب المغربي يواجه مالي وديا بدل غانا في طنجة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBFV2ZzMkJFZlU3T2lZV2RuMm13bm54cWpLNldNM0hybmpnR3podWdkTTZGalE2cEZFaDVJSV80eUQxMjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44dUVYeHlvMDd5RG9QQXhLUkY1YmhzTTliMjF1SUdzcVY2cjF6ZWR4TFpoU3VmcVNPYlZ4TzBNVUp0azA?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 01:33:05 GMT"
+      "date": "Wed, 30 Sep 2026 12:33:35 GMT"
     },
     {
       "category": "general",
-      "title": "احتجاجات طلابية تهز فرنسا.. توقيف 440 شخصاً وإصابة 48 من أفراد الأمن - inews.ma",
+      "title": "بركة بعد لقائه المنصوري: المجلس الوطني سيحسم في المشاركة بالحكومة وسندعم التجربة السياسية كيفما كان موقعنا - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBGUFloZEgybmhfaExVT3lnc0hmbE5kcXE4YTIwWnNJTk8zTFJpcncwc1dybXBtcDdMME01RHNTdWd0alU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1HMDVuaUdUUUlUMnJEUnphbXlUcHA4VHVoUWwwbk5DSWs0bXVpOHI0WXB1dDk0QWlab0lTRGNIVFRVZWM?oc=5",
       "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 01:23:01 GMT"
+      "date": "Wed, 30 Sep 2026 12:23:39 GMT"
     },
     {
       "category": "general",
-      "title": "يهم الأسود: الغابون تستعيد توازنها بثنائية أمام النيجر - inews.ma",
-      "description": "المصدر: inews.ma",
+      "title": "جامعة الدول العربية تهنئ المغرب بنجاح الانتخابات التشريعية - بوابة أخبار اليوم الإلكترونية",
+      "description": "المصدر: بوابة أخبار اليوم الإلكترونية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93ak5MY0stbXRNbjNlcnBaY1pHcUpQdzFyVkU3d0l4cGg1U012a09YVEpHc1BSeHlkekVNOEdkS3N2MVU?oc=5",
-      "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 00:53:12 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOck4tVlEySDd3dmtXMGFwc3ZZU3NnWDlVcU9RZ18yVlZfUFRpVnNfdjNMYVpXajZ2cHJEUkg2Q2ZHRmtDaUlfajBSTWhFSUpYbURrb0QxRUpzc19TUWpzXzF3S2t0VWk0UXp6RjNLeXVNNjJKRG1rUm91WTgwVDBCeFQxS2lFVkU3Y1drQVViSzhMX0p5Q1NmVmk0OExmZkY4Qmd0Ynd5QTN0NFRoM1M3Z09Qa1UtazJBX0R4UWJrZ0tkOU4tVXdudGFOYmJJdWxpYUJBQktPSHdfYlc1blcwckJKbXNHc1pWZnppbG9EU3NwblAxVWVKQUJYLWVNQm9kbzdaY3dCT2Y3TFFpbTR0VTU5NjJNX0hDcHcya25pWUpOTkpsUEVnalJhaUxVc1ZRem5Kb05La3RhNUFRZUd0ZWlSa0NvaWdGRDNuaDdHV2JDNVo0cTF6RklVNjJDb21Jang5STlHcTVNRTlLb0hBY2JubFVzU2c?oc=5",
+      "domain": "بوابة أخبار اليوم الإلكترونية",
+      "date": "Wed, 30 Sep 2026 11:57:09 GMT"
     },
     {
-      "category": "general",
-      "title": "هل تتسبب أزمة التعويضات في إلغاء مباراة المغرب وغانا؟ - inews.ma",
-      "description": "المصدر: inews.ma",
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4 % - برلمان.كوم",
+      "description": "المصدر: برلمان.كوم",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pV1pXYzJXZmluWE5RTTdjNFMzUVNFMkRxUC14M2t2NU1iZ0x3alVPaU04NGdDbWFJem04akQ2WHUxLTQ?oc=5",
-      "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 00:53:11 GMT"
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQODh1VUR1OWVYdzhEN3lkRHFKWnBMZlZTU0lLSW1yWl9QR3hoZnpYZjBDY2NPemM0MEpqaXUtTUpjTXFNUGlnMEo3VlgtODZuVkE3bndlSUlyTzBGTFpvUF9iUFktU0xNUDdyQ1plZDR6NDVFQ3dxUGJ2VTZIQ2E4SldSLUhXQ0ZueUUtN21JY2NTS1RZNUFSTkxoMm9zN2FhbEJSbEs4SjhxZWVrbTVvUXFjN2Y5WExqX0ZSOVRqNjdUTm5WVUNJNERuM3lNT3VxT0tYUGlZc1RKQ193VE4waWhtOVVlazlIdWVReFpyTHZJR3FxQVJkZW9lNkstcjdEVk1VRTYxb3RKWVdPcnpycUJ1MnhXUnRjbG1n?oc=5",
+      "domain": "برلمان.كوم",
+      "date": "Wed, 30 Sep 2026 15:36:58 GMT"
     },
     {
-      "category": "general",
-      "title": "الجامعة تكثف اتصالاتها لتعويض غانا - inews.ma",
-      "description": "المصدر: inews.ma",
+      "category": "business",
+      "title": "النمو الاقتصادي في المغرب يتباطأ إلى 4% خلال الفصل الثاني من 2026 - ihata.ma",
+      "description": "المصدر: ihata.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXejA0MGo3ZlYxTklpUEU1S2tzZTVHX1U5UVdpVjlEYWFHcFMxY29vaktzbW9aUXhOQXo5S0N1S3Ewa1E?oc=5",
-      "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 00:38:04 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOUzNfanZZalUwMC1HVllMQUFxR1lCWWYwRkZqem96U1hab1V1NUhDbkJDbXRhNnQycFllUy05SGs5aVFFWDBDc3dIZ1JLQ295SnVKdXlnOEVia3VQZkE2S3kzRTAyRUlTaFFGN0MzTXEtS1BjMHNPZEptdmEtck01MVJUYzNyb1VuTVhlZ0FnSUotbEhLd2xjZ1hmb1pDX3B6akVHZDBrU2J5NjdnQ1RtanRYZG1sRS1zRE8xc3AzRGJsZEFUc0NWQ3Rwd2xYT3huQ2dMZElTWVpjT1gwSHh0dHJmeWY2SEtHWkZRVExlQ1NUYWNXb284Y0hVQXhjTWg2ZDc0bDVQMkZ0anZIR0hJM2lnWFFoQV9VOTJ4am5ZM2tTclZWREJJUmpaNmR3Tkx5SlFsanJxNGFJTk5ZWWFPejhHczVoTExvZkRv?oc=5",
+      "domain": "ihata.ma",
+      "date": "Wed, 30 Sep 2026 14:31:02 GMT"
+    },
+    {
+      "category": "business",
+      "title": "تباطؤ نمو الاقتصاد المغربي إلى 4% خلال الفصل الثاني من 2026 - twaslnews1.twaslnews.com",
+      "description": "المصدر: twaslnews1.twaslnews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmVFdPNHNnUUotZHpZcG5POXl4Y21LbzZSeDNkY3R2NTBKcmI5MzQyQk5fWllRcE5Ga0xXZUIxblhlbU8xRl9YYVBpaEw3T2pGcGNJ?oc=5",
+      "domain": "twaslnews1.twaslnews.com",
+      "date": "Wed, 30 Sep 2026 13:48:37 GMT"
+    },
+    {
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% في الفصل الثاني من 2026 - يابلادي.كوم",
+      "description": "المصدر: يابلادي.كوم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPVEdQSXJOYzBSazFra2RmbDVHZWt6NWVKb2Q5VmJvMVBLWDN6U3RjQjVqa2dzajhXbTQ3YW44QnNRSE1FOHRONy1fSjF2cG5iNk12ZzJob1RlS3FBZHRHcjFuOXdkeFB0bE5VRUt6a3k5clJ6YWREYnpGWkY4Mjl1QXFCSFczQ0NKN1dIczc1NVVPY0QzOWFxSzUyWV9yU3ZWTW5DcWN6dFcyZGFyNllZZktqQTFEOFpNb2loTzlTUkhBVU0wcG9ETXpxTzlNY0VjN3VTZXhscmpwODF1ZjduMURqLUFENkZwSnpfR0VLS1RsdFM5ampSWkl2MElJSlF0c3Jxb0hpa0wwb21fSVJ4Qm5vaEZkb1phWkJDNFNWWTFkelR0R3NRbFJMbVhGczdCdERleG85aVdhN0FXZWl1bw?oc=5",
+      "domain": "يابلادي.كوم",
+      "date": "Wed, 30 Sep 2026 12:39:42 GMT"
+    },
+    {
+      "category": "business",
+      "title": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.1% وسط تقلبات الأسواق - twaslnews1.twaslnews.com",
+      "description": "المصدر: twaslnews1.twaslnews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzRXFMaEItTVVqNTBMVkVrdHZFeE5FMXcyUldacVB1WXhzVXh0aS1PZTFnaGdqeXFzN3VuTElUODI1WDU5NF9IdjVjZlVDUExHMEpB?oc=5",
+      "domain": "twaslnews1.twaslnews.com",
+      "date": "Wed, 30 Sep 2026 12:26:29 GMT"
+    },
+    {
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي بنسبة 4% - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUV4eFdBV1pDeE9lSzEzSjJnV2FHM3RiQ0prWjFIMHRLdF9WMy1kbkFjWG1mUFpTOEF0SlphNWdpaThBV005cW05eGNOeFVnR1hmeUFlbTBVX3BCMjFYb3hoamNqa1A3NDFDT2RQZzlPMktUeVhoN0pwNmNJT0hwS3o0MEVWNVZxLVoxdUJFeHBiMHc2bHdSYjNGY3d3WEtsQWZfUVJwek11ZUNBcnJRblNBOA?oc=5",
+      "domain": "attasiaa.com",
+      "date": "Wed, 30 Sep 2026 11:34:40 GMT"
+    },
+    {
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال 2026 - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSEhsQ19ydG9YN0ZqMERDaFJKcklGODQyV1ktQ3p2U2lmV25pQUNDU01ha2ZYbS1lOVBRM1FqQ2h1dkRQUjBCUWlxemhxMUJGZmpPTEtRVEtRbXYzX1FGNDVDMDBXRktTWDlKV0h6YXFjM2dRcnhVQi1PT3NhWVVkbDFqRHlIM1FVRVJUYW5qcXhETktwd2pVNUl4X2lqYlNOazlmQXpTemkxamZGNXU3T0I0THNnN3ozZ2xubXlKTzVhbVN5R1B1a1BydDV3RFQ2ZXhPcnN1VEh0cTlKQ2tFN2FvNmY3ZHY5YVlUQ3ZoQnI4dnhpZkF0S0FDRTF2enRSRHF5RS1EQmRnSWZOMkJZSzd0STJrQ19pZzNqRlVNcUVMdFlRbmtmek1SN2JoeGMwTXlTWnFTTndMUFdmUGROSHZB?oc=5",
+      "domain": "attasiaa.com",
+      "date": "Wed, 30 Sep 2026 11:34:40 GMT"
+    },
+    {
+      "category": "business",
+      "title": "اقتصاد المغرب: القيمة المضافة للأنشطة غير الفلاحية هبطات من 4,9% لـ1,5 فالمية والصناعات الاستخراجية تراجعات بـ28,6 فاالمية والصناعة التحويلية بـ3,2 فالمية - كود",
+      "description": "المصدر: كود",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPLU9YWjR3NnZYZ3JXc0g1bFk5YTZGZ3pod2hxd2JudWFxc2drS0lBZWs3aEVPaW92YXpFOTZBc2FzNm1BWGd4Nm1FVXZKZXpYbE5sMWlCYTQ5VkhpWkYtRC1qS0JfUUZTLU1CdWJ5TjQtOC1nMW9CV3ZpUldQTUlodzZZaEgycEpaZzJ3QVIyaFlTRXFLa2RFTjU3NGg1Q2dnUWRtVlEyUFVTaUwwY3BoOENVcEp3Mlp4Q0J2TkJRQzlfaUF6S0tuNE4tVWlLWU9NNmZxUEoxSmlONXA0Tk91Y2NZN0p2VGIyZ29BcllEaWNFczY4VkFGX1Bjd3Q3anhxOVpfeHo0VjNfNjZkOFVuYV95TWRwYWd2bFNxWnNjNmR0QmRPVGJFcWFEMFpPSDRzMTV4V1NWZ2ZncG9jcDB2VGltMGN5aGNz?oc=5",
+      "domain": "كود",
+      "date": "Wed, 30 Sep 2026 11:23:20 GMT"
+    },
+    {
+      "category": "business",
+      "title": "الادخار يستقر .. ماذا تكشف أرقام الاقتصاد المغربي؟ - Medi1 News",
+      "description": "المصدر: Medi1 News",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mRWZqMmJjQUJDeHh5VmF5Z3ZyNGdINjh0RERhcndhTFR1Y0FETGl6elFKazJHZk1jZUVTdFllUTlyanJRUjJBbHNFRFljdG5JQUtvODR4RlZwdGVC?oc=5",
+      "domain": "Medi1 News",
+      "date": "Wed, 30 Sep 2026 11:04:33 GMT"
+    },
+    {
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4 % - Hespress",
+      "description": "المصدر: Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb3AzZHF3ODVqSjhjd0JQckdudHc2QlhCMGMwd0RwSTBZTUZlZFFNTkdKQ3BNcE5uVVdFMS1SSXZvWU51OUUxSktYSVluTnN6cEl0QkFhWlFOVkVqQ3p3UkU2NW1rMmdhWG44U3ZnYWt1eS1fYlF5bTMzRGVDcnlpYXd3N19xWGtLMGlrWmNIM09UbUJYdEItV2l4RTVzQmREeG9FdkkwR082bkVfZG5ZSmpSVW9wNFAwTmdYalRpMTFFdXdCZmN0S2NtZTJnV05wNldnYjh2alNQWjBtaWJ5WjBzWS1kQkN2bUdWVjAtRW9ZQ3BCdHdxc1NWLXBMZ2tOYmZDaHFyMWMyZW1RQzR3em1JNDd3WmVha2lCeW80N3VYM0lSX0hmSzRaNTFsNzQ?oc=5",
+      "domain": "Hespress",
+      "date": "Wed, 30 Sep 2026 10:04:10 GMT"
     },
     {
       "category": "business",
@@ -372,38 +462,29 @@
     },
     {
       "category": "business",
-      "title": "الملك محمد السادس: الاقتصاد المغربي يواصل الصعود بنمو يناهز 5 في المائة وسيادة إنتاجية متنامية - أحداث.أنفو",
-      "description": "المصدر: أحداث.أنفو",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVWJYdlVqS1RMUTd5aVQ2eTlnbExVY2JaNFZkZklQMWp3V2lySGUtOU9mY0hwVmx6dnBSeTl0akpXcHhZU1Z6Qms3Q3NYMG15cUNUZDdLWXowZmJlcl81bmE0c3JmRmw1cWxTdzlKWUJodThvSFlCdXkyZ2FiZjN2cGNhN2dHYnJHSVdXQnN1Nzl0b3I2enlvMGxjOVRvaXNjVlVrbXdFMlJWdzMyd0w4TU5MR0dOU0dKd0J2NWhOM19QNUY1Qy1TX21tT0RsMWdEZl82bzV0UnlubXBvVW1XRnV4MkZuNXJaX3ZZOHdmS1pEVmVoRnNZcTZEbmJTbV93czhzdGQ3YzJpSVBvYkQ0aE5mSVNGeXBteGwzOWwxbDg1NS1uelN0cG1xYXUxOEplU2NDTkE2QWdhREVIaHhZ?oc=5",
-      "domain": "أحداث.أنفو",
-      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "المغرب أمام فرصة لزيادة اقتصاده 20% شرط تنفيذ إصلاحات - الشرق بلومبرغ",
-      "description": "المصدر: الشرق بلومبرغ",
+      "title": "المغرب أمام فرصة لزيادة اقتصاده 20% شرط تنفيذ إصلاحات - asharqbusiness.com",
+      "description": "المصدر: asharqbusiness.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNZ3l3NTZBalF2YWN0Zjc3UThHc1QwbmlNem56R0NaWi1aaWMzZHZ2Y2tja2ZCVTVEOXJUTWNJM1BYVjk3X2VQTHVtN1pTcWxPSUxjR1VxX1hGWGdKOWh6dF85dmVydElGRU02alhVMlNtczNUVHJjLXROZFNMdkdtOF9NbUUwM1A1Y2NKeEVtT2ZBYVV1RWNzUXdMbjFpbXNnMnBDc3ZzaTllNHJsVGFfMFJ1MFhsanlnV2x6UUdUbWFjT3N5WG5hLXJHV0xPQVdCTjNyU3ZfSHNyMDMwLWltRHdHVXVubGVvYU9MYV9QRjFTRUxMSVBmTzZ1U0NzNVRKREZWNVhyc0NnaXloRmstUE9wQnIyeGtpMWZBcVVvaHlEWi1ZelhROGFVNnF2UkVDQjhtUndhYU5IdDVmUXBjMzlBd3FVaHJLNEJLVkduRWZZR28wcWFYN3U4MkV3QlRDV3JQVXd0Mm1ST1NmNTMtVEpXQmhtVHlPaHJPajVucFRjNTdjUVZPZUZsSjNqU2M3aTNGbk5JbE5wSW8yR29oc1FfZVp6WjVLQWUtVXlaaVJURnhzeWZtV1JFRUl0UzNCd0xUdVMtY1ZKVmtsUi15QmNtUDNBdHdOQ2QtS2VsYmV6NzdESEVz?oc=5",
-      "domain": "الشرق بلومبرغ",
+      "domain": "asharqbusiness.com",
       "date": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
       "category": "business",
-      "title": "المغرب يتصدر مؤشر التصنيع في أفريقيا لأول مرة - الجزيرة نت",
-      "description": "المصدر: الجزيرة نت",
+      "title": "المغرب يتصدر مؤشر التصنيع في أفريقيا لأول مرة - aljazeera.net",
+      "description": "المصدر: aljazeera.net",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEVBN2dfQmVaeS1rTjhBQ1A1VlQtYTVuVzJUYjRUYzlpTHNKWUwwMDltOTc3cXhHMFN0RmhucHJpeW9uN3Bla2JlWEN6cHE4RTREM1paNGR2b2M5UG56a1l6Q2dCYnRYcjdqQXVFaFNiVktfMmhlS0RBU0xOblg3T0E5UWQtMDDSAYwBQVVfeXFMTUF5dFJLeml0OUxpMEhYVnJfdEFhTUh5WlZwWlhycnZObXhnS0lkZEZybFNmTS1OQnJqaWE4aWdfd2hXdnlpOGRvSDlQUTUzTVpzd2RrbnFWVU84ZC0yOUVhNkR5eTBmSVJXd3B5Tl9sdmFFVVZjVjRrdEh4ZjE3ejN5LUJtdFI4djQ2RVg?oc=5",
-      "domain": "الجزيرة نت",
+      "domain": "aljazeera.net",
       "date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
       "category": "business",
-      "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - al3omk.com",
-      "description": "المصدر: al3omk.com",
+      "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpVnJUdmNvQXhtVkJHQnU1SGt4WFVvdlREay1UTjVyYjBLdTB5NlFlV2M2Z0RQV3p1RW9DbjRyV3ltTHpHeUE?oc=5",
-      "domain": "al3omk.com",
+      "domain": "العمق المغربي",
       "date": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
@@ -444,11 +525,11 @@
     },
     {
       "category": "business",
-      "title": "أسعار المستهلكين في المغرب ترتفع بعد 4 أشهر من الانخفاض - الشرق بلومبرغ",
-      "description": "المصدر: الشرق بلومبرغ",
+      "title": "أسعار المستهلكين في المغرب ترتفع بعد 4 أشهر من الانخفاض - asharqbusiness.com",
+      "description": "المصدر: asharqbusiness.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQT1VhSFpHLWs5Y2twaEhiVjdMelpVcVhDUTFTOUR0UkNPNVk3XzBueEhFazV4S29EeWh1bllNazBSUTdUenFmYXU4dHQyand6UGc4VFZ3aFZ5SVl0bmpJZ256S3kyeC1vc24yb0VDTUwxMG5wQW9jcTBBTXhtdDZsdWlScHZSaHFpcWNrQ3d6RW0yY0JCX1F6NU5NMDdrLXpHYlVEQXNKeHRfelhONG84QzQzaTFvMzFXWUpsXzJNVklGUHNKaTFYRkJybnpPV0xEMXIxTXBBYUkyTXRGS1VEcEg4cEc4aENYR3Jrcm5EZXR4bVNjSXRtZV9UNm1RLWNnWm80eHV1U3dPY0hMb3JINEx3Rm1HUjhLTUhIbi13Ri1OTlQ1TkpDeTFnODMtM0k5TjJIVk1zSTZqVlRVQzF2SkdralNMZC1xaUROdTY4bk04OTIxMUVQQnJDR1l0aWR0WFgyT0I4NV9LM25RTWlXcnJLZ3pmczJMeXpEa1IwRWtvLW5YellHVnUwQ254aVpqS1ZHWEJrdmdRdEFJdGdtdUFMaDBlWXI5RDFESG54YzVUeThob0pWWWktMFF3QlJHUEE1WDJ1Tm9DVmk1aWVlSUgydw?oc=5",
-      "domain": "الشرق بلومبرغ",
+      "domain": "asharqbusiness.com",
       "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
@@ -461,87 +542,6 @@
       "date": "Wed, 18 Nov 2020 08:00:00 GMT"
     },
     {
-      "category": "business",
-      "title": "اتفاق التهدئة الأمريكي الإيراني يبشر بتخفيف الضغط على الاقتصاد المغربي - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcGMtUUZ3QjZ5ZW01Y19rcWF1aElmRlNZcWxmRzR1c19BbDBXaGZBaWJNY2R0dVA4LUlvekw3V194RzA4aFZralE1Tkt1Nzl2NUQ5NjJxazlGcFVoQnBHUUZKMEJYblhWUVZuN0xLUUQzMllqLWlRQTd1NmR4X3R4d2pxYUxJQjExTENjRUxPZEU5aUU1MjY5S0lvVXg4bFF2cE83WkR6dkpJMFNNNV9DMUZKbU5mcVZFWnM2NkZmNXFQbGppekhwVmFFcDh6NC1UVTk1STY0RWg2ZWF3dU8tdFVRMTZFUkwtTDd0NWFWWmZXNUpVbWw0QUhQai01dHo3RGdDc184T3BqY3JUbzhYblRyZldEMnp3N1lXVUdWWExVbnRaaWo3ZVJJNkRKUGUxTFNtdXo4TGpJdGI2VkdsM3hVQXgtNHZIaTN3NjZ0RVk1Y1R0?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "المرصد الاقتصادي للمغرب – صيف 2024 الاقتصاد المغربي يثبت قدرته على الصمود لكن القطاع الخاص يواجه تحديات - مجموعة البنك الدولي",
-      "description": "المصدر: مجموعة البنك الدولي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR3lWUXFLM0NfWTdxcXplenN5dVo5Mjk0STlLNFN0cFNyVlRmNkRaa3U1WDQzTkRNUGdhYmZLWE52cXBUNjBfd0Ixdld0T21wNVVscWJzdk9xMXBIQnpfRDQwOWRYajZieFJsMXFJMGNHQV8yU2pZLVphakt3Szk5RXNKOXpHeDNqSFdRQ3F5OFZSV292d19LU1dvNUNVYVRXclNpNFh6bFpXUC11Y2NUcmtKVUJtWE1oQmZMeHgtbG01U3BRanRVZDV5Ml9zYkdfMl9BZWdQZG9KazBFOGs4cU94QXRtLTJWbTBEME1iQUxxaG9peXZYSFJMU1U?oc=5",
-      "domain": "مجموعة البنك الدولي",
-      "date": "Wed, 17 Jul 2024 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "خبير اقتصادي يرصد لـ\"اقتصادكم\" خمسة رهانات ترسم مستقبل الاقتصاد المغربي - iktissadkom.ma",
-      "description": "المصدر: iktissadkom.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNbDc2QTBQTXQtNUtyakZrYWVZZjhxYnZPaGlqVXBqTjJOMmljTTlMc2hQYlgwS2hEcTdfdTBreklmY3h2c2tVY0pMY3ZXQTlYYUkyV3NIWlZCVV9fWnk1NFRId0pDajMwX0I2MUJ5bXVRWDEwTE5wSXhlY1h3bWQ5MGNQcnBjRGlDSTdjWGlBY2FYX1lUcXRkZW1oODNZdGRLQnVJSDhXbE1xbXhvbmd2SElwOTJ5MjJpUFplUVNCZ0ZfU3lYZ19JbTIxYzl5QnJfMFI0MkVTT0d6V3R1aGhPdWtlT0JnejNrSnBFYTNxbjlmckJJeHJGRGNLbHZRVWNIWGRVY3Vkam9SenhIdU42VFViRE54UEg2UXJKbS1vd1RWSVFUOVRBaDNXd0szU09KU28zM1JEcDhrdFNTcXNhbnJGMURsMzBfUkRkcHBCdVR5a3hlZDN2R3R1THZ3U3ZsOXoyS05aOE9Sd2FoS0pDRFZuRWh6V2VtczhMVy1ESVRCLWwxemFZTkZ6SmZWeGh5VTFENWpoRV83ckV5ZERPQTBPOFZ1cTlvZjhjcHRoQkVqbGdxMVhaanFyVzJYRWhiVzhFLU0xZlc1UUR4c0FLc0lxdnVxVlJuZXVvVEhUdUZTV1lremNSTk44Q2J5TkRZVmN0V0NyUlBGVnN1YWNWU1BiXzRfc0k4Mm1DbkNDN1YtSGhGYzFubWJmTVVPdGRQa2hhMWhPdE8zcDFCaVR0ZzNZR2ZEZw?oc=5",
-      "domain": "iktissadkom.ma",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "صندوق النقد الدولي يحذر المغرب من مخاطر ارتفاع أسعار النفط - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNk9HSnlqdVVEZ1U5NVliN0RpRU8xeUJTczBnQjZiOFhkdFNJSTk3MUVhQ2V1Rmx3d1lNbWRmLUYtNEh0NUFQMU82b1VHeksxcnpLQTEwUVJfd0Vxc3AzcnlBWHBBV0dWWUt0M1NJNThHemh6VERjclBaTGpfVmN3S3ZjR1pyUmxCYV9KRmVTd05CcjhZcWttd1VZTVk2cE15RGI0WEZsQnA3YTNOWFJDS0RDd0NVWFFQQVhQMXJQZTNRU0Fhclp5MnpSN2xRWkp1TzA1ZGdSVWVqUlVLWjFnRzhHR3ZvTHZSZEZzUjEzYnVya19yN2NIQWNfMjd6NTEtRVRZeFNaeVhXYUt1TG8xTDVtaEJvSVYzbFk1SDlHcGZqUlhYTDVkNnJrOWd1Q0hyeWpBNmpXU3lhRjA2aDdYcy1oMTZIdFltSTRzRGFRaW9GbTV5WkE?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 16 Dec 2020 06:01:41 GMT"
-    },
-    {
-      "category": "business",
-      "title": "Royal Jordanian Launches New Route Connecting Amman and Casablanca with Two Weekly Direct Flights - صراحة نيوز",
-      "description": "المصدر: صراحة نيوز",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1hBbWdqZ1Y5VlRSRHhxSXlWQkUtcXNHSDE4ZERHdEJLTXFsYU5wSDZlZUZNaWdISDh2NXhnNk5CMzNzSFctbEd4N1BfYV92SGI4Tk12bVhVeW9DVmQtc3AwZmRrWXdkVWVXQkl5YTVDUmM2aFdleHBtMVZ3WEthMU42Y1NIYzZFSDlYajNWUFBsVWMwOTAyejNSU0hsdmhvVDZKZWxiLUhtMXZnRVUxdTdqWWZXUFpSTUZ5NUVTVEU2ZGJNVUFCRGo5NGNkdw?oc=5",
-      "domain": "صراحة نيوز",
-      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "كيف تؤثر حرب إيران على اقتصاد المغرب؟ - الشرق بلومبرغ",
-      "description": "المصدر: الشرق بلومبرغ",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNMGQwNGRvY1lTbFVJTUZJZjJmUzlJaF81SlBhSTZiVU40R0Q0UVpCRmxVblhDRFIzWFFkNnFDYlZETnBMNUFkSXhKR012VVJRUTF2czZYblFoSGZPdGo3Ul9DR1ZmZTlOY0p0cV84WXotSW40SXJsVWFybzlTNmJyMGYtVEFIUWI3OXhLWmVMSEU1dW9rTnFpWlNxVjc0UDhmdGxLWVdOcGxIUVJHcWlNUkpNSTJzcnBsZnlzQVRKWjJybnhaYU5yZWN5NXFvdjVSR29zYXFvaS1HaWFGenZrcXk2ZE42QjVmXzdITG94WmVIUDhHTHFmTWtEVjdTNDJ5cy1pdjdZZ0daMUhKQ2xZV2NISWZmdWozaWRlS2lZVFRGdkZDOFpMUTNfYy03QVE0MURIeWlZRW0tZVFPaDBiT2FDNW9xMktQX3BHYUtlRUo?oc=5",
-      "domain": "الشرق بلومبرغ",
-      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "المغرب يراهن على نمو يتجاوز 5.3% في 2026 رغم تداعيات حرب إيران - CNN الاقتصادية",
-      "description": "المصدر: CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQdFEtcHVsN1RLV2xxUnJqc0N5Q3VjUGYzaGZrQkVYLWttVUt0Z2NSaDhGWFlOOUN6ZWZoWTFKOEJyTHp5MEpKTlBYQV9Pak56aTJjb3ZnUElXVVZCLV84c19FVElvS2xVVllJTWhlQjVRU3ZHWTJKNzBxeXdjTHFtY3d0MVF6S1h0VEFvLTMySXlfYnNTRmRmenZJdmZGeVA0ZkgxSVlLQU9YSjl1c0diTUpySkVSYVJtcmQ2ZDBPSGN2c1lyMWpEU0RBVjdQSlo2ZmF5a05TaDJ1eS1aT25hNDlxcDZKeXkyZXd2WlhxQktoYXpKellKN2NoX2pCOE02Z2tPS2stWHB0bVRlQ19Bc1V5UU00UzJXUC1iMWtndGNmbENsZHdSbHg2WFhGa1hybUJJcVNYaENrbFhMTXhJTkdUdEJLeEo5Vnlqc2QyeWhUQ1M0LUJIMGtoSzFZUGg1QUlZcVNCLWRVZkc1aDlEY1M1TEpNTThxc0Z2MXNGdktUMzQteDFqOHpnOWdBc2tFZFBHczI1bVJDbkd3bzl5WXc3dDY5SEhDME9oSFhjR0Q5ejhtVkJKQ2FyblpMVmN2VFU0cnNma04?oc=5",
-      "domain": "CNN الاقتصادية",
-      "date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "المغرب يتوقع نمواً فوق 5.3% في 2026 - العربي الجديد",
-      "description": "المصدر: العربي الجديد",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM1FpYkNKOVQ1d2liYmRraUpvbV9jV0c4NW1CT0N4ck00X0xaZU5DR3JaZUtxYk04aTBuSDI4TXhKWkFkYlpDYzg1ZkIzOG9PMFB6bFF0QzJnUWxOUTc1WWE2QjVuRmo1bWpRa3JHT25Ra0NrbjBNd2IzTHpfUzdtR3hrYUg5VDNsRnRDX2Q4QjN2WG1XQl90cnVZRnRVcE9pRHNOVkFXcWhwUnhOb3FBSURGRXl3a180OW9HbWdhWWk1N3RtY05sbHpFWVd4aVRxeTBXem1HXzNVZlRIdFc0UzFDRmZXb2l5b2VaUmNHUmZsb0x2akVQZmNKWmI4WUw1VWfSAYcCQVVfeXFMUEJZTmZqczFwNDFKekVKRkk4UTJLNkhWbDFlQklhNm50aHNpY0prN1F1eVZUOFRHX25kbGxjMVlsRVBoNnlxZENSMVVWYmtVQTl2UFNfZlViUmVsaGxTaVhBUDItRDRPb1daZzRjZ0V2eGlQS01DWWthdUdrcHRLX3o1TkQzbHJFV0NaY0pXQTVwODk2UFpuVkhsX08zOWcteFplTUJ6OVhtWG5PRkE4Q0RxYnJKTkJQcHo5emphVFo1MlB1UnhtSm9UMFpCcmZkWHFNT2doYmJvcGYzQXU5Z055N2ZLTXhMdWQyTUhZSzFURnVNQnhocndKOUE1ejVTQVk0eFNXTDQ?oc=5",
-      "domain": "العربي الجديد",
-      "date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "IMF-MEI panel on Structural Reforms to Reinvigorate Growth in MENA - Middle East Institute",
-      "description": "المصدر: Middle East Institute",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0RxRUh3UGFTSG4tNHNfTWJhRHZPTlZyVGV2LWMxMjZ4SVAxeFl2UWhpeU81cTc2OE5iSXQ2OVRhVnQtRnhRR3MxODc2ZExzQXBoNW5RTm5yVEFvUEU4SndRRUdvU1N2UDdUQi15OVdtU1lyT0w5Szlzd1BOQnVWMDIwUkRKaklGQ1l3SEVn?oc=5",
-      "domain": "Middle East Institute",
-      "date": "Wed, 11 Mar 2026 18:18:52 GMT"
-    },
-    {
       "category": "technology",
       "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
       "description": "المصدر: كود",
@@ -549,6 +549,33 @@
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMno3cXBEM1V5V3hVYVh2TGpuekhZM0hpS3pPNHdIOEQ5NFpMUWZxX3ZYSXZaYXBYNlFZUGRyQmkyaUsxR3Q5Q3NmdXIxNzZwclgzZ2FBbjdpZGtLcm1SRXU3b1YzTmNBMjktUFl1S1dYdjN5QUNnODBGQ3l0Tmh4dTVrYzNRVVVreldjMXo5MVp6MFkyaER3WWMxZVliSTBuTHRUZlY4UUpxX09KQ3Q5Vlo4eF93ZlMtTkJSYUpCWmhaSlFzUURRemRHUzdYVVd4Vy1jTlVIRU1HeFk5djRXVUhvTWNqR3VsTmJ2MVRxZ2h6SGZiREpmNUZZWWJHaGl5bFhwRzRCb29LcWwyZVlmckFGVXROTFBoaEp4NkZyNXk5Q3RZenoyQTBFNW5ac2gwR0hRRDVVUHUzdWZ6Rk55cg?oc=5",
       "domain": "كود",
       "date": "Wed, 31 Oct 2018 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "يأكلون المخ حيًا.. أسطورة القرد الأحمر الذي يمنح القوة - masrawy.com",
+      "description": "المصدر: masrawy.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOaWphZnA3TThqQXJPa3JTcU9Qd0JoeHVST0hLUkdIek9NMlRSY1JraW1YTGxfLWRBblRWQkltZWxNbFM3MHBSMUZZbGpDa1k5bDh3STlFazNJZThlZjFnVUNsNkR2am5PY04tc2ZkWXdKQ0R5VUFiNFI3LXhLZjV6aTU0RlZKckgycE12WXRUcW9YT0xsMG5SZDJLZS02UWlNNjR6S0E0WHNEZDhlc1dMQ1FyVW82aFZSRXlKemVDb19JMkd3bHZOMUFTamNFek0wYUxENFVNcmM3N0ZlQkNXWWhZYlR0OHYtb2tRdXpHRV9JdWZTb3RXdjJkaFNUQ1R4Unhma2NwdVhNMUJobWZHOXVUTnlPLXBscUpOLWRiYlAwbGFvaEI3SjBWdi12endPd21tTWR0dUphdXlYVF9NNU1EX2ZjTkZmMHlUTEdYSzdUOXpfNkIwTW10LS0tVTlRZ1NPczV2WkxsTUFWZzVkcExGazRrd0NOTkEzeGwtSExUTmdkRFB6dFFCeFhfT1VIdEdTdlM4WFJSNHBnZTFaNWxNSVdpa1VEOE96OVd6NFJrb2RCQW1CREZ5REpvWkJTYVdrU0c2N05vQmlCQV9xTlpZVDlxS1RLZl9R0gHgA0FVX3lxTE1vLTZ6TGhSV2hwTjZfcFRBektFZmtPN21CdHV3RGVnSmUwem5WcHl0Tll3Q01xTTdGQTRieUktXzVOQ0FxdW1LMHVsX0ZmYU01ei1KVUpJSzJlV1FzU1EtLWI0VWtvNFdSYTBkTWZXdWtOUUo4d1Z6SjN3aklSWmJPZGJmOHAySmZiY1c4djNJX0owWlh6RjdVUzNzMTZjTjVRejhxY1Nqblc2NHBDdDZIQkFYZVBqaE9wdGE4ZnZ0eVJ1c1pQT2FJZXowenNuY2ZOV0hxMk43VW1EcFdXcXhlZU1tMEVOc3ptZjB0UUNLOFJJU1NyMFBobFZVS0FIY2dUT1l1TWdONkxRMld4aGVvcU5WT1k3VUwzTUp2NjBZcXNKQ2prT3RuWUZ0emNmNndZNFVhQktGWXhPZ0RKbmVHWGprVEdCTHhNTlpNZWpwREtQVW10UUNmTGdwY0dIQ0NpYUVzS1ZKNUpmWHNId1g1ZTNubGlORUdoTGZoejN2RVBBbkF2TmkwMmR2M1FwT1ZYNFgxZXg5a2oydTg4VXpfZDAtWC11eTRuaTJXYnhFTlN4Sy1vTmZkZUZtMWVkY3FGMjI2bG1YLVZXc0hDYUwyVjEwSHczODJ0cy1URHNYYw?oc=5",
+      "domain": "masrawy.com",
+      "date": "Wed, 31 Aug 2022 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "المنظمة العلوية لرعاية المكفوفين بالمغرب تشارك في المؤتمر الإفريقي الثاني للمجلس الدولي لتعليم الأشخاص ذوي الإعاقة البصرية بجوهانسبورغ - Maroc24",
+      "description": "المصدر: Maroc24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxQa0pFaF9yYjc5YmlGQU9jRzBEMnd5MUVkcGU1N0FlRVlSOHdOZm1oXzJBRzZ5SmdzbWFacVdjUlYxYlowVW42X0thbjlPQjNEY09WanNSVXRndTA3NnRMNDRrQk1MbUpPcTZacnp6VktqMmdyeXYxZ2ZTSThFdV9EeXdqWUdfTzc3SVZhaWRBLXFVYVVwWGtybzJaRnV6anpXaDV1QmtNTkRtd0c5U1JnOWRQakxOTkVYR2plWFFMbEhfLVJTYWhNY1lQUnlvR3NhUlM3WFM3RTdGb0VleDAwTFpFXzBxdms3b3NueTZ4TDAyOWtIS1I5QUhLZ2wtS3dqc1FBalp4VExUNTI4eVpmN3kyLThXelZhM3dOTlJIbU5MN1FxcWVsc01zOVVnWXh4MngxVzRoUmpsVGx1c2NWSjQ0UmctNzJfR1JWTWRqdWZSRHJpaFJpTXhySEo1YUVKS0FlRk5qVF8xaWFrUUtfZzRJaFNqQksxWDVfRDZieHVxaXVHQUlLSkY5OWg5SU0tMGVlUkwyNU81WDZpd2tDQUw1RzlOTU45NndJbW1MT01IWG0td2pzdmRUV25USUd6dFhvM0JrVWJadE5lTEsyUUgxcWd2dVdVM1lwOG1BRjl5TThiRS0zSHhpU3UxMFNvRTRMOGVRZXRmcHJXa3RIdjNDRGhnVUJaRDZiTktUSlptNVdZRFZYMld1LUZXTTNiM2ZMM2hqcGphMHhIV1FCNzdJWVplejVHMHZQc3ZJcDBpRXRVODJEQnE3T0Zqald2NlZmMjBHRzhLNy15OUw3OU95TzFFbGYzV1dPXy1IOG85aEd5Zl9fTFhKNlB6OTQ4WUtXZ2hMS1RFTzMzenFPVXVHMG5oaERVbHFYb1p4TUxNYWNhclhCcm9LQy1yTm5kU1otOXYyaEdyS3A5bmdNWTNvQ2JhUTNwREJfRVNsTy1pcGNDZWUxMXNENU8tcEJzckZZM2hRUThQbFlIRFVxRlM1NDl0d01SeE9ETC1IT1lLRmVjbGFYMmdzbWY5NWhkSTV1aFd5VHFRRnNQWkpCYm1MdXdrS09KNUFIbnRzb25CTUVTdFFzVDRjTHZ5TVZ6QXdmSF9TYUl4dnF5VzBFbV9DSVo3cmtTUkpoOEhDUE9PZUg1cU52alVubXRzLXIxdkJIb2lKbVdsczFjRUpwRHNZQ2wzS3VidHlvc0l6VzMyTlJLLWZRaDJJZnZQLWdDbUhpUU5oMGJTYXJBSnQ5ZFNFN29vWnhlbjN5ZWlLMjNtN1ZITFdBTktraEpmRlhadVEyWFhZZjVGZ3lUQmRYRzd3RF9acDRZSWtCY1VyaGdTaDllRzZEN1A4Rlhja2tvZWs2NDNudGREdTMxRmFCSG5BTDRONFd6djg4RmJnbVY3eUdGcHc?oc=5",
+      "domain": "Maroc24",
+      "date": "Wed, 30 Sep 2026 12:44:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "بعد نجاح تجربة BDS لطائرتها المسيّرة.. هذه خريطة الشركات التي تقود التحول الصناعي الدفاعي بالمغرب - الصحيفة",
+      "description": "المصدر: الصحيفة",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNQ0ttOEpwLWVtakRVM1YyU19wRC1ScmlGLTdvT1lxRk8xZFl5N1VLLW96YUVvOEpTSjR3NHhuUzlRcURXWldieGJaZXJQV0RpS0Vpc3BoRWluY3EwcFRyY0s2NG5lWjJfR1E3RzBzZnFTMlMtaFR2ZXRkdTJBWUZrYXkxVGx6RWh6U1hmM2EyZlI5UE1SUTF3NHNOQ25LVE1EUnEwT1dyNjVhQUkxSzJqSC1QcU5OOU5sVEstVmNrNUZrMUxmVlYwUDdhRnB5UFlzNUYtVDRUd21qa3hlanNxbTQxTEI5NDc0V2ZsUEJ6QjQ0d1hHRjN6VnFjd2RKc0FxelpvZ2lTUFRBbG9udWVsOEg4d2I2TEN0Z21xWVBDRF9XWVJpaWdQM1YwYTVaQkE4TDZfZg?oc=5",
+      "domain": "الصحيفة",
+      "date": "Wed, 30 Sep 2026 09:04:00 GMT"
     },
     {
       "category": "technology",
@@ -561,29 +588,20 @@
     },
     {
       "category": "technology",
-      "title": "باستثمار 1.3 مليار دولار.. المغرب يعزز ريادته في صناعة بطاريات السيارات الكهربائية - rue20.com",
-      "description": "المصدر: rue20.com",
+      "title": "باستثمار 1.3 مليار دولار.. المغرب يعزز ريادته في صناعة بطاريات السيارات الكهربائية - زنقة 20",
+      "description": "المصدر: زنقة 20",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE55ZFl6bFdvM1pRdWhkWUE0TlptZEE5MzB1UE56TEYzOTZ1Zmc0S09mZXNuZHU4UGlsakFmNTlBakxWNVZr?oc=5",
-      "domain": "rue20.com",
+      "domain": "زنقة 20",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
       "category": "technology",
-      "title": "المغرب يعزز ريادته الرقمية في إفريقيا: زخم الابتكار، شراكات دولية، وطموح “المغرب الرقمي 2030” - وزارة الانتقال الرقمي",
-      "description": "المصدر: وزارة الانتقال الرقمي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxOWW5PeGpPRWlWX1lkX2liYS1fQ1k5TmlzbDZqa3RPUjd2NmFrQmc2QTFRY2F5c2VXU3hIUUU4TmFRb2VrODFWSUpCaFQ0bXJWLWF6WHVBODhSVUo4cDVhajNvSzVUX0ZaVVpkM0RSVjRoTW5uYzJtVVV4ckZ2RzNzTHAwWU9qUlBka0NIUUJpOEtHYTItQlNfSlREODZvb3lhdC0tQjF2aGpvR3JTM1pSMDBQU25UVWJueVhXMkZDQVd4dk5mUjEtOUVieGY0NG9OSUhkbEdFSnNTRTZCS3QxTmQ5bzhBM0NES1luMThqaGFud1hHX1BmQ0pLUlh0R1pDbmQ3dGFURlZzRDBRWHgyWHphQ2VrZTduQVBCV0Q5a0FYV3loVmtPMTRtUHFGZFhtSDZkdWwxQVV4SU5pZlczZWVxeFhIZkVNbUpER0pMRUExaU9ING9rb2xzVmtWX2Roc0JXR09LUVNWbVB5ZGh5c1U0bHdQN0plOTIwcjNQT2ZFSDB6YVVOLUsxbGItb1dGSkd6NkNWNHFVOGZOa3dOYkk5Y19rQ0VpeVRkeTdJTW5hNUxteXpsaTZjU2RrYzNRSHZPTHlpWUxDbkVaZ3JabzE2aDZjZUFxekJiZnhsc0FJV1o5YzdoNnY3WkdKZDZmajdidEZCT051TE1ySDJEd0tKbEhoMDVNb0RuVWJvRzFxbC16emFCeU15VFA4V2IxRkUxaHQtM0l2bHloOXhNakxPRDAxYndoM3hJcDU4bDlLRGVUcTdBeS1td2I5ekE5cXBHRjBoRmRtZW05SlFOZ3V5OE9kYVZ1UUpJQ3BIbFhQNW5IT0x6dmxSOEx6bjlRR1ItZkRtclhPUVhOSE5uOHVlZzBJQl81emE0UDBvQ2VXTmtycW5NUlJPeGtwRU9qUHZIbEw4M3U3Sl9TcjdsdVFkLS12aHVfOWRaSHgwMTFTbFFTMHFPMUV6OTBwaEptYlZSZE9tckRuTzVYNy1NNQ?oc=5",
-      "domain": "وزارة الانتقال الرقمي",
-      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "أسواق الجملة بالمغرب.. “جيل جديد” يقطع مع العشوائية ويعتمد التكنولوجيا لضبط المسارات - al3omk.com",
-      "description": "المصدر: al3omk.com",
+      "title": "أسواق الجملة بالمغرب.. “جيل جديد” يقطع مع العشوائية ويعتمد التكنولوجيا لضبط المسارات - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSNEhtQ3Z1R0ppdWJuMmY1UUQ3VjZkNVRPZVhtR1FQWkFISnptNmJRTVJpZFM4LVY3XzJTVkZsUjJqNEx2SkE?oc=5",
-      "domain": "al3omk.com",
+      "domain": "العمق المغربي",
       "date": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
@@ -651,11 +669,11 @@
     },
     {
       "category": "technology",
-      "title": "مستشار ملك بريطانيا : المغرب بوابة أفريقيا وشريك تجاري رئيسي للمملكة المتحدة - rue20.com",
-      "description": "المصدر: rue20.com",
+      "title": "مستشار ملك بريطانيا : المغرب بوابة أفريقيا وشريك تجاري رئيسي للمملكة المتحدة - زنقة 20",
+      "description": "المصدر: زنقة 20",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0xWkk5TVhVaWRkV25JTHloUGF0QTFjUEx2MC1XUHdQekJzbU05Zk9UZnh1Tkh4WkF2dlUyNEdCeVRLY28?oc=5",
-      "domain": "rue20.com",
+      "domain": "زنقة 20",
       "date": "Wed, 22 Mar 2023 07:00:00 GMT"
     },
     {
@@ -678,11 +696,11 @@
     },
     {
       "category": "technology",
-      "title": "أمين أخباش - UNICEF",
-      "description": "المصدر: UNICEF",
+      "title": "أمين أخباش - Unicef",
+      "description": "المصدر: Unicef",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZuTy1SeUFLanJyYmtueFhxXzFnU1JfUzdVaGg5MjdBckZGaHVfMC1tRktYTnNvWnl0TnZUc0lRdWJhZHFXa0otV01uaVdGaTFhc3ppcmdJcTBYNG5JVWxkMllVdTN2Wjc5MEFseG54YThYVjFxZHdDRl90bjRFdTdCZUJiYVRWWi1VT0h6M0ZGY0gyZjdNOEhUeG1yNUxjeXhtZjNYbUhxeUQx?oc=5",
-      "domain": "UNICEF",
+      "domain": "Unicef",
       "date": "Wed, 19 Nov 2025 08:00:00 GMT"
     },
     {
@@ -696,30 +714,12 @@
     },
     {
       "category": "technology",
-      "title": "البيروقراطية الرقمية: تأثيرات رقمنة الخدمات العمومية في المغرب - Arab Reform Initiative",
-      "description": "المصدر: Arab Reform Initiative",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVXBxeThIbTBLYlA4REZqQVZkY2YtdENVRnJPRkN1Y2h5aTdpZmRnYjVQcGd6RzdxUzdQZUNlMmVKQ0xQUm92RGRIWXh4Ql9rQTZGbnBpSHdPR2YtV2I4a05kN2FZbklHdUpZdmZtQjBoMmdLVURvU0hXUE1pSTlGX3MzcEdONU83SjIxV08xYjZoYTR4M1M4d2hicS1ZNkc1aUZRZDdyS1hPSXoteUNQVVZyUWlYNWtxTzlVdzljMmFfSmFKcW9BSi1CbUhjcHdCdTRzeE8yVTFteW5tT2ViaV9vaDM5UHhzZERHcFZ2WDRTdUREZ0p3YU5PY0wyMUhKVlJERWVzaDhma3NSdnhoTVd1a0wxazFPQXdFbkxtNUF2QlNaUUhoVWFEdkpwMlU1WWJMRnkwSVJYRURkMnUwS0JkUFY2Q1FoYWpKdG1SQlc4dDI4UTBkVHN5MVg?oc=5",
-      "domain": "Arab Reform Initiative",
-      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
       "title": "ثمار السلام.. المغرب وإسرائيل يتفقان على تعزيز التعاون العسكري المشترك - العين الإخبارية",
       "description": "المصدر: العين الإخبارية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Sjg5a3FtZWd4RFpoUkFjTlRRbGNydDRVWDJ1Q0l2QXBZQnMtaldDVC1CaHY4RjNnSUNncDZSQzlPMTY3UnFBUDRqTzZmbmlsQWk3VjZ1Ykc0ZU9uTzZSRzNCYlBDS2djTWV2R1FxQnpUdw?oc=5",
       "domain": "العين الإخبارية",
       "date": "Wed, 18 Jan 2023 08:00:00 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "bac.men.gov.ma 2026 نتائج البكالوريا الدورة العادية موجودة هنا - فضاء التلاميذ والأساتذة",
-      "description": "المصدر: فضاء التلاميذ والأساتذة",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54cWF4V04wQmw2Wjh1Tk9yWjBNNXlmbmFRbVZIX1dMZjRyekdaRW93aFdjVk5aRGIxdzRUYTNWVWJicjNEMURZVkd1QkM1dG_SAVRBVV95cUxQSUYyMHh5dVhWY1lGSVNqOFM0UTNoNUR5dG1vMzg2TVVkSmRxVk9paTVMYkpkbmgxUXI2X2lTZWJ2MnNqSVphdGdEcjRJR21fZ2t2WDI?oc=5",
-      "domain": "فضاء التلاميذ والأساتذة",
-      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
     }
   ]
 }
