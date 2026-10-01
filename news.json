@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-10-01T14:41:57.754718+00:00",
+  "updated_at": "2026-10-01T20:20:25.555523+00:00",
   "articles": [
-    {
-      "category": "sports",
-      "title": "موعد مباراة قطر ضد السعودية في نصف نهائي \"خليجي 27\" لكرة القدم والقنوات الناقلة - الجزيرة نت",
-      "description": "المصدر: الجزيرة نت",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQMVBDV3JOOWtEa3dsRHU1T1NJU0ZqRmVkek1rODRWMnplbVM4Yk5XNi1xUnVUdU5XZ0tpUzF5MUxVaHBHcGhqaWpsWmQ5S08wTTdUWjJsRFZnaW9wdEplcGZabVgzd2o1VVZiTXhVcDFkRGNKV3JVZHEzdHZ3aHBMb1RmZzRwWHM0aldIc25CWE40bFdObnF0aWFQMWN0TkdpakUxT2JhTXZuaUpXWGhTSjE0U0ZuMHZFakJQUUtqR0hCUzRxMTZzbkVFV2lPczYwTzFzb0FfQ2J3cTVaLUJUZjhJU1JNQ3lPRVBpT0xRMzctNDA4OUE5azZSSFpwd0RvcFpxYzRFbDc3OWZITmM2SktBMEhORVAxeW9Hb2gzWkNWQlpzdWx3em5XR0RzUdIBswJBVV95cUxOV0Z3SFZZQ1djeGR0bDFPSUxmRU9nRG5iMFN0cjBVMzE4ckstUktSTEdPd2xhTXNiejY5Q2g2c0RYYm5hM1Q0M296Q3ZpQjRuTG9vU0tsSkxvRDZXNTRhMkFmY3ktclZRa25rbU02U1BxUG9Qcml3NHdKMjFlS0JqNG9KRVZYSk0xTElnOVZwV3AtXy1ILTZrMEFIUjdRNEwzWm00Y1JXdGlQR09rdXdpa29Ec1pOcWRqZ2ZsUWloWXNpZ0E1b2ZpYnkydHJRLW5YdWg1OGlIV2lWV0JFWW13aDdCV0R0bGQzeGRPNUFNcmE2dnVCcEN3b0x0MllTMFdzbkRIWTMzN1RkMDlOVngwOUhfVGdmU1hjQW52dHkzWXpyZHI5NDdWQUVCQ3NfdkgxenRV?oc=5",
-      "domain": "الجزيرة نت",
-      "date": "Wed, 30 Sep 2026 22:33:26 GMT"
-    },
     {
       "category": "sports",
       "title": "بيان غاضب.. رونالدو يغادر منتخب البرتغال ويعِد بكشف الحقائق - الجزيرة نت",
@@ -66,30 +57,12 @@
     },
     {
       "category": "sports",
-      "title": "تحديد توقيت مباراة المغرب ومالي في طنجة - sport.lesiteinfo.com",
-      "description": "المصدر: sport.lesiteinfo.com",
+      "title": "تحديد توقيت مباراة المغرب ومالي في طنجة - لوسيت أنفو سبور",
+      "description": "المصدر: لوسيت أنفو سبور",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DaUpDbGgxbF9Mc0t2SU53c3VzNnh6Zlp1YmZVNDYxWG9GRjlGNkNOS3ZWa0E2ZklaV0xZQTNIbUQ5X2lfY1FBbjhqQ3kyM2t3bVBJWmFEdFJ4WUVCdTZpaUJJVGI?oc=5",
-      "domain": "sport.lesiteinfo.com",
+      "domain": "لوسيت أنفو سبور",
       "date": "Wed, 30 Sep 2026 16:34:27 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "تصفيات شمال إفريقيا - المغرب تحقق الفوز الأول وتخطف الصدارة بثلاثية أمام الجزائر - FilGoal",
-      "description": "المصدر: FilGoal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQR3RKT0FTaW9EWV9lcWZraUpLN29lV3dUSnVXZ01CNnpRVklLZm8zZHM3LVY4NEZ3bzRpTTJTR3lJTWRkeGNtVmpZeHhWcV9fQUVCQ3dWb09RRi1KWS1BS3NVQ1NwTEZYQ0lsM0tsNGMyUHQxQ1FwN19RYUFiQnhwdnhMMzRQQmlSRV9vOXNjNjRhaXRlcGl0ODMybjFCdHRpNzZENEZZSVpWYV9aMVB2ZmRTZGphcDRyTThET1ZSZmxXdDI1ZkQyRnhxbDdDOG45STMxSWVKZ0VlMEUxc056djNnVDBSS3k0ckllckxxOTZ1UXUxdHk2eUxjU3Q4UUhIQndKU0FraFFIQk5MXzVhVHd3ZlhmVE9zMjM4eXE5OTY4RGRPX1VqUzlxRmowaGJyOE02X09mc2JBY1U1ajN3OXFnQk81R2QwWTRpMkZkVXA5YWJsYjBiRy1POS0tbWNrQVhiaGdoT3J6V3BTT1E0UVVtWG1SMFFuaEV1UFVfYUM1R1FZOG5MaFNjdHlQeExNdVcwcHk3RTI5WXZBcDZiLWduUnFGeDRKeVBhLV9KcXViWXpLMDJWLTBvaURxelQ0RzN2bWk3WkEtUUhiQ3NhT3NKZ3dVRXowLS1lTGxJa3lMSkxHbElsN2p4M3hoZ0dhcG0zaG9mWUhxRTdzbE4wbkVnbm15czVEcUZycmdJMFNGbzZ3Z2gzSks1dVYyS1JqV00xRURWUFk3ckdRNEVtR3ZvNXpueEY3ZFlfYkVOYTJlalVISVFFc2FWby1tUGVtT0l4WGZianhvOFl2aXRKYUd1LUNNZ2x2djVBZFBCaHBsZmJDeUViM9IB_gRBVV95cUxPSnd5Wjlha2c3aDh3aE16ajRaTkpsTXRRaHJsU0RScVUwVTJpZ3NmSVB2ZXlfRmNtS0gwcXpLRFd0cXVfZ1NVbm5mNVlndk9WVk1OcGlhUGZvT0VmZmhZeG5wakpjenhzQ1ZFSnp2TWU2ckZHSXBXN2hpbHBsdXV6UEhRdDA1Y3F4MzdCMUdGUEhDYS04cWI1dVA0OWx3bHV3TDQ4T2lOaUw1XzFpOFUwX0pFa0xRVFhkTVc1SzV3Zy15RERUY01iOVo1N1VFZENmVG1qdzZjVk9iZmNjTWo1UFVLWVl0TmlRemhOUXA4a2pYMkItWXFQUDhwcVNCQlplXzZvQmJkZFJjb3BEQTZyTmFGQjlyOTg1MHJsZlRNcjh6RDJoLUJxN0JmNUtwMzR5TVRyMHdPN1E3RVBnTWVac3VmVVFyMFUyWDBKbzNtcFZoNm5QQVNxbTlsTEtkZnNVRTIwZ0ZWcTV0cHRDMEhZRjJFUEgtd3RrM2NTZkh6TWZOeC1qUGNDTkFLQ01CcnZWTzZMdU9JdEdudHZ0MlNjQWpHYjdteWx0aTg4YTNtVG9kZURBMlVnT0t0UEZmU0MtLTE2U1Ezd0Q3b2lvWUNJTURMVnoweHpmSVJ4Nk1NOXN6ZHplSTBuRDZfNkxQUy1GcS1ySXFjYWtYTlA1S25lVzVhN2MzZi0zWXdPclpZd3lUdnBBVTFQX0wwY0xiRmR3d0NpVWtIRUFlQmwzNlAwc1pzN2pxZTFfQ0s5Y3BfUTZJNDZzdHRGdG9rWGRkd2szeHNoTDcxN1k2X1dVdkJOcEw3MU0xZ3ptcmx6eWFTbWNmUF9xTGxkenlGb2M5dw?oc=5",
-      "domain": "FilGoal",
-      "date": "Wed, 30 Sep 2026 15:52:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "المنتخب المغربي يواجه مالي وديا بدلا من غانا – الرياضة - anbaetv.ma",
-      "description": "المصدر: anbaetv.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5PNEJqTnNDb0xCUG10MVRfWGh1VWFhMGRvNVhHOTBXeTZCbnFoNERZSV9xejFZYzFGcTItU0xhWQ?oc=5",
-      "domain": "anbaetv.ma",
-      "date": "Wed, 30 Sep 2026 15:50:00 GMT"
     },
     {
       "category": "sports",
@@ -108,15 +81,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TVkYyOGpNSjNvQUpsbEhYVmNUQlhCRWplS3VVVnRIaEdBYlg3V0FkRzhtRDM1T0ZsX1R6ZDhxTVB3VGhRXzNnbGlLY3FwOEE1LW1Wd0o1NUQ?oc=5",
       "domain": "Babnet",
       "date": "Wed, 30 Sep 2026 15:44:32 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "كاس تحسم موعد جلسة الاستماع في أزمة نهائي كأس أمم إفريقيا بين المغرب والسنغال - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQb1B4Ny1LSnJJcjZJRjBhQUhxTFM0elUwOGtoOURscVh0ZWJJN0VFSFZYVFZuaTJpaVVJbXUxMWlPQ1RIUW5WUHhXU2VQR0ItdjN6T203MEFLWTNnN3dNLVNwZ3NtVmxaY0VoUWVIV3NSZGVVdy03em5hWDh0QThlaVM0X2I5ck9SZU5FVFlFTzRGTXI0N2JsM2Utek9DbVlEaVFqVGMxeVYtRzBOQUlxbDduenEyMVVfNFdDM1dvU2FyY2x0WTZueFA2TFkxWXhfX1pOVVNLRjdxOC14dFFVYTlLcWEyM29KUWVJTzRHdU8tZXVMd1czeF9UYzR1RHNVQmtwbS1vamxZTEpvTW8yVVVHc2kzNXAzdm5OOHoxU1EyLW9ETGh2alJfY3QtLUpUYV9DbEZOT2txMVB1eXl5T3hyaUZUWTZhMTgwVGZHU0lwa2VpZnlEOFppTUZnaDBn?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 30 Sep 2026 15:32:31 GMT"
     },
     {
       "category": "sports",
@@ -147,15 +111,6 @@
     },
     {
       "category": "sports",
-      "title": "حصاد العرب في تصفيات أمم أفريقيا.. خماسية منتخب مصر وصدارة المغرب الأبرز - اليوم السابع",
-      "description": "المصدر: اليوم السابع",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPZ1NtVnpWSzllN21wM2xDcTgtVWtVbktRR1B1ZHAyajFMYmdWWFpNRmhnN0JzWTFZUXVfUERFQkhhb3RPOU1RdGpJOENjRTZia2l4YnRkQzU4djV2SXUxMHZUajlLdjRzbHBlVk5WMVRaMmRobENEQ0lVTFo3SGNma3o0WmdZRVF3QTZ6UkI5UV9jZTNZTkJJbUpYOWFaWDNST0RxN1FuV0ltaVVkNEZWY1dGVk1QcTFJOVhsNThBRFdSYzNwZXlKZm9BcnpaWnA3WFBDSUlPT21wOXdVS19lNVZUaFBwektYYmtOYkZyNFJxX1dzeTZZUjBuNUkyVEZlcHVjWG80VGNVN1NielZyaDFjbGotSGhoZ3pOUDFUWkx2S0VING9YUkk5S09JLXFOU2c2V3dhclZ1Rk1YQzk4NzNDUEdXN3VhMkpQU1VCSFBRQ0lYdElLNVZ6R3NGQWNOZEhtN1pNSmhZNFZpTkhsaC1FUjlmXy1WNzdHLWE3MF9BQWdGTzBwOVkzeV8wemFZclJxNDZXb01YMVNWZEhJWlJUeXdqUV8xZDg0TGo5S2JZSGVkZ0JtdTI3TjBBbHd2eXIwWXFMTGh5cDV2S3g1anpPMGN5ekptYi1rZURR0gHYA0FVX3lxTE5fM1NBb0g1eFYxWjExQVpRd285T3RNMG80UjY5WTFUOG5MUmVHazlxc1pudkNlNV9HNnNjQVhYcXVMSGFlaW5vTHplVlJZb0tfZ0ljb0JWY254V0pndjFqZ091OVdEeFdGRG12RWJfZmo0ZXpsT0tDSDFWSWFJU0dhYng4X0R1LTFrbmVHOHl2cFZEN3Vrejg5VU1mR1o4XzYzbGowWmE5ZV9fbnNZaEc4THg4LWlOMWZSck1xejhjb05hT0JvekY2SnI5ZG9NT0lIdkYxQlZsa2hDX2xYdFJKOVhqRHFjeFg4ZDdpNjRCZnZzMFpXSnUyNUppRW5Cd29NX05NQW5DM0xPMld2MDZwSm9WcnV1MjVERXhKRno0dHBYLVlXVkdDUDRDSTZtQ05aeFVzd01kS2drQjdob0NMMDRXY2JZcGIxbm5tTUd1RWxMVHVDQzJ0VHBEcWdqTDFza1l6SmE3Sk5yR2NuazBKNmxXVGo0NEJIQWtSYVlJcDRFUENjWUp3Y2phTFFMakd1Qm1BRVgwdkRELTVEcnJvSnVERXh4ZV9vY214bDdfMWd1S2JkVGNfSEgwRU9QUUs5WWptdC1PTHdWVnBZd1lSNnVFVkdDaFY?oc=5",
-      "domain": "اليوم السابع",
-      "date": "Wed, 30 Sep 2026 13:24:00 GMT"
-    },
-    {
-      "category": "sports",
       "title": "رسميًا.. منتخب المغرب يواجه مالي بدلًا من غانا في ودية طنجة - 365Scores",
       "description": "المصدر: 365Scores",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -174,12 +129,57 @@
     },
     {
       "category": "sports",
-      "title": "غانا تعتذر عن مواجهة المغرب وديا بسبب أزمة داخلية - صدى البلد",
-      "description": "المصدر: صدى البلد",
+      "title": "بالأرقام.. اتحاد الكرة يحتفي بتألق مهند لاشين مع منتخب مصر - yallakora.com",
+      "description": "المصدر: yallakora.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfbmxUVDZyWjlMZ05mb1NOVGQ2QkV0X3J6M0JkMEFjVWVQQUNHdE9idUhuanpUdHdEcmFvLUp3NW5hb0w3c1dv?oc=5",
-      "domain": "صدى البلد",
-      "date": "Wed, 30 Sep 2026 12:42:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQeWRPUGFnazZTQmU3LXo2MWdTemxSSkZHc2VCRTlaQmtpandrRFRYVmpUSnVUNFBxWE10Nk9jVzMyVHN3elp6RnlmWVg1VU1xRHJFOHJjR0d3UkNIVFpiM2Z4Z1llaUQyS3U5Qzd6OFJrT2tfX3pTVmo4YUF2bkhXdWlNa0U5YXVOZGczZXk5eTUtSDhqdkR4OTJVNnZwU1ozY001ZmJSbXBuN2VuemhLTTU2cE54S1MxYkdkUWM2Yl9JaFdpOURZOFRTMHl4eHk4eU96S3ZrQUJBSDhOM2V0aGhOSU1SSUFuS3dkclRXRVQ2VXl0VUZpVHNDVlJFNGNCQTBzLUxNalNfcGhreUJTM002T3psM2V0UVFDM2Y2VjZpMFJFZERBTFFUcXA0Rmsxci1mWnh5M3FhN1VuLTNqYkxhUGlyZnhUS0p0LVpYNkZtanRySlg5dXRFYVRDVmpIcDA1NWFGX1k0WDk1RVJXTzgwZy1STm5WXzh3UjJJQzE1aHJUc2pwc19MVFl6N0E0RmZBUEg1VFB6TkFvQXdjX240XzBFRTMzcmpRY29LcWIwQ2tPMzRHVEZUYUV4enNGU3BleG1ySkJRS3hHcFlFV1FDakZVZUVMMWh1YmJ5VGdMMk5NalNjVXA5aWxUd9IB8wNBVV95cUxQQVEzNV9vVFZzQ2M5UFNMRzNmemFoLXV5VjYxb1dGSkxFZVhab1BaRk1oemJyX2Q1ZkJFdHVWdy01TWYxdU9pZTJKX3ZfV1ZvWU5DT1RTd3kzdGZzTHNSWEpkWTRtei1qM2dvZVZDN2J0Yzd2MWZub0VoMldsakw4WldyQXVVUUQ5dnNWWnhlZmdhd3UzbzV4bHU3OUVTWnFSSFNoM0hlNmNxYjUzSXdXVFpSZm1GbDlEc3FzVlBxeTVPTmhla21WRVhWcktNVkEyWUNQdktYTDJqdFVsNHBlb294RFdWX3F6Zzd5SFdmejVhQlhIT1RXNDZqVDUtcy1yRlEzUjdkVDNkSS1aU25DZWdwU29FbkEwZ0NQVllhZ3B0X0tmWmFjelhxS1AxTHc4bFlXRDN6M0p6ajNaZXlQdm9EQ1AxQ01fclk1djI0RWxNb2FqbG9hRHptb2ZfVGVfVzQ3dDY4QTdSWF9TUk1jV3FNZFBHaW5Ea0NkalJjemlHUS1LZmhGeFB4TzdLX2x2MnhFRW94YXRoNzhFWmJPbEMtdXNGMGt5QUZ0TWhrYTdPR19pdEpWaGlUSzJWNDhYMVk4czZsWFcyMTZLOWlzbV9FOFUweTZkNkZLclRXSXZ3T1BZU3BUVDB0OUdMa0J4QVRB?oc=5",
+      "domain": "yallakora.com",
+      "date": "Wed, 30 Sep 2026 12:04:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "تمرد مفاجئ.. حقيقة إلغاء مباراة المغرب وغانا - Kooora",
+      "description": "المصدر: Kooora",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNeWl2SXBYbGJneV80eDA5cmVUc1FQMHhXanZDYlNqZ3UyaGRBd181OFd5TzRkSFZvbHlFT0MwV3pDanZvS1Q1OUFMVllwSGtmRk9wSXZoQTNkZmxySFBvZm44cTY4M1UyajlHOTUyaE5YNDZ0QXFWckhWc3NyeDNqd0JFdWxxdEUzYmIzZ2dPc3lEcVRJS1h6MTBQSnlzdTdSU3VlQjc5cXJORDVySVhKQmZXdFhPMERmeFFOT2w5Y0FETzl6VGk0NlptMmJRem5lY2pvX1p1OUtsbnprcmRfd1VCRUJ2T2drYmRoZ3ItVXViWVBrcExyRXNkM01xZTA4Qm5XZUhKUldBdE5xaHFuendNLXdPb2ZMREFfSlFmZF9MY29ISDZuel9uX3piR0o0WkVsWDEyT2JKZ2FrNkxvekVIV1FJUk1QRnU2ZXN1SUJ4THFRaGNlNzJQR2RsRGs5ZTBraGotZERTcVFKbFNheG8xSmVZWEtzS0pTQXh3UVlOZXh5Rm1RMXpJRUY2QUppR29td05MV3F1WGVoemZsYXNZdjhHX0ZMcDlOQ01MeFlFV3hXeVBHLXo3YVJSSXNqYW9mcHh6RjJXWHB6eWM2Tkd2X21ReXF0V2dxdGZDaFNBbWxBbkc4b2hfYw?oc=5",
+      "domain": "Kooora",
+      "date": "Wed, 30 Sep 2026 12:03:42 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "تصفيات كأس إفريقيا للأمم لكرة القدم 2027 (الجولة 2 / المجموعة 1)..المنتخب المغربي يفوز على نظيره من ليسوتو ( 2-0 ) - نية مغربية",
+      "description": "المصدر: نية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOalZ0V0IyOFRDV005Q1FJX1BkRmZXNF8zVUhVTnRPM29CRmg5NzdWeTVkS3VIRkVGX0ppQlpLTjg2bm90OXFtU0RKck9VaG1SNHBINUJzU2diTHlhMDNDZUhzSkdjd1g4ZTlWWS1pWUxCN0ZUZ1ZyWXZNajEyU3VwcU1NVXotR3RmTnlQQ1BhNmFzbll6SjRKTm9CenpBZ1lReVRiNjFGTTdlTjZMakFtcjVnUFluV18zaUtQcXZSbUtYaUNtYjJWek1NTGJ4TE5waTBCaW9aTFJSdERLQUVWSjNBelZOc2ZkX2VTSXRyNUtIaW9iSE1ISk1fTkNCTUlJVGFVc2txSHBQNWlrM25iQlNYT19DSjhZUGdWUWNBOWEwaWdaQTd2RnlpQTQ5LVA0QXFVVDkxTzJ0bEtnSWlpOEpn?oc=5",
+      "domain": "نية مغربية",
+      "date": "Wed, 30 Sep 2026 11:31:46 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "منتخب المغرب يحقق إنجازًا تاريخيًا فى تصنيف فيفا - اليوم السابع",
+      "description": "المصدر: اليوم السابع",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPTWZUbFdhR2p5MVZWSGM5MzNjSFhEVmNVX092VlNHWTYxeHNRNzNGZ251eUpocnVZQ2JSOFRzUEM0dnVhYzQ0SGtFNDk0QU43Y21vb0V2T1hfUVg2TTZfa1hmUVVYVkQtSnQyVEtkQ2JidVBrM08wWTRpbWpqcURNR1hZU2dLMTYxUC1sOHdBNFhHN3BiSW52aTN0MHJJVHd2d0tPakpUM2Fnejc1N1lqd1VuMURLWXhyOWZIVjVZYVBKZjR0dU1WNFR2OVFfdXFidWpJbVNtVGtMV3N6Sy1BTVdnOE9LaFRfSDBqeFhYX1dDMTBFSTFMeEtLZTdpVVMzWk1GZ0txQTRtMU5CWUdvS0FhZWxQSGgzVHJGOGdnZ2oyblZvcjRPcVp2VXFhclBNYmxybTA1RHpTbVZEMkV3OWc3b0ktWjhzWEF1RThITWlWTjQ5c1JwdlRHQm5keU1WUUhFS0hCeTA4ZjJQSXVFQVdHd2NMRTJLTkF2cjQtdFFra2ZScmFhT0VLSFJfQVFjRnNjbTN0bzRBVWdmeTVwemhnZS1IT0ZhOHRF0gGmA0FVX3lxTFBIV0lKOXNfQ29TNjlhUUF4Wjc0NHE1NWtpUEo5RG01Vl9FWVpyRThwRVNldjQ2emZLd2JQZXcycWNsd2c0eVY5aDZaSFgtMW5ZejN5NUlpMVRPUHVqWnRZT25IQ000T1pzNFREdjJ6RHNKdmFNd3I5V1FidmpocllRZ3pQNTJWZmk0RmRNazVpaHhkM0xDS05uR2Q5RTJLMmN1cDZ2bHgzV3hVS2YxXzlheWRCV216N21PX1hBcXRUSzdOaURZajNzdndPRjRhb1diaVpES1hxeldNSW5xTFBXd08tVjBfV2FhbDJGM2o3VUdQRG85dzQ1UGRseHZUaGdvUW4zT05jQXBhWU0xRzdmbXlEUmtPbmpicy1lMzRHcWowQzdMRnBKMndvc054bUI2Rml0VmF0Y3VXcHNqNWFVYkVGS3RhempUaW95QUFGaHFRVFpVZWJ4RTY3WGFFY0FmdjJfQVNyN2ZOR3JzX01FUWRDMDljUk9MVElPQ3kycHA3NWIwTkVFY3lVb2RDb2sxU3dkNWRVMHhsczZjQUlSNnpBYXBB?oc=5",
+      "domain": "اليوم السابع",
+      "date": "Wed, 30 Sep 2026 09:46:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "تقرير: لاعبو غانا يرفضون السفر لمواجهة المغرب - filgoal.com",
+      "description": "المصدر: filgoal.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vVWFoaWtEMmJuZUJWaGk1bWFKZUxqSWN1dHRzaEFMZXhSTldKVFlGY0lMVVhPOWYySUpwa3k1VkFKSGhjNThwS3huY3VUOFM20gGPA0FVX3lxTE9mT1ZCaXhoWk5zNnROeVZjSGZuNUxNZ1p3bVBNT0xUYzEzWHNHaElJeEgteHN3NVJrUGczNE9tNUwydHRlQXF3SU85M1lkT0dHdDBIeExxb1VLblFtSUVlSEdBZllGSUJ5Nk9TZUZWLVgzOU5objVHcWdwUm5VbXg3UHRFbUN3bUVNbVNURVNOb1hfWjhBSE9fcnI2VlN2XzM1NE5FcHVCQlhTYnNFRnhDTG5yRTR6N2xTMFY1R2pNMFVtTkY5M28wY1Q0cFltWnVka2J0RXlVYmJkTUF0U2E2eV9rY1VHLS1wVEJaTXZyeEhKTG93clFZa2Q3Zl9sYktZdXdmc3phSVBEZ2w1Z3NuTkliRlNsNi1TT1ZHZmpkYkE0RWZoQzhKRVFxQUdCb0R0Q1BCUEE5TDlobm1EcFBwa2ZTVkk5LXh4RzM3dE1RMzdlV19LMTZROVJ4NVY3anBLdzNkS25KQUFMemp5OWVwYlFSalY2anQ4VzVuWEdPQkNEdE91cUtkMXNFYl9IVQ?oc=5",
+      "domain": "filgoal.com",
+      "date": "Wed, 30 Sep 2026 09:28:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "ضيق الوقت يربك حسابات المغرب بعد انسحاب غانا - 365Scores",
+      "description": "المصدر: 365Scores",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQbml0bjBDbk9yMXFIQzBKTU42MHh6SllSSTdVNVpCOGtnM3VnblB3QVF0UTVfWUU0eC16a0JuZ3dMQkZEZlJWbzNxZmVyMXREWFlDdkFlX2xYNXpsZWZLTFpjYVBCUmRCNTNpdzEtbTZ6bVp1cUh4RmlpYVkzUWdQMkhkUmVWalZ1cFp4Y2VUUGJQMmhpY182VF8yamN6MUpwaE41d2RwLURIbW1yRFFtN1ZfemI0SnFXQ2Q5MGpHTGFUYmc1T0dfZHdOZWN4WHQ1aERia0M4WHlfODBWT0dNNURiT2VkMGFNZHgwdTZRX0NiZFNaN01TZ3djUGl3Vm0zWUlTSC1lX1dZeUExMkJVeVkyc184VUxHWHJFSEhsUWE1TUdlZVd5NHpHcFZoY2tjYno2VUtDSjhNRGhGV21taEtlQXgwYXhiTE5kMlpEaC0tdnBoQTdUaTAxQXNTQnc?oc=5",
+      "domain": "365Scores",
+      "date": "Wed, 30 Sep 2026 09:02:56 GMT"
     },
     {
       "category": "general",
@@ -210,38 +210,38 @@
     },
     {
       "category": "general",
-      "title": "بعد إلغاء مباراتي تونس وغانا.. مالي تعلن مواجهة المغرب وديا - FilGoal",
-      "description": "المصدر: FilGoal",
+      "title": "بعد إلغاء مباراتي تونس وغانا.. مالي تعلن مواجهة المغرب وديا - filgoal.com",
+      "description": "المصدر: filgoal.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BV3M3TjFWdEtRMWRHRXM5UWYxd3dFazRHdDJEeFFmc2VnTFBjRWRid0FfUE1ySzBNMktyaE90TUpuNHgyRkpUcE1YZHhoem1k0gHjA0FVX3lxTE0tWXZpMGl6OGFSRE9pdFBsTmNQUWlMN1cwZ05NZldzdEFUMjdfV1dlTGVmOEk5UHRXVkk3RlRFc21XckNONkdWUGdOWEl5WUpEVklWUzZaQ2ZONGdXRWNTRHdqcTh5eXI2azhhYUNYQ2ZRc0Jza0I0ZmZTZGYyNURfMl9VQlpyZ3lHUHI0dXQwUkdqeF9KeTR4SzBFazBJUDdUNkNRY1BGVDBpc0ZqVjBobndWX2gyZldleWpCWGg2bEo3S0hPTENTM1FvMXVGd09FYzZVdnA1Tlk0V2VrNWZYdUFDbjRtNmFTNnBadjVaa1Joc09UUHpaaTRzeUNDRmRabjNqc3lPTlE3cnBMVXFKdi0wTEJFMzltajRNeTBXbWhnWG43cVh3S3Z2MUs4T2IwYXU1WG81SzdhOFNFWVByTXo0blNxb0puX1ptb0VWdTVlNDhFTnJjczhNUWJnNndYR0lBaXA4Rk9ZeTRDRHpvYU9DbDhjcnc5eUlUczhaOWlmc0UzR3VxV2Q2eUdxWGpkMlVZRVlZNTZETVRzX0NjTGc1b052QUgyZmNadWVJWnMxZzFHX2hNSnh3UWFIaC1Zd2Y1OC1mWHlrbEpna21KOG9VSmRIci1sQW1panRwQ2ZyVQ?oc=5",
-      "domain": "FilGoal",
+      "domain": "filgoal.com",
       "date": "Wed, 30 Sep 2026 16:41:20 GMT"
     },
     {
       "category": "general",
-      "title": "تصفيات شمال إفريقيا - المغرب تحقق الفوز الأول وتخطف الصدارة بثلاثية أمام الجزائر - FilGoal",
-      "description": "المصدر: FilGoal",
+      "title": "تصفيات شمال إفريقيا - المغرب تحقق الفوز الأول وتخطف الصدارة بثلاثية أمام الجزائر - filgoal.com",
+      "description": "المصدر: filgoal.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RM3JXWEdzMTBNbFNrMWhZVUx3VGZzNFFTYnoxZk9VVzM3bW1kTWtJT0FYODBZZTBGckNCdjJPX3h2X3NCd2ZvVjRvLW9zZzg30gH-BEFVX3lxTE9Kd3laOWFrZzdoOHdoTXpqNFpOSmxNdFFocmxTRFJxVTBVMmlnc2ZJUHZleV9GY21LSDBxektEV3RxdV9nU1VubmY1WWd2T1ZWTU5waWFQZm9PRWZmaFl4bnBqSmN6eHNDVkVKenZNZTZyRkdJcFc3aGlscGx1dXpQSFF0MDVjcXgzN0IxR0ZQSENhLThxYjV1UDQ5bHdsdXdMNDhPaU5pTDVfMWk4VTBfSkVrTFFUWGRNVzVLNXdnLXlERFRjTWI5WjU3VUVkQ2ZUbWp3NmNWT2JmY2NNajVQVUtZWXROaVF6aE5RcDhralgyQi1ZcVBQOHBxU0JCWmVfNm9CYmRkUmNvcERBNnJOYUZCOXI5ODUwcmxmVE1yOHpEMmgtQnE3QmY1S3AzNHlNVHIwd083UTdFUGdNZVpzdWZVUXIwVTJYMEpvM21wVmg2blBBU3FtOWxMS2Rmc1VFMjBnRlZxNXRwdEMwSFlGMkVQSC13dGszY1NmSHpNZk54LWpQY0NOQUtDTUJydlZPNkx1T0l0R250dnQyU2NBakdiN215bHRpODhhM21Ub2RlREEyVWdPS3RQRmZTQy0tMTZTUTN3RDdvaW9ZQ0lNRExWejB4emZJUng2TU05c3pkemVJMG5ENl82TFBTLUZxLXJJcWNha1hOUDVLbmVXNWE3YzNmLTNZd09yWll3eVR2cEFVMVBfTDBjTGJGZHd3Q2lVa0hFQWVCbDM2UDBzWnM3anFlMV9DSzljcF9RNkk0NnN0dEZ0b2tYZGR3azN4c2hMNzE3WTZfV1V2Qk5wTDcxTTFnem1ybHp5YVNtY2ZQX3FMbGR6eUZvYzl3?oc=5",
-      "domain": "FilGoal",
+      "domain": "filgoal.com",
       "date": "Wed, 30 Sep 2026 15:52:00 GMT"
     },
     {
       "category": "general",
-      "title": "منتخب المغرب - مالي تعوض غانا في ودية طنجة - قناة ومنصة المشهد - أخبار العالم اليوم",
-      "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
+      "title": "منتخب المغرب - مالي تعوض غانا في ودية طنجة - almashhad.com",
+      "description": "المصدر: almashhad.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPNEY1Z0VqQUR2eFlxTTV2MXl6Uk1QUjQ3Ul9KOGFGdlI2ZUlmMk90RVhaV2paUjRldmIxUnJPZFh0azJWeHZNWGs1VFVDWXkyb3pCUEFOLVhzbDhIM0Y2SEp5bS1FTnRYZGM4ZVltWXR0N3ZsVVVhUHU0OVhlUTdoUG91eGM3ZkthZ0JwcHdJOFhTR0lUODJtOFVPQ1Rzdncydi1na2NQdUxvWmdsQ1V6cmNvOEg3azlPeDYxTDJ6ZmpydWQwYklJcWJqXzROS1dXWWZpS1BsTXRaY1VPdWxNTVZrNjJhX1VfVF85Uk5VNlFfeGZEX290Z0hRV0RodTNtTjFFLTJ6ejN0WVpUQnd1QkhWUUVOVC0xemhtN2t6U0Vtb0hkN1hWLXZiZGdwUElSR3Y4WEphSWJWSEZ6MmwwMnZrVGwzMDZDZTlhQ2RQdVNXNTVLVFg4ZDlPX1BtV2JyWDJVelA3U2lxZHp4RVBHNkVGejBOWTk4R1VBb1cyLUxud09zMndSc0VEcTMxdFZS0gGWA0FVX3lxTE9CdVNiYzV0VURwSGxERWNXcnlGYVZDRnhEcWpoOHZKeVhlS2VJTHpudW5qZHRzbjRiTHdudTE1YXlHbjdoaGtHWXRGUVNJVDdiMjlHUDFMaEk4Y2M4UU1FVl85QmxXUGx6X1VEQk4wM2hOZVZmTXR3Zkd4RUlUMUlkdHB3a0R5VVZIMHYxQklwdW1GcGVkMENrRWMtVGxSVlFzeU9McXRuUFllNXJxRlE2WWR4LUpIRjhmSEZJUVBkLWJiRmc4UmhKeFl0OC16UExTTk93UHRqczVrcUttS1VuSnRQTUpOVlcwS1h4ZGNlZUwyOTFRNEZPbVJtay1TZVU2US1qS2Z3Nks4Z3Z0MFdjakxSaXpxQjJveXhXd1oyaVlBUk5kMnljaTM4cHd1Q0xqcGpNQ1RGZEIzTUg0M0RuYU1xVHdVMEExNDNxRXBRTmlVUTVrVExlclRyWHdxZElJcjE5XzFpM1VpNGxFeDJOMkg0a2JRLUhvZU15WnQyazExNG9sV2wzckpBVkV6NE1wWmZ3RUE?oc=5",
-      "domain": "قناة ومنصة المشهد - أخبار العالم اليوم",
+      "domain": "almashhad.com",
       "date": "Wed, 30 Sep 2026 14:19:46 GMT"
     },
     {
       "category": "general",
-      "title": "\"كاس\" تحدد موعد جلسة استئناف السنغال ضد تتويج المغرب بأمم إفريقيا 2025 - قناة ومنصة المشهد - أخبار العالم اليوم",
-      "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
+      "title": "\"كاس\" تحدد موعد جلسة استئناف السنغال ضد تتويج المغرب بأمم إفريقيا 2025 - almashhad.com",
+      "description": "المصدر: almashhad.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNdmdqQThCbURiWXBWd1RoNTVHMGdFMk43VnJVTXkwMU11blhHY3NwUndaZE1EM3duNTdQNW5GLWhLTmx6a3piM0NiOTZSMGxxdFVSZTFQd2I2WC1ZOHN3eV9Db0dXYVd4R1FkaXFFSTIwNW9CWWZqODV3RWtDVHZkUkZxTVVBQkVlaEJhWDhST3c0YkdKNll0VFFuanppUjJDdTBueEdqdHdSSmVidjFjUjhxWTU2ZWp1TVlXYTFGSmpaQU01d0FudVkxZjF1X05HWjBabUNFRk45dlp3ZkY3Qm9sOEs5WGlCT0hibnpYX2xDcENvNVQyNmRPT0hBeUcxQzFma3dkX1J5MjNpekg3bXktUnVlY3YtWHoyZ3ZCMTh5WnRRQXJjNG5iV2E2VVlUQVJ3Mkxja09WMWhPVEItejNMS0UxbmRmR2FPUmlqeVdlaGl5YjBIaGdiSGR4X2d1WE51NDJ5aVM0Yl9fUXl4YjhGeHBnWUpNZ2w3QjRKUVJ5bWdtUk5zZWVMVmthTHQzV2U4TWF2cVkwdVo1ZFNjc0ZmcjByV1A1U19WdFZaXzZfRkpnQkNPTkdUVmkzcTU3M3JSNndjODlMTFlGc1BBSUJqV1g0VUxuOWZqMlQ3UC1yNlRaanc4bWlPLURkVENHNVlJeGJfR3RWeUJlN2NSbFg3bUVEbG1HeTN2WG90U01PZy1LSGpOblYwNTNtWHVOMDdhVmJKYWpnRzFBN1RqdkZZN09PN3NodVcw0gHABEFVX3lxTFBVbVhsak5sc1V1WjQwN25aXzhpcm9KNVB1TmlyQ0ttUF84dldhY0dXUHBIU1Y4aVlpZERHalREVGt5SGYxbGdzZXdiN1pobXZyc04yZTc3WTFxdkpEcm5EUjVDbVNrYnZCSUd6cTVGdTJWOUhZaURoLWdTYm1sZm1EY3hkY2tjbWg5YzM1Uk9hQUNVZGNEaWFQOTMyQ2NleUZiY3J3NzBHb0lUNWhXeDVuY0dBbkFGUVZlWWxOZ2toN3pCdmEzSEc2VHQxOHpSX0JjNnAxdElibE9hX3VDaTNWcl8xcTZPS0dKRlNIVHNuQkZac1NUV3picDdDczFKM2k1QmZTWmRGbUtQSkhPSGxoZGFxclJIdHUxbUtwbmZDVHNFQXpvbXVvalZoZHNYWk9zTzhXWUxQd1FvaDhtQVh4a0VjSlF3ejBSdG9IaVBZVk9peXpSdDRTZGFIaW9PX3JiVXI0ZGM4M2N0SDVNZXl3OXRjbnhYa1RtZzAzRGxjTGFmY1BiOURFbldORUJYbzk1TF9WS2dzR0djQUNLU0ZfNENUc3JQUEllSGhzZVFFYTRSZFd0cXJVM0tvOGpRaEJSa3pGSTAwV3Bkb2RwZzlWRmpObWwwZkdZYnV4SHFYOE5FVzlKMWNjcUkwRURNbTNibmpHQjBONS04NVFmSHN3Tzg2UlVheUJaZnRrRTh6OVkwQUdxUUFHcXZyaUlCakdUQTZaRGRENDRKMDZOaUh1N3ZtVnlZZVY2b25XRERSYw?oc=5",
-      "domain": "قناة ومنصة المشهد - أخبار العالم اليوم",
+      "domain": "almashhad.com",
       "date": "Wed, 30 Sep 2026 13:40:34 GMT"
     },
     {
@@ -327,11 +327,11 @@
     },
     {
       "category": "general",
-      "title": "منتخب هولندا - فان دايك ينفجر في وجه الصحفيين بسبب المغرب.. ما القصة؟ - قناة ومنصة المشهد - أخبار العالم اليوم",
-      "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
+      "title": "منتخب هولندا - فان دايك ينفجر في وجه الصحفيين بسبب المغرب.. ما القصة؟ - almashhad.com",
+      "description": "المصدر: almashhad.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQNW5zRWZlNE1BY282djlQRXFJQ2o5S1dTbm9VVHZkWWNQVzBtajBNUHNfeE9fRXM4QmhjaVRUM1NJRjhxODRlWjZYZENlXzNHQ2hIdWl0NVcyMjBNQTdQQ0ZPaWM1WmxnbjJRaFI3SlhCTEo3bHQ2Qi1QVElCNGUxQTN4c1RJLXduTXdIeEQ1d0Z4a1lCNktwd1YyUWZpTUlnVzJSR09NNU5KNUFwT0xmTDg3eEFtYS1QUHlITHV4dl92TWYxSFktUFlqYjFfWWdRbHFQZzFzQk5BVzFXenpKdklqWEU0d2NZajRfT3BWcXdCOEs3X1dQM011OHpXMTN5bUcyeFhlbm5sQ3hNQjBLV2ttYVVnelNNTGhWbi1LYnVMRVA3aEx2Vmk3QjlnakxKcVMydE1VbDRRWlUyYmJuQk1oUzI4X2NoZFBOc3ZOUTZlRGxHSzBYcWxmS0twVzQwR2FSSC05dzF6WHNDSktGQlFyZVVlQ0JTbk9RWUZBbldaQnhOTmJUMmJLd05QV0I0bUk4TVh5aEczV2Mzai1BM2VUMU5zWUhEWGpPcW0wMjl1ZVFRakRDVzBtTVB6djFNUTd2TTJWaE9iV3UxYnQ4S09Pc1ZpazE2TU9RNHZLQ3BJZlRBeUFYQWFzVkh2eG1Pa1FJdEpUdUFxSnlBTmg1cTRJYWdYX2hDeTVxdHpUX1hzYnRac1pVTUdCY3pUOEZOSXhtVzZzbkRrWkZlTEdTR0E4SzVvZ9IBuwRBVV95cUxPRzU0Vkh5Z2s1NnQ2cHVBQWRYc2JISVMxT0JDTGF2UWZzc3AyV0l5ZDBsdWp5anFuelVWRkFYbS0zRDRDQVM1Y0VoX1lTSmtfXzE0WGtmWEo0TmJLTlRqMW1ULUVtY2RTQVFkSGdPZDZjbWwtUUI0NTBraTFyWkU3TVVRZDRtVHNBNE1RbEFjcTV2aGdKai1CVnZKZTlkMUNua29BWEhjR2tSajNwZGFwWkVjTmlzSHhhMXFGd1hPWlZ3cThSakFTS1U1RE5XVUU0TUtHZXZQQm5xMks3eDlmbUY2NXUtNDFMQWthMVFuQ0MtcFJLenZBN2UxQ2d0bnFqNS0wYzdJYWZhZWh0b1JWbmZ6cHlXdklRY1drU042V19abllNcnZ2SnIxWHZBMjl1N0k1dHJUVUNqRkNLUHZOOWd1V1NqZ1lZMHpoUWJrVHRpcjd6NUZkRkkySlBGRVhRVXFZS2VWM05pYm4wVUNBVUszeHVpUmlTTVQ1ckVFcGozQ24wVnFxNUljeHZFVVQ5OVdPRFVJQTZWTUROSFFXUFUwVjM2Q05ueFhoYXRIcy1XUk5yVVQwalhuaHNGRHh2YlFVYUk5bHJoaDNUMks2ZGpJMUF3MEFkNHlLc2JJaHB3ampXYUM2NlUxWFR2SnNIOWtGY242a0RTSmpXREd3UnRSdkN3UUNST2VfNVhkdkpWWXZuVGtzUGdaQk8xV0VDSkNBT2o1Y0RlbnZDb3BpYnM2dHkxQUI1MWNz?oc=5",
-      "domain": "قناة ومنصة المشهد - أخبار العالم اليوم",
+      "domain": "almashhad.com",
       "date": "Wed, 23 Sep 2026 21:02:40 GMT"
     },
     {
@@ -399,11 +399,11 @@
     },
     {
       "category": "business",
-      "title": "المغرب يقفز إلى المرتبة 54 عالميا في الابتكار سنة 2026 - Attasiaa",
-      "description": "المصدر: Attasiaa",
+      "title": "المغرب يقفز إلى المرتبة 54 عالميا في الابتكار سنة 2026 - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcVdHaWhLa096Z0xHVWp1UGh5VWFYV1puMVRmR1drbzNnUWptUnFBb3lnek5iNE9QSGtoSkdHcUVOMGZfMVZoelVXOVRISUNxWFF4MGt0OXRMNUtEZ0xhbmwxdlpUVGdtblRBNGNFaXF2eGxXbkNTSjA4WkJsdjZKOThJYWdpcFBfQmZEZkZtRmRHUnQ0aTZfV2JQNVhpN0I3a3hyVmZMSmh4Q2ZVNFduZWRKbEdwU0hkZUgxYXRQN1hrZkFvN0w2NUZaVC1VVXRnR0ZCR2lSN1hUUXp6azNfOFVMLW9hRG4yWmVKaUg5aC1uWXJUUEhxZnRHTkxsczRxRkttbDhIVk83MjBLZHNjOWlTQVNOTm9RM29JUUYzS1MzM3J5aWk0aGoyWXdsTFBUTTl4TGhBUXVZYTlWSXc?oc=5",
-      "domain": "Attasiaa",
+      "domain": "attasiaa.com",
       "date": "Wed, 30 Sep 2026 16:35:35 GMT"
     },
     {
@@ -444,20 +444,20 @@
     },
     {
       "category": "business",
-      "title": "نمو الاقتصاد المغربي بنسبة 4% - Attasiaa",
-      "description": "المصدر: Attasiaa",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال 2026 - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUV4eFdBV1pDeE9lSzEzSjJnV2FHM3RiQ0prWjFIMHRLdF9WMy1kbkFjWG1mUFpTOEF0SlphNWdpaThBV005cW05eGNOeFVnR1hmeUFlbTBVX3BCMjFYb3hoamNqa1A3NDFDT2RQZzlPMktUeVhoN0pwNmNJT0hwS3o0MEVWNVZxLVoxdUJFeHBiMHc2bHdSYjNGY3d3WEtsQWZfUVJwek11ZUNBcnJRblNBOA?oc=5",
-      "domain": "Attasiaa",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSEhsQ19ydG9YN0ZqMERDaFJKcklGODQyV1ktQ3p2U2lmV25pQUNDU01ha2ZYbS1lOVBRM1FqQ2h1dkRQUjBCUWlxemhxMUJGZmpPTEtRVEtRbXYzX1FGNDVDMDBXRktTWDlKV0h6YXFjM2dRcnhVQi1PT3NhWVVkbDFqRHlIM1FVRVJUYW5qcXhETktwd2pVNUl4X2lqYlNOazlmQXpTemkxamZGNXU3T0I0THNnN3ozZ2xubXlKTzVhbVN5R1B1a1BydDV3RFQ2ZXhPcnN1VEh0cTlKQ2tFN2FvNmY3ZHY5YVlUQ3ZoQnI4dnhpZkF0S0FDRTF2enRSRHF5RS1EQmRnSWZOMkJZSzd0STJrQ19pZzNqRlVNcUVMdFlRbmtmek1SN2JoeGMwTXlTWnFTTndMUFdmUGROSHZB?oc=5",
+      "domain": "attasiaa.com",
       "date": "Wed, 30 Sep 2026 11:34:40 GMT"
     },
     {
       "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال 2026 - Attasiaa",
-      "description": "المصدر: Attasiaa",
+      "title": "نمو الاقتصاد المغربي بنسبة 4% - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSEhsQ19ydG9YN0ZqMERDaFJKcklGODQyV1ktQ3p2U2lmV25pQUNDU01ha2ZYbS1lOVBRM1FqQ2h1dkRQUjBCUWlxemhxMUJGZmpPTEtRVEtRbXYzX1FGNDVDMDBXRktTWDlKV0h6YXFjM2dRcnhVQi1PT3NhWVVkbDFqRHlIM1FVRVJUYW5qcXhETktwd2pVNUl4X2lqYlNOazlmQXpTemkxamZGNXU3T0I0THNnN3ozZ2xubXlKTzVhbVN5R1B1a1BydDV3RFQ2ZXhPcnN1VEh0cTlKQ2tFN2FvNmY3ZHY5YVlUQ3ZoQnI4dnhpZkF0S0FDRTF2enRSRHF5RS1EQmRnSWZOMkJZSzd0STJrQ19pZzNqRlVNcUVMdFlRbmtmek1SN2JoeGMwTXlTWnFTTndMUFdmUGROSHZB?oc=5",
-      "domain": "Attasiaa",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUV4eFdBV1pDeE9lSzEzSjJnV2FHM3RiQ0prWjFIMHRLdF9WMy1kbkFjWG1mUFpTOEF0SlphNWdpaThBV005cW05eGNOeFVnR1hmeUFlbTBVX3BCMjFYb3hoamNqa1A3NDFDT2RQZzlPMktUeVhoN0pwNmNJT0hwS3o0MEVWNVZxLVoxdUJFeHBiMHc2bHdSYjNGY3d3WEtsQWZfUVJwek11ZUNBcnJRblNBOA?oc=5",
+      "domain": "attasiaa.com",
       "date": "Wed, 30 Sep 2026 11:34:40 GMT"
     },
     {
@@ -588,6 +588,15 @@
     },
     {
       "category": "technology",
+      "title": "المغرب يعتمد تكنولوجيا ألمانية متطورة لمراقبة وصيانة السكك الحديدية بشكل استباقي - تليكسبريس - تليكسبريس",
+      "description": "المصدر: تليكسبريس",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uOERqbkMwSzFsbzNqb1ZsU1Vrb2otbHhFMjZDemxDb0cxbmc3QUJvaG42ZjJaUTdrZWw3TFJkR3h3eUREbW5jRzhGQXE5R0FKSnI00gFTQVVfeXFMTm44RGpuQzBLMWxvM2pvVmxTVWtvai1seEUyNkN6bENvRzFuZzdBQm9objZmMlpRN2tlbDdMUmRHeHd5RERtbmNHOEZBcTlHQUpKcjQ?oc=5",
+      "domain": "تليكسبريس",
+      "date": "Wed, 30 Sep 2026 00:23:56 GMT"
+    },
+    {
+      "category": "technology",
       "title": "باستثمار 1.3 مليار دولار.. المغرب يعزز ريادته في صناعة بطاريات السيارات الكهربائية - زنقة 20",
       "description": "المصدر: زنقة 20",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -669,11 +678,11 @@
     },
     {
       "category": "technology",
-      "title": "فيديو - المغرب.. توصيات بإدماج التثقيف في التعليم الرقمي وتعزيز المدن الذكية - قناة ومنصة المشهد - أخبار العالم اليوم",
-      "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
+      "title": "فيديو - المغرب.. توصيات بإدماج التثقيف في التعليم الرقمي وتعزيز المدن الذكية - almashhad.com",
+      "description": "المصدر: almashhad.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPeXpWdHFxRVFKaHFXZVI2ZUtHZ0t0UzJfcnFpSGgzUUYxZWJXV2VuYkE4WThhRWtaUU1Qek01R21yTTJmM0txRWRTb2RFR2o0X1VNSGI2UThJX2RPaFN2QnpTRDJlLWV1UGF1VmtrUUJWd3VnSmVWd1FrdTY0bldHWkI1VnZfRGRWVkllcEtoT1k5S1dXT0tualMtRmpfZUZrb2tNejUyejk4RXVXTlJhVHJzaURDNzZqRVYzUk42QnVfUGlrZEJyd3FPZ3Zwdm1FcGUxRi1pSFBMS0luMkN3aEpXMHlfUnRBeWNjNmVGTk0zeENRRmlzMlQ1aVZPbGNZbkgwT2RORWpEZV94T2djZ3k1YU0zVDhULVNhWTRKMTY0TkFERUY5UktMV2duZHlXbEoyOE53cU1IajhkSDNwS0ZaZmRSVnRESGhUMXBNSWhKWWdDWXRTS291c0RWMmtNQjJxTElQRVBLSzh4TlBnQ3VaOWpmRFA0NkFYMnRqZmpJVU91Unhfc1ZLbnRTZkUxakIwUmFzeEt0UzhqYV8tVURTNkp6YVBEUkp4ZEMzR0VEYzRoMTN3Q0drWmVqTjhKVGZscTZOQjducnNwRjdmbG9Mb1JYSkd3WEVhV2tzdXBCSHg5NXBQOENoY05yN0dvdVltaUVKX2dWQVdsUVJYVkNoRnpFaVRDY1JFZ3ZEbXg1TkxLVXZjQU4zR3Y4Umg5d1JNaWd4bFA5MHFpd0JPbThSc0xLSGF1SHpDUXhGOWRVNjNUZUJMbHk1dktOREdPSGc4SERrS0huNWhrOXRxcG1hR1ZuRml6bnhGWnVHOUtuYkJJR3ZtQmtXaFdXTzZ6OXfSAYcFQVVfeXFMTmJNU1o0ZnlOWjRjanZSWTY0aUZ6RTVRbVdpQmVDRkNRV0VvelFBZmViYU9LUGpPRnJDN3NkT1IwSmx4QWtGYXFjSXJzZkh2LXlJRW1ld0o3c2JwMGEyemRIbXBFTHMwNkpld01aUGhfbEZqVlpqa1F2SHhHcW00MWJnUldOZDQ5WFhMYkxuS3lJVUx2TGt5QUwzSVZzb3kxamZyWlZTRnNSWFg0LXZaTnZja2NjUERaS29pT0k1ak91Q2doSzJabTI3bENwY3RQQnJEaWg0V1h3YzRYdVc3QTZBVUl4ZVlmLWtzeEptRVpDTThFWmpJSlY2aDRwUDBVZ2lQWVg4VXVmcEt1d0NoTFItQTZhVEp4OElNZzE3aERSSmdSeGN5b3pNUWRZNWFvRmxpTE5OVWoxMlZkbnJZWk1fZ0VrRExUTi1uZzhXekhtZ3FnZDVmR0RPbURsSWhlb3NCb2ZmaUg1T05PX19RZVh5TnMwbG9HZU04M1Q0SFFKNDJ5LS03Zkt3eG5MdG9KQk9tRE91VXVOYmllbEdHSlJBMlhmTFNKYkJoZlkxWThCcTRLekZucXBCYUtGdXMySXIyVDlXSEZ0aUdzNG5CSVRjbjdmajdsNWl4NkJhcThVNDBWWlVkampsQ1hUZWJpS0R1YUJqREJRUFFfbGN0UHYxWUdSal9Wb0kwbWtUem45cjFtaXJWbjhldEllQVNxcFNEcUFpMmR3QXVNQ1B6NEJkZU1DZnFkWjJPQVVGamxDWmVCZ3VjdDNac2QzMDQ2UGlSY2l6NXNlLU92eWtDMzZsbzh4bWFVNi1fRlVTZzVwMnBkd05Qc040RHVmbW5PaUVPdkpCWUU?oc=5",
-      "domain": "قناة ومنصة المشهد - أخبار العالم اليوم",
+      "domain": "almashhad.com",
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
@@ -711,15 +720,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWjNjUUU3WGduVlJxMWxnOWRvNi1neWlzNTJaay1XRGI2ZzlWRUVxaThlMnE2T256YTdoSjNzb1o5WG1UcUtKaFpMRmktVzlranJQaG5yYmFFME5qTXdNazhSYWd3cGdOdTNKTXhJUzg5aUhMSXZPUUpnQVRhMnZ3SHJSMWZJNzBiZ1U4Rnl5MnNwaGdRRDZuVDdTWWcwbWJZVl9qemRtTkl3N3I4V2lOaEY5QVpYNXk3aENVRWR3SG9pcF9GSXpvSWp1TFV2R25sNmVQbndPaXRibzVPbnhRM1RsRkJ4WExkRW5qY3FXUU5rRmxwUzE5bXI0UEdLTFNCdUxuZ21Dd0F4NW1UZFNZNlI4bFo3RlBOTk42bVpYUzBHS0dVMFBVQmw3VDBUVjN6QTJMWVFYdWNsOHpxTExsak1YdWpjRFRkeEU1NWhWbmlidw?oc=5",
       "domain": "Hespress",
       "date": "Wed, 21 Sep 2011 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "أمين أخباش - UNICEF",
-      "description": "المصدر: UNICEF",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZuTy1SeUFLanJyYmtueFhxXzFnU1JfUzdVaGg5MjdBckZGaHVfMC1tRktYTnNvWnl0TnZUc0lRdWJhZHFXa0otV01uaVdGaTFhc3ppcmdJcTBYNG5JVWxkMllVdTN2Wjc5MEFseG54YThYVjFxZHdDRl90bjRFdTdCZUJiYVRWWi1VT0h6M0ZGY0gyZjdNOEhUeG1yNUxjeXhtZjNYbUhxeUQx?oc=5",
-      "domain": "UNICEF",
-      "date": "Wed, 19 Nov 2025 08:00:00 GMT"
     }
   ]
 }
