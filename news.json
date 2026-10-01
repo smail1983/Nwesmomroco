@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T14:29:41.584483+00:00",
+  "updated_at": "2026-10-01T14:34:58.059304+00:00",
   "articles": [
     {
       "category": "sports",
@@ -72,15 +72,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOV25QaHY5cy1VZ0Z0RjdCbkdCT0prZFlHSVQxb2k2bGxVU0dUSnpXRWZKVmpJR2tCYTd6Ylp2WWh6RTJILTV3UzFldVhPOTVydThwSjVtWEdKZDM5bG1TWldvaFBNY2V4a1U1Y2xad3oxUjdMZ0NjT3Zib3dDSFdpY0wwVzc5UFowd3MtcDRQaXZVMGdPbDdhMXRhdTc4VjFCOHo2YkktU2d1WHhDdWlKd1hYSktLMVhZM3Rfby1xTFp3VzhMb2tWWVlBYnFmVzhwc0lndXQtbk1xTUVBV2JPMWIxWndKU3l3MXd2WTluM25JWEs5bi03UHExVXR5OF95UVRHU3ZyeXVvZ0ZBUnNQNGtwZnFicDAzYnFQVGVJckRLYktVNEFhaGVGbW5QcklWMmZTMXMxQlZ4a1Vu?oc=5",
       "domain": "24saa.com",
       "date": "Wed, 30 Sep 2026 17:15:45 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "تحديد توقيت مباراة المغرب ومالي في طنجة - لوسيت أنفو سبور",
-      "description": "المصدر: لوسيت أنفو سبور",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DaUpDbGgxbF9Mc0t2SU53c3VzNnh6Zlp1YmZVNDYxWG9GRjlGNkNOS3ZWa0E2ZklaV0xZQTNIbUQ5X2lfY1FBbjhqQ3kyM2t3bVBJWmFEdFJ4WUVCdTZpaUJJVGI?oc=5",
-      "domain": "لوسيت أنفو سبور",
-      "date": "Wed, 30 Sep 2026 16:34:27 GMT"
     },
     {
       "category": "sports",
@@ -180,6 +171,24 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBib1hfV3NNUVRjQTZGeG1yVjF3OTRyS3ZFUXNTZ0RkNHJ2RU5LNWI1Y0UxMlh4dE9neElhYUtmdzVDclhJNTlj?oc=5",
       "domain": "elbalad.news",
       "date": "Wed, 30 Sep 2026 12:53:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "غانا تعتذر عن مواجهة المغرب وديا بسبب أزمة داخلية - elbalad.news",
+      "description": "المصدر: elbalad.news",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfbmxUVDZyWjlMZ05mb1NOVGQ2QkV0X3J6M0JkMEFjVWVQQUNHdE9idUhuanpUdHdEcmFvLUp3NW5hb0w3c1dv?oc=5",
+      "domain": "elbalad.news",
+      "date": "Wed, 30 Sep 2026 12:42:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "إسبانيا تضع نموذجا جديدا للهجرة بشروط وضمانات لليد العاملة المغربية - SNRT News",
+      "description": "المصدر: SNRT News",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EOHdlZVNmbjdvLXprd0g0RkJmZUdFbC1ka2NRTWd3MlpDcmN5aGNweHJPdDJsdkR5QkxNVktRUUppOFY4TDd5NU5Zcw?oc=5",
+      "domain": "SNRT News",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     },
     {
       "category": "general",
@@ -351,15 +360,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOOU1LWGdJcXphUHNkWTlHY252Q3Zlb3FyQkkxM2xpdks0NmpDSjFHSHNVOC1qdHJqaTVFS1Bma0U2enMzNFlzUGNtWlQ5cDk3Y2lIVkdjYTRpM1pza0pZNEtyVnJtWmYtNzh0ZlZtaVZueXRnd1VnTkU4SHRvUnBmeElvNXpuS2ltWTlYV2kwQWdoZ1dyX3FiXzFzaVBSQmdfWFFUWHc2MXVhZW5JV0xTMDBoRGs3dk91bWpYRFA3ZngwZWlxbjM4TjdwbUpLTkl0d1VNaW5fMGhmTEctdnJMTjdCUk9yb0dxOXBUMlhpSFBXZlVKc3dWUU1rampCT1d0US1YdjQtdTlrNkxHSWxTSTg2RnptNEE5dVhaMkxDRFRxRmM1RV9Yb1Eydm00U2NpNHRtUm1iNDF6ZXZJeGxMU3JGSGNWX0RNcmNjUEVaaWpFVXdUb1FPTThSeVFRbktXdWQzZXJ4MjFwM3RWck03TzhobHdFd1ZZQ0Z5SnNPbzFtaXRyMlF2NDZkTXB1YWZZTnk4cmdxUnpjNXZXakFKWlZHU0Vod09IbEFONGcyNktBUkYySDlIWFAtZUwxa0NJaG45MVZBMHd5Y2ZUZjNIbncxRmNTWnNfaVk2bkgwa25JOWEzdlFkendQWWhWUXBGa1RNbkpvWdIB_ANBVV95cUxQTV9ZVmJKX3FhSWlMeG9tWE5reXdMQ1JjbldZMmNJWjV3eTlqcnhFamZoVFh5TXRrSU5Xc2IzdmxzSjZCdWhZRU9IOGU3YmplblNtVDNVVEV1WWd2UXVOemJWUEpXblVMTEVsaFp3RXY5QzRtZU9pMnhjeElCOGV0UDF5MHZNQnQzSWFTR2VHbWpqOFp5SDQ0VUtkcEFKMU83d1liWXlQY2NQQzA0QjdFb0syMDFuTExFM05KcXRRcUdocXhlSVh3NjdmQ25Db2FtYWVmTXRqTG5qQ29wMkhOT2N2Y09QcDFBVDdkYlRMRk9kNkwyMmFhU0M0bVNZUFFfRlB5Y2ppVHpiSmxoTnZmS18wUkN2UGNZNnAyYzlhb2dHSEVfSGxwM3RBS2tBcklCZFZuaXdnay14eFZjRkplVHBPNkwwMmZJVWd6RWlOOGswVGVOUi01SDB4UXRGR2h0OFNxcWc4emRlSWRxZE4tX2xjamhNQkF1d0RfVTlMcl9XZjNqcThBSU5mRVJKTk9Sdmt4d2lCSXMtdlI4WTZ5X1JlUlh5OGZkdC0wMHpfNEhnWmU1QlUyOXo0TmdCTG5GRjYyM1A5TnQ5WWJINExYTjNYazRSSUNwVUFzRENZMDVVNDJVM3phUVhRVm05WVA0VThqcEtVWVRRZzYx?oc=5",
       "domain": "سكاي نيوز عربية",
       "date": "Wed, 23 Sep 2026 19:21:00 GMT"
-    },
-    {
-      "category": "general",
-      "title": "Tangier.. Man arrested with a bag containing electoral documents inside a school hosting a polling station - inews.ma",
-      "description": "المصدر: inews.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONHlGR2NfZEtib0daM3hVS3p1SDN5aGxtd0xPTGtFQy1PVlE3R1NuWVAxSTFjdGtCSTZmTVo0enNpSlhTa2xCdUU3NDFkZ0VUcWFQemthUV8xX2hzaTVhVDZGcldqVlhhX0kwTW5Sb3FCQTRUZUltMUF3MTdQX05idnExOFN3b25LeDFjNnZ6Z08tTnRYZl9EUTFieGhjYjVsMDdNYk1rZ2N1ay1KUVRtTkRVckdsRjRmTG9jLTRVNEU4SGlUa0wxT0hXS3FTSnBJanlNRzdNQXk5NHZXMld2SVNUY3RUZS1yczhZWTllNWZ0LTZjWkhsMVVTblhGelVVUlJXUzNGdy04VHA3X1d5MzRLUUJFYkI1N0dQbnRweWhUNlVUSHJiaGFKQXNUOVIydlFUdi1sdnNVM0RHd2JYeVp4VXJuSnR0SWF6bjc3b0R4WFZMclZXN3FvaGFULXVtTUpmSGtrWQ?oc=5",
-      "domain": "inews.ma",
-      "date": "Wed, 23 Sep 2026 17:11:15 GMT"
     },
     {
       "category": "business",
