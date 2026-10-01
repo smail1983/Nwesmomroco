@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T14:26:34.027219+00:00",
+  "updated_at": "2026-10-01T14:29:41.584483+00:00",
   "articles": [
     {
       "category": "sports",
@@ -183,15 +183,6 @@
     },
     {
       "category": "general",
-      "title": "إسبانيا تضع نموذجا جديدا للهجرة بشروط وضمانات لليد العاملة المغربية - SNRT News",
-      "description": "المصدر: SNRT News",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EOHdlZVNmbjdvLXprd0g0RkJmZUdFbC1ka2NRTWd3MlpDcmN5aGNweHJPdDJsdkR5QkxNVktRUUppOFY4TDd5NU5Zcw?oc=5",
-      "domain": "SNRT News",
-      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "category": "general",
       "title": "ترامب: انسحاب آخر الجنود الأمريكيين من العراق يمثل \"يوم نصر\" للولايات المتحدة وبغداد ضد \"داعش\" - Medi1news",
       "description": "المصدر: Medi1news",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -362,6 +353,15 @@
       "date": "Wed, 23 Sep 2026 19:21:00 GMT"
     },
     {
+      "category": "general",
+      "title": "Tangier.. Man arrested with a bag containing electoral documents inside a school hosting a polling station - inews.ma",
+      "description": "المصدر: inews.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONHlGR2NfZEtib0daM3hVS3p1SDN5aGxtd0xPTGtFQy1PVlE3R1NuWVAxSTFjdGtCSTZmTVo0enNpSlhTa2xCdUU3NDFkZ0VUcWFQemthUV8xX2hzaTVhVDZGcldqVlhhX0kwTW5Sb3FCQTRUZUltMUF3MTdQX05idnExOFN3b25LeDFjNnZ6Z08tTnRYZl9EUTFieGhjYjVsMDdNYk1rZ2N1ay1KUVRtTkRVckdsRjRmTG9jLTRVNEU4SGlUa0wxT0hXS3FTSnBJanlNRzdNQXk5NHZXMld2SVNUY3RUZS1yczhZWTllNWZ0LTZjWkhsMVVTblhGelVVUlJXUzNGdy04VHA3X1d5MzRLUUJFYkI1N0dQbnRweWhUNlVUSHJiaGFKQXNUOVIydlFUdi1sdnNVM0RHd2JYeVp4VXJuSnR0SWF6bjc3b0R4WFZMclZXN3FvaGFULXVtTUpmSGtrWQ?oc=5",
+      "domain": "inews.ma",
+      "date": "Wed, 23 Sep 2026 17:11:15 GMT"
+    },
+    {
       "category": "business",
       "title": "وصل إلى 4%.. 5 أسباب لتباطؤ نمو الاقتصاد المغربي - 24.ae",
       "description": "المصدر: 24.ae",
@@ -399,11 +399,11 @@
     },
     {
       "category": "business",
-      "title": "المغرب يقفز إلى المرتبة 54 عالميا في الابتكار سنة 2026 - Attasiaa",
-      "description": "المصدر: Attasiaa",
+      "title": "المغرب يقفز إلى المرتبة 54 عالميا في الابتكار سنة 2026 - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcVdHaWhLa096Z0xHVWp1UGh5VWFYV1puMVRmR1drbzNnUWptUnFBb3lnek5iNE9QSGtoSkdHcUVOMGZfMVZoelVXOVRISUNxWFF4MGt0OXRMNUtEZ0xhbmwxdlpUVGdtblRBNGNFaXF2eGxXbkNTSjA4WkJsdjZKOThJYWdpcFBfQmZEZkZtRmRHUnQ0aTZfV2JQNVhpN0I3a3hyVmZMSmh4Q2ZVNFduZWRKbEdwU0hkZUgxYXRQN1hrZkFvN0w2NUZaVC1VVXRnR0ZCR2lSN1hUUXp6azNfOFVMLW9hRG4yWmVKaUg5aC1uWXJUUEhxZnRHTkxsczRxRkttbDhIVk83MjBLZHNjOWlTQVNOTm9RM29JUUYzS1MzM3J5aWk0aGoyWXdsTFBUTTl4TGhBUXVZYTlWSXc?oc=5",
-      "domain": "Attasiaa",
+      "domain": "attasiaa.com",
       "date": "Wed, 30 Sep 2026 16:35:35 GMT"
     },
     {
@@ -435,20 +435,29 @@
     },
     {
       "category": "business",
-      "title": "نمو الاقتصاد المغربي بنسبة 4% - Attasiaa",
-      "description": "المصدر: Attasiaa",
+      "title": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.1% وسط تقلبات الأسواق - شبكة تواصل الإخبارية",
+      "description": "المصدر: شبكة تواصل الإخبارية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzRXFMaEItTVVqNTBMVkVrdHZFeE5FMXcyUldacVB1WXhzVXh0aS1PZTFnaGdqeXFzN3VuTElUODI1WDU5NF9IdjVjZlVDUExHMEpB?oc=5",
+      "domain": "شبكة تواصل الإخبارية",
+      "date": "Wed, 30 Sep 2026 12:26:29 GMT"
+    },
+    {
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي بنسبة 4% - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUV4eFdBV1pDeE9lSzEzSjJnV2FHM3RiQ0prWjFIMHRLdF9WMy1kbkFjWG1mUFpTOEF0SlphNWdpaThBV005cW05eGNOeFVnR1hmeUFlbTBVX3BCMjFYb3hoamNqa1A3NDFDT2RQZzlPMktUeVhoN0pwNmNJT0hwS3o0MEVWNVZxLVoxdUJFeHBiMHc2bHdSYjNGY3d3WEtsQWZfUVJwek11ZUNBcnJRblNBOA?oc=5",
-      "domain": "Attasiaa",
+      "domain": "attasiaa.com",
       "date": "Wed, 30 Sep 2026 11:34:40 GMT"
     },
     {
       "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال 2026 - Attasiaa",
-      "description": "المصدر: Attasiaa",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال 2026 - attasiaa.com",
+      "description": "المصدر: attasiaa.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSEhsQ19ydG9YN0ZqMERDaFJKcklGODQyV1ktQ3p2U2lmV25pQUNDU01ha2ZYbS1lOVBRM1FqQ2h1dkRQUjBCUWlxemhxMUJGZmpPTEtRVEtRbXYzX1FGNDVDMDBXRktTWDlKV0h6YXFjM2dRcnhVQi1PT3NhWVVkbDFqRHlIM1FVRVJUYW5qcXhETktwd2pVNUl4X2lqYlNOazlmQXpTemkxamZGNXU3T0I0THNnN3ozZ2xubXlKTzVhbVN5R1B1a1BydDV3RFQ2ZXhPcnN1VEh0cTlKQ2tFN2FvNmY3ZHY5YVlUQ3ZoQnI4dnhpZkF0S0FDRTF2enRSRHF5RS1EQmRnSWZOMkJZSzd0STJrQ19pZzNqRlVNcUVMdFlRbmtmek1SN2JoeGMwTXlTWnFTTndMUFdmUGROSHZB?oc=5",
-      "domain": "Attasiaa",
+      "domain": "attasiaa.com",
       "date": "Wed, 30 Sep 2026 11:34:40 GMT"
     },
     {
@@ -530,15 +539,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOR0ozcjVVWUVTOUQ0NlBNc195NUtYMlFlcWJ0T3FsMWRmcDRIMjRTTEdFUzVsWklIYUNCWmdub3lHSEJ0Uk1zSFJhUEYxVVFOdXR4TmFlTVEzN3dVTDltZ0xkZmZJd2xBX3BYQ1FIN2poLTZnNHBEQ0EyWF9JSi1YeFFEVlRYMm9HcV80cHlmRHhDcVhDaTk5MWVFdFJPVzNweTJUSFE1aE1FUm13bW0xUmRzSGNaYU9TNTdoUWxzREFBRFVNSC15bG4xR2l4MlktSlRyRjZ2Z2R4b0V5VmFSaEV6Q3poQ2pBMGNtVzZWdFY1SXBLMHZOeGp4bWdUSnhmZ1BSU01IWVBpUW9FYjdTaGI2MUZONFJxOGVWWExyWnpWV2pLQ0x3ZzlJWTdOVUtWZXlHRnZib2FIOUkyejBXVFR3QXdremMtR1pKSUNVVGtkRE1M?oc=5",
       "domain": "Hespress",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "كندا تلغي حفل افتتاح جسر تاريخي مع أمريكا احتجاجا على رسوم ترامب الجمركية - آخر خبر",
-      "description": "المصدر: آخر خبر",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOYmJReFJYU29sWlV6VGVEdmNrVTVEdGxsRm5iVVFnNGxSQVJVVER4TGltcjI4T1djcV9EUXFleWxSYS1iWmM1VTdCb2x2VDBXSjItWUlaMzZpb3RQMWFPSEpDc0dpWWpwbXd5UUNyci16YnlzVlBqdXVyOXpQUnVGRlhfQ2ktWXFBZUZFQ1k0VXRuUFBKaW1sUVcwNkFkcVlRUlVTTUxpemwxUzY1SDQ2VlhYeW4xZUI4WVY5N2FraHRjeTN5Sy10WGg3TEhSMEh5X01JLWxkRndQUG15bkJwUlNTcnpoa05wOXFPWkNRdXhJd3ZjRUcyZ2hjYTJtZmxpSTBaakFCcVFTdWNVTElUa3BEYU9LSHNtZ0Z2UXMzRVprT1U3WVFqTklzSExlODB3WElLc3V1QTEzbExieDd0dFlwX0M2X3VSMjVzNTdrdGN1WWlHeDl4MUFQMkFhQ2NaTE56aGtGanpzVVpoRno1UEtNdlJIUURvdjJNMHIxa0E4Tlg4eWZfcDJ4Slo5aFQ0SFRFcVRjNjJfWlA3eFZCNVRscGtJV1BEdzAwMnFPUVdYU2NZTkU2b05QREc3aG9IcHRTQ3k2blZKZUE1eUs0ajA3WUVROEpwT2dwLW5teF83Vml2LUV5T0FpS2JjMWlDc21uclFqcHE0YkV2WnkxSzkyclhYbjZzNGRiX25Kd0JUUTNsY3ZBYnE5ZjM2MXpKdzNaeW1adkk3NGxzZFlIQ1Q1UkJTa2xWZ3dfa09aNjNuZzRZVUlpdjlaSWUzdw?oc=5",
-      "domain": "آخر خبر",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
