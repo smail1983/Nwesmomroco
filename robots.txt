@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smail1983.github.io/Nwesmomroco/sitemap.xml
