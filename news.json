@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-03T18:17:56.762137+00:00",
+  "updated_at": "2026-10-03T18:35:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "المغرب ومالي.. مواجهة ودية مرتقبة غداً في طنجة",
+      "description": "يواجه المنتخب الوطني المغربي نظيره المالي يوم الأحد 4 أكتوبر 2026 في مباراة دولية ودية بالملعب الكبير لطنجة، انطلاقاً من الساعة السادسة مساءً بتوقيت المغرب، ضمن تحضيرات المنتخبين للاستحقاقات المقبلة.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=900&q=80",
+      "url": "https://frmf.ma/articles/match-amical-lequipe-nationale-affronte-le-mali-a-la-place-du-ghana",
+      "domain": "الجامعة الملكية المغربية لكرة القدم",
+      "date": "Sat, 03 Oct 2026 18:30:00 GMT"
+    },
     {
       "category": "technology",
       "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
