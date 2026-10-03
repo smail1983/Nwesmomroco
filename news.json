@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-10-03T18:16:00+00:00",
+  "updated_at": "2026-10-03T18:17:56.762137+00:00",
   "articles": [
-    {
-      "category": "sports",
-      "title": "المغرب ومالي.. مواجهة ودية مرتقبة غدا في طنجة",
-      "description": "المنتخب المغربي يواجه مالي وديا غدا الأحد 4 أكتوبر 2026 بالملعب الكبير بطنجة، انطلاقا من الساعة السادسة مساء.",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=900&q=85",
-      "url": "article-morocco-mali-friendly-october-4-2026.html",
-      "domain": "NewsMorocco",
-      "date": "Sat, 03 Oct 2026 18:16:00 GMT"
-    },
     {
       "category": "technology",
       "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
@@ -227,15 +218,6 @@
       "date": "Wed, 30 Sep 2026 03:00:00 GMT"
     },
     {
-      "category": "general",
-      "title": "ملك المغرب يؤكد استعداده لـ\"حوار صريح وأخوي\" مع الجزائر - الجزيرة نت",
-      "description": "المصدر: الجزيرة نت",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNeWo3WGVfWkU5OW5zX2ZXTEF6NWh0TXFFaDl4S2l4NVhzZV94QWNTRGV6dkVTLXdkMk5MQUxIbnpHclNkc0Rfbll4ZkVYU2xOSW9lYVJJRzBsY1BrVjZwR2kzZGtPQUZMWnRHZW1OLVlhYTcyc1cxY0RZaDhoUEZHZFc0U1REN3l3cWpyMUY2dG5nbm9ZY2dUd2x4UmhGT1o5Z2Z3cGdYZ3BsZEJEMWFYTnROQU1HVnd5dW5QVVpmT3VKUzg5RXRaM2hBTXREbU5iUXNrdS1KQ0NtQVNGQ09ad1VubGw3NVd1N1JGWm0tY1JCLU5iMkEwOEo2SXZkVE5OLURYSGYtaFBNMklPdWt1YTlhb2tVVTY1RVkxYUY4RUpTdGFVR1YwQ2I2VFVOOFRSRjBFZ3VqQWVVUUhaTkpZcjBuRDVhV2ZxN244cWZ3MXpRUdIB1wJBVV95cUxQUWRsVHhkVHpJS0otQVFsa3JTekxfTGtsbm5uMWFVY0VZZHE5M2xvMlVTUjI4NWZKOGxIV3laSWwyQjlsR3BWZVRHT3psM0pHMFhGSkhoUEJLS0tfWWVtWVpUVlgtaGJkNlpUOTl4X0h3UG5tS3JRMjd3dWhQZWpWaS1hN2w1ME1vb0xkcmdVSXV5RmtuRGt2RlctY0dYWk1qUW1FaVE3bU10LVEzSW44UXpfck56SndjeGNRZlhCdTRHSnNueHVjek1JVFgyd1J0UlVONHlKanFPRDBUSTQ5bGlTUmdKVklfNVhSdUdqMEY4MzltdTRGRTFrdlFXQWVTVUQwSVJUZUVqdnJPQk0tQzNVcWdMLXplOENsdVozRHpsdEJGUkNCZlZHT211WHRwOEd6SHhKWGpNRGRERkNMdzJPcmwtZ3dFUml6SWpzRGY3dFp3SEdZ?oc=5",
-      "domain": "الجزيرة نت",
-      "date": "Wed, 30 Jul 2025 07:00:00 GMT"
-    },
-    {
       "category": "sports",
       "title": "بث مباشر: مباراة الوداد والرجاء في الدوري المغربي 2026 - العين الإخبارية",
       "description": "المصدر: العين الإخبارية",
@@ -327,11 +309,11 @@
     },
     {
       "category": "general",
-      "title": "اكتشاف ديناصور \"غريب\" عاش في المغرب قبل ملايين السنين - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "اكتشاف ديناصور \"غريب\" عاش في المغرب قبل ملايين السنين - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNWdDekkyYVJOQktMbWxXUFRMbWExYkRSal9FNGJnTXB4VHRBTlV3al9hS1RoNmw5c2hqNmhPOHdweFo1cGxKVExVenZEM3FnRnd2UGY3OUczSVc0NW00VXhWaDNRM2daOWdNamFILXN4SklJMGw2QklnSk9jXzRxSVM4c2pINE5TNkgyVEs2OTFvZnZUZU05b09ENEVhMUZ5a21OQnpxR0w4MW44ekpiaFdNTWQ5eGVyaWRxNDNFVVdiVzlyc0MzWnI4Q2ZPakJPY2l2Y1dzZlU2aTJQR2xYeGNieGZmSmZiTHFQRXczdVdLZjB6OTIyYzhZQWpfRjJWSEMwR0VrRUlGTEFfa1QwMTRPVGRBNl9UZkppaF9vWTl1WE1DLTBUa2F0Q1haYWl0eDlOZDA2RzhRREJRN3RYdG9DaXgxQmZQNVllT3BSSjY5bHJacWJSdzA5TTcyODRXdlZPcThwVllta0RWQk01Mmd6eHhiRDhQNnZaMmlGOU93WTdGZUVITFBXQ0tQeHAzRlViUmdn0gGbA0FVX3lxTE9VcklfWnlzcXRJLXhBV0JXV1hhSGRsbkhCUkRnTnZGTTNyQ2F4U2t6aWlRbU5saXV2bGd5aWFhR015WDNvUVg3MHRhUzQ3NkdMY2RhMHhYbGxSVlB2UUZ0TWZyejFad2FNREZRX25XZlJJeTV3OEM4MjdQYTVTQ3M2Y1pBSTM0N1BHSVhQUlZHYy1ZeldPdXZYcTUwUV9nc3EwLW9lcWVZZHpUZTZnR1AyLW9IZHFrOWQxMmtHOHRfVjQ5ZzZiM3JuYk5uT0ZUN3ZvWldaOFhMNXF6N1M4eGp3Y0dnLWpHdy0wLUlSUnpIOWt1WXpGWk9QcnM3U0RKcVdUeG9wTENxcGc1R09ycTg0a2VfXzAxbnhlQjRMVDV4NG9PbEpzNDVaZWNvLTE0Z0szb2JLYW9kWHdXaVBvd2R4Z0drLXgyb2d2QW5NNnZVN0VmUTg0czJERGR4T3pSYldXVmNqMUd5RDBxR01IWWFlektVd0VRbjl2WWwzVGs3QUpWVHJfQTlFWUVhdHNfcy05QWxyOTktUlQ0WQ?oc=5",
-      "domain": "سكاي نيوز عربية",
+      "domain": "skynewsarabia.com",
       "date": "Wed, 27 Aug 2025 07:00:00 GMT"
     },
     {
@@ -408,11 +390,11 @@
     },
     {
       "category": "technology",
-      "title": "\"المخترع الصغير\" يدهش المغاربة بابتكاراته - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "\"المخترع الصغير\" يدهش المغاربة بابتكاراته - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOM2U4UWFwU3J5SmhLU1JsX3A1MXhTODVXeEEwck5leVl4dHZ1VGNUcmthUTctUk9oa01VYXF3STI4UlhmNm94M09mRkxvMG1Yc05HOUJWQmp5S1JxMG1xU2syNGcyNl81YUVxYk9jT1JVdkRncFI4YlBHMEUtRnZKUlRoRW5WMk9sd09XVjVZekR4aVZtRUw3RjV4Y0c0TGk2Xzk2d1BHZjVqZXBMMnR2aDFoeFlScVRaSXhZbFgyc0c4UXRwMjJjQU5xLTdhNjlyWXBBYi1pSy02V3Y5T2ZwZVlibFUyaWFpZ2l6NTJfTWgwY2FpSVp0YUdGeXJHSDhtWXJ4NE5UeTJ0QThvY1dMSmE1X3ZISE9iYlZIeWVmd0hjQUdZUkRnZnd5X0VqMjlrcVZhaV96UkUyZWdkNmZydXctd3V4R1gyd0tFOUNkX0RieGFNLXJLekpZSlk4WmM1aHR6SERWMVhUY1dGd01VRElYV3JOVGN1TEN30gGAA0FVX3lxTE9OT0FOSHRTR1I0Skg3dVIzSDZheFdtMlNSLWY2aEI3eV9MZV91QWhBQmhDSU41OGozN0NqbXdPODVXZEF4eWhfVzdJT19NVzVyYk1XZlVkNHMzaXZma3RQRk9felhCT0VUeHM1ekpBZFBwVGZTWVRkRjNyNmlSSHN6bUJ4dVNmVVB2dzhXZXZucC1KRUVTOVBtWUxsd2VrcmxmVDRrTnJzNzB2UGdENUM5elk1U3M0dnJxanYyYmh4VGZqeTU0dUE1RE1ncE9YS2NVQWNnODlkUHVMcmJGNXlObDRfVVFhdDNYLWJJLW8wZmV0anIyb0ZxM3RiZHE5UUUwZ0pMd1lTVmxENE9VU2NPOXR2VWFUWUxEZ0NIZ2tWTTVleHNHRHcteUVEVk1LRm1mUUE0VTM5cVhQZ0NGQmg2WWQ1ZzFBeVRXTk5XQ1lhbURVcGVJT205SnB6NU5UM1ZSTml6aE1XUjJEMjVxWG5YNjVoNGI2aWc5NjNKUjZUbA?oc=5",
-      "domain": "سكاي نيوز عربية",
+      "domain": "skynewsarabia.com",
       "date": "Wed, 24 Mar 2021 07:00:00 GMT"
     },
     {
@@ -461,6 +443,15 @@
       "date": "Wed, 24 Jul 2024 07:00:00 GMT"
     },
     {
+      "category": "technology",
+      "title": "كأس أمم أفريقيا: كيف صمدت ملاعب المغرب أمام غزارة الأمطار؟ وما قصة التقنية التي استخدمت فيها؟ - BBC",
+      "description": "المصدر: BBC",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BUnJNM3k0OWVJdXYzSS1fMS1XbnBOMFJjZ0NsZkhzNTZNNzc5b0xPTmIwQlIwZmRSeHBiR192WUJCLU1uQzJBS3Uta1k3dkNXbDRISS1xckVkLXBN0gFiQVVfeXFMUGRHWkFDQ1pfOHFiSWM0Sk9Ga1ZqbnNfZzdvRU9FT2hWRk9pVW53R2hBbXJVRHpiMmFMMkhoSnR6WnBMYTA3cV9VT2Jyc1RIckt0U1Fwa3YzOFhTRXZQUkpUdWc?oc=5",
+      "domain": "BBC",
+      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
+    },
+    {
       "category": "sports",
       "title": "تاريخ المغرب في كأس أمم إفريقيا لكرة القدم داخل القاعة توتال إنيرجيز - cafonline.com",
       "description": "المصدر: cafonline.com",
@@ -480,20 +471,20 @@
     },
     {
       "category": "general",
-      "title": "المغرب.. حزب الأصالة والمعاصرة يفوز بأكبر عدد من المقاعد - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "المغرب.. حزب الأصالة والمعاصرة يفوز بأكبر عدد من المقاعد - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNNFdvYmhqS0lhSUZDckIyZFBja3ZCc0J6N3pQMk95eGVpRGJMSkRLZjhISkpad2R2MUIzU1FLVk9iWnJFek13SXllQkY3ZFp1ZS0xLUduUkFzRVJHTnM3T19kd2VKTEhWQ1pVWllxNFZaQnV0bW5JR19DR0ZUZjlTSGx2VjNheUZWMzBReWRFVkgwZTlhX2NZYy12LXpSU3FQdHozRnFfWjhmLTFBQmlSSjVNdW9QUmdkdjF6R3ZuN2tLamg0UlFzc3llU2xnTDdSUkE1bjJLbXV4VDdCaUdPZFZMdTNxR2FHYTNaOExxa2NEOFRvOXlTSVVZU3dMQlo2WVM1TTVxU2xyVjBBZzB5anNuRzRRZmw5UklGRUdrYnM1RHY2a3RNV29uOG4xN1JkeDIzMVVqLTl4aVpHSXB4QVJ0Uk5MNElNcjZqN0pCc0N1NFNRVk4yNXBXektlRzBrdTRUM2RVM0ZpNWtCYWdfd1QxblVwZHZNMGZVZ1dLNUdUR0ZGRG9Ra3hYSHJWTUdERm16RXB1aXg4azdlcEowSlhVZ3RyWUJ2Qm5WUjl6OURpcldLLUlid2ZWMmVOY0NT0gHGA0FVX3lxTE1DYVVsLVdsVnBXanpSODJKSTdxV09oSXV0bU1aekQxWmhtX09KY09BYVNMUGpnbnBTYzlJZHBEdWJESzdzVlNVTGFSaGpiRktFdk1sV2xoV3VKM3JXV1N6YTVFa1hkZ2JULVd5cXcwZXhOamVBNXc5SUNkbVpyNUctMjNGb21DaVZuODA2a1diVC05cWdXRmFZTkdjVkRSUFVwcmRlbE1BWVA1WnVLbUJacVNhQ3U4X1Y3WnRVaFJQbENGeG0tT2s5WjI5TFJzelZlSV9lNkhyYTJueFVRZzRkeTE1US1tZjROdmhWdS1CUnhOajIxWm5LZENpWERIX0RpUkFXbUlaZlJMdGc1QlBqSFdwM3RBX09oT3pFU0FCOWxveVplTUtLZnAwVENUM1hzbWU1WlpCWWNuYmdvY21sdnJ0WjRYU1dOQy1VandGcHJVRWpacHk1ZWIxTGk5anIxY1J6Ri1BdEQ4VVYyNUJKcGNFV0JGS2REZVRGbTlQMzlPZmMwdGVPMGhhY29Na2x4YXFCNV92MzB1aktpcGZGcEtGVVgtcGlzalowRFJQZnZCZnBPRW4zeUNMd1lwZEdTbTJ3TUE?oc=5",
-      "domain": "سكاي نيوز عربية",
+      "domain": "skynewsarabia.com",
       "date": "Wed, 23 Sep 2026 20:04:00 GMT"
     },
     {
       "category": "general",
-      "title": "المغرب يغلق صناديق الاقتراع.. وبدء فرز الأصوات - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "المغرب يغلق صناديق الاقتراع.. وبدء فرز الأصوات - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPd1F5MmE4WHN6LXJELVcyUVRkMnpqOFRabDNna1dGcFNtVFplUU5zcFU0cjVtYXlybVNIYXhKQXdoTjA4R3Rwem9uSG1DMi13bXFzM2w4VzYtYTgyelhIWG50bkdaS1FWMl9Ga3lTUGhoYjdUQWxrR3M4SzVQTEh3MjB6ZkppcmljZW42NTN2WkNsRDFlV1NEeGpuSmk4UmMxaEtkTlBaUWM4RTdKbVhtRlUycU85dEhLa2JWdHZsOGdKM3kzZ2ppcFZiZml4UUVpVE94bVpmUjFhdFdTQkZ5MXUwR2d3bnBSRVBkR1I3M05acm5tNW5GVjhQcTZQTk41ZEJTRzB3dXZBZWpvbWJEUUZIWWVRcVpUcy1kZEg1cktQMTVJUmRGM1VnSWMzOGVtRnRFRWMtMTlFVlN2ajVWbUlWN1BHRXdhZU1MRy1fUERodVNUUTlaN2tncnVmaWN5QklMYUJ1N2xrMDdwanVMdlNkU0VYc245ZGhVVWI3U29PZ3FmVzhObHRUak00WW9NMVVpN2llQdIBnANBVV95cUxOdU9obzFHakFrcTYwNFliQWJpeWFMTXJ6bmlyNDczVUpDZmZ0S0FFQXU3cjhycXVOMHg1UUpaQk0tWWcyQUxEUld0dmdielNQRkFKal9aTUFVN0tRbUt6YkxjQW5ncDZzdy04bUZMTmplR25pT2xmeGt0NzFWYU01OEV2VEE3U1cwb2RGa0RSNG52bi1DeGQzWEhZdEtOSHJjZUJCZ3lHOFduRDNZb3duX0ZjMjU3SXFtYnJ4OU5FMHBDMDhQR0VhdWd3QUN2OU9YRlpjeFdyUzBjamxtUXJ3enhPV0p1T0Zra0hXYjBkX0VLX2c2OVdiajh0RzlFM1dWLW5GcGZIdmVlci1ZQ1p0Si0tMWR3OEplSVk5UHhqQ3d6VGZQRDVIaG9nNk1NWm43ak5JUWgwQkR5anZkc0tUenB5TEV3OUI3ZElIUVpEMzZ3TUU0QWhYYXhoQ1RjV2Y0WTREVTU4SS1VSHFlYVhTc0xxWGFTa1RNbUdoN3Jfak82OUktTVVaTFhoM3AtYVMwMDRUR29qeTMyeDl0?oc=5",
-      "domain": "سكاي نيوز عربية",
+      "domain": "skynewsarabia.com",
       "date": "Wed, 23 Sep 2026 19:43:00 GMT"
     },
     {
@@ -534,11 +525,11 @@
     },
     {
       "category": "general",
-      "title": "توقيفات وتحقيقات.. المغرب يتصدى لشبهات التلاعب بالانتخابات - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "توقيفات وتحقيقات.. المغرب يتصدى لشبهات التلاعب بالانتخابات - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOOU1LWGdJcXphUHNkWTlHY252Q3Zlb3FyQkkxM2xpdks0NmpDSjFHSHNVOC1qdHJqaTVFS1Bma0U2enMzNFlzUGNtWlQ5cDk3Y2lIVkdjYTRpM1pza0pZNEtyVnJtWmYtNzh0ZlZtaVZueXRnd1VnTkU4SHRvUnBmeElvNXpuS2ltWTlYV2kwQWdoZ1dyX3FiXzFzaVBSQmdfWFFUWHc2MXVhZW5JV0xTMDBoRGs3dk91bWpYRFA3ZngwZWlxbjM4TjdwbUpLTkl0d1VNaW5fMGhmTEctdnJMTjdCUk9yb0dxOXBUMlhpSFBXZlVKc3dWUU1rampCT1d0US1YdjQtdTlrNkxHSWxTSTg2RnptNEE5dVhaMkxDRFRxRmM1RV9Yb1Eydm00U2NpNHRtUm1iNDF6ZXZJeGxMU3JGSGNWX0RNcmNjUEVaaWpFVXdUb1FPTThSeVFRbktXdWQzZXJ4MjFwM3RWck03TzhobHdFd1ZZQ0Z5SnNPbzFtaXRyMlF2NDZkTXB1YWZZTnk4cmdxUnpjNXZXakFKWlZHU0Vod09IbEFONGcyNktBUkYySDlIWFAtZUwxa0NJaG45MVZBMHd5Y2ZUZjNIbncxRmNTWnNfaVk2bkgwa25JOWEzdlFkendQWWhWUXBGa1RNbkpvWdIB_ANBVV95cUxQTV9ZVmJKX3FhSWlMeG9tWE5reXdMQ1JjbldZMmNJWjV3eTlqcnhFamZoVFh5TXRrSU5Xc2IzdmxzSjZCdWhZRU9IOGU3YmplblNtVDNVVEV1WWd2UXVOemJWUEpXblVMTEVsaFp3RXY5QzRtZU9pMnhjeElCOGV0UDF5MHZNQnQzSWFTR2VHbWpqOFp5SDQ0VUtkcEFKMU83d1liWXlQY2NQQzA0QjdFb0syMDFuTExFM05KcXRRcUdocXhlSVh3NjdmQ25Db2FtYWVmTXRqTG5qQ29wMkhOT2N2Y09QcDFBVDdkYlRMRk9kNkwyMmFhU0M0bVNZUFFfRlB5Y2ppVHpiSmxoTnZmS18wUkN2UGNZNnAyYzlhb2dHSEVfSGxwM3RBS2tBcklCZFZuaXdnay14eFZjRkplVHBPNkwwMmZJVWd6RWlOOGswVGVOUi01SDB4UXRGR2h0OFNxcWc4emRlSWRxZE4tX2xjamhNQkF1d0RfVTlMcl9XZjNqcThBSU5mRVJKTk9Sdmt4d2lCSXMtdlI4WTZ5X1JlUlh5OGZkdC0wMHpfNEhnWmU1QlUyOXo0TmdCTG5GRjYyM1A5TnQ5WWJINExYTjNYazRSSUNwVUFzRENZMDVVNDJVM3phUVhRVm05WVA0VThqcEtVWVRRZzYx?oc=5",
-      "domain": "سكاي نيوز عربية",
+      "domain": "skynewsarabia.com",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
@@ -570,11 +561,11 @@
     },
     {
       "category": "sports",
-      "title": "مصادر مغربية: لقجع يترك كرة القدم بعد الإنجاز ويتجه للسياسة - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
+      "title": "مصادر مغربية: لقجع يترك كرة القدم بعد الإنجاز ويتجه للسياسة - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNalA1VkVoMnctemQzdHJJOFBnekxFRm9LcGRfWWZ2RW5LRGJ4TkdsRkUzMHVwTk40M1h6UkpZMGF1bVYzOGpiTjBTQlIzSklMS1ZGdWtCTklZYTlncGl4ME9QdkM4b29wQnpZUnJLT0dHeXVCcnlDQklCX2JCR002anN4MUs1a1pjalMzR2RwNGUxelBRWDJVMmZXOVZmaG55NkNTZU5PUjJjenF5MTR1dmJpMmtnTkJXLThVWU9DQ2J0aU9qTXBnc0U1WTl0VXo4RnhsYW9FN00zdms5bXZ4OHAwTzJHZEIxbU03dXIwaHlkQTc0M2k3QTc3TWRMVW5WaDZReENBLWRucDNKblg3UW9lRVZsbmVDLXcxN2JQUUhzeEZrcFFqcW16ODVacHNYeGR2U0tkd1lQSTNrWXJrWTdzc2pMTEQxOGJPc2lMb0JWMy01NDlSTWtndk5WbTJMVjZRbUthdW12cGxsc2ExcXpTYk1IelQ1dWVtU1VzUGNzckVHZk9QY0h0YU9UTmUwWFFrN2VGdWRwWUFES3FGQ3psY3Y1Qi02LXJRb2JyemNrc083d0V1T2xKRi1zZU00SmhPLUg4c1hKZjBiU0thZFBR0gHXA0FVX3lxTE85cVpJX3FzTE8tT3c0dkczNXBKb091TVhFcVlXcXYxSklQU0dvOG9GWXNpa3VnOUR3Y3lqbW1HdDZVdFZOU3BTN0w1OHViQVJlYVhDNldUN3FrNUpkNEMzNGRqRDNkaFZiWFN0cWVvSTZTREJvcFp5Z05JenhkMGxnVWZVcFNRcXhTMmJYZTV3Q1RsdVhTbWt5UTN4a0R5RG9BZTNVVkpsaERxd0w1bFFoR2lFLWN6aU9SWkZpR3kzWHZUVWItWHZfNnpNRlFudlBmNnRXZVhmNlY0M1FDLVRFYjhvdUN6clpaRmZaZHlQZ1Z5YUt2WWdPNHdkVy1ZclA0QkRzTXZHdFg3MjFaRG1ZVVQ3STlQOGFRLXozRF9uSTlEaWNrdnFYQUxUWW43X2lvTmN6V0JDdmw0Z2UtSTlkTjBFT0FhTF9SMmZzUHRrWkpOM0NsaHJmZmtzYlF3OTFOQUkwR2VZb3ZiX3NHcXBKN0pVb01feFZmbE4wT0V4UnR0cVN2aTJQUVlpNG84WThfV2FvTnZJdUZQV1A1dkhHcHZGLWJxSkN6QVc5V1hnaERnVmtuVERpeU5CYlc1emZxZGZKQjVjZlYyNTZpSUNyUE1tS0pscw?oc=5",
-      "domain": "سكاي نيوز عربية",
+      "domain": "skynewsarabia.com",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
@@ -677,15 +668,6 @@
       "date": "Wed, 19 Aug 2026 03:39:54 GMT"
     },
     {
-      "category": "technology",
-      "title": "البيروقراطية الرقمية: تأثيرات رقمنة الخدمات العمومية في المغرب - Arab Reform Initiative",
-      "description": "المصدر: Arab Reform Initiative",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVXBxeThIbTBLYlA4REZqQVZkY2YtdENVRnJPRkN1Y2h5aTdpZmRnYjVQcGd6RzdxUzdQZUNlMmVKQ0xQUm92RGRIWXh4Ql9rQTZGbnBpSHdPR2YtV2I4a05kN2FZbklHdUpZdmZtQjBoMmdLVURvU0hXUE1pSTlGX3MzcEdONU83SjIxV08xYjZoYTR4M1M4d2hicS1ZNkc1aUZRZDdyS1hPSXoteUNQVVZyUWlYNWtxTzlVdzljMmFfSmFKcW9BSi1CbUhjcHdCdTRzeE8yVTFteW5tT2ViaV9vaDM5UHhzZERHcFZ2WDRTdUREZ0p3YU5PY0wyMUhKVlJERWVzaDhma3NSdnhoTVd1a0wxazFPQXdFbkxtNUF2QlNaUUhoVWFEdkpwMlU1WWJMRnkwSVJYRURkMnUwS0JkUFY2Q1FoYWpKdG1SQlc4dDI4UTBkVHN5MVg?oc=5",
-      "domain": "Arab Reform Initiative",
-      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
-    },
-    {
       "category": "sports",
       "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
       "description": "المصدر: Goal.com",
@@ -711,6 +693,15 @@
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPQUExLUdkaDliOEs5U0M4bHJlODZLTWhXeEhsa3BtRF9JamJRVVg1RnN0M0o0bWE0RW1DVzVHaHhkbjF3OEpsQmwxRFhVN2k0djJrbG0wMThER2k1UEJhRjBabkF1bVc0c3lQMW9qcGdGbkQtSDJ2WThiS2swVFNsbW5SLVVveXVSdF9VNjY5a00wSFdfNXN2MEQ5V1VwYXBObVRDQm9BVExJT3VSZjBXdHVjVVlJRVN3RGNjSG04dnUxMFI3Qno1U3ZPSzU3enNIRzdjMmVFejRVMF9ZVFF0dVltNEpNWUd2ekJCLXZIbGN6MDF4MWNHcWxsbEFFajZENWF2Y1BVdDNqRjF2QUQycWpkYkE0WUlfZi1PUElqRy1xcVo2QzJwVDJycm95ZXc5T1Atems2YWdsUnc0T0YyRFJzX2kycUwyT25YSDhkRGZIWUhsOTlQMGgwOUdkQzBaRlNUNUk0NzY2SkYyZ2dCbTVBRnVIRTVlWnNCQ2N0VTdtMVJkTEdkb3dfOWdyeWZSQzFreGtrNDJqcnUwRzBhOC1adWE0VUZsTmFjVlIxSnFYTnhEUm53Nm5lTHpMVTgyVG1vc2lBbDBSSmdldzd2RVNhMkNnbENaTVBNcFktaU1Qdw?oc=5",
       "domain": "Kooora",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "العيون.. توسع عمراني ومشاريع جديدة في الصحراء المغربية - skynewsarabia.com",
+      "description": "المصدر: skynewsarabia.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQS2R6eFVlbmpKMkRLUDNJeVgzNWgxbHFla0otTjQ1NTIzc0kwQ3UzWGhsLXU5MmVaaXZwazE1akxqRGhKbE9vZXQ0LU9qa1d0VjNPLWRta3RPMEwxcEdSbWFFd0JuR0N2bWdRQVVlNGh4dF8tUjROa1hFLUtFSEhJRTZXZVRsOFlNdzV0YmRFYnAtSXlKMHZiNnpMTjlmS0hqV285cGQ5eUs0VGkzLUtsUnU4Z3AzMnBVZm5WMnQxdFp4clBQajFoUk56WlJyV1NKSEJlamJEN1p2UWZpUnhYTmpEaFBYS2xvSTFrSDU5Mk9xOWxrU2NkTGFNRHFPTXduZEhMamhmY2VQZkhWUUFlQUJydXNVbjB0MG4wUTRmQ3lIYnptSklVNlE5NS1PaVN1SERsVU5XV3JEa2NHSmRqV09EUl9XaFl1cEtDTVNKc2xUemFpWlZQMG0zckxJRnNkcHVMMUlWQk1sMi12emgzcDRiakNMMEF0dklxNTZWWnZYTHcwYW9KUjdOZDlXM1VtOTFXU3JnQkRxckFVSkpWN3hSOUVyVDltODVhUkRfbnZGU09FX2xRN3N5MmpFbW5WSlZFOVdxSTgtclk2QWhXZ3EzWkhDNGdMWW9qRlVSSjEzZFhLWE4yRlotcERzSlN4M0EtdHVoeFJDS0ZmVWp5ckl30gGHBEFVX3lxTFBuZWM0azE0NWVWVE54MzNOZ2lwd3VVdnAyWFpPXzdYblhQYUdESVVQWjdpc3JWUVhJX0ZmV3RUVzhqZGFiM3YweE1ncm5va0dVUEp1TUhQQ1V1TldiWnBpeVgxYXkzc2dScXZUX1J6QThFUTZhZ1ZvVzRLeGpKYWJGeUx3WHN5YnZvaWpQVDFXanZkZE9DNEVWaTJnU3VtTldDblJvSjN0NDZURzlrcFVsVXJqRUI1aXdTQXRORWJJZ2pVNWIwLWZjYmtXaUhrUlRxa0NQSUZrcFBNeTViZ28yQUUyTWJwQ084WDMwc1ZVcUZwekZhaUlteGRXV3pnX3VPSGJ0VHB2czhUZFRSMnR5QTBDLVMtdGZUbmN3SE95NjNmczlyX0pxM3BPakNBVkMxbmdCeHhpMG5MU09QUlJaZnliY2RJWU5DNjZzaW1rZ3pQblV3WFNOQ0kwU0Rnb0R1S3l4dnlWWmlYV3dsVnVmVnUxTUkwTF80aUVOd1dqaWdhMkRTelRMaEFwRGcyN3B4Um5RLUZwMjllTkNHa1dRNEZxNG1TRUhjOUZocHRtVUxEN2pWT3VCellqUGRxR2Rva0tNS1ZvOEwwNWx5cWs1RFk4Tk9FSU9sS3ZxOFFPVlpaUjlpNEdLZHZGMkR6Rm5vVkx2WEZCTGl3OE5ZSzJQQ0RyeUxWNA?oc=5",
+      "domain": "skynewsarabia.com",
+      "date": "Wed, 16 Sep 2026 21:27:00 GMT"
     },
     {
       "category": "general",
