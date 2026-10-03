@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-03T18:36:18.416907+00:00",
+  "updated_at": "2026-10-03T19:55:00+00:00",
   "articles": [
+    {
+      "category": "general",
+      "title": "طقس المغرب.. موجة حر وزخات رعدية تضرب عدة مناطق",
+      "description": "نشرة إنذارية برتقالية تتوقع موجة حر وزخات رعدية مع احتمال تساقط البرد وهبات رياح قوية بعدد من مناطق المملكة.",
+      "image": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?auto=format&fit=crop&w=900&q=80",
+      "url": "article-morocco-weather-october-3-2026.html",
+      "domain": "NewsMorocco",
+      "date": "Sat, 03 Oct 2026 19:55:00 GMT"
+    },
     {
       "category": "technology",
       "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
