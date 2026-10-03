@@ -37,19 +37,30 @@ async function loadNews(){
     const data=await response.json();
     allNews=Array.isArray(data.articles)?data.articles:[];
 
-    const latestArticle={
-      category:"technology",
-      title:"المغرب يحقق أفضل ترتيب له في مؤشر الابتكار العالمي 2026",
-      description:"المصدر: NewsMorocco | الويبو (WIPO)",
-      image:"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
-      url:"article-morocco-innovation-index-2026.html",
-      domain:"NewsMorocco",
-      date:"Sat, 03 Oct 2026 17:10:00 GMT"
-    };
+    const localArticles=[
+      {
+        category:"general",
+        title:"فلاي دبي.. لارام توضح حقيقة علاقة مساعد الطيار المتورط بالحادث بالشركة المغربية",
+        description:"الخطوط الملكية المغربية توضح أن مساعد الطيار خضع لتكوين نظري سنة 2025 ضمن مسار توظيف محتمل قبل استبعاد ترشيحه.",
+        image:"https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=900&q=80",
+        url:"article-flydubai-ram-clarification.html",
+        domain:"NewsMorocco",
+        date:"Sat, 03 Oct 2026 15:35:00 GMT"
+      },
+      {
+        category:"general",
+        title:"ملك إسبانيا فيليبي السادس والملكة ليتيثيا يزوران سبتة ومليلية يومي 13 و14 أكتوبر",
+        description:"زيارة رسمية مرتقبة لملك إسبانيا فيليبي السادس والملكة ليتيثيا إلى سبتة ومليلية يومي 13 و14 أكتوبر 2026.",
+        image:"https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+        url:"article-spain-king-ceuta-melilla-2026.html",
+        domain:"NewsMorocco",
+        date:"Fri, 02 Oct 2026 20:03:00 GMT"
+      }
+    ];
 
-    if(!allNews.some(a=>a.url===latestArticle.url)){
-      allNews.unshift(latestArticle);
-    }
+    localArticles.forEach(article=>{
+      if(!allNews.some(a=>a.url===article.url)) allNews.push(article);
+    });
 
     if(!allNews.length) throw new Error("No articles");
     sectionTitle.textContent=categoryLabels.general;
