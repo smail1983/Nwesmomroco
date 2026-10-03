@@ -4,7 +4,7 @@ const searchButton=document.getElementById("searchButton");
 const sectionTitle=document.getElementById("sectionTitle");
 
 let allNews=[];
-let currentCategory="sports";
+let currentCategory="general";
 
 const categoryLabels={
   general:"أحدث الأخبار المغربية",
@@ -20,7 +20,7 @@ document.querySelectorAll("nav a").forEach(link=>{
     e.preventDefault();
     currentCategory=link.dataset.category||"sports";
     sectionTitle.textContent=categoryLabels[currentCategory]||categoryLabels.general;
-    displayNews(allNews.filter(a=>a.category===currentCategory));
+    displayNews(currentCategory==="general" ? sortByDate(allNews) : allNews.filter(a=>a.category===currentCategory));
   });
 });
 
@@ -37,8 +37,8 @@ async function loadNews(){
     const data=await response.json();
     allNews=Array.isArray(data.articles)?data.articles:[];
     if(!allNews.length) throw new Error("No articles");
-    sectionTitle.textContent=categoryLabels.sports;
-    displayNews(allNews.filter(a=>a.category==="sports"));
+    sectionTitle.textContent=categoryLabels.general;
+    displayNews(sortByDate(allNews));
   }catch(error){
     console.error("News loading error:",error);
     showError("تعذر تحميل الأخبار حاليًا. سيتم تحديث الأخبار تلقائيًا، أعد تحميل الصفحة بعد قليل.");
@@ -95,6 +95,10 @@ function getNewsImage(article,index){
   if(image && image!==genericNewsImage) return image;
   const images=categoryImages[article.category]||categoryImages.general;
   return images[index%images.length];
+}
+
+function sortByDate(articles){
+  return [...articles].sort((a,b)=>new Date(b.date||0)-new Date(a.date||0));
 }
 
 function displayNews(articles){
