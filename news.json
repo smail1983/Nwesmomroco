@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-03T17:56:09.263214+00:00",
+  "updated_at": "2026-10-03T18:16:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "المغرب ومالي.. مواجهة ودية مرتقبة غدا في طنجة",
+      "description": "المنتخب المغربي يواجه مالي وديا غدا الأحد 4 أكتوبر 2026 بالملعب الكبير بطنجة، انطلاقا من الساعة السادسة مساء.",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=900&q=85",
+      "url": "article-morocco-mali-friendly-october-4-2026.html",
+      "domain": "NewsMorocco",
+      "date": "Sat, 03 Oct 2026 18:16:00 GMT"
+    },
     {
       "category": "technology",
       "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
