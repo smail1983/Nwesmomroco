@@ -87,12 +87,39 @@ for category, queries in FEEDS.items():
         except Exception as exc:
             print("Warning:", category, query, exc)
 
-# Maximum 20 per category: 20 sports + 20 general + 20 business + 20 technology.
+# Keep manually published articles in the shared feed.
+# Both the website and the app read news.json, so these items must survive
+# every automatic refresh.
+manual_articles = []
+try:
+    with open("manual-news.json", "r", encoding="utf-8") as f:
+        loaded_manual = json.load(f)
+        if isinstance(loaded_manual, list):
+            manual_articles = [
+                item for item in loaded_manual
+                if isinstance(item, dict) and item.get("title") and item.get("url")
+            ]
+except FileNotFoundError:
+    pass
+
+manual_urls = {item.get("url") for item in manual_articles}
+
+# Maximum 20 automatically fetched articles per category, then add the
+# manually published articles without allowing duplicate URLs.
 articles = []
 for category in FEEDS:
     items = articles_by_category[category]
     items.sort(key=lambda x: x.get("date", ""), reverse=True)
     articles.extend(items[:20])
+
+generated_urls = {item.get("url") for item in articles}
+articles = manual_articles + [
+    item for item in articles
+    if item.get("url") not in manual_urls and item.get("url") not in generated_urls.intersection(manual_urls)
+]
+
+# Keep newest items first while ensuring manually published items are retained.
+articles.sort(key=lambda x: x.get("date", ""), reverse=True)
 
 if not articles:
     raise SystemExit("No news was fetched; deployment stopped to avoid an empty feed.")
