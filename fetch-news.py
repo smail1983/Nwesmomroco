@@ -118,7 +118,12 @@ articles = manual_articles + [
     if item.get("url") not in manual_urls and item.get("url") not in generated_urls.intersection(manual_urls)
 ]
 
-# Keep newest items first while ensuring manually published items are retained.
+# Keep newest items first while ensuring every manually published item is retained.
+generated_articles = [
+    item for item in articles
+    if item.get("url") not in manual_urls
+]
+articles = manual_articles + generated_articles[:max(0, 80 - len(manual_articles))]
 articles.sort(key=lambda x: x.get("date", ""), reverse=True)
 
 if not articles:
@@ -127,7 +132,7 @@ if not articles:
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump({
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "articles": articles[:80]
+        "articles": articles
     }, f, ensure_ascii=False, indent=2)
 
 print("Fetched", len(articles), "articles.")
