@@ -36,6 +36,21 @@ async function loadNews(){
     if(!response.ok) throw new Error("news.json HTTP "+response.status);
     const data=await response.json();
     allNews=Array.isArray(data.articles)?data.articles:[];
+
+    const latestArticle={
+      category:"technology",
+      title:"المغرب يحقق أفضل ترتيب له في مؤشر الابتكار العالمي 2026",
+      description:"المصدر: NewsMorocco | الويبو (WIPO)",
+      image:"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      url:"article-morocco-innovation-index-2026.html",
+      domain:"NewsMorocco",
+      date:"Sat, 03 Oct 2026 17:10:00 GMT"
+    };
+
+    if(!allNews.some(a=>a.url===latestArticle.url)){
+      allNews.unshift(latestArticle);
+    }
+
     if(!allNews.length) throw new Error("No articles");
     sectionTitle.textContent=categoryLabels.general;
     displayNews(sortByDate(allNews));
