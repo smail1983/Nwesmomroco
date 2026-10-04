@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-10-04T00:20:00Z",
+  "updated_at": "2026-10-04T00:17:58.103586+00:00",
   "articles": [
-    {
-      "category": "general",
-      "title": "الحكومة الجديدة.. حزب الاستقلال يقرر المشاركة ويفوض نزار بركة مواصلة المشاورات",
-      "description": "المجلس الوطني لحزب الاستقلال صادق بالإجماع على مشاركة الحزب في الحكومة المقبلة، وفوض نزار بركة واللجنة التنفيذية مواصلة المشاورات.",
-      "image": "https://www.coe.int/documents/268333607/274965362/Parliament%2BMorocco_2025.jpg/1a74177b-df41-1354-3ee3-dc2a80cc8470?t=1746196702128",
-      "url": "article-government-consultations-october-3-2026.html",
-      "domain": "NewsMorocco",
-      "date": "Sat, 03 Oct 2026 17:28:00 GMT"
-    },
     {
       "category": "technology",
       "title": "يأكلون المخ حيًا.. أسطورة القرد الأحمر الذي يمنح القوة - Masrawy",
@@ -81,6 +72,15 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBOdzNWTWxkUmJXYVhwdUJWdFEtbEItbk05cnJFVnVUN3JrNUZqVTlrTFoyakJjdnZqOG40Q010SGk1NHc?oc=5",
       "domain": "inews.ma",
       "date": "Wed, 30 Sep 2026 17:48:30 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "من الاصطناعي إلى \"الفائق\" .. اتفاق ترامب مع عمالقة التكنولوجيا لتغيير اسم \"الذكاء الاصطناعي\" - Medi1news",
+      "description": "المصدر: Medi1news",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hWEdNbnBGRzc0NE5WYXNfN0FYSFllSV9CWU9NdDBuNFVZYjhPdnFaOE9yZEJscmxDRmhlV0RhUTlOamtOU0hzNVNKdVNCbXZ0ZmFraDhlQTVFcTJW?oc=5",
+      "domain": "Medi1news",
+      "date": "Wed, 30 Sep 2026 17:48:09 GMT"
     },
     {
       "category": "business",
@@ -174,11 +174,11 @@
     },
     {
       "category": "business",
-      "title": "اقتصاد المغرب: القيمة المضافة للأنشطة غير الفلاحية هبطات من 4,9% لـ1,5 فالمية والصناعات الاستخراجية تراجعات بـ28,6 فاالمية والصناعة التحويلية بـ3,2 فالمية - goud.ma",
-      "description": "المصدر: goud.ma",
+      "title": "اقتصاد المغرب: القيمة المضافة للأنشطة غير الفلاحية هبطات من 4,9% لـ1,5 فالمية والصناعات الاستخراجية تراجعات بـ28,6 فاالمية والصناعة التحويلية بـ3,2 فالمية - كود",
+      "description": "المصدر: كود",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPLU9YWjR3NnZYZ3JXc0g1bFk5YTZGZ3pod2hxd2JudWFxc2drS0lBZWs3aEVPaW92YXpFOTZBc2FzNm1BWGd4Nm1FVXZKZXpYbE5sMWlCYTQ5VkhpWkYtRC1qS0JfUUZTLU1CdWJ5TjQtOC1nMW9CV3ZpUldQTUlodzZZaEgycEpaZzJ3QVIyaFlTRXFLa2RFTjU3NGg1Q2dnUWRtVlEyUFVTaUwwY3BoOENVcEp3Mlp4Q0J2TkJRQzlfaUF6S0tuNE4tVWlLWU9NNmZxUEoxSmlONXA0Tk91Y2NZN0p2VGIyZ29BcllEaWNFczY4VkFGX1Bjd3Q3anhxOVpfeHo0VjNfNjZkOFVuYV95TWRwYWd2bFNxWnNjNmR0QmRPVGJFcWFEMFpPSDRzMTV4V1NWZ2ZncG9jcDB2VGltMGN5aGNz?oc=5",
-      "domain": "goud.ma",
+      "domain": "كود",
       "date": "Wed, 30 Sep 2026 11:29:34 GMT"
     },
     {
@@ -237,11 +237,20 @@
     },
     {
       "category": "sports",
-      "title": "بث مباشر: مباراة الوداد والرجاء في الدوري المغربي 2026 - al-ain.com",
-      "description": "المصدر: al-ain.com",
+      "title": "بث مباشر: مباراة الوداد والرجاء في الدوري المغربي 2026 - العين الإخبارية",
+      "description": "المصدر: العين الإخبارية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xUlNmT1dSRDNIMTVtSEtkOC1nb3IwMHNLZUt4bXZ6X1JKeTRBRmJ5dEw1dmhoY04tZmtOWFJIWG5XcUhFR0FXZHlPVy1iN0V5QXBZLXZNZTJWeW9ZdjlDVjJ1Y3lZTVhEZ05LVTdR?oc=5",
-      "domain": "al-ain.com",
+      "domain": "العين الإخبارية",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "المغرب يعلن محاكمة مئات المحتجين بـ\"شروط قانونية عادلة\" - الجزيرة نت",
+      "description": "المصدر: الجزيرة نت",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQVHI3dVlRVW41dGZITnkyRFJ3VC0tOTRxLVhJcERoWHo1S3FkNWI5WHA4X1NSeXFJQ3ZNN3BBSVlwM1NlcXVNY011LUtrVENRMEtEWi1YdFZ0Rm9JUUZKdkNld3NKT2t1SGRLUUZya0pVQjZwamstY3hrSFJkZGVleHRjRjF4cnJGc3Buc0RWcnVjSmtaeHVSNklTYkZ1TVI4ajUxSHBramZPN2tDdVFUTjNKV185dlFhWWlJVHhHa09VXzF6Rm9MOUMxdUxVM3ZUaTFVZDBIbG1zd3FvQk5PMm9hLUZSTkE4TVE4cmxFUFU3TXBSeGVwWm5YalhRV0U4VFFDaDkwT0xnNUNySjR6MGw5Ylc1a3lvaGhQS3lFS3FfSGdxdGgzMUNR0gGvAkFVX3lxTFA3cG4wVllyWFNMWnFlQndPRTY0ZUFwMWJzdFhkd0l2QWwyeWhlenRYaHk3WmQyQl9KY2JzSllZYWpOLS1UeHM4RG9PN0JXbU56YVFuN1RISVB4OXVkZTBfVmt6bTRQY1lTSDNEV2pGdHBjSDNDQkR4cWxkaWFRNFlDcmhLSjBkQzgzcmhuU0tYaHV4eWlGSkxrNHlscmNNVUVGcVRISU9VNnNBdmZfNnJoWGhNSDFXRzcxREdJU2lIX29BVnlJblJua1V1Z0VtRG9RR3ROZEs0S3BfOElEQ3lYb09GZUN6LW1XcTZDdVJJVGZMOXRWM0x5dXZSbEVFbExiVFJ0VGx5S21ldnc5LWhCSXgzeHJJMzBZcXJaTXkxMG9CdWJLcW5NTERzeFpWZw?oc=5",
+      "domain": "الجزيرة نت",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT"
     },
     {
@@ -282,11 +291,11 @@
     },
     {
       "category": "technology",
-      "title": "أسواق الجملة بالمغرب.. “جيل جديد” يقطع مع العشوائية ويعتمد التكنولوجيا لضبط المسارات - al3omk.com",
-      "description": "المصدر: al3omk.com",
+      "title": "أسواق الجملة بالمغرب.. “جيل جديد” يقطع مع العشوائية ويعتمد التكنولوجيا لضبط المسارات - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSNEhtQ3Z1R0ppdWJuMmY1UUQ3VjZkNVRPZVhtR1FQWkFISnptNmJRTVJpZFM4LVY3XzJTVkZsUjJqNEx2SkE?oc=5",
-      "domain": "al3omk.com",
+      "domain": "العمق المغربي",
       "date": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
@@ -354,11 +363,11 @@
     },
     {
       "category": "business",
-      "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - al3omk.com",
-      "description": "المصدر: al3omk.com",
+      "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpVnJUdmNvQXhtVkJHQnU1SGt4WFVvdlREay1UTjVyYjBLdTB5NlFlV2M2Z0RQV3p1RW9DbjRyV3ltTHpHeUE?oc=5",
-      "domain": "al3omk.com",
+      "domain": "العمق المغربي",
       "date": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
@@ -372,20 +381,20 @@
     },
     {
       "category": "technology",
-      "title": "استقالات داخل فيدرالية تكنولوجيا المعلومات والاتصالات بالمغرب قبيل جيتكس إفريقيا بمراكش - assahifa.com",
-      "description": "المصدر: assahifa.com",
+      "title": "استقالات داخل فيدرالية تكنولوجيا المعلومات والاتصالات بالمغرب قبيل جيتكس إفريقيا بمراكش - الصحيفة",
+      "description": "المصدر: الصحيفة",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1BWdmxsMWZxejljMnp4WjNMdkwwWVdVcW5EbE9fTU5mZkRZQnVkYVFWZk1BQUZTT3pWZFFwYmt6bkg3VmpwYmxWMHVYUDI0dkFDbGZmckU0WEo2b2VFUXZyakR4b0xkRWFkWHA4azdROElsVlRrR0tjQUVXNEJSbXBSRHRfMFd0NlRiMTE1bTJ5UGtCNVVUdmhTWDVNR09uTDYtS3ZqaHNtWjIza19KRjk3UlBFY3FOQkFoemo0UHQzdFFwekZyYzZYekpVSmFNemUwSGwzcGZ1Q2s5cXFOclVGYTVsWnlJaUlfNW05UWVQN3NwMWsxd0dkNnR4bUloa2ZodUlkSC1mVHEwZTduS3JvVC1Keno5TUp4WVQ4czhBOUotd1pSaVpUcEs4ZWdDTVA0Wmg0dlFpNUVSQlFINk8wcVI?oc=5",
-      "domain": "assahifa.com",
+      "domain": "الصحيفة",
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
       "category": "sports",
-      "title": "تعيين عبد الهادي رازقو مديرا لقناة “الرياضية” خلفا لحسن بوطبسيل - al3omk.com",
-      "description": "المصدر: al3omk.com",
+      "title": "تعيين عبد الهادي رازقو مديرا لقناة “الرياضية” خلفا لحسن بوطبسيل - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WMmpPbWFUNGZCckJPWDhRNXZjSERKSjVKYkNlRXhnQWFrTEhPRTloNHJoT25PdlF2STE4Wmk1SDlqQ0pTYmc?oc=5",
-      "domain": "al3omk.com",
+      "domain": "العمق المغربي",
       "date": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
     {
@@ -569,15 +578,6 @@
       "date": "Wed, 22 Mar 2023 07:00:00 GMT"
     },
     {
-      "category": "sports",
-      "title": "مصادر مغربية: لقجع يترك كرة القدم بعد الإنجاز ويتجه للسياسة - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNalA1VkVoMnctemQzdHJJOFBnekxFRm9LcGRfWWZ2RW5LRGJ4TkdsRkUzMHVwTk40M1h6UkpZMGF1bVYzOGpiTjBTQlIzSklMS1ZGdWtCTklZYTlncGl4ME9QdkM4b29wQnpZUnJLT0dHeXVCcnlDQklCX2JCR002anN4MUs1a1pjalMzR2RwNGUxelBRWDJVMmZXOVZmaG55NkNTZU5PUjJjenF5MTR1dmJpMmtnTkJXLThVWU9DQ2J0aU9qTXBnc0U1WTl0VXo4RnhsYW9FN00zdms5bXZ4OHAwTzJHZEIxbU03dXIwaHlkQTc0M2k3QTc3TWRMVW5WaDZReENBLWRucDNKblg3UW9lRVZsbmVDLXcxN2JQUUhzeEZrcFFqcW16ODVacHNYeGR2U0tkd1lQSTNrWXJrWTdzc2pMTEQxOGJPc2lMb0JWMy01NDlSTWtndk5WbTJMVjZRbUthdW12cGxsc2ExcXpTYk1IelQ1dWVtU1VzUGNzckVHZk9QY0h0YU9UTmUwWFFrN2VGdWRwWUFES3FGQ3psY3Y1Qi02LXJRb2JyemNrc083d0V1T2xKRi1zZU00SmhPLUg4c1hKZjBiU0thZFBR0gHXA0FVX3lxTE85cVpJX3FzTE8tT3c0dkczNXBKb091TVhFcVlXcXYxSklQU0dvOG9GWXNpa3VnOUR3Y3lqbW1HdDZVdFZOU3BTN0w1OHViQVJlYVhDNldUN3FrNUpkNEMzNGRqRDNkaFZiWFN0cWVvSTZTREJvcFp5Z05JenhkMGxnVWZVcFNRcXhTMmJYZTV3Q1RsdVhTbWt5UTN4a0R5RG9BZTNVVkpsaERxd0w1bFFoR2lFLWN6aU9SWkZpR3kzWHZUVWItWHZfNnpNRlFudlBmNnRXZVhmNlY0M1FDLVRFYjhvdUN6clpaRmZaZHlQZ1Z5YUt2WWdPNHdkVy1ZclA0QkRzTXZHdFg3MjFaRG1ZVVQ3STlQOGFRLXozRF9uSTlEaWNrdnFYQUxUWW43X2lvTmN6V0JDdmw0Z2UtSTlkTjBFT0FhTF9SMmZzUHRrWkpOM0NsaHJmZmtzYlF3OTFOQUkwR2VZb3ZiX3NHcXBKN0pVb01feFZmbE4wT0V4UnR0cVN2aTJQUVlpNG84WThfV2FvTnZJdUZQV1A1dkhHcHZGLWJxSkN6QVc5V1hnaERnVmtuVERpeU5CYlc1emZxZGZKQjVjZlYyNTZpSUNyUE1tS0pscw?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "Africa Morocco Link تطلق خط الناظور-ألميريا وتوفر 2.5 مليون مقعد لصيف 2026 - اقتصادكم",
       "description": "المصدر: اقتصادكم",
@@ -614,15 +614,6 @@
       "date": "Wed, 21 Sep 2022 07:00:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "أزيد من 20 ألف طالب يلتحقون بجامعة محمد الخامس-السويسي بالرباط - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWjNjUUU3WGduVlJxMWxnOWRvNi1neWlzNTJaay1XRGI2ZzlWRUVxaThlMnE2T256YTdoSjNzb1o5WG1UcUtKaFpMRmktVzlranJQaG5yYmFFME5qTXdNazhSYWd3cGdOdTNKTXhJUzg5aUhMSXZPUUpnQVRhMnZ3SHJSMWZJNzBiZ1U4Rnl5MnNwaGdRRDZuVDdTWWcwbWJZVl9qemRtTkl3N3I4V2lOaEY5QVpYNXk3aENVRWR3SG9pcF9GSXpvSWp1TFV2R25sNmVQbndPaXRibzVPbnhRM1RsRkJ4WExkRW5qY3FXUU5rRmxwUzE5bXI0UEdLTFNCdUxuZ21Dd0F4NW1UZFNZNlI4bFo3RlBOTk42bVpYUzBHS0dVMFBVQmw3VDBUVjN6QTJMWVFYdWNsOHpxTExsak1YdWpjRFRkeEU1NWhWbmlidw?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 21 Sep 2011 07:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "الدار البيضاء تحتضن فعاليات الدورة الأولى لمعرض الصناعة المتقدمة والتنقل المستقبلي (WAM Morocco) - Maroc.ma",
       "description": "المصدر: Maroc.ma",
@@ -650,21 +641,12 @@
       "date": "Wed, 20 May 2026 15:24:58 GMT"
     },
     {
-      "category": "technology",
-      "title": "أمين أخباش - Unicef",
-      "description": "المصدر: Unicef",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZuTy1SeUFLanJyYmtueFhxXzFnU1JfUzdVaGg5MjdBckZGaHVfMC1tRktYTnNvWnl0TnZUc0lRdWJhZHFXa0otV01uaVdGaTFhc3ppcmdJcTBYNG5JVWxkMllVdTN2Wjc5MEFseG54YThYVjFxZHdDRl90bjRFdTdCZUJiYVRWWi1VT0h6M0ZGY0gyZjdNOEhUeG1yNUxjeXhtZjNYbUhxeUQx?oc=5",
-      "domain": "Unicef",
-      "date": "Wed, 19 Nov 2025 08:00:00 GMT"
-    },
-    {
       "category": "sports",
-      "title": "المغرب ملاذ 9 منتخبات إفريقية لاحتضان التصفيات المؤهلة لكأس إفريقيا 2027 - al3omk.com",
-      "description": "المصدر: al3omk.com",
+      "title": "المغرب ملاذ 9 منتخبات إفريقية لاحتضان التصفيات المؤهلة لكأس إفريقيا 2027 - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95bkdTRVV4bkhZby1iMlQ3bkVCdGVFVmJnRDB2LXZ6V0xGSUU2MDNzN21KY21LRWFrc3BsYlh3RGh3eWc2VWc?oc=5",
-      "domain": "al3omk.com",
+      "domain": "العمق المغربي",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
@@ -678,29 +660,11 @@
     },
     {
       "category": "sports",
-      "title": "Watch 2025 Morocco Live - TOD",
-      "description": "المصدر: TOD",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzhyQUZMNDRTcmt0OGRNbDNRX29Eck04WmRKcktvRVZsTGVrS0R1VUU2bGlpZllJUFQwTTRxdTRIVHZyelAyQWIwYm9DRGZYd1EzVWlWZFZMWVZNUHZVN1M0RzNGMzN1aFV3YmlIN3dtRjhEdUs1bG05WWVxbERMbw?oc=5",
-      "domain": "TOD",
-      "date": "Wed, 18 Mar 2026 17:52:25 GMT"
-    },
-    {
-      "category": "sports",
       "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
       "description": "المصدر: Goal.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
       "domain": "Goal.com",
-      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
-      "title": "عاجل.. الاتحاد الأفريقي كاف يعلن سحب بطولة كأس أمم أفريقيا من السنغال ومنحها لـ المغرب - alyaum.com",
-      "description": "المصدر: alyaum.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisAZBVV95cUxPV1U0Z0FudUZkREZHMER2Tk1JaGl2RnQyV1lYY2FFeHhWN2xSdnVVcnBBNWRBWTVqcjJaRTJCS0ZYMFZLR2lSUmd0Z2c1UFQ5R0o0QXVKMEI0ajdxVjVHRGs5cW96TnZkSVV4bVpDYkxpMGlRakZ4bmRWZ0FSamhia3ktQVNDQXZsSUhqT3FiTEppMnJYMERBZFF4ZUc4a1p5N2NkNk9rY1ZUR2t0WkgwcVJUdmFESVFFZVJCUW5PTlF2LU9CZUtJWkRCdEl5Nnp3TFB3YmV3ZUxJSTZWMmtObWU4ZXJuZ2hvVkZSSzducUJNWE9kUzlray1DSDRiZEVlNGdKVThCS21sNzY4UjRBMEJ1YTFIbm5tQ3Y2VGdSYWZoNldQUVk4VWxuUkU5bEE1RHF6TlJSUlozOGJ4cXQzMFZVd1lfMWlqZTM1ckFRWFlWRDdRX1V2NVpkRThEWEw5WFkxNTMwYzR3RlJNTVNyRVdBRnU0ZlN2R1JBN0F6WVBVUDI4aEdoaUlFQVllWEZPbDQteDJoVzF6dTdQSWNJczV5aGdWcHJjWG5Md2ppX2hzREFJdkJRYXAwQnRBZVIwQ1I2LXczTmZfVEVlWnNUbTMyOGZQZnBCWTJHWW5RRnI0VU01S05QeXJzRWJPZTRqaFBkR1dZM1ZSdVhuREw0Z1RDUXd6cHFSdXpvSjZ2R3ZSZ3hJTjE4MU9DRkkwaTZJRGc4SHU1RlhZN1lCQ3lQRGdIeWU3SDVibG9zM3EwQW9RbkM5T1BmZk9QTWVySUdPRkxyeDYxS0N1SDVEMkNVaVIzaEVSQThBa3k2WTlfUlppckx5Yk13YlZ0N2dZdXktejFzaThMV1daU0pKVE5EQnpVYVI4LTdTeG9NSnVaRnA2cGtQSXYzcVZrSjIzdXBxTDB5RUxkZ2w5NVFNT205SElka1hlVlNoTlZXVVRNd3ZvQktwSkdEWUozeEdzY2w5Y1JPRlhaSGV1RHphRUlFUjE2WTRlQTMyTVpSdEl2N3dPZ3Y3ZVpmRW9MNGY5bTFzT2RHekhhY1B4TnpkQjhNRzBYWUs0WXE4RjBZX3QwTXrSAVNBVV95cUxPbmFTZ1RwbkM3Y0xFZmlSYjhTT3ZWRWI0b2NUNll1ODdzOG1XSGE0U3ZMZFBRcjByU0VMbGtHRUpQMTkwUm5NLS1MZlk0MlExNmlWYw?oc=5",
-      "domain": "alyaum.com",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
@@ -711,6 +675,33 @@
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPQUExLUdkaDliOEs5U0M4bHJlODZLTWhXeEhsa3BtRF9JamJRVVg1RnN0M0o0bWE0RW1DVzVHaHhkbjF3OEpsQmwxRFhVN2k0djJrbG0wMThER2k1UEJhRjBabkF1bVc0c3lQMW9qcGdGbkQtSDJ2WThiS2swVFNsbW5SLVVveXVSdF9VNjY5a00wSFdfNXN2MEQ5V1VwYXBObVRDQm9BVExJT3VSZjBXdHVjVVlJRVN3RGNjSG04dnUxMFI3Qno1U3ZPSzU3enNIRzdjMmVFejRVMF9ZVFF0dVltNEpNWUd2ekJCLXZIbGN6MDF4MWNHcWxsbEFFajZENWF2Y1BVdDNqRjF2QUQycWpkYkE0WUlfZi1PUElqRy1xcVo2QzJwVDJycm95ZXc5T1Atems2YWdsUnc0T0YyRFJzX2kycUwyT25YSDhkRGZIWUhsOTlQMGgwOUdkQzBaRlNUNUk0NzY2SkYyZ2dCbTVBRnVIRTVlWnNCQ2N0VTdtMVJkTEdkb3dfOWdyeWZSQzFreGtrNDJqcnUwRzBhOC1adWE0VUZsTmFjVlIxSnFYTnhEUm53Nm5lTHpMVTgyVG1vc2lBbDBSSmdldzd2RVNhMkNnbENaTVBNcFktaU1Qdw?oc=5",
       "domain": "Kooora",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "ريد بُل وينغز كاب - Red Bull",
+      "description": "المصدر: Red Bull",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MmV2ckJmQ2l0VWZGLWphS0xORUJZaXBiMXpsQW1SN3RWSzM3Wjg4QVpiVElteXRSUDdoLXhMZmc3SGhNVWJXNVdoa1ZERUF2VVhNR0ppN09NYUVMVXdDaGpCekRCakhBNUZQRFJ5amI1alZBOENJ?oc=5",
+      "domain": "Red Bull",
+      "date": "Wed, 16 Sep 2026 08:19:02 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "القنوات المفتوحة الناقلة لمباراة المغرب وفرنسا في كأس العالم للشباب 2025 - العين الإخبارية",
+      "description": "المصدر: العين الإخبارية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yd3Q4Q1lHMFVFRFIxNWR2UFh0Q3QteVZfWndjdGlGWVV2aVBEYXhRczExLXBuWXpjc3NuQkpGcFBpeGJ1UG1KRkRaV1RCUzV4Sk5uZmJPZnpxWC1RT0hBZzFKYy0xSFRVeHdsSFFQLWRsbnhXczE4bHpn?oc=5",
+      "domain": "العين الإخبارية",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "الحكومة الجديدة.. حزب الاستقلال يقرر المشاركة ويفوض نزار بركة مواصلة المشاورات",
+      "description": "المجلس الوطني لحزب الاستقلال صادق بالإجماع على مشاركة الحزب في الحكومة المقبلة، وفوض نزار بركة واللجنة التنفيذية مواصلة المشاورات.",
+      "image": "https://www.coe.int/documents/268333607/274965362/Parliament%2BMorocco_2025.jpg/1a74177b-df41-1354-3ee3-dc2a80cc8470?t=1746196702128",
+      "url": "article-government-consultations-october-3-2026.html",
+      "domain": "NewsMorocco",
+      "date": "Sat, 03 Oct 2026 17:28:00 GMT"
     },
     {
       "category": "general",
