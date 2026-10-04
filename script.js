@@ -13,14 +13,26 @@ const categoryLabels={
   sports:"أبرز أخبار الرياضة المغربية"
 };
 
+const featuredNews={
+  category:"sports",
+  title:"كأس أمم إفريقيا 2025.. ملف المغرب والسنغال يعود إلى الواجهة",
+  description:"جلسة الاستئناف أمام محكمة التحكيم الرياضي في لوزان يوم 8 أكتوبر 2026، والقرار النهائي لن يصدر في يوم الجلسة.",
+  image:"afcon-2025-morocco-cas.svg",
+  url:"article-afcon-2025-cas-october-8-2026.html",
+  domain:"NewsMorocco",
+  date:"Sun, 04 Oct 2026 15:32:00 GMT"
+};
+
 document.addEventListener("DOMContentLoaded",loadNews);
 
 document.querySelectorAll("nav a").forEach(link=>{
   link.addEventListener("click",e=>{
-    e.preventDefault();
-    currentCategory=link.dataset.category||"sports";
-    sectionTitle.textContent=categoryLabels[currentCategory]||categoryLabels.general;
-    displayNews(currentCategory==="general" ? sortByDate(allNews) : allNews.filter(a=>a.category===currentCategory));
+    if(link.dataset.category){
+      e.preventDefault();
+      currentCategory=link.dataset.category;
+      sectionTitle.textContent=categoryLabels[currentCategory]||categoryLabels.general;
+      displayNews(currentCategory==="general" ? sortByDate(allNews) : allNews.filter(a=>a.category===currentCategory));
+    }
   });
 });
 
@@ -36,13 +48,15 @@ async function loadNews(){
     if(!response.ok) throw new Error("news.json HTTP "+response.status);
     const data=await response.json();
     allNews=Array.isArray(data.articles)?data.articles:[];
-
+    allNews=[featuredNews,...allNews.filter(a=>a.url!==featuredNews.url)];
     if(!allNews.length) throw new Error("No articles");
     sectionTitle.textContent=categoryLabels.general;
     displayNews(sortByDate(allNews));
   }catch(error){
     console.error("News loading error:",error);
-    showError("تعذر تحميل الأخبار حاليًا. سيتم تحديث الأخبار تلقائيًا، أعد تحميل الصفحة بعد قليل.");
+    allNews=[featuredNews];
+    sectionTitle.textContent=categoryLabels.general;
+    displayNews(allNews);
   }
 }
 
@@ -50,7 +64,7 @@ function searchNews(){
   const query=searchInput.value.trim().toLowerCase();
   if(!query){
     sectionTitle.textContent=categoryLabels[currentCategory]||categoryLabels.general;
-    displayNews(allNews.filter(a=>a.category===currentCategory));
+    displayNews(currentCategory==="general" ? sortByDate(allNews) : allNews.filter(a=>a.category===currentCategory));
     return;
   }
 
