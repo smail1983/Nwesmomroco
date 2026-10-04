@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f1018"/><stop offset=".55" stop-color="#c41625"/><stop offset="1" stop-color="#071f16"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#fff4a8"/><stop offset=".25" stop-color="#e8b93e"/><stop offset="1" stop-color="#7b4b00"/></radialGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<path d="M0 0H1200V155C900 95 650 190 350 120 190 82 90 100 0 145Z" fill="#b20f1d" opacity=".75"/>
+<path d="M0 520C240 420 430 580 650 500s350-50 550 20v155H0Z" fill="#071b14" opacity=".9"/>
+<g opacity=".35" fill="#fff"><circle cx="80" cy="90" r="3"/><circle cx="1120" cy="110" r="3"/><circle cx="1030" cy="200" r="2"/><circle cx="180" cy="210" r="2"/></g>
+<g transform="translate(60 45)">
+ <rect x="0" y="0" width="260" height="150" rx="18" fill="#c41625" stroke="#fff" stroke-opacity=".35" stroke-width="3"/>
+ <polygon points="130,35 142,67 177,67 149,87 160,120 130,100 100,120 111,87 83,67 118,67" fill="#006233"/>
+ <text x="130" y="140" text-anchor="middle" fill="#fff" font-size="22" font-family="Arial" font-weight="700">المغرب 🇲🇦</text>
+</g>
+<g transform="translate(820 42)">
+ <circle cx="150" cy="75" r="66" fill="#fff" opacity=".12"/>
+ <text x="150" y="65" text-anchor="middle" fill="#fff" font-size="28" font-family="Arial" font-weight="700">AFCON</text>
+ <text x="150" y="100" text-anchor="middle" fill="#ffd34e" font-size="26" font-family="Arial" font-weight="700">2025</text>
+</g>
+<g transform="translate(455 145)" filter="url(#shadow)">
+ <ellipse cx="145" cy="390" rx="120" ry="22" fill="#000" opacity=".35"/>
+ <path d="M72 70 Q30 50 10 0 Q80 8 115 68" fill="none" stroke="#d9aa39" stroke-width="18"/>
+ <path d="M218 70 Q260 50 280 0 Q210 8 175 68" fill="none" stroke="#d9aa39" stroke-width="18"/>
+ <path d="M65 55 Q145 115 225 55 L202 250 Q190 305 145 330 Q100 305 88 250Z" fill="url(#glow)" stroke="#ffe48a" stroke-width="4"/>
+ <circle cx="145" cy="62" r="72" fill="url(#glow)" stroke="#ffe48a" stroke-width="4"/>
+ <path d="M95 62 Q145 10 195 62 Q145 95 95 62Z" fill="#006233" opacity=".85"/>
+ <path d="M145 15V108M105 35L185 90M185 35L105 90" stroke="#fff0a0" stroke-width="3" opacity=".7"/>
+ <rect x="90" y="320" width="110" height="28" rx="6" fill="#d9aa39"/><rect x="70" y="348" width="150" height="24" rx="6" fill="#8c5a08"/>
+ <text x="145" y="368" text-anchor="middle" fill="#fff" font-size="15" font-family="Arial" font-weight="700">AFRICA</text>
+</g>
+<text x="600" y="465" text-anchor="middle" fill="#fff" font-size="72" font-family="Arial, sans-serif" font-weight="900" direction="rtl">كأس أمم إفريقيا 2025</text>
+<text x="600" y="525" text-anchor="middle" fill="#ffe18a" font-size="38" font-family="Arial, sans-serif" font-weight="700" direction="rtl">المغرب أمام تحدٍّ جديد</text>
+<rect x="300" y="555" width="600" height="3" fill="#fff" opacity=".45"/>
+<text x="600" y="610" text-anchor="middle" fill="#fff" font-size="28" font-family="Arial, sans-serif" direction="rtl">جلسة الاستئناف أمام محكمة التحكيم الرياضي يوم 8 أكتوبر</text>
+<text x="600" y="648" text-anchor="middle" fill="#d8f5e5" font-size="18" font-family="Arial, sans-serif" direction="rtl">NewsMorocco • آخر أخبار الرياضة المغربية</text>
+</svg>
