@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-10-04T12:17:05.650397+00:00",
+  "updated_at": "2026-10-04T15:36:34.430877+00:00",
   "articles": [
-    {
-      "category": "technology",
-      "title": "يأكلون المخ حيًا.. أسطورة القرد الأحمر الذي يمنح القوة - Masrawy",
-      "description": "المصدر: Masrawy",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOaWphZnA3TThqQXJPa3JTcU9Qd0JoeHVST0hLUkdIek9NMlRSY1JraW1YTGxfLWRBblRWQkltZWxNbFM3MHBSMUZZbGpDa1k5bDh3STlFazNJZThlZjFnVUNsNkR2am5PY04tc2ZkWXdKQ0R5VUFiNFI3LXhLZjV6aTU0RlZKckgycE12WXRUcW9YT0xsMG5SZDJLZS02UWlNNjR6S0E0WHNEZDhlc1dMQ1FyVW82aFZSRXlKemVDb19JMkd3bHZOMUFTamNFek0wYUxENFVNcmM3N0ZlQkNXWWhZYlR0OHYtb2tRdXpHRV9JdWZTb3RXdjJkaFNUQ1R4Unhma2NwdVhNMUJobWZHOXVUTnlPLXBscUpOLWRiYlAwbGFvaEI3SjBWdi12endPd21tTWR0dUphdXlYVF9NNU1EX2ZjTkZmMHlUTEdYSzdUOXpfNkIwTW10LS0tVTlRZ1NPczV2WkxsTUFWZzVkcExGazRrd0NOTkEzeGwtSExUTmdkRFB6dFFCeFhfT1VIdEdTdlM4WFJSNHBnZTFaNWxNSVdpa1VEOE96OVd6NFJrb2RCQW1CREZ5REpvWkJTYVdrU0c2N05vQmlCQV9xTlpZVDlxS1RLZl9R0gHgA0FVX3lxTE1vLTZ6TGhSV2hwTjZfcFRBektFZmtPN21CdHV3RGVnSmUwem5WcHl0Tll3Q01xTTdGQTRieUktXzVOQ0FxdW1LMHVsX0ZmYU01ei1KVUpJSzJlV1FzU1EtLWI0VWtvNFdSYTBkTWZXdWtOUUo4d1Z6SjN3aklSWmJPZGJmOHAySmZiY1c4djNJX0owWlh6RjdVUzNzMTZjTjVRejhxY1Nqblc2NHBDdDZIQkFYZVBqaE9wdGE4ZnZ0eVJ1c1pQT2FJZXowenNuY2ZOV0hxMk43VW1EcFdXcXhlZU1tMEVOc3ptZjB0UUNLOFJJU1NyMFBobFZVS0FIY2dUT1l1TWdONkxRMld4aGVvcU5WT1k3VUwzTUp2NjBZcXNKQ2prT3RuWUZ0emNmNndZNFVhQktGWXhPZ0RKbmVHWGprVEdCTHhNTlpNZWpwREtQVW10UUNmTGdwY0dIQ0NpYUVzS1ZKNUpmWHNId1g1ZTNubGlORUdoTGZoejN2RVBBbkF2TmkwMmR2M1FwT1ZYNFgxZXg5a2oydTg4VXpfZDAtWC11eTRuaTJXYnhFTlN4Sy1vTmZkZUZtMWVkY3FGMjI2bG1YLVZXc0hDYUwyVjEwSHczODJ0cy1URHNYYw?oc=5",
-      "domain": "Masrawy",
-      "date": "Wed, 31 Aug 2022 07:00:00 GMT"
-    },
     {
       "category": "general",
       "title": "ترامب: انسحاب آخر الجنود الأمريكيين من العراق يمثل \"يوم نصر\" للولايات المتحدة وبغداد ضد \"داعش\" - Medi1news",
@@ -57,15 +48,6 @@
     },
     {
       "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال الربع الثاني - إرم بزنس",
-      "description": "المصدر: إرم بزنس",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqdVlYbXFkYURHVXEyc0N4c3phTXZ0WHFqNjVjR3Z2bkxybnNHV3lQSDY3SVc4ejFhaldYcElDMllpUVdTeU9rLUpfd2o1SmpMLXRJdi1uRQ?oc=5",
-      "domain": "إرم بزنس",
-      "date": "Wed, 30 Sep 2026 18:08:40 GMT"
-    },
-    {
-      "category": "business",
       "title": "تباطؤ نمو الاقتصاد المغربي إلى 4% خلال الربع الثاني - العربية",
       "description": "المصدر: العربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -75,11 +57,11 @@
     },
     {
       "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4 % - barlamane.com",
-      "description": "المصدر: barlamane.com",
+      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4 % - برلمان.كوم",
+      "description": "المصدر: برلمان.كوم",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQODh1VUR1OWVYdzhEN3lkRHFKWnBMZlZTU0lLSW1yWl9QR3hoZnpYZjBDY2NPemM0MEpqaXUtTUpjTXFNUGlnMEo3VlgtODZuVkE3bndlSUlyTzBGTFpvUF9iUFktU0xNUDdyQ1plZDR6NDVFQ3dxUGJ2VTZIQ2E4SldSLUhXQ0ZueUUtN21JY2NTS1RZNUFSTkxoMm9zN2FhbEJSbEs4SjhxZWVrbTVvUXFjN2Y5WExqX0ZSOVRqNjdUTm5WVUNJNERuM3lNT3VxT0tYUGlZc1RKQ193VE4waWhtOVVlazlIdWVReFpyTHZJR3FxQVJkZW9lNkstcjdEVk1VRTYxb3RKWVdPcnpycUJ1MnhXUnRjbG1n?oc=5",
-      "domain": "barlamane.com",
+      "domain": "برلمان.كوم",
       "date": "Wed, 30 Sep 2026 15:49:49 GMT"
     },
     {
@@ -218,6 +200,15 @@
       "date": "Wed, 30 Sep 2026 09:46:00 GMT"
     },
     {
+      "category": "sports",
+      "title": "أعلنت الجامعة الملكية المغربية لكرة القدم ،اليوم الأربعاء، أن المنتخب المغرب - نية مغربية",
+      "description": "المصدر: نية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNd0FOcW9FdmJRclJRYjFTTHRZLXJYXzlJX001QlVaaURTSW1iZG4zZS1PcE9UZWJRUXQxUmpxQnplWDQ2ZDBCN3BNY21TcmYxQmFKb3k0U3RZUWt0Uk5OUEVlWm0yZzEzZkc0UWc5dTZ1QjJibFppQkNUSjB5amd5Ukw2OWExal9IMjlLbVo5bmg0M0tHb3AwUkplbnd3T0h2alRNaDl6eVh3RlNJenBEdUIxbzRLVGxGcEFOMWtubGRHTGxmdTJuNEczOGJrZU1COVctMjJ6dnlkMUlzclRsZlo0ZE5wNjB3ZDgxUlZkRXI3RmdEWlFLbEIyUWxMdGxWZHRBWlE3UHQxSlAwV1VqbmtvRjRuR1M3UGNpNGNBaGotcmkweDFrd3ZEUkR5NzdtYkZXOHdsZTFYUW0yNkdUNUp3?oc=5",
+      "domain": "نية مغربية",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
       "category": "general",
       "title": "ملك المغرب يؤكد استعداده لـ\"حوار صريح وأخوي\" مع الجزائر - الجزيرة نت",
       "description": "المصدر: الجزيرة نت",
@@ -228,20 +219,20 @@
     },
     {
       "category": "sports",
-      "title": "بث مباشر: مباراة الوداد والرجاء في الدوري المغربي 2026 - al-ain.com",
-      "description": "المصدر: al-ain.com",
+      "title": "بث مباشر: مباراة الوداد والرجاء في الدوري المغربي 2026 - العين الإخبارية",
+      "description": "المصدر: العين الإخبارية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xUlNmT1dSRDNIMTVtSEtkOC1nb3IwMHNLZUt4bXZ6X1JKeTRBRmJ5dEw1dmhoY04tZmtOWFJIWG5XcUhFR0FXZHlPVy1iN0V5QXBZLXZNZTJWeW9ZdjlDVjJ1Y3lZTVhEZ05LVTdR?oc=5",
-      "domain": "al-ain.com",
+      "domain": "العين الإخبارية",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT"
     },
     {
       "category": "sports",
-      "title": "هل ارتدى منتخب مصر للسيدات قميص منتخب الرجال؟ ما القصة؟ - bbc.com",
-      "description": "المصدر: bbc.com",
+      "title": "هل ارتدى منتخب مصر للسيدات قميص منتخب الرجال؟ ما القصة؟ - BBC",
+      "description": "المصدر: BBC",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ma2ZoM1hNZkJvU05hVXJUa3k3T0pXRWp2WFhWam9qMHp5dVlVZnh1UTVBWGNNOEl3UlQ3X2oyd3NjSnhNTFpsSzh1RU5tN29GbWg5YmFYSzNNMVRB0gFiQVVfeXFMUG9LMXJHOUJpWDcwbHY2eDJlZGl6LTI1bzFZUzlaZFphLTJjRXU2Y1NORDRtNmg3eTlwdjFRb2xpSi0zVkpFS1NjaGVIeTV4Y25nVVlLWlk0SlJpOXVzLTd1VlE?oc=5",
-      "domain": "bbc.com",
+      "domain": "BBC",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -255,11 +246,11 @@
     },
     {
       "category": "technology",
-      "title": "باستثمار 1.3 مليار دولار.. المغرب يعزز ريادته في صناعة بطاريات السيارات الكهربائية - زنقة 20",
-      "description": "المصدر: زنقة 20",
+      "title": "باستثمار 1.3 مليار دولار.. المغرب يعزز ريادته في صناعة بطاريات السيارات الكهربائية - rue20.com",
+      "description": "المصدر: rue20.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE55ZFl6bFdvM1pRdWhkWUE0TlptZEE5MzB1UE56TEYzOTZ1Zmc0S09mZXNuZHU4UGlsakFmNTlBakxWNVZr?oc=5",
-      "domain": "زنقة 20",
+      "domain": "rue20.com",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -269,6 +260,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNZ3l3NTZBalF2YWN0Zjc3UThHc1QwbmlNem56R0NaWi1aaWMzZHZ2Y2tja2ZCVTVEOXJUTWNJM1BYVjk3X2VQTHVtN1pTcWxPSUxjR1VxX1hGWGdKOWh6dF85dmVydElGRU02alhVMlNtczNUVHJjLXROZFNMdkdtOF9NbUUwM1A1Y2NKeEVtT2ZBYVV1RWNzUXdMbjFpbXNnMnBDc3ZzaTllNHJsVGFfMFJ1MFhsanlnV2x6UUdUbWFjT3N5WG5hLXJHV0xPQVdCTjNyU3ZfSHNyMDMwLWltRHdHVXVubGVvYU9MYV9QRjFTRUxMSVBmTzZ1U0NzNVRKREZWNVhyc0NnaXloRmstUE9wQnIyeGtpMWZBcVVvaHlEWi1ZelhROGFVNnF2UkVDQjhtUndhYU5IdDVmUXBjMzlBd3FVaHJLNEJLVkduRWZZR28wcWFYN3U4MkV3QlRDV3JQVXd0Mm1ST1NmNTMtVEpXQmhtVHlPaHJPajVucFRjNTdjUVZPZUZsSjNqU2M3aTNGbk5JbE5wSW8yR29oc1FfZVp6WjVLQWUtVXlaaVJURnhzeWZtV1JFRUl0UzNCd0xUdVMtY1ZKVmtsUi15QmNtUDNBdHdOQ2QtS2VsYmV6NzdESEVz?oc=5",
       "domain": "الشرق بلومبرغ",
+      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "المغرب يعزز ريادته الرقمية في إفريقيا: زخم الابتكار، شراكات دولية، وطموح “المغرب الرقمي 2030” - mmsp.gov.ma",
+      "description": "المصدر: mmsp.gov.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxOWW5PeGpPRWlWX1lkX2liYS1fQ1k5TmlzbDZqa3RPUjd2NmFrQmc2QTFRY2F5c2VXU3hIUUU4TmFRb2VrODFWSUpCaFQ0bXJWLWF6WHVBODhSVUo4cDVhajNvSzVUX0ZaVVpkM0RSVjRoTW5uYzJtVVV4ckZ2RzNzTHAwWU9qUlBka0NIUUJpOEtHYTItQlNfSlREODZvb3lhdC0tQjF2aGpvR3JTM1pSMDBQU25UVWJueVhXMkZDQVd4dk5mUjEtOUVieGY0NG9OSUhkbEdFSnNTRTZCS3QxTmQ5bzhBM0NES1luMThqaGFud1hHX1BmQ0pLUlh0R1pDbmQ3dGFURlZzRDBRWHgyWHphQ2VrZTduQVBCV0Q5a0FYV3loVmtPMTRtUHFGZFhtSDZkdWwxQVV4SU5pZlczZWVxeFhIZkVNbUpER0pMRUExaU9ING9rb2xzVmtWX2Roc0JXR09LUVNWbVB5ZGh5c1U0bHdQN0plOTIwcjNQT2ZFSDB6YVVOLUsxbGItb1dGSkd6NkNWNHFVOGZOa3dOYkk5Y19rQ0VpeVRkeTdJTW5hNUxteXpsaTZjU2RrYzNRSHZPTHlpWUxDbkVaZ3JabzE2aDZjZUFxekJiZnhsc0FJV1o5YzdoNnY3WkdKZDZmajdidEZCT051TE1ySDJEd0tKbEhoMDVNb0RuVWJvRzFxbC16emFCeU15VFA4V2IxRkUxaHQtM0l2bHloOXhNakxPRDAxYndoM3hJcDU4bDlLRGVUcTdBeS1td2I5ekE5cXBHRjBoRmRtZW05SlFOZ3V5OE9kYVZ1UUpJQ3BIbFhQNW5IT0x6dmxSOEx6bjlRR1ItZkRtclhPUVhOSE5uOHVlZzBJQl81emE0UDBvQ2VXTmtycW5NUlJPeGtwRU9qUHZIbEw4M3U3Sl9TcjdsdVFkLS12aHVfOWRaSHgwMTFTbFFTMHFPMUV6OTBwaEptYlZSZE9tckRuTzVYNy1NNQ?oc=5",
+      "domain": "mmsp.gov.ma",
       "date": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
@@ -327,11 +327,11 @@
     },
     {
       "category": "technology",
-      "title": "المغرب يعزز مكانته كأحد أكبر أسواق الأمن السيبراني ربحا في المنطقة - barlamane.com",
-      "description": "المصدر: barlamane.com",
+      "title": "المغرب يعزز مكانته كأحد أكبر أسواق الأمن السيبراني ربحا في المنطقة - برلمان.كوم",
+      "description": "المصدر: برلمان.كوم",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkxCRG1RWUdNYWo0UWxYd1A4VTFDTG5GVzNDS3lYN2VQNWdQR3Vtd0RWN1BnZTdKU2JlQ2l1ekVabDdhS0NxVzkyMEZLSGtPa2RnbzBPRTlmamMwWFRrNTZXR01kcUV0NXdmc0RsSzNiN0x4VHRqbTF6R3ZoUHA3ZlBDQk1vZXBJMXktWTJMY2MwcDVjUTM3ZkV3cE5oWHlOUi1VNGxRN0l6ZHl6Zlc1TzN0VG5DaDJGREpNNVZkR0t0OERmUzF1ZWlOZXhQYXN1c1BrYTBWb2JteHo2MVpzWjZ6TDdySzZvT3ZKVHhVVWE5cjhpbmQ3VEloRDI0LUJvMExhX0c2Z3hVOVZKZ2Vka1Z1WHF1dUNtTFdtLVZiLXhVVUpVdjZ3My1kZ1FSUFg3enl5a0VOM0lGREdyWTh5cE1MQQ?oc=5",
-      "domain": "barlamane.com",
+      "domain": "برلمان.كوم",
       "date": "Wed, 26 Nov 2025 08:00:00 GMT"
     },
     {
@@ -360,15 +360,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeFFZc0hEckVQeFFfV3Zjc0RQUHZ3dWxBUWljc1JtckVScExoNFVXRmhXUWloS1IzbXpRb1JhYkRtSjVHMUJmbWJkOE9KOGs5cjl1aFFMZDAtT0Vwd3FIajVCcENQeVVBOUcyM3E5V2xMZEw3bnRvNHNwWG1WTHFpNERVbTRSdjNBZUdVSTdxYjEzUXYtVlMyck9scXotVTJDa3JMRWh3UkgxS044WDF0bVJQMEZHWmFxd3V3NHhXWWNWV1BLb25lRk8zMTNIeHl2RWFaa0hzbTlSazlrdU5KU2pXSUpvN2lscERrWlRCUmpJVXBhSGRtT1ZOaER1ZVYwd1BZcWtobjJrcUJPY2xtR0xDUDQzSko5QVhYeElsQkl0bTczRmsteUtCMDlpVzhkNDlMamJqMWw?oc=5",
       "domain": "صوت المغرب",
       "date": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "استقالات داخل فيدرالية تكنولوجيا المعلومات والاتصالات بالمغرب قبيل جيتكس إفريقيا بمراكش - الصحيفة",
-      "description": "المصدر: الصحيفة",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1BWdmxsMWZxejljMnp4WjNMdkwwWVdVcW5EbE9fTU5mZkRZQnVkYVFWZk1BQUZTT3pWZFFwYmt6bkg3VmpwYmxWMHVYUDI0dkFDbGZmckU0WEo2b2VFUXZyakR4b0xkRWFkWHA4azdROElsVlRrR0tjQUVXNEJSbXBSRHRfMFd0NlRiMTE1bTJ5UGtCNVVUdmhTWDVNR09uTDYtS3ZqaHNtWjIza19KRjk3UlBFY3FOQkFoemo0UHQzdFFwekZyYzZYekpVSmFNemUwSGwzcGZ1Q2s5cXFOclVGYTVsWnlJaUlfNW05UWVQN3NwMWsxd0dkNnR4bUloa2ZodUlkSC1mVHEwZTduS3JvVC1Keno5TUp4WVQ4czhBOUotd1pSaVpUcEs4ZWdDTVA0Wmg0dlFpNUVSQlFINk8wcVI?oc=5",
-      "domain": "الصحيفة",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
       "category": "sports",
@@ -516,6 +507,15 @@
     },
     {
       "category": "general",
+      "title": "بوريطة: قرار مجلس الأمن بشأن الصحراء منعطف تاريخي - سكاي نيوز عربية",
+      "description": "المصدر: سكاي نيوز عربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPSXRTcjh3blQwV3dEcFl0Yks4NU1jeVdmX3RJZ0JvWXQ2WEtyNkd3cGVjaUxkNFNqR2J4TVpBcDdEdDFhR1BxVU5kcG9wLVhVNl9uLVRqelZjdGp6N0dhWjd4OE9hZGFjUXN0TllnR1dtcjQ4UUJYSUZGUW1obC01Vko1UXB1blR0ZVJZVVBPWDNUVTlfTlZGTmczZ0l4VjQ2REpWLUxVX3l3TGdNZDM1bXozTFYyMm40aEhKRE45SWtqV242cHdBUDhLLTA0U3gxQ0FfMEhhaEN5UWlzc3dhRzNIbnlrbkVoYTk1LS1TRk1vcHJxQlJVMDJqeDBBZE5MQ05rV0R1cXg4NEY2SDRRZnpEZUZaYldUZEtOS3ZoVkx6WnhUSzZDQ2JWVFR4Y05neGV2UlFVdDNtSHQxRmR2ekxiWWROUDVJY3dlTnV5MUFMRUNaT0NKSC1kMTVyS2hBSjU4X09ER0gyQ3Q0Y3dIeG9Db013d0tGUzVueEZvdDBhWFZ4NUFpYUhwR2l1eklIV0cyb1FjbWhsWXdjWmhkZ252R0gzd2ow0gGuA0FVX3lxTE1ndEFzZHltU001RkFHdHZqWHViajEwMTZfWmxaOXZoYlFZQmtjWTlidWlwX2U0clI3QVJoaWc4X0tsUU1ZZWNJMFA3akV0UHZha0VwN0tLdXNINGFLbVplYmhwTElJVnlKZUtMRU1PQTR4aThBYTZDbXB6WDJVZ2ZCcXQydnRCdkdTVk1MUWJ5djRHN3EwTXdPWFZqUGVKWnVrcjRtNDNWakRyRXg1MUZmdVFqeXhRQnJnUnpCUWdiN2pPbXF5OEhxR2hia1lueWdiYzE5eGVRbFNPYWRSYmlrLXRlT3J0d3hnMTZ2TVVTN2IzVFJFMExUNE5Ec3paQkdpMFNxQ2dsMGJMLVExUHgzYnVCOWZtbEk0d20wdldsM3RoNTIwSVZ1MEpTbGpEN2FBdWs4TWdtUVdqazdYUlRoYW1KWENRRDYtNWg2a1VfX0FQc2xDQm1STS0tOVZEOGlVT1g1ZEV3VFZ3TVYtdjFRSFhKNkVkaG0ySWlGZ0EwcWR0a2g4c1hkZjJ2R1NJWTRuVEFXQl9aMjRFX2VVeFRBWHhBMlVvbkJCSkktc1E?oc=5",
+      "domain": "سكاي نيوز عربية",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
       "title": "توقيفات وتحقيقات.. المغرب يتصدى لشبهات التلاعب بالانتخابات - سكاي نيوز عربية",
       "description": "المصدر: سكاي نيوز عربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -551,31 +551,13 @@
       "date": "Wed, 23 Sep 2026 06:59:33 GMT"
     },
     {
-      "category": "general",
-      "title": "Morocco: كل المعلومات، الأخبار، والنتائج - kingsleague.pro",
-      "description": "المصدر: kingsleague.pro",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONGZLTGdtRUN6MW1DT0pjNGdQWUk0NmxoSkljdUJWeTlpWlZyNnlvVzJtVlEzWFhxQmthUDZMY1hKNmMydzlFZnJQdWxka0ctcXV2dW1JZw?oc=5",
-      "domain": "kingsleague.pro",
-      "date": "Wed, 22 Oct 2025 21:05:25 GMT"
-    },
-    {
       "category": "technology",
-      "title": "مستشار ملك بريطانيا : المغرب بوابة أفريقيا وشريك تجاري رئيسي للمملكة المتحدة - زنقة 20",
-      "description": "المصدر: زنقة 20",
+      "title": "مستشار ملك بريطانيا : المغرب بوابة أفريقيا وشريك تجاري رئيسي للمملكة المتحدة - rue20.com",
+      "description": "المصدر: rue20.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0xWkk5TVhVaWRkV25JTHloUGF0QTFjUEx2MC1XUHdQekJzbU05Zk9UZnh1Tkh4WkF2dlUyNEdCeVRLY28?oc=5",
-      "domain": "زنقة 20",
+      "domain": "rue20.com",
       "date": "Wed, 22 Mar 2023 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "مصادر مغربية: لقجع يترك كرة القدم بعد الإنجاز ويتجه للسياسة - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNalA1VkVoMnctemQzdHJJOFBnekxFRm9LcGRfWWZ2RW5LRGJ4TkdsRkUzMHVwTk40M1h6UkpZMGF1bVYzOGpiTjBTQlIzSklMS1ZGdWtCTklZYTlncGl4ME9QdkM4b29wQnpZUnJLT0dHeXVCcnlDQklCX2JCR002anN4MUs1a1pjalMzR2RwNGUxelBRWDJVMmZXOVZmaG55NkNTZU5PUjJjenF5MTR1dmJpMmtnTkJXLThVWU9DQ2J0aU9qTXBnc0U1WTl0VXo4RnhsYW9FN00zdms5bXZ4OHAwTzJHZEIxbU03dXIwaHlkQTc0M2k3QTc3TWRMVW5WaDZReENBLWRucDNKblg3UW9lRVZsbmVDLXcxN2JQUUhzeEZrcFFqcW16ODVacHNYeGR2U0tkd1lQSTNrWXJrWTdzc2pMTEQxOGJPc2lMb0JWMy01NDlSTWtndk5WbTJMVjZRbUthdW12cGxsc2ExcXpTYk1IelQ1dWVtU1VzUGNzckVHZk9QY0h0YU9UTmUwWFFrN2VGdWRwWUFES3FGQ3psY3Y1Qi02LXJRb2JyemNrc083d0V1T2xKRi1zZU00SmhPLUg4c1hKZjBiU0thZFBR0gHXA0FVX3lxTE85cVpJX3FzTE8tT3c0dkczNXBKb091TVhFcVlXcXYxSklQU0dvOG9GWXNpa3VnOUR3Y3lqbW1HdDZVdFZOU3BTN0w1OHViQVJlYVhDNldUN3FrNUpkNEMzNGRqRDNkaFZiWFN0cWVvSTZTREJvcFp5Z05JenhkMGxnVWZVcFNRcXhTMmJYZTV3Q1RsdVhTbWt5UTN4a0R5RG9BZTNVVkpsaERxd0w1bFFoR2lFLWN6aU9SWkZpR3kzWHZUVWItWHZfNnpNRlFudlBmNnRXZVhmNlY0M1FDLVRFYjhvdUN6clpaRmZaZHlQZ1Z5YUt2WWdPNHdkVy1ZclA0QkRzTXZHdFg3MjFaRG1ZVVQ3STlQOGFRLXozRF9uSTlEaWNrdnFYQUxUWW43X2lvTmN6V0JDdmw0Z2UtSTlkTjBFT0FhTF9SMmZzUHRrWkpOM0NsaHJmZmtzYlF3OTFOQUkwR2VZb3ZiX3NHcXBKN0pVb01feFZmbE4wT0V4UnR0cVN2aTJQUVlpNG84WThfV2FvTnZJdUZQV1A1dkhHcHZGLWJxSkN6QVc5V1hnaERnVmtuVERpeU5CYlc1emZxZGZKQjVjZlYyNTZpSUNyUE1tS0pscw?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
       "category": "business",
@@ -593,6 +575,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOR0ozcjVVWUVTOUQ0NlBNc195NUtYMlFlcWJ0T3FsMWRmcDRIMjRTTEdFUzVsWklIYUNCWmdub3lHSEJ0Uk1zSFJhUEYxVVFOdXR4TmFlTVEzN3dVTDltZ0xkZmZJd2xBX3BYQ1FIN2poLTZnNHBEQ0EyWF9JSi1YeFFEVlRYMm9HcV80cHlmRHhDcVhDaTk5MWVFdFJPVzNweTJUSFE1aE1FUm13bW0xUmRzSGNaYU9TNTdoUWxzREFBRFVNSC15bG4xR2l4MlktSlRyRjZ2Z2R4b0V5VmFSaEV6Q3poQ2pBMGNtVzZWdFY1SXBLMHZOeGp4bWdUSnhmZ1BSU01IWVBpUW9FYjdTaGI2MUZONFJxOGVWWExyWnpWV2pLQ0x3ZzlJWTdOVUtWZXlHRnZib2FIOUkyejBXVFR3QXdremMtR1pKSUNVVGtkRE1M?oc=5",
       "domain": "Hespress",
+      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "كندا تلغي حفل افتتاح جسر تاريخي مع أمريكا احتجاجا على رسوم ترامب الجمركية - آخر خبر",
+      "description": "المصدر: آخر خبر",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOYmJReFJYU29sWlV6VGVEdmNrVTVEdGxsRm5iVVFnNGxSQVJVVER4TGltcjI4T1djcV9EUXFleWxSYS1iWmM1VTdCb2x2VDBXSjItWUlaMzZpb3RQMWFPSEpDc0dpWWpwbXd5UUNyci16YnlzVlBqdXVyOXpQUnVGRlhfQ2ktWXFBZUZFQ1k0VXRuUFBKaW1sUVcwNkFkcVlRUlVTTUxpemwxUzY1SDQ2VlhYeW4xZUI4WVY5N2FraHRjeTN5Sy10WGg3TEhSMEh5X01JLWxkRndQUG15bkJwUlNTcnpoa05wOXFPWkNRdXhJd3ZjRUcyZ2hjYTJtZmxpSTBaakFCcVFTdWNVTElUa3BEYU9LSHNtZ0Z2UXMzRVprT1U3WVFqTklzSExlODB3WElLc3V1QTEzbExieDd0dFlwX0M2X3VSMjVzNTdrdGN1WWlHeDl4MUFQMkFhQ2NaTE56aGtGanpzVVpoRno1UEtNdlJIUURvdjJNMHIxa0E4Tlg4eWZfcDJ4Slo5aFQ0SFRFcVRjNjJfWlA3eFZCNVRscGtJV1BEdzAwMnFPUVdYU2NZTkU2b05QREc3aG9IcHRTQ3k2blZKZUE1eUs0ajA3WUVROEpwT2dwLW5teF83Vml2LUV5T0FpS2JjMWlDc21uclFqcHE0YkV2WnkxSzkyclhYbjZzNGRiX25Kd0JUUTNsY3ZBYnE5ZjM2MXpKdzNaeW1adkk3NGxzZFlIQ1Q1UkJTa2xWZ3dfa09aNjNuZzRZVUlpdjlaSWUzdw?oc=5",
+      "domain": "آخر خبر",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
@@ -650,12 +641,21 @@
       "date": "Wed, 19 Aug 2026 03:39:54 GMT"
     },
     {
+      "category": "technology",
+      "title": "البيروقراطية الرقمية: تأثيرات رقمنة الخدمات العمومية في المغرب - Arab Reform Initiative",
+      "description": "المصدر: Arab Reform Initiative",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVXBxeThIbTBLYlA4REZqQVZkY2YtdENVRnJPRkN1Y2h5aTdpZmRnYjVQcGd6RzdxUzdQZUNlMmVKQ0xQUm92RGRIWXh4Ql9rQTZGbnBpSHdPR2YtV2I4a05kN2FZbklHdUpZdmZtQjBoMmdLVURvU0hXUE1pSTlGX3MzcEdONU83SjIxV08xYjZoYTR4M1M4d2hicS1ZNkc1aUZRZDdyS1hPSXoteUNQVVZyUWlYNWtxTzlVdzljMmFfSmFKcW9BSi1CbUhjcHdCdTRzeE8yVTFteW5tT2ViaV9vaDM5UHhzZERHcFZ2WDRTdUREZ0p3YU5PY0wyMUhKVlJERWVzaDhma3NSdnhoTVd1a0wxazFPQXdFbkxtNUF2QlNaUUhoVWFEdkpwMlU1WWJMRnkwSVJYRURkMnUwS0JkUFY2Q1FoYWpKdG1SQlc4dDI4UTBkVHN5MVg?oc=5",
+      "domain": "Arab Reform Initiative",
+      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
+    },
+    {
       "category": "sports",
-      "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - goal.com",
-      "description": "المصدر: goal.com",
+      "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
+      "description": "المصدر: Goal.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
-      "domain": "goal.com",
+      "domain": "Goal.com",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
@@ -669,21 +669,21 @@
     },
     {
       "category": "sports",
+      "title": "كأس أمم إفريقيا لكرة القدم - أقل من 17 سنة (تصفيات منطقة شمال إفريقيا) .. المنتخب المغربي يواجه في مباراته الأولى نظيره الجزائري - mapsport.ma",
+      "description": "المصدر: mapsport.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPc0hKVFNLOXEtOFh5b2dlM09WdGZ3TF9xRVpJUU1MMzc3OVdocUNrZ2tWMWJ6SThLUFJmUGp6RzRHeXRRZThkM2lMSlVPN1VvLXN3dXFjM21SMWFlV1RrVVg1R01lOEVyU3JsXzdmTXRrNGZDRlROOFdESHpBRmRmTEp0QjFuSF9wSmU5ODZYcnJhTlZLVUhENzZtUUltV09SRWtKMFltQnVMZVJWN2d4b0Ywa3hrb0JtQXdsWVdxNHJyUVAwX0RDODczUlRDeW1XU3dzelkyU3VSUE53d05UeUNEUEdlSjFDQUdxMV9taVItd05yeGc0dUJfNGZERXpoWHdBUTMyMzB0UVl1aFJ4TEVteDRrQ2xRZExVSDhla19rYTVOeGEwUkhEUmRKQnU5ZzgzWDB2MXY1b3JXV2hyM1FfM3ZQRWRQUUJ2cW96S1QwQWJtaDZOQnB1eDdKdllfd2Qta3VRWUhWM2lxdkxRcThtNDQ3YUY3aUZMWENBUW1Beld0elFYMTJfdzllLVZXRWkxSEZ4MjNxSDNK?oc=5",
+      "domain": "mapsport.ma",
+      "date": "Wed, 16 Sep 2026 10:39:30 GMT"
+    },
+    {
+      "category": "sports",
       "title": "ريد بُل وينغز كاب - Red Bull",
       "description": "المصدر: Red Bull",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MmV2ckJmQ2l0VWZGLWphS0xORUJZaXBiMXpsQW1SN3RWSzM3Wjg4QVpiVElteXRSUDdoLXhMZmc3SGhNVWJXNVdoa1ZERUF2VVhNR0ppN09NYUVMVXdDaGpCekRCakhBNUZQRFJ5amI1alZBOENJ?oc=5",
       "domain": "Red Bull",
       "date": "Wed, 16 Sep 2026 08:19:02 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "القنوات المفتوحة الناقلة لمباراة المغرب وفرنسا في كأس العالم للشباب 2025 - al-ain.com",
-      "description": "المصدر: al-ain.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yd3Q4Q1lHMFVFRFIxNWR2UFh0Q3QteVZfWndjdGlGWVV2aVBEYXhRczExLXBuWXpjc3NuQkpGcFBpeGJ1UG1KRkRaV1RCUzV4Sk5uZmJPZnpxWC1RT0hBZzFKYy0xSFRVeHdsSFFQLWRsbnhXczE4bHpn?oc=5",
-      "domain": "al-ain.com",
-      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
       "category": "general",
