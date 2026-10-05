@@ -14,13 +14,13 @@ const categoryLabels={
 };
 
 const featuredNews={
-  category:"sports",
-  title:"كأس أمم إفريقيا 2025.. ملف المغرب والسنغال يعود إلى الواجهة",
-  description:"جلسة الاستئناف أمام محكمة التحكيم الرياضي في لوزان يوم 8 أكتوبر 2026، والقرار النهائي لن يصدر في يوم الجلسة.",
-  image:"afcon-2025-morocco-cas.svg",
-  url:"article-afcon-2025-cas-october-8-2026.html",
+  category:"general",
+  title:"ألان جوييه: المغرب حلّ محل فرنسا في إفريقيا؟",
+  description:"تصريحات المسؤول الفرنسي السابق في DGSE حول تراجع النفوذ الفرنسي وتنامي الحضور المغربي في إفريقيا، خصوصًا الاستثمارات والبنوك.",
+  image:"alain-juillet-maroc-afrique.svg",
+  url:"article-alain-juillet-maroc-afrique.html",
   domain:"NewsMorocco",
-  date:"Sun, 04 Oct 2026 15:32:00 GMT"
+  date:"Mon, 05 Oct 2026 09:00:00 GMT"
 };
 
 document.addEventListener("DOMContentLoaded",loadNews);
