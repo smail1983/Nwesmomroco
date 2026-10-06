@@ -14,13 +14,13 @@ const categoryLabels={
 };
 
 const featuredNews={
-  category:"general",
-  title:"تقرير غوتيريش حول الصحراء يكشف تطورات جديدة في مسار المفاوضات",
-  description:"التقرير S/2026/781 يتناول المفاوضات ومقترح الحكم الذاتي المغربي كأساس للمناقشات، مع بحث ترتيبات انتقالية وضمانات لتنفيذ أي اتفاق مستقبلي.",
-  image:"guterres-western-sahara-2026.svg",
-  url:"article-guterres-western-sahara-2026.html",
-  domain:"NewsMorocco",
-  date:"Mon, 05 Oct 2026 12:00:00 GMT"
+  category:"sports",
+  title:"زياش يصنع الحدث في البرازيل.. أكثر من 262 ألف متابع من المغرب لبوتافوغو",
+  description:"أكثر من 300 ألف متابع جديد لبوتافوغو خلال الفترة من 7 إلى 30 شتنبر، بينهم أكثر من 262 ألفاً من المغرب، وفق ge.globo.",
+  image:"https://s02.video.glbimg.com/x240/14956797.jpg",
+  url:"article-ziyech-botafogo-morocco-october-6-2026.html",
+  domain:"ge.globo / NewsMorocco",
+  date:"Tue, 06 Oct 2026 15:30:00 GMT"
 };
 
 document.addEventListener("DOMContentLoaded",loadNews);
