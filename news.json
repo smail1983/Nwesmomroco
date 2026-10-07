@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-07T08:31:01.910852+00:00",
+  "updated_at": "2026-10-07T13:16:18.582979+00:00",
   "articles": [
+    {
+      "category": "technology",
+      "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
+      "description": "المصدر: كود",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMno3cXBEM1V5V3hVYVh2TGpuekhZM0hpS3pPNHdIOEQ5NFpMUWZxX3ZYSXZaYXBYNlFZUGRyQmkyaUsxR3Q5Q3NmdXIxNzZwclgzZ2FBbjdpZGtLcm1SRXU3b1YzTmNBMjktUFl1S1dYdjN5QUNnODBGQ3l0Tmh4dTVrYzNRVVVreldjMXo5MVp6MFkyaER3WWMxZVliSTBuTHRUZlY4UUpxX09KQ3Q5Vlo4eF93ZlMtTkJSYUpCWmhaSlFzUURRemRHUzdYVVd4Vy1jTlVIRU1HeFk5djRXVUhvTWNqR3VsTmJ2MVRxZ2h6SGZiREpmNUZZWWJHaGl5bFhwRzRCb29LcWwyZVlmckFGVXROTFBoaEp4NkZyNXk5Q3RZenoyQTBFNW5ac2gwR0hRRDVVUHUzdWZ6Rk55cg?oc=5",
+      "domain": "كود",
+      "date": "Wed, 31 Oct 2018 07:00:00 GMT"
+    },
     {
       "category": "technology",
       "title": "يأكلون المخ حيًا.. أسطورة القرد الأحمر الذي يمنح القوة - Masrawy",
@@ -290,6 +299,15 @@
       "date": "Wed, 26 Aug 2026 12:11:16 GMT"
     },
     {
+      "category": "sports",
+      "title": "اختفاء عداء بريطاني في المغرب ينتهي بإدانته في قضية اعتداء جنسي على قاصر - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBheXhtd1JVM3hIenJESTV2cmFSYmJrOXBDbUNJdjlBa3JqVkxWeTNEU1ZTNWQyVHZ3NmpRRFlHNllhY212eFE?oc=5",
+      "domain": "العمق المغربي",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
       "category": "business",
       "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - العمق المغربي",
       "description": "المصدر: العمق المغربي",
@@ -314,6 +332,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1BWdmxsMWZxejljMnp4WjNMdkwwWVdVcW5EbE9fTU5mZkRZQnVkYVFWZk1BQUZTT3pWZFFwYmt6bkg3VmpwYmxWMHVYUDI0dkFDbGZmckU0WEo2b2VFUXZyakR4b0xkRWFkWHA4azdROElsVlRrR0tjQUVXNEJSbXBSRHRfMFd0NlRiMTE1bTJ5UGtCNVVUdmhTWDVNR09uTDYtS3ZqaHNtWjIza19KRjk3UlBFY3FOQkFoemo0UHQzdFFwekZyYzZYekpVSmFNemUwSGwzcGZ1Q2s5cXFOclVGYTVsWnlJaUlfNW05UWVQN3NwMWsxd0dkNnR4bUloa2ZodUlkSC1mVHEwZTduS3JvVC1Keno5TUp4WVQ4czhBOUotd1pSaVpUcEs4ZWdDTVA0Wmg0dlFpNUVSQlFINk8wcVI?oc=5",
       "domain": "الصحيفة",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "فيدرالية تكنولوجيا المعلومات والاتصالات في مفترق طرق قبل \"جيتكس إفريقيا\": اضطرابات داخلية وتساؤلات - Aabbir",
+      "description": "المصدر: Aabbir",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOUzV1SUF4WlZBSzM5UmNJR0RWRHI3V05NbllpS2s3TXNtTVhUb2hfZm9OWDlEclVycHBWQmNQMnBZb1ZSeFZER25NV0JlRk5yaHp2dDBadGpZSmp0WEZNLWtPb3ZWSDcxWWlHMEJpVGxXMkw4TUZWX1VWUjRJdEdqQzc5VWdsT1c4RUZQUVBlQXRvMm1LTXloS0ZSTzZhaDctZmZwYjdIa2FDbDhpWGNRRFJXMXZ6SW9sZDFIRXY2WWJnT2k5U0FpQ0U3UktKd2g2YWx5WGQzcDBYNkplTFMyNzBUOHJUelNuZWViMnR3LWhEampOMC0xb0x4VzQ3Nmp0UEtNakktcjVrQTRBSTl3Y1BfWkRmd2ZoTHEwWmhBeTMyUnlpdURoMHlhZ3EycTRuOWVvaEdncVFPbE3SAcMCQVVfeXFMTWJGQjI3MVpmTi1hVmlGbG5NejlOYmxyVG03Sm9WT0ZtNEFyNXRwTFJGdk5Wa0ZNY3pacFpsVUNvLVZOaldDdllZUUpfLW1kSXhqNFpDT0R4enVCYTl4ZUhiU1JidHpYSEFhY2FvaE11V1AxallQUmhZZVpRal9iUXJaQkNoNHRIUUNXaS1tRlBnSnhVazROYzRRVHlkbVBfX1g5TTN0dzI1M2Vnbmx5ZWVCU0pLcDNIbVhrc0tCUUpzSEFkTGc0NHVFOFhBUTR4eDhJZVcxQVNKYlFTU1pfTm9pSlM5Z3pYd3VaZ2ZtdFRrYlNHbDI2THRiR0hNZHlFbFUzc040U2V6X0xiUHc0RzVkcXczZjNMdlpfUzI2NTVZdHhlTTZUN2tmdzR3dDNxamRzdFdLVlJJQnU0SzQ3SXFjV1k?oc=5",
+      "domain": "Aabbir",
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
@@ -578,15 +605,6 @@
       "date": "Wed, 21 Sep 2022 07:00:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "أزيد من 20 ألف طالب يلتحقون بجامعة محمد الخامس-السويسي بالرباط - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWjNjUUU3WGduVlJxMWxnOWRvNi1neWlzNTJaay1XRGI2ZzlWRUVxaThlMnE2T256YTdoSjNzb1o5WG1UcUtKaFpMRmktVzlranJQaG5yYmFFME5qTXdNazhSYWd3cGdOdTNKTXhJUzg5aUhMSXZPUUpnQVRhMnZ3SHJSMWZJNzBiZ1U4Rnl5MnNwaGdRRDZuVDdTWWcwbWJZVl9qemRtTkl3N3I4V2lOaEY5QVpYNXk3aENVRWR3SG9pcF9GSXpvSWp1TFV2R25sNmVQbndPaXRibzVPbnhRM1RsRkJ4WExkRW5qY3FXUU5rRmxwUzE5bXI0UEdLTFNCdUxuZ21Dd0F4NW1UZFNZNlI4bFo3RlBOTk42bVpYUzBHS0dVMFBVQmw3VDBUVjN6QTJMWVFYdWNsOHpxTExsak1YdWpjRFRkeEU1NWhWbmlidw?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 21 Sep 2011 07:00:00 GMT"
-    },
-    {
       "category": "sports",
       "title": "المغرب 4 - 0 مدغشقر (٠٢‏/٠٦): مجريات المباراة، الإحصائيات، والتشكيلات، والمواجهات ، المباشرة، والقنوات الناقلة. - 365Scores",
       "description": "المصدر: 365Scores",
@@ -594,15 +612,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxuSDM3T1RGSFlPSmJDN1plZjQwV0FGMGgycks5SXBnbXlqbHNReXE5SVRnQVF2N2x2QnBRTU4tR0tfWmNieWNRcTBUVF9mVzFZMkdvZXZLbjROWkpudEdpcWhiaE9wZHloUEVGbGlaS0Y4ZnR0SF9iT2NOdkJwbFgwMl8xbmN3aXhBRjlxNFpaMHRWTDAxdHR3Tm05R2pwVVZSeHlR?oc=5",
       "domain": "365Scores",
       "date": "Wed, 20 May 2026 15:24:58 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "أمين أخباش - UNICEF",
-      "description": "المصدر: UNICEF",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZuTy1SeUFLanJyYmtueFhxXzFnU1JfUzdVaGg5MjdBckZGaHVfMC1tRktYTnNvWnl0TnZUc0lRdWJhZHFXa0otV01uaVdGaTFhc3ppcmdJcTBYNG5JVWxkMllVdTN2Wjc5MEFseG54YThYVjFxZHdDRl90bjRFdTdCZUJiYVRWWi1VT0h6M0ZGY0gyZjdNOEhUeG1yNUxjeXhtZjNYbUhxeUQx?oc=5",
-      "domain": "UNICEF",
-      "date": "Wed, 19 Nov 2025 08:00:00 GMT"
     },
     {
       "category": "sports",
@@ -639,15 +648,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
       "domain": "Goal.com",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "المغرب يضم لاعبا جديدا لكتيبة أسود الأطلس - Kooora",
-      "description": "المصدر: Kooora",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPQUExLUdkaDliOEs5U0M4bHJlODZLTWhXeEhsa3BtRF9JamJRVVg1RnN0M0o0bWE0RW1DVzVHaHhkbjF3OEpsQmwxRFhVN2k0djJrbG0wMThER2k1UEJhRjBabkF1bVc0c3lQMW9qcGdGbkQtSDJ2WThiS2swVFNsbW5SLVVveXVSdF9VNjY5a00wSFdfNXN2MEQ5V1VwYXBObVRDQm9BVExJT3VSZjBXdHVjVVlJRVN3RGNjSG04dnUxMFI3Qno1U3ZPSzU3enNIRzdjMmVFejRVMF9ZVFF0dVltNEpNWUd2ekJCLXZIbGN6MDF4MWNHcWxsbEFFajZENWF2Y1BVdDNqRjF2QUQycWpkYkE0WUlfZi1PUElqRy1xcVo2QzJwVDJycm95ZXc5T1Atems2YWdsUnc0T0YyRFJzX2kycUwyT25YSDhkRGZIWUhsOTlQMGgwOUdkQzBaRlNUNUk0NzY2SkYyZ2dCbTVBRnVIRTVlWnNCQ2N0VTdtMVJkTEdkb3dfOWdyeWZSQzFreGtrNDJqcnUwRzBhOC1adWE0VUZsTmFjVlIxSnFYTnhEUm53Nm5lTHpMVTgyVG1vc2lBbDBSSmdldzd2RVNhMkNnbENaTVBNcFktaU1Qdw?oc=5",
-      "domain": "Kooora",
-      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
     },
     {
       "category": "business",
