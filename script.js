@@ -102,11 +102,20 @@ async function loadNews() {
       data = await fetchJsonWithTimeout("news.json");
     } catch (primaryError) {
       console.warn("news.json failed, trying manual-news.json", primaryError);
-      data = await fetchJsonWithTimeout("manual-news.json");
+      data = { articles: [] };
     }
 
     const articles = Array.isArray(data.articles) ? data.articles : [];
-    allNews = [featuredNews, ...articles.filter(a => a && a.url !== featuredNews.url)];
+    let manualArticles = [];
+    try {
+      const manualData = await fetchJsonWithTimeout("manual-news.json");
+      manualArticles = Array.isArray(manualData) ? manualData : (Array.isArray(manualData.articles) ? manualData.articles : []);
+    } catch (manualError) {
+      console.warn("manual-news.json unavailable", manualError);
+    }
+
+    const combined = [...manualArticles, ...articles];
+    allNews = [featuredNews, ...combined.filter(a => a && a.url !== featuredNews.url)];
     sectionTitle.textContent = categoryLabels.general;
     displayNews(sortByDate(allNews));
   } catch (error) {
