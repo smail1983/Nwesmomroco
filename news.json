@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T05:57:44.361231+00:00",
+  "updated_at": "2026-10-08T11:53:34.067970+00:00",
   "articles": [
     {
       "category": "business",
@@ -30,6 +30,15 @@
     },
     {
       "category": "business",
+      "title": "تباطؤ نمو الاقتصاد المغربي إلى 4% خلال الربع الثاني - شبكة تواصل الإخبارية",
+      "description": "المصدر: شبكة تواصل الإخبارية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SUjl2NEJxLTQ2RldzMHlscG91aU9kZGgtTmxIOThNQ3NONWxGNkdsS0FiVFR0VFprY2M4RnJGclB2eHFOZWNHSWVHQlRkVXd5dzhv?oc=5",
+      "domain": "شبكة تواصل الإخبارية",
+      "date": "Wed, 30 Sep 2026 17:11:58 GMT"
+    },
+    {
+      "category": "business",
       "title": "تباطؤ نمو الاقتصاد المغربي إلى 4% خلال الربع الثاني - العربية",
       "description": "المصدر: العربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -45,6 +54,15 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQODh1VUR1OWVYdzhEN3lkRHFKWnBMZlZTU0lLSW1yWl9QR3hoZnpYZjBDY2NPemM0MEpqaXUtTUpjTXFNUGlnMEo3VlgtODZuVkE3bndlSUlyTzBGTFpvUF9iUFktU0xNUDdyQ1plZDR6NDVFQ3dxUGJ2VTZIQ2E4SldSLUhXQ0ZueUUtN21JY2NTS1RZNUFSTkxoMm9zN2FhbEJSbEs4SjhxZWVrbTVvUXFjN2Y5WExqX0ZSOVRqNjdUTm5WVUNJNERuM3lNT3VxT0tYUGlZc1RKQ193VE4waWhtOVVlazlIdWVReFpyTHZJR3FxQVJkZW9lNkstcjdEVk1VRTYxb3RKWVdPcnpycUJ1MnhXUnRjbG1n?oc=5",
       "domain": "برلمان.كوم",
       "date": "Wed, 30 Sep 2026 15:49:49 GMT"
+    },
+    {
+      "category": "general",
+      "title": "منتخب المغرب - مالي تعوض غانا في ودية طنجة - قناة ومنصة المشهد - أخبار العالم اليوم",
+      "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPNEY1Z0VqQUR2eFlxTTV2MXl6Uk1QUjQ3Ul9KOGFGdlI2ZUlmMk90RVhaV2paUjRldmIxUnJPZFh0azJWeHZNWGs1VFVDWXkyb3pCUEFOLVhzbDhIM0Y2SEp5bS1FTnRYZGM4ZVltWXR0N3ZsVVVhUHU0OVhlUTdoUG91eGM3ZkthZ0JwcHdJOFhTR0lUODJtOFVPQ1Rzdncydi1na2NQdUxvWmdsQ1V6cmNvOEg3azlPeDYxTDJ6ZmpydWQwYklJcWJqXzROS1dXWWZpS1BsTXRaY1VPdWxNTVZrNjJhX1VfVF85Uk5VNlFfeGZEX290Z0hRV0RodTNtTjFFLTJ6ejN0WVpUQnd1QkhWUUVOVC0xemhtN2t6U0Vtb0hkN1hWLXZiZGdwUElSR3Y4WEphSWJWSEZ6MmwwMnZrVGwzMDZDZTlhQ2RQdVNXNTVLVFg4ZDlPX1BtV2JyWDJVelA3U2lxZHp4RVBHNkVGejBOWTk4R1VBb1cyLUxud09zMndSc0VEcTMxdFZS0gGWA0FVX3lxTE9CdVNiYzV0VURwSGxERWNXcnlGYVZDRnhEcWpoOHZKeVhlS2VJTHpudW5qZHRzbjRiTHdudTE1YXlHbjdoaGtHWXRGUVNJVDdiMjlHUDFMaEk4Y2M4UU1FVl85QmxXUGx6X1VEQk4wM2hOZVZmTXR3Zkd4RUlUMUlkdHB3a0R5VVZIMHYxQklwdW1GcGVkMENrRWMtVGxSVlFzeU9McXRuUFllNXJxRlE2WWR4LUpIRjhmSEZJUVBkLWJiRmc4UmhKeFl0OC16UExTTk93UHRqczVrcUttS1VuSnRQTUpOVlcwS1h4ZGNlZUwyOTFRNEZPbVJtay1TZVU2US1qS2Z3Nks4Z3Z0MFdjakxSaXpxQjJveXhXd1oyaVlBUk5kMnljaTM4cHd1Q0xqcGpNQ1RGZEIzTUg0M0RuYU1xVHdVMEExNDNxRXBRTmlVUTVrVExlclRyWHdxZElJcjE5XzFpM1VpNGxFeDJOMkg0a2JRLUhvZU15WnQyazExNG9sV2wzckpBVkV6NE1wWmZ3RUE?oc=5",
+      "domain": "قناة ومنصة المشهد - أخبار العالم اليوم",
+      "date": "Wed, 30 Sep 2026 14:19:46 GMT"
     },
     {
       "category": "business",
@@ -117,15 +135,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb3AzZHF3ODVqSjhjd0JQckdudHc2QlhCMGMwd0RwSTBZTUZlZFFNTkdKQ3BNcE5uVVdFMS1SSXZvWU51OUUxSktYSVluTnN6cEl0QkFhWlFOVkVqQ3p3UkU2NW1rMmdhWG44U3ZnYWt1eS1fYlF5bTMzRGVDcnlpYXd3N19xWGtLMGlrWmNIM09UbUJYdEItV2l4RTVzQmREeG9FdkkwR082bkVfZG5ZSmpSVW9wNFAwTmdYalRpMTFFdXdCZmN0S2NtZTJnV05wNldnYjh2alNQWjBtaWJ5WjBzWS1kQkN2bUdWVjAtRW9ZQ3BCdHdxc1NWLXBMZ2tOYmZDaHFyMWMyZW1RQzR3em1JNDd3WmVha2lCeW80N3VYM0lSX0hmSzRaNTFsNzQ?oc=5",
       "domain": "Hespress",
       "date": "Wed, 30 Sep 2026 10:04:10 GMT"
-    },
-    {
-      "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4 % - شبكة تواصل الإخبارية",
-      "description": "المصدر: شبكة تواصل الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sOFhDNXhRUWEyQzBwcERGanU5R0hVQkEtdk1JWkdLamtiaGtZWThvaGlMeW9lMVpHX002NGtWWXk0RTMyWmRQeGFRVmx1S05iR1FJ?oc=5",
-      "domain": "شبكة تواصل الإخبارية",
-      "date": "Wed, 30 Sep 2026 10:03:31 GMT"
     },
     {
       "category": "sports",
@@ -299,6 +308,15 @@
       "date": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
+      "category": "business",
+      "title": "صندوق النقد يتوقع تباطؤ نمو اقتصاد المغرب إلى 4.4% العام الحالي - الشرق بلومبرغ",
+      "description": "المصدر: الشرق بلومبرغ",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQNXVQSm1GbU9vdHUxSkFjcm9BUDZXS2FfTEljYjZyYkQtSTJyYkFWOFBIRE5SbUEzT0ZSbDJ3dmNBb0tTV1k5WGh6SEVMWXNVQ05wb2VzZWhFVG1hdURWS0liWUI4SThpQTl0S2pVczREVXFhcDFXbUNBVm81eWRNOVQzeWdBQ1E3LW1ENWpUSEtXVnk3VTNsc0liS21rZjhBOWZMWk1uMktIbDR0d01uRmkzNU1lWFI3SWsxdUx3by1YRDFISURiOVdYVFFWRWFXVEtZTTNRSFpGbU54UmZYS25FSERqRmhGVEtsOWJyMm5HTlMwNDItT1MtRDFxdExsX1E2RU9ZYnhxSVRWS1Q0VzBzRHRFNzhmSWVrcWkxeDZWRmhUQi1oai00cVdrcmlWSFZBNi1hN3R3SGVYTnc4M0gyX0psZi1uX2d6X21pbmY3WDJjUDd4c3hqTHJkSVVHXzB2S3BteFJ3LVRsT0M2YnJKd2FBZlQzcWozYXRLc1hnajZTdXVFakE5Ukx5YTZKaTRfZ2J5Sk1qWEpjOFR2dVpfTjlWSV9zZF9kdUFDanFRZ25RNVNFcEhNUzBrTWdQaGducmZR?oc=5",
+      "domain": "الشرق بلومبرغ",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
       "category": "technology",
       "title": "فيدرالية تكنولوجيا المعلومات والاتصالات في مفترق طرق قبل \"جيتكس إفريقيا\": اضطرابات داخلية وتساؤلات - Aabbir",
       "description": "المصدر: Aabbir",
@@ -399,20 +417,11 @@
     },
     {
       "category": "general",
-      "title": "من يناير حتى دجنبر.. أحداث كبرى عاشها المغرب في 2025 - Medi1 News",
-      "description": "المصدر: Medi1 News",
+      "title": "من يناير حتى دجنبر.. أحداث كبرى عاشها المغرب في 2025 - Medi1news",
+      "description": "المصدر: Medi1news",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbndFQnB3aWJLSzVhZWpXNWhMSGJGakZRVE9JV0JTODRFVGJuN1AzMVNZZERkV0dIZVhmdEtWb1JuVFNlT1ZaOGZsUWdhUjhnMTVLMDRQZlZjVnZV?oc=5",
-      "domain": "Medi1 News",
-      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "كأس أمم أفريقيا: كيف صمدت ملاعب المغرب أمام غزارة الأمطار؟ وما قصة التقنية التي استخدمت فيها؟ - BBC",
-      "description": "المصدر: BBC",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BUnJNM3k0OWVJdXYzSS1fMS1XbnBOMFJjZ0NsZkhzNTZNNzc5b0xPTmIwQlIwZmRSeHBiR192WUJCLU1uQzJBS3Uta1k3dkNXbDRISS1xckVkLXBN0gFiQVVfeXFMUGRHWkFDQ1pfOHFiSWM0Sk9Ga1ZqbnNfZzdvRU9FT2hWRk9pVW53R2hBbXJVRHpiMmFMMkhoSnR6WnBMYTA3cV9VT2Jyc1RIckt0U1Fwa3YzOFhTRXZQUkpUdWc?oc=5",
-      "domain": "BBC",
+      "domain": "Medi1news",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT"
     },
     {
@@ -587,6 +596,15 @@
       "date": "Wed, 20 May 2026 15:24:58 GMT"
     },
     {
+      "category": "technology",
+      "title": "أمين أخباش - UNICEF",
+      "description": "المصدر: UNICEF",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZuTy1SeUFLanJyYmtueFhxXzFnU1JfUzdVaGg5MjdBckZGaHVfMC1tRktYTnNvWnl0TnZUc0lRdWJhZHFXa0otV01uaVdGaTFhc3ppcmdJcTBYNG5JVWxkMllVdTN2Wjc5MEFseG54YThYVjFxZHdDRl90bjRFdTdCZUJiYVRWWi1VT0h6M0ZGY0gyZjdNOEhUeG1yNUxjeXhtZjNYbUhxeUQx?oc=5",
+      "domain": "UNICEF",
+      "date": "Wed, 19 Nov 2025 08:00:00 GMT"
+    },
+    {
       "category": "sports",
       "title": "المغرب ملاذ 9 منتخبات إفريقية لاحتضان التصفيات المؤهلة لكأس إفريقيا 2027 - العمق المغربي",
       "description": "المصدر: العمق المغربي",
@@ -603,15 +621,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2tNLThFdm8wYlhtVkZxcTlWVlNCVURkVkxKMzJnU21wZE5wQi1lcXFjbXVfUkFRUGpscEo2VHRBVUpKU2t6N01TSFd1V2hkb0tPaE83aDBGbjh6cFZCS3U0enFPZ29oY1pQdjNPbXA4OXFCNHpOOHBMY1hHYjVkWGdOcG84andPT254T0dB?oc=5",
       "domain": "bsnsports.com.ng",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "استقلال المغرب.. 65 عاما على انتصار الشعب على قوى الاستعمار.. 18 نوفمبر الملك محمد الخامس يزف بشرى انتهاء نظام الوصاية الفرنسية.. الملك محمد السادس يسير على نهج الراحلين ويؤسس لاقتصاد تنافسي - اليوم السابع",
-      "description": "المصدر: اليوم السابع",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPa2tSQ18tRER2VDRscGo2WnBQT0pMcjVnR3E0eW1GazdHOWlzNS1zbGJaeWNKek9tdHJLWWRLTGZyWlRNNWZ5YkpTanV4TXF4WVhnaDBJeWd0M0lDMmtES1lRMkdIVlEwQ1d2SHR3SkZib0dWV1RrU05tbzBnN2lHSXN4eXpLaTg0NldUd3VqSnpBWlg0UVN0QTBObjlLZE1uTTgxTXo5WlJqV0c4cllleTRzVWZ5RjZ5QkZiZGRZc0JOWWlGNFB6VzJBNHhVZ1RYVFNJQmZUSzBUM1dsOTJya1hfYVJpOVp4ak1kOHBveHZaN3BGZjVucldYV2dCLUZJMVJfc2hhdVJYcjFMTVR5ZnI1Ykh6Vkl6RlRZVVNwS1RSaFRqRUg2bXczRGZTbkUzT05vTjBXUHdpNU1qWmZhd1JsbFdPUlQ3TzNWQ0VrVUdnSVA3Qkp5YTl0X0RsNzI3Nk0zVjYtb2lLQnZ6YUVuYmk4ZFdidG56TWk5VUdBNkJveFd6TFkwdUhsYklvNktIeWx0MkRpQUJralNNNTQ2eXBWc1g2WTdQRDRlOUxselY0MUJycVB4c0RxMXZzZ2V3MXd4MFFhVnNDZXNEakY0US0yMndlLU94TGfSAdQDQVVfeXFMTzljQUpwUlJKb3g4VG5mU3pwRTB6b3k1TEJHOGdHUmZXYWxsNGtoSWFpRHNlOXhHX1c2ZUpvYzBjamktc3FHTUxiRFg1cDZBZXNRTmVMclZzRHlYYzU3UWVRT0NiMWJ0Wk9zakt6NG9DVGdKNThNWU9TWnpzRTJVR2xUWk94QnVDVUxOaUE2bE5GRk1NSG44cGgzQ1laQkk0UUxrSTJEOGxjMDBNaTdoZ1VEekxmSHVHWm5QWGVSNzJucFBqZWhaWUZJSUNpOGxXdUdvaGFEUlRPQ3RpT200Rld3RHlLdURma0hEWDhiVGY1cTBvVzIzUm1fckVUZmo1anJSTVNfanlhQTlkX0pJTVZ5ajJGWTBiN0pMQ2RqY3dVMUJNNVVjeDJjZ05venoxaXpOWWh6VGVkeTdnaGhhM2l1azROZ3FJUDhRNVUyaEVJU1hOdWdjSk9NVWdrdzhvMnQ4OXhFS2hwYkZCZGM0RmFTRHNuWk8xRVM1RTdKZnRvSTlZT004dXdMT1dFNzR5YUtnbEtNQVdSM2ZsQ1RwLUV5VmxabFZURmNYXzQtMFFwekhwcGpEeHhSVU9RNFQxeGhhenZVSnJ3Z1kzcVFJaFZfanpP?oc=5",
-      "domain": "اليوم السابع",
-      "date": "Wed, 18 Nov 2020 08:00:00 GMT"
     },
     {
       "category": "sports",
@@ -639,15 +648,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAZBVV95cUxPV1U0Z0FudUZkREZHMER2Tk1JaGl2RnQyV1lYY2FFeHhWN2xSdnVVcnBBNWRBWTVqcjJaRTJCS0ZYMFZLR2lSUmd0Z2c1UFQ5R0o0QXVKMEI0ajdxVjVHRGs5cW96TnZkSVV4bVpDYkxpMGlRakZ4bmRWZ0FSamhia3ktQVNDQXZsSUhqT3FiTEppMnJYMERBZFF4ZUc4a1p5N2NkNk9rY1ZUR2t0WkgwcVJUdmFESVFFZVJCUW5PTlF2LU9CZUtJWkRCdEl5Nnp3TFB3YmV3ZUxJSTZWMmtObWU4ZXJuZ2hvVkZSSzducUJNWE9kUzlray1DSDRiZEVlNGdKVThCS21sNzY4UjRBMEJ1YTFIbm5tQ3Y2VGdSYWZoNldQUVk4VWxuUkU5bEE1RHF6TlJSUlozOGJ4cXQzMFZVd1lfMWlqZTM1ckFRWFlWRDdRX1V2NVpkRThEWEw5WFkxNTMwYzR3RlJNTVNyRVdBRnU0ZlN2R1JBN0F6WVBVUDI4aEdoaUlFQVllWEZPbDQteDJoVzF6dTdQSWNJczV5aGdWcHJjWG5Md2ppX2hzREFJdkJRYXAwQnRBZVIwQ1I2LXczTmZfVEVlWnNUbTMyOGZQZnBCWTJHWW5RRnI0VU01S05QeXJzRWJPZTRqaFBkR1dZM1ZSdVhuREw0Z1RDUXd6cHFSdXpvSjZ2R3ZSZ3hJTjE4MU9DRkkwaTZJRGc4SHU1RlhZN1lCQ3lQRGdIeWU3SDVibG9zM3EwQW9RbkM5T1BmZk9QTWVySUdPRkxyeDYxS0N1SDVEMkNVaVIzaEVSQThBa3k2WTlfUlppckx5Yk13YlZ0N2dZdXktejFzaThMV1daU0pKVE5EQnpVYVI4LTdTeG9NSnVaRnA2cGtQSXYzcVZrSjIzdXBxTDB5RUxkZ2w5NVFNT205SElka1hlVlNoTlZXVVRNd3ZvQktwSkdEWUozeEdzY2w5Y1JPRlhaSGV1RHphRUlFUjE2WTRlQTMyTVpSdEl2N3dPZ3Y3ZVpmRW9MNGY5bTFzT2RHekhhY1B4TnpkQjhNRzBYWUs0WXE4RjBZX3QwTXrSAVNBVV95cUxPbmFTZ1RwbkM3Y0xFZmlSYjhTT3ZWRWI0b2NUNll1ODdzOG1XSGE0U3ZMZFBRcjByU0VMbGtHRUpQMTkwUm5NLS1MZlk0MlExNmlWYw?oc=5",
       "domain": "alyaum",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
-      "title": "المغرب يتحرى هلال رمضان.. الإعلان الرسمي غادي يحسم أول أيام الشهر الفضيل - فاس نيوز",
-      "description": "المصدر: فاس نيوز",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16aEJCN0sxU25RYm83OG5pRVJVdVhHWWRYcUszTEhBcmdUbDBZUFd4WmxMTXJ3TGxxVVN0OXBwZDIxaGN4T3FSYjZ3eURGcExmUmNHTmFOcjRkYm8xMDB2M28zdlBQRW9FVWplQzdUblRHRm8?oc=5",
-      "domain": "فاس نيوز",
-      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
     {
       "category": "sports",
