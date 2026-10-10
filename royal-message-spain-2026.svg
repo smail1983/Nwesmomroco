@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#8b0000"/><stop offset=".5" stop-color="#d71920"/><stop offset="1" stop-color="#b8860b"/></linearGradient></defs>
+<rect width="1200" height="900" fill="#f7f4ef"/>
+<rect width="1200" height="260" fill="url(#bg)"/>
+<rect x="40" y="40" width="1120" height="180" rx="24" fill="#ffffff" opacity=".12"/>
+<text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#fff">رسالة ملكية واضحة</text>
+<text x="600" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#ffd54a">إلى إسبانيا 🇲🇦 🇪🇸</text>
+<rect x="70" y="300" width="1060" height="220" rx="28" fill="#fff" stroke="#d71920" stroke-width="5"/>
+<text x="600" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#222">الشراكة خيار سيادي والتزام إرادي</text>
+<text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#d71920">ولا للضغط أو التهديد أو الابتزاز</text>
+<text x="600" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#555">رسائل الملك محمد السادس بشأن التعاون والهجرة</text>
+<rect x="180" y="570" width="840" height="150" rx="24" fill="#17212b"/>
+<text x="600" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#fff">المغرب يعلن توجهاً استراتيجياً جديداً</text>
+<text x="600" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#f5d76e">التنمية المشتركة • التنافسية • الاستقرار الإقليمي</text>
+<text x="600" y="800" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#555">9 أكتوبر 2026 | NewsMorocco</text>
+</svg>
