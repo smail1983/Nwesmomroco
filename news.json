@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:26:14.174293+00:00",
+  "updated_at": "2026-10-10T16:23:48.649853+00:00",
   "articles": [
     {
       "category": "business",
@@ -308,15 +308,6 @@
       "date": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
     {
-      "category": "sports",
-      "title": "تعيين عبد الهادي رازقو مديرا لقناة “الرياضية” خلفا لحسن بوطبسيل - العمق المغربي",
-      "description": "المصدر: العمق المغربي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WMmpPbWFUNGZCckJPWDhRNXZjSERKSjVKYkNlRXhnQWFrTEhPRTloNHJoT25PdlF2STE4Wmk1SDlqQ0pTYmc?oc=5",
-      "domain": "العمق المغربي",
-      "date": "Wed, 25 Feb 2026 08:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "حذف العبارات الدينية من سيارات نقل الأموات بالمغرب يثير جدلا واسعا - الجزيرة نت",
       "description": "المصدر: الجزيرة نت",
@@ -324,6 +315,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOamswQTI0VUNyYmNwaUg1Qk5KenNvcEJ4cGo1SF9ILVhNNHc1cDBjS3FBellkQmlCT244SmRrZV9CbkUxN0RWT1QwbmQwNEZ2WnV2XzVvNkxTQi05eWdHQUxia2YzWlEzaGJxUElhMXJMNGxUNWFZNS1zaUpmSnEwVnlxVUxMQXNwSEJxNml5VFMwZ3RhUkpIaDRRZkFlTGNTZGtmUS05bHFlLXdDU0hxRDdqTW1mSDFwWGFxTzYyU05hRmI1bE1pelNnbWhRMTJSMmdPQUhEbnZZeXJkUHhoUTR4UUpWNjZHY3ltSjRpSlRMTUplNVlUeW9XQVQ0bzVpel9HSFJFQjFLUU54aWtWVTVvU01IbFFvMVVpUzJtcENEd1hLUzk4aDFDV3MySjI1QTFDbUVzUFRYWmdwcGtHYtIBxgJBVV95cUxNbm1yV2pZT0JneXJ2RUJCYlRkTjNPOURzczBVTzBFVGpwRU5mdTNBQWNKWFY0cnRZTzZrUzVLR0VSMHlCeUFiZDVnTkdtNkJNQkhoT19MUDN1ZXJsaFQ0ZVlFb3F2aUxTaVJ3bVhKMlRldlhNMS05SW1JS010UmFfRVM1YktLdmhPMm1Gd1BobUhxb3VSek55cFpvcEpMN1h0dUt5emxqYXkzWXY4bFNCc1VCTThma00xMmVNWW1yTk9jS2o4SUtXZWtGUi05UDJua0xMZ21JYUp0TlNKSEFsLXptcUt1NFJfMnNHN1plVVB2NjFtZ1BpZjExU1hmTVhRc3BKVHpINndmN0RFSkpGSWZjeUhHN1RObTRLbHc3VmFCenBPaXduN29tY1B0ZllvMmEyWnJzdjloNmlHdFZYbV9CY0pJdw?oc=5",
       "domain": "الجزيرة نت",
       "date": "Wed, 25 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "\"المخترع الصغير\" يدهش المغاربة بابتكاراته - سكاي نيوز عربية",
+      "description": "المصدر: سكاي نيوز عربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOM2U4UWFwU3J5SmhLU1JsX3A1MXhTODVXeEEwck5leVl4dHZ1VGNUcmthUTctUk9oa01VYXF3STI4UlhmNm94M09mRkxvMG1Yc05HOUJWQmp5S1JxMG1xU2syNGcyNl81YUVxYk9jT1JVdkRncFI4YlBHMEUtRnZKUlRoRW5WMk9sd09XVjVZekR4aVZtRUw3RjV4Y0c0TGk2Xzk2d1BHZjVqZXBMMnR2aDFoeFlScVRaSXhZbFgyc0c4UXRwMjJjQU5xLTdhNjlyWXBBYi1pSy02V3Y5T2ZwZVlibFUyaWFpZ2l6NTJfTWgwY2FpSVp0YUdGeXJHSDhtWXJ4NE5UeTJ0QThvY1dMSmE1X3ZISE9iYlZIeWVmd0hjQUdZUkRnZnd5X0VqMjlrcVZhaV96UkUyZWdkNmZydXctd3V4R1gyd0tFOUNkX0RieGFNLXJLekpZSlk4WmM1aHR6SERWMVhUY1dGd01VRElYV3JOVGN1TEN30gGAA0FVX3lxTE9OT0FOSHRTR1I0Skg3dVIzSDZheFdtMlNSLWY2aEI3eV9MZV91QWhBQmhDSU41OGozN0NqbXdPODVXZEF4eWhfVzdJT19NVzVyYk1XZlVkNHMzaXZma3RQRk9felhCT0VUeHM1ekpBZFBwVGZTWVRkRjNyNmlSSHN6bUJ4dVNmVVB2dzhXZXZucC1KRUVTOVBtWUxsd2VrcmxmVDRrTnJzNzB2UGdENUM5elk1U3M0dnJxanYyYmh4VGZqeTU0dUE1RE1ncE9YS2NVQWNnODlkUHVMcmJGNXlObDRfVVFhdDNYLWJJLW8wZmV0anIyb0ZxM3RiZHE5UUUwZ0pMd1lTVmxENE9VU2NPOXR2VWFUWUxEZ0NIZ2tWTTVleHNHRHcteUVEVk1LRm1mUUE0VTM5cVhQZ0NGQmg2WWQ1ZzFBeVRXTk5XQ1lhbURVcGVJT205SnB6NU5UM1ZSTml6aE1XUjJEMjVxWG5YNjVoNGI2aWc5NjNKUjZUbA?oc=5",
+      "domain": "سكاي نيوز عربية",
+      "date": "Wed, 24 Mar 2021 07:00:00 GMT"
     },
     {
       "category": "sports",
@@ -596,15 +596,6 @@
       "date": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "البيروقراطية الرقمية: تأثيرات رقمنة الخدمات العمومية في المغرب - Arab Reform Initiative",
-      "description": "المصدر: Arab Reform Initiative",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVXBxeThIbTBLYlA4REZqQVZkY2YtdENVRnJPRkN1Y2h5aTdpZmRnYjVQcGd6RzdxUzdQZUNlMmVKQ0xQUm92RGRIWXh4Ql9rQTZGbnBpSHdPR2YtV2I4a05kN2FZbklHdUpZdmZtQjBoMmdLVURvU0hXUE1pSTlGX3MzcEdONU83SjIxV08xYjZoYTR4M1M4d2hicS1ZNkc1aUZRZDdyS1hPSXoteUNQVVZyUWlYNWtxTzlVdzljMmFfSmFKcW9BSi1CbUhjcHdCdTRzeE8yVTFteW5tT2ViaV9vaDM5UHhzZERHcFZ2WDRTdUREZ0p3YU5PY0wyMUhKVlJERWVzaDhma3NSdnhoTVd1a0wxazFPQXdFbkxtNUF2QlNaUUhoVWFEdkpwMlU1WWJMRnkwSVJYRURkMnUwS0JkUFY2Q1FoYWpKdG1SQlc4dDI4UTBkVHN5MVg?oc=5",
-      "domain": "Arab Reform Initiative",
-      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
-    },
-    {
       "category": "sports",
       "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
       "description": "المصدر: Goal.com",
@@ -657,6 +648,15 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wN0VFUWduVG1PNGg0b01iaERNcVotMHdoT0xPemtBQkp3YkstaFp3RllkVmtITk5SWlBuMG5Ta1pSSDRDYVE?oc=5",
       "domain": "العمق المغربي",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "قبل لقاء فرنسا.. مشوار المغرب لنصف نهائي كأس العالم |انفوجراف - بوابة أخبار اليوم الإلكترونية",
+      "description": "المصدر: بوابة أخبار اليوم الإلكترونية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRb01wVUxYelI4RThtNXFpVlhrS3FSY3l6N1FZS1YxZVFhLUYwTjFnQllSTjJYcWtlWDFTaXJKbENYUnBsUUk4ZDhoQ0I1ODdFWXNuV3ZBLUVxbkRRaVRITkRqWlZENmplOFpacjVYRVQwYVp0?oc=5",
+      "domain": "بوابة أخبار اليوم الإلكترونية",
+      "date": "Wed, 14 Dec 2022 08:00:00 GMT"
     },
     {
       "category": "general",
