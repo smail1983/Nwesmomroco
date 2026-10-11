@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:51:46.119313+00:00",
+  "updated_at": "2026-10-11T22:51:25.840234+00:00",
   "articles": [
     {
       "category": "business",
@@ -444,15 +444,6 @@
     },
     {
       "category": "general",
-      "title": "إغلاق مكاتب التصويت في المغرب - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZFRCS1pXYnZEOTdIUEVJZHdGMkxXSzVwLWMzeXItTFk2UFJSVGIza3Z0T1FUSENRTTVZYXJjaFdnOWJtYXRTcUV0SXFxWXZBQlRYVVY0ZkhXLTFQSk4xSVlwTGFoVXJuYmZRZkIyMnA0eVV1YXNwZGF5UFRpelA3Y25LczlFVllIX2FpZS1jUmNqaUoxNmp6djRIWEVQMi1MazFPSlZIdDYwYUFyWjV6dXAwSzNvNkJwMDI1MXluZ19VWGg0dS1fNW41WkNoWjhfTk00dFdqOW1ITDl6cEJHOC1SMFhXcFpBWGlDNmRzakpKeVctWmJTT1NuZVlvUE1tdXY1N1FhUmVUYzBGVjBNTW14Y1dLX1g1cFB6WEcySTNqcG1RTldvZHdseE9UTjYzMW9vS0hNRlV0VGpUNmc?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
       "title": "مباشر | نتائج انتخابات المغرب - Hespress",
       "description": "المصدر: Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -497,15 +488,6 @@
       "date": "Wed, 22 Mar 2023 07:00:00 GMT"
     },
     {
-      "category": "sports",
-      "title": "مصادر مغربية: لقجع يترك كرة القدم بعد الإنجاز ويتجه للسياسة - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNalA1VkVoMnctemQzdHJJOFBnekxFRm9LcGRfWWZ2RW5LRGJ4TkdsRkUzMHVwTk40M1h6UkpZMGF1bVYzOGpiTjBTQlIzSklMS1ZGdWtCTklZYTlncGl4ME9QdkM4b29wQnpZUnJLT0dHeXVCcnlDQklCX2JCR002anN4MUs1a1pjalMzR2RwNGUxelBRWDJVMmZXOVZmaG55NkNTZU5PUjJjenF5MTR1dmJpMmtnTkJXLThVWU9DQ2J0aU9qTXBnc0U1WTl0VXo4RnhsYW9FN00zdms5bXZ4OHAwTzJHZEIxbU03dXIwaHlkQTc0M2k3QTc3TWRMVW5WaDZReENBLWRucDNKblg3UW9lRVZsbmVDLXcxN2JQUUhzeEZrcFFqcW16ODVacHNYeGR2U0tkd1lQSTNrWXJrWTdzc2pMTEQxOGJPc2lMb0JWMy01NDlSTWtndk5WbTJMVjZRbUthdW12cGxsc2ExcXpTYk1IelQ1dWVtU1VzUGNzckVHZk9QY0h0YU9UTmUwWFFrN2VGdWRwWUFES3FGQ3psY3Y1Qi02LXJRb2JyemNrc083d0V1T2xKRi1zZU00SmhPLUg4c1hKZjBiU0thZFBR0gHXA0FVX3lxTE85cVpJX3FzTE8tT3c0dkczNXBKb091TVhFcVlXcXYxSklQU0dvOG9GWXNpa3VnOUR3Y3lqbW1HdDZVdFZOU3BTN0w1OHViQVJlYVhDNldUN3FrNUpkNEMzNGRqRDNkaFZiWFN0cWVvSTZTREJvcFp5Z05JenhkMGxnVWZVcFNRcXhTMmJYZTV3Q1RsdVhTbWt5UTN4a0R5RG9BZTNVVkpsaERxd0w1bFFoR2lFLWN6aU9SWkZpR3kzWHZUVWItWHZfNnpNRlFudlBmNnRXZVhmNlY0M1FDLVRFYjhvdUN6clpaRmZaZHlQZ1Z5YUt2WWdPNHdkVy1ZclA0QkRzTXZHdFg3MjFaRG1ZVVQ3STlQOGFRLXozRF9uSTlEaWNrdnFYQUxUWW43X2lvTmN6V0JDdmw0Z2UtSTlkTjBFT0FhTF9SMmZzUHRrWkpOM0NsaHJmZmtzYlF3OTFOQUkwR2VZb3ZiX3NHcXBKN0pVb01feFZmbE4wT0V4UnR0cVN2aTJQUVlpNG84WThfV2FvTnZJdUZQV1A1dkhHcHZGLWJxSkN6QVc5V1hnaERnVmtuVERpeU5CYlc1emZxZGZKQjVjZlYyNTZpSUNyUE1tS0pscw?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "Africa Morocco Link تطلق خط الناظور-ألميريا وتوفر 2.5 مليون مقعد لصيف 2026 - اقتصادكم",
       "description": "المصدر: اقتصادكم",
@@ -533,6 +515,15 @@
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "technology",
+      "title": "المؤسسات السجنية في زمن التكنولوجيا.. المغرب يقدم مقاربته في مؤتمر دولي - كيفاش",
+      "description": "المصدر: كيفاش",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOMFowalJLaTFyRFNIVHJWM2d5SWhUN25UXzRRNU9jWmdPeUEwRFF5ZGM3U2UzRF9CcV90QU1WM0hpbldGSmNmMmtKX3RzQWEzVWduQjVjamY2aHZ1VU5vV1FoMnY0T0VrbkdOUlVmRnlIYXdQSGN2VS1ubm53MGlJNFFOVmVGS0ItVE01U1BpRE5JQnktSldoVVk2TkJKMXBCZkh5UHctdGx5eFlFSHA2VmpjY0gzZHZqMjIyenBETWU4QlpadlZkN2lWdFZ4Z054bzN4Mzl1Q3E2NDZ0c1M2MW0zLVFBMGhXUG1mOGtkSEY2YVhjSkVCRmp6VVJ5YU5nalJna1Z4d053WTFwWVpZOWdLRjV3MDZTcTd4ejFvYzNCUnJWaEY0bEJKa3dJUU5yOUdOQWtlWERYaFp3Sm1F?oc=5",
+      "domain": "كيفاش",
+      "date": "Wed, 22 Apr 2026 13:40:43 GMT"
+    },
+    {
       "category": "business",
       "title": "أسعار المستهلكين في المغرب ترتفع بعد 4 أشهر من الانخفاض - الشرق بلومبرغ",
       "description": "المصدر: الشرق بلومبرغ",
@@ -551,15 +542,6 @@
       "date": "Wed, 21 Sep 2022 07:00:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "أزيد من 20 ألف طالب يلتحقون بجامعة محمد الخامس-السويسي بالرباط - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWjNjUUU3WGduVlJxMWxnOWRvNi1neWlzNTJaay1XRGI2ZzlWRUVxaThlMnE2T256YTdoSjNzb1o5WG1UcUtKaFpMRmktVzlranJQaG5yYmFFME5qTXdNazhSYWd3cGdOdTNKTXhJUzg5aUhMSXZPUUpnQVRhMnZ3SHJSMWZJNzBiZ1U4Rnl5MnNwaGdRRDZuVDdTWWcwbWJZVl9qemRtTkl3N3I4V2lOaEY5QVpYNXk3aENVRWR3SG9pcF9GSXpvSWp1TFV2R25sNmVQbndPaXRibzVPbnhRM1RsRkJ4WExkRW5qY3FXUU5rRmxwUzE5bXI0UEdLTFNCdUxuZ21Dd0F4NW1UZFNZNlI4bFo3RlBOTk42bVpYUzBHS0dVMFBVQmw3VDBUVjN6QTJMWVFYdWNsOHpxTExsak1YdWpjRFRkeEU1NWhWbmlidw?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 21 Sep 2011 07:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "أحداث نهائي أمم أفريقيا تكلف المغرب خسائر مادية كبيرة - Kooora",
       "description": "المصدر: Kooora",
@@ -576,15 +558,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxNS0Z2SXNDMDF0QXNQVjNONDVtRGx4cVRsVUkxOW9lbERINWsyQU05dmplcWhGVEhwTzNHWjMyN3NYQzQ2S256cEV3V0VoaTJKTFZpTHRKbzFOd2pTaVFqUWxhamNRUnJya2dKdmFtamhsdkRBVHFpNm05NVRRaWZSQy1ZT2d4VmVmYW1LdDhjaFpFSENrYW85Nm5paFdNenBrUnhQZ3o0eWdheUYwM2lPQm1sMFZCbl9tb2ZLelAyVXE1ZVNxVlMxb05CWm5yV01IU21FSXAxQlVWSTVsU3UxbWd4bzd0ZGZwQk1PTThxSjdVWTBDYkYxZ1NGZWxaQ1E1NnJ3cjUzNDVTOUk4bnZVOWdWczYtTTRVOFhuOHFiUkVmSERWQUlHem9rY1ZyMFNWYWhPb3gzTjFjR1MwTXlpS0JWOExjUk5rbnMxenhrWFZCZjRpemhFOVFVZmllRmZ2VUtjUXoyZE1pNEFYU1R6b0xOYW0wdWtHdXBHZmRUU3RXb2xWd2hnRnZYU2swaGFwVnE3VXg2Y0VPbHQ4eHJ4LVJDU21jZUphTVJkVjJ4SFlhTkFEelhRZU1scG1kYkxPeTZYRTRiNmRudk01MGZ5NUE5NHlLUWNTbWJwVnBlaHJIUFhFcHZRazUzTFRyX3BQWG8wZFJEeF85alJZOVJCdzRJRjFEQnZNZGNfNXZqb3NqYVBsRlE4aVFOUGViRFgxcmQxLW92X1MtTFpHOTM0blhyaE5VQnlCbkNLTWhMUTl1V3lFMURaWFJTTXRUUHg1OUFiQk11QjZ4ODc5SGJibDBYVEQyQ1ZqVXkwaXN5dW9oMmpwdDloWEc4STBiazlXMDVlOWxLU0RZYWZjUURoRjJiVmc2OWd2Z0RnR1ljVnE2UFNUa0RxUWhXQmhzbzNqa1BySFhDSm9aMEdEMjFqRTUwNk5vOWY4MjRfZ0paVkYzTFk?oc=5",
       "domain": "Maroc.ma",
       "date": "Wed, 21 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "المغرب 4 - 0 مدغشقر (٠٢‏/٠٦): مجريات المباراة، الإحصائيات، والتشكيلات، والمواجهات ، المباشرة، والقنوات الناقلة. - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxuSDM3T1RGSFlPSmJDN1plZjQwV0FGMGgycks5SXBnbXlqbHNReXE5SVRnQVF2N2x2QnBRTU4tR0tfWmNieWNRcTBUVF9mVzFZMkdvZXZLbjROWkpudEdpcWhiaE9wZHloUEVGbGlaS0Y4ZnR0SF9iT2NOdkJwbFgwMl8xbmN3aXhBRjlxNFpaMHRWTDAxdHR3Tm05R2pwVVZSeHlR?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 20 May 2026 15:24:58 GMT"
     },
     {
       "category": "sports",
@@ -623,13 +596,13 @@
       "date": "Wed, 18 Nov 2020 08:00:00 GMT"
     },
     {
-      "category": "sports",
-      "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
-      "description": "المصدر: Goal.com",
+      "category": "general",
+      "title": "المغرب يتحرى هلال رمضان.. الإعلان الرسمي غادي يحسم أول أيام الشهر الفضيل - فاس نيوز",
+      "description": "المصدر: فاس نيوز",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
-      "domain": "Goal.com",
-      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16aEJCN0sxU25RYm83OG5pRVJVdVhHWWRYcUszTEhBcmdUbDBZUFd4WmxMTXJ3TGxxVVN0OXBwZDIxaGN4T3FSYjZ3eURGcExmUmNHTmFOcjRkYm8xMDB2M28zdlBQRW9FVWplQzdUblRHRm8?oc=5",
+      "domain": "فاس نيوز",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
     {
       "category": "sports",
@@ -657,6 +630,33 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wN0VFUWduVG1PNGg0b01iaERNcVotMHdoT0xPemtBQkp3YkstaFp3RllkVmtITk5SWlBuMG5Ta1pSSDRDYVE?oc=5",
       "domain": "العمق المغربي",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "قبل لقاء فرنسا.. مشوار المغرب لنصف نهائي كأس العالم |انفوجراف - بوابة أخبار اليوم الإلكترونية",
+      "description": "المصدر: بوابة أخبار اليوم الإلكترونية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRb01wVUxYelI4RThtNXFpVlhrS3FSY3l6N1FZS1YxZVFhLUYwTjFnQllSTjJYcWtlWDFTaXJKbENYUnBsUUk4ZDhoQ0I1ODdFWXNuV3ZBLUVxbkRRaVRITkRqWlZENmplOFpacjVYRVQwYVp0?oc=5",
+      "domain": "بوابة أخبار اليوم الإلكترونية",
+      "date": "Wed, 14 Dec 2022 08:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "كأس أمم إفريقيا للسيدات 2026: بركلات الترجيح المنتخب الكاميروني يفوز على نظيره المنتخب المغربي ويضرب موعداً مع مالاوي في النهائي - beIN SPORTS",
+      "description": "المصدر: beIN SPORTS",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi5ghBVV95cUxPVlRScnNQRWVhM2JpUzEzZUZiakFGUml6aURKRXo2dG5IT0dmM1RySEh1VnVOenNvdHV6SUxCLU14Q3BLMVVsdl9PdmtXV2REd3Zackc0T3FkaW5RQzVocjFJVk9WU0lEbzRPR2pyeER3S2dqeTJOc0szT2l0VWFNYWJkd1NDcWwzb29wdEs3ejA5ZHk0bExzc0pOX2lZbEpwN3ZLN3NleEJxLWtyVHYweE5iOUxLUVd2ZnFsMU1RMG0wUE9rd3JWT3FfU0otVGxhYjluZzd0WjZXLVRxX25uY0RycTBGQUppY3lzV0pScGs0ckZ3YXFGTVA1bG83V09mYzBfbTdOQWJTLTFJOXJkZTM3aUVkU0lPWmZCRnlobzI1YUpMaDhrRFZfR3gxbTFQaERNQ3NZWTQ0QkNTekxwbjR4RW54a2RDX0JrNWlvZ0NqZWtHcXo3bkNQemFqSFJsekxkSEo3eUx4M0d6aFpSMlpna2puTU1QMVdwWE1qTGI2c3h2NDFBcUl0dVNsaFo0dVhIamJVNjFGM3RMUlVfUExLWjJ5WWtDZDh0cUxoTm5lUkVhQ25oaGtBNGNEajluSEZCQXM5ZnBkRVQ4dlk1ZDFCSFRvVkRkV0xwMHNLU0F2RjlqSDlGLVN3VUtxWGFyd0N5SVc2dl9WQjBGOHZ3WVowdy1oWk1tMnBtQXJkM0lRQzk5dFhMUF94UURZMU9NV1VQWlZmenRyS2VFbzRtdlpIOUUzaUExNFgyYUJxS0U4dUVHZ20zU0ZCcFZPWHMzUzJFdWpIcktRVjFmNFJvcWdkU25sWjZ5ZXF6dlZEa3RsWkRKeVg3QjFiQ2EtOXlMSkVQWmtqelZJcWFSWGNhYXFma3BSd2o5NjBsUGNGWnF2N2F2UWs1YmEyeFppNkVhODhCLXkyVGxVcVM2QS1GbHZpMUFVMklxa0lYaHo2TkpPa3gtTHQ2ZXRaZHgtdHUtdEIxWXdtVW5xQXltY2E0cWk2RVNMdy1DRVlIQ1ZKM3pVUzJoT0wtRjBTOFVNd3oxS3FmcFAwMWRWMkxidFQ2LWJZdkN5VTZNYWNwQVNkQmZKOEFtMzhYbHJjU3J5V1Vpd3E2andLb3VyS2xTcDFFYkdtRS1NRlNwNmFud2Ntb3liejBYanhPYTNVeEZCUFZsTTlldWN3akU4WERFUG9FVm1aZTdJeUpsRWgxTC01NnF6RW9ZSElYWDJoUkphdEN6RFBBT0tLWkZMUkxvREl2MWhybHVGRjhtWVg1ekVkMWJnaC1kcGJZazhnSWtWa1p1RjN6ZzFkQ0lxQVVtcjlGa21HcXVKRkVMLXNvWG1yLWF5RUlvNlBNUUJRUjc0YVZPT1dLbmVIcERqVXp2UEFoQWYtbFhSeURrQXFXeGlCT2pfMlVPQXdBUUUxRUlDV013ZE4xTFVscjk2aU1vVDVxOTg3Mm9RMk9xMk9QZWdxQ1dsdzN3V1lXUjRQb3k2ZnpyVWZ1RzRn?oc=5",
+      "domain": "beIN SPORTS",
+      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "حكم مباراة المغرب والبرازيل في كأس العالم - Kooora",
+      "description": "المصدر: Kooora",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxPb1BkWGlJN1lDVHllNFlHRmJiMU5WVmlDUkYyTU95VlZyS01LUjRJS0FUMW5sUEFGaTZVY2JyLVJSZ1JlQ1JEQ3hRbVlNS2pqTHF6UzA1bldwRThIYXcyTkp5cjloSTZZbFBaV3BGNFdFMk90eEFLUDI0U3BYRmR6WVVRQ0UyQUFJRloxcGlLU2t5dHl6czNHT0E2bHVHUDdGSEUyMm9mcXJWQXFaWjJTMEVXeURvQ3N3ZnZ1VTQ5NVNyR0lqMHNvU01XNGZlRW4tZkQ2UUlSSWJCNmZ6M0pSVTJ6aVI5X2NQSndVUTdGUWVLN1dZMG81YWlpdTc5UzVmSjBDUEFRaC1TX2QxbkNPS0NJRjZHTmxpRWc4ZWRkRExSV0FrOFpwb2l2ZWtHOTVFcDZuRmE3N2RkelVhbjBZcldtOE8xS2FmUkFIQlJ0R0pKZ2hwTHhXNmk5UVlkUXBnSFVWbUg4NU1JVmlUNFNkdHVOTENmbHBWX0RQZ0RQUi1XRlBFemhVMm9HUmlvQkEyZUdESlhhWU4xTjA0ZHNoT0xfRUpYVFJKdzJIV1V2bXYwS1p5bl9pcnNYZkE0OE85MHdpQ2hfVkwyaUQyRy11SU9KV2N2amMwV19VY2JrU01KNXNGQzV3RDRZdFJVc1FKakFHZHhSTmU2Yi1haXV4N2lUOFR1alZVeG9kSkRGSlBQa2N2aF8xMVRGcHJzM2dzb2dVLTZUZExkOGN1M0NEWVZ6R0tyRnIzblVRWmd3SG1BcTl2Ym9SenpyVzc?oc=5",
+      "domain": "Kooora",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
       "category": "general",
