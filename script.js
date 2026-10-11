@@ -39,12 +39,14 @@ function sortByDate(articles) {
 
 function normalizeCategory(article) {
   if (!article) return "general";
-  if (["sports", "business", "technology", "policy", "general"].includes(article.category)) return article.category;
+  // Keep explicit non-general categories, but allow articles marked "general"
+  // to be classified from their title/description.
+  if (["sports", "business", "technology", "policy"].includes(article.category)) return article.category;
   const text = `${article.title || ""} ${article.description || ""}`.toLowerCase();
   if (/رياض|كرة|الوداد|الرجاء|المنتخب|كأس|مباراة|لاعب|فيفا|كاف|botafogo|futsal/.test(text)) return "sports";
   if (/اقتصاد|اقتصادي|بنك|استثمار|أسعار|الأسواق|النمو|الدرهم|مالية|ميزانية/.test(text)) return "business";
   if (/تكنولوجيا|تقنية|ذكاء اصطناعي|رقمي|معلوميات|هاتف|برمج|tech|ai /.test(text)) return "technology";
-  if (/ملك|الحكومة|حكومة|وزير|برلمان|انتخابات|حزب|سياسة|سياسي|العثماني|بنكيران|الصحراء|الأمم المتحدة|إسبانيا/.test(text)) return "policy";
+  if (/ملك|الملك|الحكومة|حكومة|وزير|برلمان|انتخابات|حزب|سياسة|سياسي|العثماني|بنكيران|الصحراء|الأمم المتحدة|إسبانيا|مشاورات|الدورة التشريعية/.test(text)) return "policy";
   return "general";
 }
 
