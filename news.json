@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T11:32:48.653618+00:00",
+  "updated_at": "2026-10-11T11:33:20.098787+00:00",
   "articles": [
     {
       "category": "business",
@@ -543,15 +543,6 @@
     },
     {
       "category": "sports",
-      "title": "المغرب 4 - 0 مدغشقر (٠٢‏/٠٦): مجريات المباراة، الإحصائيات، والتشكيلات، والمواجهات ، المباشرة، والقنوات الناقلة. - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxuSDM3T1RGSFlPSmJDN1plZjQwV0FGMGgycks5SXBnbXlqbHNReXE5SVRnQVF2N2x2QnBRTU4tR0tfWmNieWNRcTBUVF9mVzFZMkdvZXZLbjROWkpudEdpcWhiaE9wZHloUEVGbGlaS0Y4ZnR0SF9iT2NOdkJwbFgwMl8xbmN3aXhBRjlxNFpaMHRWTDAxdHR3Tm05R2pwVVZSeHlR?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 20 May 2026 15:24:58 GMT"
-    },
-    {
-      "category": "sports",
       "title": "أخبار الرياضة| بعثة الأهلي بالمغرب.. صلاح يتصدر الصحف العالمية.. احتفالية الزمالك.. شريف يرد على الخطيب - بوابة الأهرام",
       "description": "المصدر: بوابة الأهرام",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -627,6 +618,15 @@
       "title": "ريد بُل وينغز كاب - Red Bull",
       "description": "المصدر: Red Bull",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvdGpmVDBFWHFhMGFoSVJxMnc2anRYRWtJZUhESUx5cUFzUm5kRFhzYm9FYnhhc1haa1RGU0VwQzA3RGVBamk4WUFnUEl2SFFxeU5sNVE3QUgyci12QUZGMFVzeXczWGJJMjBZMThfVWJncGluM1dGdA?oc=5",
+      "domain": "Red Bull",
+      "date": "Wed, 16 Sep 2026 09:45:09 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "ريد بُل وينغز كاب - Red Bull",
+      "description": "المصدر: Red Bull",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MmV2ckJmQ2l0VWZGLWphS0xORUJZaXBiMXpsQW1SN3RWSzM3Wjg4QVpiVElteXRSUDdoLXhMZmc3SGhNVWJXNVdoa1ZERUF2VVhNR0ppN09NYUVMVXdDaGpCekRCakhBNUZQRFJ5amI1alZBOENJ?oc=5",
       "domain": "Red Bull",
       "date": "Wed, 16 Sep 2026 08:19:02 GMT"
@@ -642,21 +642,21 @@
     },
     {
       "category": "sports",
-      "title": "القنوات المفتوحة الناقلة لمباراة المغرب وفرنسا في كأس العالم للشباب 2025 - العين الإخبارية",
-      "description": "المصدر: العين الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yd3Q4Q1lHMFVFRFIxNWR2UFh0Q3QteVZfWndjdGlGWVV2aVBEYXhRczExLXBuWXpjc3NuQkpGcFBpeGJ1UG1KRkRaV1RCUzV4Sk5uZmJPZnpxWC1RT0hBZzFKYy0xSFRVeHdsSFFQLWRsbnhXczE4bHpn?oc=5",
-      "domain": "العين الإخبارية",
-      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
       "title": "وزارة الرياضة المغربية تعاقب اتحاد الكرة المغربي - Kooora",
       "description": "المصدر: Kooora",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQQjRhcVQtVkd4VXRHYlBVU0VZUkpMRUk5V1VZM2F5YlZSb1Jnd3NlN19jNUZYb2ZsczdtaV9MSGtGRjRkbmxuX044bFZRWjk0MnJJZUdKWE02dGhqaWtzOWlsSm1NN0c3QWZMRlp5SFJjZW5jMER4ZXRqVmtPcFhOQ1M1Y0ZJTHBEc0xnTDJsT3NuTFRLWGp3cmZKcTU1amJEOWZTeGJjNEpXcXNCbXotQ3RNYmdYZl9pRHd2T1lHRmsybVN4UkViallUX3VJYkladWNHS2ZUZGFIWW5Pc0FXMGwxLVVNbXkxbXFWVHhqMk1sOGNnbldySXEzc0dqMDZwYnNTbS1mR042Q3dMMXk2QUdMX3lRc3hzY1M3VHpUTnBjOGh0RThzX1J3RWR6N3ZTSjUwaXVXQnAtRGkzdmI5RUExSTJqakNmNVl5a2hzOVE2WGp3OXNzMXVFdi1WYU5FN3B6NGNrWU0tNkR5SWJIQWNfMkpiQWh4WUhtVk9RVUd0RmNsT0JMdVJ6V3pQa3UxWjlDazBmUER4SUJGSXdiS05Hb2RRcWtLZXdEMkd3OG5Bc2dsMUgyajVZWElOZWxGY0JOZ1BZT2tuN1hsaTA1WGtKSWs3d0JRcWl0X1FqUXRvNmJBbzI1cnlZNWlVSXlzaVlQWVYzcHU?oc=5",
       "domain": "Kooora",
       "date": "Wed, 15 May 2013 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "«مشروعنا يتجاوز البطولة».. المغرب الفاسي يكشف أسباب رحيل فرانكو والقادوري - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wN0VFUWduVG1PNGg0b01iaERNcVotMHdoT0xPemtBQkp3YkstaFp3RllkVmtITk5SWlBuMG5Ta1pSSDRDYVE?oc=5",
+      "domain": "العمق المغربي",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
       "category": "general",
