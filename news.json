@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T11:36:06.287580+00:00",
+  "updated_at": "2026-10-11T11:41:43.242345+00:00",
   "articles": [
     {
       "category": "business",
@@ -272,15 +272,6 @@
       "date": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "فيدرالية تكنولوجيا المعلومات والاتصالات في مفترق طرق قبل \"جيتكس إفريقيا\": اضطرابات داخلية وتساؤلات - Aabbir",
-      "description": "المصدر: Aabbir",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOUzV1SUF4WlZBSzM5UmNJR0RWRHI3V05NbllpS2s3TXNtTVhUb2hfZm9OWDlEclVycHBWQmNQMnBZb1ZSeFZER25NV0JlRk5yaHp2dDBadGpZSmp0WEZNLWtPb3ZWSDcxWWlHMEJpVGxXMkw4TUZWX1VWUjRJdEdqQzc5VWdsT1c4RUZQUVBlQXRvMm1LTXloS0ZSTzZhaDctZmZwYjdIa2FDbDhpWGNRRFJXMXZ6SW9sZDFIRXY2WWJnT2k5U0FpQ0U3UktKd2g2YWx5WGQzcDBYNkplTFMyNzBUOHJUelNuZWViMnR3LWhEampOMC0xb0x4VzQ3Nmp0UEtNakktcjVrQTRBSTl3Y1BfWkRmd2ZoTHEwWmhBeTMyUnlpdURoMHlhZ3EycTRuOWVvaEdncVFPbE3SAcMCQVVfeXFMTWJGQjI3MVpmTi1hVmlGbG5NejlOYmxyVG03Sm9WT0ZtNEFyNXRwTFJGdk5Wa0ZNY3pacFpsVUNvLVZOaldDdllZUUpfLW1kSXhqNFpDT0R4enVCYTl4ZUhiU1JidHpYSEFhY2FvaE11V1AxallQUmhZZVpRal9iUXJaQkNoNHRIUUNXaS1tRlBnSnhVazROYzRRVHlkbVBfX1g5TTN0dzI1M2Vnbmx5ZWVCU0pLcDNIbVhrc0tCUUpzSEFkTGc0NHVFOFhBUTR4eDhJZVcxQVNKYlFTU1pfTm9pSlM5Z3pYd3VaZ2ZtdFRrYlNHbDI2THRiR0hNZHlFbFUzc040U2V6X0xiUHc0RzVkcXczZjNMdlpfUzI2NTVZdHhlTTZUN2tmdzR3dDNxamRzdFdLVlJJQnU0SzQ3SXFjV1k?oc=5",
-      "domain": "Aabbir",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
       "category": "sports",
       "title": "تعيين عبد الهادي رازقو مديرا لقناة “الرياضية” خلفا لحسن بوطبسيل - العمق المغربي",
       "description": "المصدر: العمق المغربي",
@@ -453,15 +444,6 @@
     },
     {
       "category": "general",
-      "title": "فيديو.. إقبال كثيف في العيون مع انطلاق \"انتخابات المغرب\" - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNMzRsVUd2T002OFpOUkRNS1pYUmMxWHZrWFNLd0k4UVlIRGFUZlRmdW1VcmhZcHIwSVpwMDRJc1NUZXJORGJGZ3dFdzkwamJMYUlhSVZEODVIeUFHaG03SVcxQ2djeWVGWGRBeHpVQlgwSXRfRlN0TGpoVjdOS0lveGN0NTFSV0RCdkhXQXZLUnFmV3h5YWg4MlVZWElqb3lBZHgwWWtXMDNSV2t2blRjakhTOVQtZWczRG9RLUZMNWE2eS1ITkVJdExxY21obmdSUW9jUnpEU0xzSFhCQmRPT0ZOcXdZNjVoREg1M21PWHIwblNFTkNFZ2ZGT0lMakRlUW5OVUE4Um95dUhRRXpWLUpsUDRMdlpoVS1ITTdXQnFta05BVFJScDk2SlZPaU5vLTkwUHpLQ1l6ZVZSWmd5bUxCa3RkWTJ1RXJrY1JUYXctOVpTbVlVcFNINnBlTmJqOV9adFRyTXNja0xsMi01WmNNQ25EelVEZktmellDclc5dmZGUzlHbFViUnlHSE1JY1RTTlVKamhwV1l0TjdDYUZLY2pZYkHSAawDQVVfeXFMUHdyMlhjMVpGYVFQTDVYT0kxdDZTSXF5YTFIYmNVOXV4WEo1MUlyWmhpV1I4ZHI3MDdYeUpLSTc5ZC01d0VPU3FlaFFfUk5oa0h6M3ZZYk1ZUGJNZEp3ZTJ6NGQyRDRvUExSeldtVW95WXE5OG9PWnN0RkFHVGJyQ04zS2hZejJIWElVQzlMZWg5RGFKTG00WnJqRGpfUDZZVHhZVFg3dUVUMjlIQjZaTDktVk1KakctTHJfb2g3elNCSmhhWnR1eE13dW1qVmFmdThXVnhjRUY1TzJWY3pnM1JDdlowUGs3WnhWZ2s4azR1MjdqTUNLc0U0NnI1Ullaa3E0S0Q2d3otZjZJNDVZTXpRYlM5SnRFTkZzUlJmdWt3U3Fad0lVckV4bHlZd1ZHQkxHM3E0LVlpYmF6S2JQTzJENmVpMEdhbWFsWlVhbmxoVGUyTThKaTdldGs5aFdtQlhyQ0tEMmRjNl9JWndXdUdpNElkd0RyR21SNGROem9FYXg5eTFYa2lTdUE5OXFZc2p4NnhHcFk2SGtpMlRES2xDV0RWaF9vbXB0NHQ?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
       "title": "إغلاق مكاتب التصويت في المغرب - Hespress",
       "description": "المصدر: Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -570,15 +552,6 @@
     },
     {
       "category": "sports",
-      "title": "المغرب 4 - 0 مدغشقر (٠٢‏/٠٦): مجريات المباراة، الإحصائيات، والتشكيلات، والمواجهات ، المباشرة، والقنوات الناقلة. - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxuSDM3T1RGSFlPSmJDN1plZjQwV0FGMGgycks5SXBnbXlqbHNReXE5SVRnQVF2N2x2QnBRTU4tR0tfWmNieWNRcTBUVF9mVzFZMkdvZXZLbjROWkpudEdpcWhiaE9wZHloUEVGbGlaS0Y4ZnR0SF9iT2NOdkJwbFgwMl8xbmN3aXhBRjlxNFpaMHRWTDAxdHR3Tm05R2pwVVZSeHlR?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 20 May 2026 15:24:58 GMT"
-    },
-    {
-      "category": "sports",
       "title": "أخبار الرياضة| بعثة الأهلي بالمغرب.. صلاح يتصدر الصحف العالمية.. احتفالية الزمالك.. شريف يرد على الخطيب - بوابة الأهرام",
       "description": "المصدر: بوابة الأهرام",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -614,6 +587,15 @@
       "date": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
+      "category": "technology",
+      "title": "البيروقراطية الرقمية: تأثيرات رقمنة الخدمات العمومية في المغرب - Arab Reform Initiative",
+      "description": "المصدر: Arab Reform Initiative",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVXBxeThIbTBLYlA4REZqQVZkY2YtdENVRnJPRkN1Y2h5aTdpZmRnYjVQcGd6RzdxUzdQZUNlMmVKQ0xQUm92RGRIWXh4Ql9rQTZGbnBpSHdPR2YtV2I4a05kN2FZbklHdUpZdmZtQjBoMmdLVURvU0hXUE1pSTlGX3MzcEdONU83SjIxV08xYjZoYTR4M1M4d2hicS1ZNkc1aUZRZDdyS1hPSXoteUNQVVZyUWlYNWtxTzlVdzljMmFfSmFKcW9BSi1CbUhjcHdCdTRzeE8yVTFteW5tT2ViaV9vaDM5UHhzZERHcFZ2WDRTdUREZ0p3YU5PY0wyMUhKVlJERWVzaDhma3NSdnhoTVd1a0wxazFPQXdFbkxtNUF2QlNaUUhoVWFEdkpwMlU1WWJMRnkwSVJYRURkMnUwS0JkUFY2Q1FoYWpKdG1SQlc4dDI4UTBkVHN5MVg?oc=5",
+      "domain": "Arab Reform Initiative",
+      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
+    },
+    {
       "category": "sports",
       "title": "\"الكالتشيو بولي أشهرها وأسخف مباراة في كرة القدم أغربها\".. تتويج المغرب بكأس إفريقيا \"إداريًا\" ليس الأول من نوعه - Goal.com",
       "description": "المصدر: Goal.com",
@@ -621,6 +603,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
       "domain": "Goal.com",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "المغرب يتحرى هلال رمضان.. الإعلان الرسمي غادي يحسم أول أيام الشهر الفضيل - فاس نيوز",
+      "description": "المصدر: فاس نيوز",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16aEJCN0sxU25RYm83OG5pRVJVdVhHWWRYcUszTEhBcmdUbDBZUFd4WmxMTXJ3TGxxVVN0OXBwZDIxaGN4T3FSYjZ3eURGcExmUmNHTmFOcjRkYm8xMDB2M28zdlBQRW9FVWplQzdUblRHRm8?oc=5",
+      "domain": "فاس نيوز",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
     {
       "category": "sports",
@@ -636,18 +627,18 @@
       "title": "ريد بُل وينغز كاب - Red Bull",
       "description": "المصدر: Red Bull",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvdGpmVDBFWHFhMGFoSVJxMnc2anRYRWtJZUhESUx5cUFzUm5kRFhzYm9FYnhhc1haa1RGU0VwQzA3RGVBamk4WUFnUEl2SFFxeU5sNVE3QUgyci12QUZGMFVzeXczWGJJMjBZMThfVWJncGluM1dGdA?oc=5",
-      "domain": "Red Bull",
-      "date": "Wed, 16 Sep 2026 09:45:09 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "ريد بُل وينغز كاب - Red Bull",
-      "description": "المصدر: Red Bull",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54MmV2ckJmQ2l0VWZGLWphS0xORUJZaXBiMXpsQW1SN3RWSzM3Wjg4QVpiVElteXRSUDdoLXhMZmc3SGhNVWJXNVdoa1ZERUF2VVhNR0ppN09NYUVMVXdDaGpCekRCakhBNUZQRFJ5amI1alZBOENJ?oc=5",
       "domain": "Red Bull",
       "date": "Wed, 16 Sep 2026 08:19:02 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "القنوات المفتوحة الناقلة لمباراة المغرب وفرنسا في كأس العالم للشباب 2025 - العين الإخبارية",
+      "description": "المصدر: العين الإخبارية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yd3Q4Q1lHMFVFRFIxNWR2UFh0Q3QteVZfWndjdGlGWVV2aVBEYXhRczExLXBuWXpjc3NuQkpGcFBpeGJ1UG1KRkRaV1RCUzV4Sk5uZmJPZnpxWC1RT0hBZzFKYy0xSFRVeHdsSFFQLWRsbnhXczE4bHpn?oc=5",
+      "domain": "العين الإخبارية",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
       "category": "sports",
@@ -657,6 +648,15 @@
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQQjRhcVQtVkd4VXRHYlBVU0VZUkpMRUk5V1VZM2F5YlZSb1Jnd3NlN19jNUZYb2ZsczdtaV9MSGtGRjRkbmxuX044bFZRWjk0MnJJZUdKWE02dGhqaWtzOWlsSm1NN0c3QWZMRlp5SFJjZW5jMER4ZXRqVmtPcFhOQ1M1Y0ZJTHBEc0xnTDJsT3NuTFRLWGp3cmZKcTU1amJEOWZTeGJjNEpXcXNCbXotQ3RNYmdYZl9pRHd2T1lHRmsybVN4UkViallUX3VJYkladWNHS2ZUZGFIWW5Pc0FXMGwxLVVNbXkxbXFWVHhqMk1sOGNnbldySXEzc0dqMDZwYnNTbS1mR042Q3dMMXk2QUdMX3lRc3hzY1M3VHpUTnBjOGh0RThzX1J3RWR6N3ZTSjUwaXVXQnAtRGkzdmI5RUExSTJqakNmNVl5a2hzOVE2WGp3OXNzMXVFdi1WYU5FN3B6NGNrWU0tNkR5SWJIQWNfMkpiQWh4WUhtVk9RVUd0RmNsT0JMdVJ6V3pQa3UxWjlDazBmUER4SUJGSXdiS05Hb2RRcWtLZXdEMkd3OG5Bc2dsMUgyajVZWElOZWxGY0JOZ1BZT2tuN1hsaTA1WGtKSWs3d0JRcWl0X1FqUXRvNmJBbzI1cnlZNWlVSXlzaVlQWVYzcHU?oc=5",
       "domain": "Kooora",
       "date": "Wed, 15 May 2013 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "«مشروعنا يتجاوز البطولة».. المغرب الفاسي يكشف أسباب رحيل فرانكو والقادوري - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wN0VFUWduVG1PNGg0b01iaERNcVotMHdoT0xPemtBQkp3YkstaFp3RllkVmtITk5SWlBuMG5Ta1pSSDRDYVE?oc=5",
+      "domain": "العمق المغربي",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
       "category": "general",
