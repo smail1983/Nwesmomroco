@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T07:33:24.424692+00:00",
+  "updated_at": "2026-10-14T13:40:51.929174+00:00",
   "articles": [
     {
       "category": "business",
@@ -179,15 +179,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ma2ZoM1hNZkJvU05hVXJUa3k3T0pXRWp2WFhWam9qMHp5dVlVZnh1UTVBWGNNOEl3UlQ3X2oyd3NjSnhNTFpsSzh1RU5tN29GbWg5YmFYSzNNMVRB0gFiQVVfeXFMUG9LMXJHOUJpWDcwbHY2eDJlZGl6LTI1bzFZUzlaZFphLTJjRXU2Y1NORDRtNmg3eTlwdjFRb2xpSi0zVkpFS1NjaGVIeTV4Y25nVVlLWlk0SlJpOXVzLTd1VlE?oc=5",
       "domain": "BBC",
-      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "27 سنة من التحول الاقتصادي..هكذا أعاد جلالة الملك رسم ملامح اقتصاد المغرب - بلبريس",
-      "description": "المصدر: بلبريس",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPejJTTUtKVm9YbW5lTmI1WnRoRnY4RHFCTUczNFM3bG5RSTRUSXcyYm95dTF2WElkSTd1Y3ZZMWc3S01MNFVPcnUtdnB6VGdqWmQxT2hBSzdzWU5yQ3A0QUpZTGFaVmVVTVJOaHBrUnM5SFJNUFEyN3I4S01wS0ZkdW1RMWF1RXJhRTRFQTR3MFpaUWFSclNWVVBXT1g5N0pVWlZiQUtmRFJ5b3pzM3JkLThGTWE4M3RhV0tYZnpuV3U0aUl0VVZQbjEzR1lHTWxwN1plZGQzRFFrQ1VvUU5PeURsWW0xenFzR2FVSkFTZE1iX2ZmcWZUWDc1akhwN0VfNTVuTE9FMXpGdlVIT19CWlNaQzBwVkJfOFc2aGJXREZlcDhXUE9fRmttamJrWnNqMWNkbk1OOHN6YTE0WUlCVFU2aDk2Z1N3R1E?oc=5",
-      "domain": "بلبريس",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -498,24 +489,6 @@
     },
     {
       "category": "general",
-      "title": "إقبال كثيف على التصويت في العيون المغربية - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNc2x1aHhPaHBTTHIyT2ZXSHZnQ293SW5TSUpTd2JxSmtWYTVmbms4SWZvUm9YajhCQ2FwaGphUTY3VHJpbHp3eEFGUGcwMDhVcVpsQjBDRG40aTNmTmUxa0h5eGd1TjNWS1huR2prd1RkZ0FhaEpJUkdWYnRpNG96TVFFYWxYd1lIQkplaHk2eEpCRnlVYV9pcVBTWTZkdFQyanU0eEoyR1M4dHpmMXlUTF9sRXZ4cVNLMmctaEViSjVUU2xsdXAtbXZJRkxpLUxYendIUHVveGNsb1dSZE9hbENmcDBfQUNrUGxmZkFjcVBsQzZOWUoxV2ZxNTc3UnJlazNGT1dZc29XUFMyTWY4N19UVm02NE9EZ3NHaFg1Y0lrYXZGT1FZSFNkNHg4TXY0UzJlX3dWbjd4ZUlmZUM3QlhkN1BWSW9meFhNY9IB0gJBVV95cUxQc0lXcUplYy1leTZVN3Z5R1dMUHZMTmpFbjZJOGZxSEZKaVdIcWw0d1hhRGVVODJZMy15dF91dEM0YTFVd0dWbWFXUGl4dURCWWRKMktab05VZHE4dXh4TG1RcVQ5ckJvN0JnWXBOY1FDSl9zU2RHTlptZGFTRG1wQXNUUDI5dHRRcnFiX1dEOHhqaWdXMmVWZVhjOGlpRWZaSV9zdDgzSDlZZ184cjFBbnpSQzJGRzlCaEdLRVF0UzVfUmVhZ1NvQXZVZHl6d013M1loUEtSY29Ob3BtRHR6WGlOY1dpZmU2el9mUVBDanVMSEdvdDh4T0VmcW0yMk8xcFdZWFF6ZjBLMEtIMG5nTTl3VzluT01PTm52aGVNMzJjMFdoaTB6QjFxekV3c3M4LW1oX3paS3FLZ2pKMWNueW10VUdvVkFYYzgtNVpJZ3J0QQ?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
-      "title": "بوريطة: قرار مجلس الأمن بشأن الصحراء منعطف تاريخي - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPSXRTcjh3blQwV3dEcFl0Yks4NU1jeVdmX3RJZ0JvWXQ2WEtyNkd3cGVjaUxkNFNqR2J4TVpBcDdEdDFhR1BxVU5kcG9wLVhVNl9uLVRqelZjdGp6N0dhWjd4OE9hZGFjUXN0TllnR1dtcjQ4UUJYSUZGUW1obC01Vko1UXB1blR0ZVJZVVBPWDNUVTlfTlZGTmczZ0l4VjQ2REpWLUxVX3l3TGdNZDM1bXozTFYyMm40aEhKRE45SWtqV242cHdBUDhLLTA0U3gxQ0FfMEhhaEN5UWlzc3dhRzNIbnlrbkVoYTk1LS1TRk1vcHJxQlJVMDJqeDBBZE5MQ05rV0R1cXg4NEY2SDRRZnpEZUZaYldUZEtOS3ZoVkx6WnhUSzZDQ2JWVFR4Y05neGV2UlFVdDNtSHQxRmR2ekxiWWROUDVJY3dlTnV5MUFMRUNaT0NKSC1kMTVyS2hBSjU4X09ER0gyQ3Q0Y3dIeG9Db013d0tGUzVueEZvdDBhWFZ4NUFpYUhwR2l1eklIV0cyb1FjbWhsWXdjWmhkZ252R0gzd2ow0gGuA0FVX3lxTE1ndEFzZHltU001RkFHdHZqWHViajEwMTZfWmxaOXZoYlFZQmtjWTlidWlwX2U0clI3QVJoaWc4X0tsUU1ZZWNJMFA3akV0UHZha0VwN0tLdXNINGFLbVplYmhwTElJVnlKZUtMRU1PQTR4aThBYTZDbXB6WDJVZ2ZCcXQydnRCdkdTVk1MUWJ5djRHN3EwTXdPWFZqUGVKWnVrcjRtNDNWakRyRXg1MUZmdVFqeXhRQnJnUnpCUWdiN2pPbXF5OEhxR2hia1lueWdiYzE5eGVRbFNPYWRSYmlrLXRlT3J0d3hnMTZ2TVVTN2IzVFJFMExUNE5Ec3paQkdpMFNxQ2dsMGJMLVExUHgzYnVCOWZtbEk0d20wdldsM3RoNTIwSVZ1MEpTbGpEN2FBdWs4TWdtUVdqazdYUlRoYW1KWENRRDYtNWg2a1VfX0FQc2xDQm1STS0tOVZEOGlVT1g1ZEV3VFZ3TVYtdjFRSFhKNkVkaG0ySWlGZ0EwcWR0a2g4c1hkZjJ2R1NJWTRuVEFXQl9aMjRFX2VVeFRBWHhBMlVvbkJCSkktc1E?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
       "title": "مباشر | نتائج انتخابات المغرب - Hespress",
       "description": "المصدر: Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -569,6 +542,15 @@
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "business",
+      "title": "أسعار المستهلكين في المغرب ترتفع بعد 4 أشهر من الانخفاض - الشرق بلومبرغ",
+      "description": "المصدر: الشرق بلومبرغ",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQT1VhSFpHLWs5Y2twaEhiVjdMelpVcVhDUTFTOUR0UkNPNVk3XzBueEhFazV4S29EeWh1bllNazBSUTdUenFmYXU4dHQyand6UGc4VFZ3aFZ5SVl0bmpJZ256S3kyeC1vc24yb0VDTUwxMG5wQW9jcTBBTXhtdDZsdWlScHZSaHFpcWNrQ3d6RW0yY0JCX1F6NU5NMDdrLXpHYlVEQXNKeHRfelhONG84QzQzaTFvMzFXWUpsXzJNVklGUHNKaTFYRkJybnpPV0xEMXIxTXBBYUkyTXRGS1VEcEg4cEc4aENYR3Jrcm5EZXR4bVNjSXRtZV9UNm1RLWNnWm80eHV1U3dPY0hMb3JINEx3Rm1HUjhLTUhIbi13Ri1OTlQ1TkpDeTFnODMtM0k5TjJIVk1zSTZqVlRVQzF2SkdralNMZC1xaUROdTY4bk04OTIxMUVQQnJDR1l0aWR0WFgyT0I4NV9LM25RTWlXcnJLZ3pmczJMeXpEa1IwRWtvLW5YellHVnUwQ254aVpqS1ZHWEJrdmdRdEFJdGdtdUFMaDBlWXI5RDFESG54YzVUeThob0pWWWktMFF3QlJHUEE1WDJ1Tm9DVmk1aWVlSUgydw?oc=5",
+      "domain": "الشرق بلومبرغ",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
       "category": "general",
       "title": "المغرب: أطلقوا سراح الناشط رضا بن عثمان فورًا وأسقطوا جميع التُهم المنسوبة إليه - Amnesty International",
       "description": "المصدر: Amnesty International",
@@ -605,6 +587,15 @@
       "date": "Wed, 20 Apr 2022 07:00:00 GMT"
     },
     {
+      "category": "general",
+      "title": "المغرب ملاذ 9 منتخبات إفريقية لاحتضان التصفيات المؤهلة لكأس إفريقيا 2027 - العمق المغربي",
+      "description": "المصدر: العمق المغربي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95bkdTRVV4bkhZby1iMlQ3bkVCdGVFVmJnRDB2LXZ6V0xGSUU2MDNzN21KY21LRWFrc3BsYlh3RGh3eWc2VWc?oc=5",
+      "domain": "العمق المغربي",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
       "category": "sports",
       "title": "Watch 2025 Morocco Live - TOD",
       "description": "المصدر: TOD",
@@ -621,6 +612,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPSk12bWVEenp1OEFXRC13SjFVbXZrd003MDc3dDBSY0RnR2FPQko2ME5HUnFWa0FwaGlBTjAtdEY3UG1CVGFrTk9yOWVraVZsa2dxVzJjbjFOWVVvOFhDTUZla0hnSEVKbVBsSVBLa2wwMFR3NGZ1Mi1TaFE1QVVhSTYxMmp6dm1yWi1RSVZBdHVLVTFXaEVma1R4Ri1lVnA4RDJkVTAwNGpJb1RoTFpLTmU0bkZlczlfbTcwSjBlc3MtMDY3QXlhSW1aQkpRdXItV0hDNU9zQ0MyQThocFBielNnbW9wRlpWT0FuemhOaWJTQTFtbWoxT0RuM1Z2Sy1ya3BwQXk0alRRTEZPQk5JeWZuclZNZTVhdFFfcnRpbXN1RVozMHVORjdSVWNPaG5SVlZUNmtzSGN4TzJiaXU5dzk5ZkVILVNCdlU3UkhpTUtxazdFZTI5OWlYdHdHQi1VTEdYcUdmQjk5eGhvQUZpOEtVV09HUkpYQ0hyQWlEWE00WkdhU2FkWUpDMkJoWlk5ZDdiYVBsYklKOGhxd0Z6OGo1WkdVNlFpYmFJMWxBN2xFTkhzYmVGbUFkZVVlVGFUX0ltLWw1UnU2eE5vWEtIZnZna1dwMlF0dm84U0NpMm9JU2dxaG9mLUkxZFMzNnJuSk9Fek9qX1VManRZVkVJMTV3ZTVkQm51ZUozaE1CT3IyQ0RJVkJSallpS3pSM080Q1E?oc=5",
       "domain": "Goal.com",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "المغرب يتحرى هلال رمضان.. الإعلان الرسمي غادي يحسم أول أيام الشهر الفضيل - فاس نيوز",
+      "description": "المصدر: فاس نيوز",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16aEJCN0sxU25RYm83OG5pRVJVdVhHWWRYcUszTEhBcmdUbDBZUFd4WmxMTXJ3TGxxVVN0OXBwZDIxaGN4T3FSYjZ3eURGcExmUmNHTmFOcjRkYm8xMDB2M28zdlBQRW9FVWplQzdUblRHRm8?oc=5",
+      "domain": "فاس نيوز",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
     {
       "category": "sports",
