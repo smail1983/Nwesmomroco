@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T20:27:57.051466+00:00",
+  "updated_at": "2026-10-14T20:41:31.319242+00:00",
   "articles": [
     {
       "category": "business",
@@ -36,15 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2T3ZzdFdEWVc2OUd4UU4wak4za0duVEI4NE5fNW9xa29mRUk5VW5aRURsVm5JRF81aUZjeXRSRmhXdGJpQXFqSm1Qc1R4RVJwOG9J?oc=5",
       "domain": "شبكة تواصل الإخبارية",
       "date": "Wed, 30 Sep 2026 21:02:28 GMT"
-    },
-    {
-      "category": "general",
-      "title": "ترمب: آخر القوات الأمريكية تغادر العراق اليوم.. لماذا الآن؟ - inews.ma",
-      "description": "المصدر: inews.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBOdzNWTWxkUmJXYVhwdUJWdFEtbEItbk05cnJFVnVUN3JrNUZqVTlrTFoyakJjdnZqOG40Q010SGk1NHc?oc=5",
-      "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 17:48:30 GMT"
     },
     {
       "category": "sports",
@@ -462,6 +453,15 @@
     },
     {
       "category": "general",
+      "title": "وهبي يعلن تشكيل المغرب أمام هايتي.. الصيباري يقود الهجوم - بوابة أخبار اليوم الإلكترونية",
+      "description": "المصدر: بوابة أخبار اليوم الإلكترونية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPNGtRUjltVGNmLUJBZTIyWE1qc1pWZzBJLUp6MXBzeG1qakNRSTZ4WTVEREN6bm9kX3JxZDdCRV8wRHVLNDgwTjZKek5Na1FSVmxwcWlhbWhMeHRNaVB0ai1nbjQ3YzJOb2c3dXYtU2VORzhkS0dMRHdhT29IOFpZbGZDZ3BnWnQzZmZuNmM5Y29uUXJFTUF2WHhFaU9iYWJMQVk3VHF2cHQ3VENRR1lDc0RJd1IyX0JvaUFNQzFPTkh2cXRYNW5ObjlnZDBoaEEyOXZOQW5IY0hZWlk0bmtTUjRnMHFDR2N1VzFRZmxXeXpqNkd2dEprQnppRUZLMm9Ic2JQbTBmNFJrb3l5cFdwcFZyN3BycTFtcFJ5UFZKWUw5eEt4YXd4OG5KeG52ZVBwSUpmV0NndWhKVE4zbkNRNndoZ3ROQ01ka2JfcURuSDlIc2R5MU5zSHRINE9UeEpDTDJjbkZNSFNTckpjUXduUEVoMDVlMEU?oc=5",
+      "domain": "بوابة أخبار اليوم الإلكترونية",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
       "title": "ألفاريز يشارك في تعادل الأرجنتين الدراماتيكي مع المغرب - Manchester City FC",
       "description": "المصدر: Manchester City FC",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -587,15 +587,6 @@
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
-      "category": "business",
-      "title": "أسعار المستهلكين في المغرب ترتفع بعد 4 أشهر من الانخفاض - الشرق بلومبرغ",
-      "description": "المصدر: الشرق بلومبرغ",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQT1VhSFpHLWs5Y2twaEhiVjdMelpVcVhDUTFTOUR0UkNPNVk3XzBueEhFazV4S29EeWh1bllNazBSUTdUenFmYXU4dHQyand6UGc4VFZ3aFZ5SVl0bmpJZ256S3kyeC1vc24yb0VDTUwxMG5wQW9jcTBBTXhtdDZsdWlScHZSaHFpcWNrQ3d6RW0yY0JCX1F6NU5NMDdrLXpHYlVEQXNKeHRfelhONG84QzQzaTFvMzFXWUpsXzJNVklGUHNKaTFYRkJybnpPV0xEMXIxTXBBYUkyTXRGS1VEcEg4cEc4aENYR3Jrcm5EZXR4bVNjSXRtZV9UNm1RLWNnWm80eHV1U3dPY0hMb3JINEx3Rm1HUjhLTUhIbi13Ri1OTlQ1TkpDeTFnODMtM0k5TjJIVk1zSTZqVlRVQzF2SkdralNMZC1xaUROdTY4bk04OTIxMUVQQnJDR1l0aWR0WFgyT0I4NV9LM25RTWlXcnJLZ3pmczJMeXpEa1IwRWtvLW5YellHVnUwQ254aVpqS1ZHWEJrdmdRdEFJdGdtdUFMaDBlWXI5RDFESG54YzVUeThob0pWWWktMFF3QlJHUEE1WDJ1Tm9DVmk1aWVlSUgydw?oc=5",
-      "domain": "الشرق بلومبرغ",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "المغرب: أطلقوا سراح الناشط رضا بن عثمان فورًا وأسقطوا جميع التُهم المنسوبة إليه - Amnesty International",
       "description": "المصدر: Amnesty International",
@@ -629,6 +620,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNRzd5X1FFT1REUjBBOHAteTV4Y2dyenA1YUR1OGJHVU5kazBwTEFPTDdCZmh3ZWkzTWdydkZpUmVCRXBWRU1lUHJmdm1MT2tDUVRTdW1XSHR6Y1h2eUdFbVluWjFKY3BDOVkxOXZFanJqM3hiWkJPSU9DejJOZTlxVkJoOUFVNXBmRFBiM1NQSEdTM2tTeDEwWDk4SHozd3lRVGNlb0l5LVpidDBvZWFsRnJJTFNfdFlYRDE2d1B5NXlxTGs4ZHdjNVN1djJmTUFaLXNHX2JISGJ4cXVaWDVxS01wcDJBZW1xOG9ISzF4dG41enF1Y0ZQejdXX3hNX2FZTG9odGE0REZpWkNiZnFNNUJkOUtUdjU1ak9sR3RiSjF0TXkwM0lDbWs3VTFBMEMwWDRLaEdBaENaMDdKYWxxcUdnWjZKRzF6dkd6Yk9yYnVQWWhnYllB?oc=5",
       "domain": "Hespress",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "والي بنك المغرب يؤكد صمود الاقتصاد المغربي في ظل الحرب في إيران - يابلادي",
+      "description": "المصدر: يابلادي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWm04STFNSjhaSi1DNVM1TlRtRjBaOWREa0VPSUJ2OWgzclFrVTJ5M0dDdDZUZVJTLW01Q1NiZE9Vc1JjQUQ5SHo3Q0xKRHlWaENwdEFlbW85c3J0WTlPS1dyLVhXYW5IekVMSGtiVVAyWDc1cUpTc0dHTXRVZy1sMjFWRlRuUUJFbGNTUkpOYldJMG54a3YwcFRtTG5rU0RiMlViOXhjSnRHWUxBUGNrUy1RaVF5NmlKcTUwRHBENVdJdjI0OERBWDRfUktZamk2ZHpXMEF2RXlsTUZKYmVGc0hSVnhDenBPWmhMMFdMazNUNWhJRHVMZTQydFQ0VktEZ0NuQ2pYbHpnTk9MMzhZdA?oc=5",
+      "domain": "يابلادي",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
