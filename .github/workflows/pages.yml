@@ -25,14 +25,14 @@ jobs:
       - name: Fetch latest Moroccan breaking news
         run: python fetch-news.py
 
-      - name: Save generated news feed
+      - name: Save generated news feed and sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add news.json sitemap.xml
           if ! git diff --cached --quiet; then
-            git commit -m "Update Moroccan breaking news feed"
+            git commit -m "Update Moroccan news feed and sitemap"
             git push
           else
-            echo "No news feed changes."
+            echo "No news feed or sitemap changes."
           fi
