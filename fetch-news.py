@@ -3,6 +3,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from pathlib import Path
 
 # NewsMorocco focuses on Moroccan news, with extra priority for breaking
 # stories and Moroccan sports.
@@ -52,6 +53,7 @@ FEEDS = {
     ]
 }
 
+SITE_URL = "https://nwesmomroco.com"
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
 
 
@@ -151,5 +153,37 @@ with open("news.json", "w", encoding="utf-8") as f:
         "articles": articles
     }, f, ensure_ascii=False, indent=2)
 
+
+def build_sitemap():
+    """Keep the sitemap focused on first-party pages, not external RSS URLs."""
+    today = datetime.now(timezone.utc).date().isoformat()
+    urls = [
+        ("/", today),
+        ("/articles", today),
+        ("/about.html", today),
+        ("/contact.html", today),
+        ("/privacy.html", today),
+        ("/terms.html", today),
+        ("/disclaimer.html", today),
+        ("/editorial-policy.html", today),
+    ]
+
+    for path in sorted(Path(".").glob("article-*.html")):
+        urls.append((f"/{path.name}", today))
+
+    rows = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+    ]
+    for path, lastmod in urls:
+        rows.append(f"  <url><loc>{SITE_URL}{path}</loc><lastmod>{lastmod}</lastmod></url>")
+    rows.append("</urlset>")
+
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(rows) + "\n")
+
+
+build_sitemap()
 print("Fetched", len(articles), "articles.")
 print("By category:", {k: len(v) for k, v in articles_by_category.items()})
+print("Sitemap refreshed.")
