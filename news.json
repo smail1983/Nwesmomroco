@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-10-14T13:40:51.929174+00:00",
+  "updated_at": "2026-10-14T17:15:05.856687+00:00",
   "articles": [
-    {
-      "category": "business",
-      "title": "هسبريس - مُتابعة - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SVRNc2pMSC1SLVV5M3lZejFRajM4RmwyaUdUeGZVZnBWNEFzMGFZY3RiV2p3RDRzY283ZFhEMHFFdU5lUXQ1OVlUc2V1eWt1ck9PSjBxS2FQZFlUbmFaLQ?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 31 Oct 2018 17:09:26 GMT"
-    },
     {
       "category": "technology",
       "title": "إطلاق مبادرة “Morocco IT Academy” فمراكش.. تكوين كيستهدف الي كيعجبهم ومبليين بتكنولوجيا المعلوميات - كود",
@@ -228,6 +219,15 @@
     },
     {
       "category": "business",
+      "title": "إنفوجراف: أحمد المالوط.. مغربي على قمة عالم الأعمال باليابان - العين الإخبارية",
+      "description": "المصدر: العين الإخبارية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfa1Y0bzR0NnNNZm1DN3Nmd1BtWGwwbFZ4MGF3aXhOZDJSQmZVUkdkOGtNZ1JpT0FlcFhacGZwSk8zMTJiTVNNWFBfdlBkZzVNYS1jVTdBNEJYcldqb2J4ZHM3MG4?oc=5",
+      "domain": "العين الإخبارية",
+      "date": "Wed, 28 Dec 2016 08:00:00 GMT"
+    },
+    {
+      "category": "business",
       "title": "المغرب يتصدر مؤشر التصنيع في أفريقيا لأول مرة - الجزيرة نت",
       "description": "المصدر: الجزيرة نت",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -270,6 +270,15 @@
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPaF9hVmZBS18yV3lmbk10QlFKem9qWWJ5dUhmQ3VVRTFYSjRJWTVoeHlTYWZYRnE0Q0R1MmpFb0RZdF9yVXlIT0tlTHN6NXg5TENBVVo5Y2hMZ01wSlhyYXNYWEV0VjJVSVM1VWw5bWtBMFRreDNYRmtpbk9tczNuU29pLUdwSVhxUG1vdG1mWGRqeFJuaUkwMElxc1ZCVzd1MFFHUkRhXzFvQmpfQlpTb3A3bFAwc3JaQUp5dklPRWsySkFvQi1KdHFtLVBFd2tLeTYtTnY1VnBIOWFyUk9NekVuUnJoblYzY2h4SHhtTldORElkU0JwS3FaUFdIVUVMb1ZwTGkzVXVsWFdGNXFmS0hXWF9ZcmhXM05aUy1WNmZJTHhhNUkxSzdPQUlHSEVlZW1RWGF6UmY3c2pGbVE?oc=5",
       "domain": "Hespress",
       "date": "Wed, 26 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "المرصد الاقتصادي للمغرب: إعطاء الأولوية للإصلاحات من أجل تعزيز بيئة الأعمال - شتاء 2025 - مجموعة البنك الدولي",
+      "description": "المصدر: مجموعة البنك الدولي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcUdNalpmdUpaa2RRd0NyNUZqbVduNjFmXzBzWUFNSkZDakZYNDVvNm5Mdmo5dG9mdXlJVm9zcnRxV0c1aGtJbGtXdExOSEJ1OGlyN3hNeWZyWmxqSy1jUHQwUEFpOFFhbmpqcFdSZ0lVSTdSbWJEUkZPNnhjYXdoYTVMM0xTUzNHSVdMdVFPMUh5QXhRMllSekNzNE1xN2dkSy1qcExYZksyM1E1NzV4LVB0VHJBV1V1UVpHX1UxdUIyX3ZfZ0ZKei1SMWVYY3VXQmRES2pveGxuMWQ2eXZkSlVmVEVJOUE?oc=5",
+      "domain": "مجموعة البنك الدولي",
+      "date": "Wed, 26 Mar 2025 07:00:00 GMT"
     },
     {
       "category": "business",
@@ -404,15 +413,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbndFQnB3aWJLSzVhZWpXNWhMSGJGakZRVE9JV0JTODRFVGJuN1AzMVNZZERkV0dIZVhmdEtWb1JuVFNlT1ZaOGZsUWdhUjhnMTVLMDRQZlZjVnZV?oc=5",
       "domain": "Medi1news",
-      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "Tata Advanced Systems delivers 1st WhAP 8×8 armored vehicles to Morocco - Defensehere",
-      "description": "المصدر: Defensehere",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVk1ZRF8tbi1IQ1VTQS1rRlNlVkpoc0c4QUZLMk1GcTh6aTBqR0lLN3JMamFmZVlZRTlsNUpfWXY3aG1pc1dkMGk0YktqQmRZbTNTTnBDZHhOYzdhcEdrYUdxclVaaU1hMHp6NnV5WjFSc0RpbkI2MkcwOHgyMlZoTmc3SGtrQmdycC1yN1p4a29GZG9GUTRYeTVieWFPMkZt?oc=5",
-      "domain": "Defensehere",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT"
     },
     {
