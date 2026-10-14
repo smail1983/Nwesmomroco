@@ -4,35 +4,56 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
+# NewsMorocco focuses on Moroccan news, with extra priority for breaking
+# stories and Moroccan sports.
 FEEDS = {
     "sports": [
+        "عاجل الرياضة المغرب",
         "أخبار الرياضة المغرب",
+        "عاجل المنتخب المغربي",
+        "Morocco breaking sports",
         "Morocco football",
         "Raja Wydad Morocco football",
         "المنتخب المغربي كرة القدم",
         "Morocco sports"
     ],
     "general": [
-        "أخبار المغرب",
+        "عاجل المغرب",
+        "آخر أخبار المغرب عاجل",
+        "أخبار المغرب اليوم",
         "آخر أخبار المغرب",
+        "Morocco breaking news",
         "Morocco latest news",
         "Morocco Maroc news"
     ],
     "business": [
+        "عاجل اقتصاد المغرب",
+        "أخبار الاقتصاد المغربي اليوم",
         "اقتصاد المغرب",
-        "أخبار الاقتصاد المغربي",
+        "Morocco economy breaking news",
         "Morocco economy",
         "Morocco business"
     ],
     "technology": [
-        "تكنولوجيا المغرب",
+        "عاجل تكنولوجيا المغرب",
+        "تكنولوجيا المغرب اليوم",
         "أخبار التكنولوجيا المغرب",
+        "Morocco technology breaking news",
         "Morocco technology",
         "Morocco tech"
+    ],
+    "policy": [
+        "عاجل السياسة المغرب",
+        "أخبار سياسية المغرب اليوم",
+        "سياسة المغرب عاجل",
+        "Morocco politics breaking news",
+        "Morocco politics",
+        "Morocco government news"
     ]
 }
 
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
+
 
 def fetch_feed(query):
     params = urllib.parse.urlencode({
@@ -44,16 +65,18 @@ def fetch_feed(query):
     url = "https://news.google.com/rss/search?" + params
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "Mozilla/5.0 NewsMorocco/1.0"}
+        headers={"User-Agent": "Mozilla/5.0 NewsMorocco/2.0"}
     )
     with urllib.request.urlopen(req, timeout=25) as response:
         return response.read()
+
 
 def text_of(parent, tag):
     node = parent.find(tag)
     return (node.text or "").strip() if node is not None else ""
 
-# Keep a separate pool for each category so sports cannot fill all 80 slots.
+
+# Keep a separate pool for each category so one topic cannot fill the whole feed.
 articles_by_category = {category: [] for category in FEEDS}
 seen = set()
 
@@ -87,9 +110,7 @@ for category, queries in FEEDS.items():
         except Exception as exc:
             print("Warning:", category, query, exc)
 
-# Keep manually published articles in the shared feed.
-# Both the website and the app read news.json, so these items must survive
-# every automatic refresh.
+# Keep manually published NewsMorocco articles in the shared feed.
 manual_articles = []
 try:
     with open("manual-news.json", "r", encoding="utf-8") as f:
@@ -104,25 +125,20 @@ except FileNotFoundError:
 
 manual_urls = {item.get("url") for item in manual_articles}
 
-# Maximum 20 automatically fetched articles per category, then add the
-# manually published articles without allowing duplicate URLs.
+# Keep up to 20 automatically fetched stories per category.
 articles = []
 for category in FEEDS:
     items = articles_by_category[category]
     items.sort(key=lambda x: x.get("date", ""), reverse=True)
     articles.extend(items[:20])
 
-generated_urls = {item.get("url") for item in articles}
-articles = manual_articles + [
-    item for item in articles
-    if item.get("url") not in manual_urls and item.get("url") not in generated_urls.intersection(manual_urls)
-]
-
-# Keep newest items first while ensuring every manually published item is retained.
+# Remove anything already published manually.
 generated_articles = [
     item for item in articles
     if item.get("url") not in manual_urls
 ]
+
+# Keep a maximum of 80 stories while always retaining manual stories.
 articles = manual_articles + generated_articles[:max(0, 80 - len(manual_articles))]
 articles.sort(key=lambda x: x.get("date", ""), reverse=True)
 
