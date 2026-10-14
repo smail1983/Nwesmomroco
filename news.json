@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:38:14.141054+00:00",
+  "updated_at": "2026-10-14T18:03:31.978568+00:00",
   "articles": [
     {
       "category": "business",
@@ -560,15 +560,6 @@
       "date": "Wed, 21 Sep 2022 07:00:00 GMT"
     },
     {
-      "category": "sports",
-      "title": "السغروشني: \"سبورت تك\" منصة للارتقاء برقم معاملات الرياضة بالمغرب - alakhbar.press.ma",
-      "description": "المصدر: alakhbar.press.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQT21CY1pQV1gxYzYzb1NZa0NoUkNfUlJBTU1TTDdOX19TV0l1RXI4MHZkdlU0amlSWVV2YnlRRE5sSHhIZlJEWllKcXhzVi1XbjlRdTl4cVRIWkM3cHhQc3B4TURIbmZjQzRhY0Rfa2lnYk9KRjRFUmQtTzNLQ0VaSE83bXZTU0FqTUhTdHZWN3pHMWotRElRVGZBVjJyd1gtZm1LUWpLQ05yRDNyNGRjSk1ueE9oUGRuRDNZU09lTkVYdU1xUTl4Xy1XbXFKcFdBN1pNbXhQVXUyZTBTRm9TcVR5X3FsTHVMXzFMZEVqMXJJQW1abDhwdllnRTB4M1hzM3pRbXZuQnpPU25ENmo2V0FEU0szZ2VQbXRWWDhTZGZwWEtudG42UldRWXFmMGc3emlHOWZsRXp1MlYwWFYtMER2RjFwcmx2NUR5bUl0NlRQMFU?oc=5",
-      "domain": "alakhbar.press.ma",
-      "date": "Wed, 21 Jan 2026 08:00:00 GMT"
-    },
-    {
       "category": "general",
       "title": "الدار البيضاء تحتضن فعاليات الدورة الأولى لمعرض الصناعة المتقدمة والتنقل المستقبلي (WAM Morocco) - Maroc.ma",
       "description": "المصدر: Maroc.ma",
@@ -585,6 +576,15 @@
       "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxNNjI5WFI0aUp2ZlNDeDhtWFNQM1ZWLXBSdElKcTZKWHk3aE95RXZLNE1aU0I1QnU0d29PNXBfaERyakNSUVpHYmloNWhaQTZNSkVSNjJXdGpVUVlQVjl1Vnc0dDc3TGZlSEE2eTlxWXVIR0VydUd0Qzd4b2NhM0dKc2VxbUZKUzduRUJ4ZlFFc2pwNlNSLXNPZ3VuVnVLUmViY0hWd0ZTU2FQenduN2VfTHNoczBVRGo3QjhEakxPaXNwUE1WZi1Hclc2Q2pSOGE3V0RVT0xINjJaTjE2bmI2aFlCNlVNbHJ3NkhhYVN3RzlWd1YtNHZjR2xqLWtaeGRoVlgwMUNyclNLRm1COGRNQ2xjbFE4a2swb1dDV0Ffc2d0bnN3Yl9IeEFNbTExY3RkUTk1eGRKbEV4V0ZYTGl2ZDYyR3lzRThFYnRQdjNBZDNVNVZRYmJUeEdDdXludXZ3eFM5UjIyT2s4cDV4X3pUWm9jMnd4amxieGI0LTEzZzU5bXMwMDhVNjVoQjlDWDJvSmd1bm5XTy1WbTJUSTZWSTNKZlJibEZUV0R1Qk9fbDJ6QTBlTlc0bmRibHlkRC10VGdWVVlHV1pQa3BDOW1sc1dmOUkySWs3Y25qb0lOZ0w1aXExU25wVXlwOVZ6V3FTR2Z2cDR0b2MySXNEaWdJVEQtamRfV0pHR29ZVHpLekU1UXJsU3h4OWxBMjVoUkkyWGNqV0R2TjZvZDlTTmgweVlTY1owRUd0RnRUZkFRNTIxazRnZ0NqSWI5Zi0?oc=5",
       "domain": "Kooora",
       "date": "Wed, 21 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "المغرب 4 - 0 مدغشقر (٠٢‏/٠٦): مجريات المباراة، الإحصائيات، والتشكيلات، والمواجهات ، المباشرة، والقنوات الناقلة. - 365Scores",
+      "description": "المصدر: 365Scores",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxuSDM3T1RGSFlPSmJDN1plZjQwV0FGMGgycks5SXBnbXlqbHNReXE5SVRnQVF2N2x2QnBRTU4tR0tfWmNieWNRcTBUVF9mVzFZMkdvZXZLbjROWkpudEdpcWhiaE9wZHloUEVGbGlaS0Y4ZnR0SF9iT2NOdkJwbFgwMl8xbmN3aXhBRjlxNFpaMHRWTDAxdHR3Tm05R2pwVVZSeHlR?oc=5",
+      "domain": "365Scores",
+      "date": "Wed, 20 May 2026 15:24:58 GMT"
     },
     {
       "category": "sports",
