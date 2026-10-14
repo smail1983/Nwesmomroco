@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:52:59.258047+00:00",
+  "updated_at": "2026-10-14T07:33:24.424692+00:00",
   "articles": [
     {
       "category": "business",
@@ -219,15 +219,6 @@
     },
     {
       "category": "technology",
-      "title": "أسواق الجملة بالمغرب.. “جيل جديد” يقطع مع العشوائية ويعتمد التكنولوجيا لضبط المسارات - العمق المغربي",
-      "description": "المصدر: العمق المغربي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSNEhtQ3Z1R0ppdWJuMmY1UUQ3VjZkNVRPZVhtR1FQWkFISnptNmJRTVJpZFM4LVY3XzJTVkZsUjJqNEx2SkE?oc=5",
-      "domain": "العمق المغربي",
-      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
       "title": "جهة سوس ماسة تنظم النسخة التاسعة لأكبر اجتماع لمطوري تكنولوجيا المعلومات في إفريقيا و الشرق الأوسط - التجمع الوطني للأحرار",
       "description": "المصدر: التجمع الوطني للأحرار",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -344,12 +335,30 @@
       "date": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
     {
+      "category": "technology",
+      "title": "\"المخترع الصغير\" يدهش المغاربة بابتكاراته - سكاي نيوز عربية",
+      "description": "المصدر: سكاي نيوز عربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOM2U4UWFwU3J5SmhLU1JsX3A1MXhTODVXeEEwck5leVl4dHZ1VGNUcmthUTctUk9oa01VYXF3STI4UlhmNm94M09mRkxvMG1Yc05HOUJWQmp5S1JxMG1xU2syNGcyNl81YUVxYk9jT1JVdkRncFI4YlBHMEUtRnZKUlRoRW5WMk9sd09XVjVZekR4aVZtRUw3RjV4Y0c0TGk2Xzk2d1BHZjVqZXBMMnR2aDFoeFlScVRaSXhZbFgyc0c4UXRwMjJjQU5xLTdhNjlyWXBBYi1pSy02V3Y5T2ZwZVlibFUyaWFpZ2l6NTJfTWgwY2FpSVp0YUdGeXJHSDhtWXJ4NE5UeTJ0QThvY1dMSmE1X3ZISE9iYlZIeWVmd0hjQUdZUkRnZnd5X0VqMjlrcVZhaV96UkUyZWdkNmZydXctd3V4R1gyd0tFOUNkX0RieGFNLXJLekpZSlk4WmM1aHR6SERWMVhUY1dGd01VRElYV3JOVGN1TEN30gGAA0FVX3lxTE9OT0FOSHRTR1I0Skg3dVIzSDZheFdtMlNSLWY2aEI3eV9MZV91QWhBQmhDSU41OGozN0NqbXdPODVXZEF4eWhfVzdJT19NVzVyYk1XZlVkNHMzaXZma3RQRk9felhCT0VUeHM1ekpBZFBwVGZTWVRkRjNyNmlSSHN6bUJ4dVNmVVB2dzhXZXZucC1KRUVTOVBtWUxsd2VrcmxmVDRrTnJzNzB2UGdENUM5elk1U3M0dnJxanYyYmh4VGZqeTU0dUE1RE1ncE9YS2NVQWNnODlkUHVMcmJGNXlObDRfVVFhdDNYLWJJLW8wZmV0anIyb0ZxM3RiZHE5UUUwZ0pMd1lTVmxENE9VU2NPOXR2VWFUWUxEZ0NIZ2tWTTVleHNHRHcteUVEVk1LRm1mUUE0VTM5cVhQZ0NGQmg2WWQ1ZzFBeVRXTk5XQ1lhbURVcGVJT205SnB6NU5UM1ZSTml6aE1XUjJEMjVxWG5YNjVoNGI2aWc5NjNKUjZUbA?oc=5",
+      "domain": "سكاي نيوز عربية",
+      "date": "Wed, 24 Mar 2021 07:00:00 GMT"
+    },
+    {
       "category": "sports",
       "title": "بث مباشر الرياضية المغربية Tnt.. مشاهدة القناة الناقلة لمباراة المغرب وهايتي - 365Scores",
       "description": "المصدر: 365Scores",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQQlRMdGVfU01BdnlVOGUxWTVSUWYwdGozRFBCLWQ5NnNqdHI0b21aR1lyWF9ZclQ2Tl81UURlMzVRcW1uLW9hLWlYSjRFd1JsdEhvWGlEWFUxdTdKUUQxLUtzZXNnUk1GZEtacjdnZWxabm14NnRmTDRfdDBxVi0wekk4QU9VeXRzRDdfcUZWTEI0WHpiRkpkNnZ0OVpET2dhQ0tyVzZ6c3ktMUNkLUpPT1hwRXdsdXlhMmp0T3RHTENGTkJsZVZoV0s4VTlTbEF3bkVkUGFtMDVLczR5MXEzQjcwWVdYU194c1huZ3ROVHl2U1VUcVJwNTJGbUk1RV9GN0FUa1h6WElQRmFMOUpteTFSbG1DTmZJcGRZeVAyNVFxb1BUSW5TSm1BQkoyVHFjV0pwdmxGQWZFbzNYZHowNFRB?oc=5",
       "domain": "365Scores",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "الموعد والقنوات الناقلة لمبارة المغرب وهايتي في كأس العالم - LeSiteinfo.com",
+      "description": "المصدر: LeSiteinfo.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTVVWWThVNy1lS1paUU4ydnZkYzdwWkU2SlRSMEItc2FHYkxhN1lRWmtFdDQ1WnUzUUJSQzdOb203M0lBWjdwN0xidFdBS1V5VHRzeWt1bTFuMFB1MXlpcnctTVFLVk9tR2tGSmtTbkhYZ3J5ZnF6aTJrdjdQMWJuRUxROURPMDRZa1loMWhDcklSVlVrU2tyYi1TZ3J4dWZuQjZ0eGlob3h2RGpXeXpWTGkzUG9FRVFnb1ZZSk5BZHdta05nWmRpMXdYdV9QUHRvcFYta1hnQ2R4eDZpcnFfRElsWUNxcHJ4Ui16RHZRV00yUzBrLTF0VUhuc004aWtYek1kdGo5YXVxa0dKZ2dwUk12Y3dKTGhlQ29iVzVoV2ZXUFJRaXIybEpTT2ZLdDdOdExEY1MzR1lBdlg1MHpsRnRFZS10ZWhFUkNuSWdLcXVEY1h0YUk3d1FDbGJJQQ?oc=5",
+      "domain": "LeSiteinfo.com",
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
@@ -621,15 +630,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPQUExLUdkaDliOEs5U0M4bHJlODZLTWhXeEhsa3BtRF9JamJRVVg1RnN0M0o0bWE0RW1DVzVHaHhkbjF3OEpsQmwxRFhVN2k0djJrbG0wMThER2k1UEJhRjBabkF1bVc0c3lQMW9qcGdGbkQtSDJ2WThiS2swVFNsbW5SLVVveXVSdF9VNjY5a00wSFdfNXN2MEQ5V1VwYXBObVRDQm9BVExJT3VSZjBXdHVjVVlJRVN3RGNjSG04dnUxMFI3Qno1U3ZPSzU3enNIRzdjMmVFejRVMF9ZVFF0dVltNEpNWUd2ekJCLXZIbGN6MDF4MWNHcWxsbEFFajZENWF2Y1BVdDNqRjF2QUQycWpkYkE0WUlfZi1PUElqRy1xcVo2QzJwVDJycm95ZXc5T1Atems2YWdsUnc0T0YyRFJzX2kycUwyT25YSDhkRGZIWUhsOTlQMGgwOUdkQzBaRlNUNUk0NzY2SkYyZ2dCbTVBRnVIRTVlWnNCQ2N0VTdtMVJkTEdkb3dfOWdyeWZSQzFreGtrNDJqcnUwRzBhOC1adWE0VUZsTmFjVlIxSnFYTnhEUm53Nm5lTHpMVTgyVG1vc2lBbDBSSmdldzd2RVNhMkNnbENaTVBNcFktaU1Qdw?oc=5",
       "domain": "Kooora",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "ريد بُل وينغز كاب - Red Bull",
-      "description": "المصدر: Red Bull",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvdGpmVDBFWHFhMGFoSVJxMnc2anRYRWtJZUhESUx5cUFzUm5kRFhzYm9FYnhhc1haa1RGU0VwQzA3RGVBamk4WUFnUEl2SFFxeU5sNVE3QUgyci12QUZGMFVzeXczWGJJMjBZMThfVWJncGluM1dGdA?oc=5",
-      "domain": "Red Bull",
-      "date": "Wed, 16 Sep 2026 09:45:09 GMT"
     },
     {
       "category": "general",
