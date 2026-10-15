@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T20:11:20.810282+00:00",
+  "updated_at": "2026-10-15T21:20:40.537525+00:00",
   "articles": [
     {
       "category": "business",
@@ -92,7 +92,7 @@
       "date": "Wed, 30 Sep 2026 13:40:34 GMT"
     },
     {
-      "category": "general",
+      "category": "sports",
       "title": "عاجل: محكمة التحكيم الرياضي تنظر في ملف نهائي كان 2025 بأبواب مغلقة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -180,6 +180,15 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb3AzZHF3ODVqSjhjd0JQckdudHc2QlhCMGMwd0RwSTBZTUZlZFFNTkdKQ3BNcE5uVVdFMS1SSXZvWU51OUUxSktYSVluTnN6cEl0QkFhWlFOVkVqQ3p3UkU2NW1rMmdhWG44U3ZnYWt1eS1fYlF5bTMzRGVDcnlpYXd3N19xWGtLMGlrWmNIM09UbUJYdEItV2l4RTVzQmREeG9FdkkwR082bkVfZG5ZSmpSVW9wNFAwTmdYalRpMTFFdXdCZmN0S2NtZTJnV05wNldnYjh2alNQWjBtaWJ5WjBzWS1kQkN2bUdWVjAtRW9ZQ3BCdHdxc1NWLXBMZ2tOYmZDaHFyMWMyZW1RQzR3em1JNDd3WmVha2lCeW80N3VYM0lSX0hmSzRaNTFsNzQ?oc=5",
       "domain": "Hespress",
       "date": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "بن عمر: المغرب نموذج إقليمي للنجاح في تبني الذكاء الاصطناعي - مدار21",
+      "description": "المصدر: مدار21",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTekhPNWFnWXlwNldjZGZEUHJEaEFtSTlmbkRMMmhjeEp5RVVRallzN2FKeFVjcGtGU0t2ZlhwNGlWQi1ocFE?oc=5",
+      "domain": "مدار21",
+      "date": "Wed, 30 Sep 2026 01:05:04 GMT"
     },
     {
       "category": "sports",
@@ -317,15 +326,6 @@
       "date": "Wed, 26 Jul 2023 07:00:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "عاجل: المغرب قرر بشكل رسمي إلغاء أضحية عيد الأضحى لهذه السنة - Tuniscope",
-      "description": "المصدر: Tuniscope",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDB0OUVvekJ2YkoyYVItUWNTbmRCSkRWV1VSWHBBOGMxNlJZbmxzNk9EZndyT2c5VGgzZ0RXbzljQ3c3TzBzUF9HVllfNHdnVENwZXNwdGF1WHI2ZVBnWVplS2kwb2VsdEVZUVhESVJsZGtzdXNFVjhwOUhpNFU3NF9R?oc=5",
-      "domain": "Tuniscope",
-      "date": "Wed, 26 Feb 2025 08:00:00 GMT"
-    },
-    {
       "category": "business",
       "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - العمق المغربي",
       "description": "المصدر: العمق المغربي",
@@ -426,6 +426,15 @@
     },
     {
       "category": "sports",
+      "title": "اجتماع عاجل بين دونيس ولاعبي السعودية قبل مواجهة الرأس الأخضر - 365Scores",
+      "description": "المصدر: 365Scores",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPR0dQSUNKbkEwUWQyOTJkZlF4eUxDS25nMjY2UWVZQWgwaWl2MWN1QXVYXzI4UW0tWG9BQVM3STAtaXJYTUl5UndxRERaMEF3eXFtZFc2aDIxejZUd0gtWXI1d0NmMzdGN3Zza2lkSEduQ205cTBUUjlrbTBuamRtOEExckRqTmlBNVBQSGxwcmEzbkVfaURqZHAyWVRXXzhOcDNOTU51VDBpT2drWlhPVjQ3M0h2X3ZvekFIbmFKZTY4aGt5dk5lM1FQempQWW5SRkFVczEtakdrUG9qeGJFVE9hSXZ2NGx3QXF3dTJlYUw1U0FZTm9mV2RQYnpGRlZfMlFJUzd2OXRfa29lVmhCcDlBRFBhQUZTOXJPcHBLTUQ3VnNVQkdJblBpZ0M5NXUxc1ZIOE1abVl0U2JjNnJTZHlQTTBBTWFsSlJ6MzdIaWpTZGZLVUVWdF9jbFBmdw?oc=5",
+      "domain": "365Scores",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "sports",
       "title": "نتائج مباريات المجموعة الثالثة من كأس العالم 2026: المغرب 4-2 هايتي: صنع سايباري التاريخ حيث حقق المغرب عودة مثيرة ضد هايتي للتأهل إلى الدور التالي. - Vietnam.vn",
       "description": "المصدر: Vietnam.vn",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -439,24 +448,6 @@
       "description": "المصدر: Kooora",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNQ0JJcWdOYkpYQV94LWl5ZkhnNHBWSVlwWFl0dUMxdDRUT0dMZFFGT29henB5a0pNRDhsTXhSMW1KNW1PWjFJMGYzbXRXWS1HMGMxLVhMeHFWM2hieUxUbmxWalNfcUxhSnZoR2pqcUp6NzAzXzB2c2FFRUhKMk14UUM3YTBPcFBvQzdmME5nUS1kUUdWSC1yaDRyaFM5SG0yV2xVdzZuSVN6ZFhIb1hSQU04N1A2Z1BQa1Jya0ctNzhNY0VNdWtiTXZyRXpKSEtRUWRZaWVKaVFNWGVKSlhYRUxGbmhwaUdobXp1ZXltdnNGUGtVS0V3STJBa0hmeUlSX0ZRalBUc2oweHlEaXBJdFlhVjZFeElYMHJlNWRHenFFS3BzSE0wQlVlMUxwRk9Va3RjclEtblV1Y3ZyQTc4Z1RnLTJxM3RxZDBudXFsTlByMDIyeHRtdUtDMEoxS09DdHF0ZXVqa1o5N2VHbFp3S1d3NGdhU0tjbWFhSVBHclh4YUhhWmFqTUpjTkp4a3BVdUNCNmdJeklxS1VScUUxaGMzRW9ra1JPMW8zNWZSSEhfaHZzeHR3eDZxWU5Kd09ZalhBRVFETmFJd1RHNW9POXZyTGJPd2tVMFJQYTA0emw1M3VYY2Y0TXNDYXYtN2k3aWdwOGZPLWE5NTdBc1VNbHJFb05EUDhjMHhvOGpzQTB3dW9WOHRvcDdWQVU0bFliOFZ3QVQ4b1dVSWNNQ09UdHpSN3hjM0RfYzNaSjA2ZzFJUHo4U3hzcnNFVlFGZjNtRlFuQkdfZmNDbThXNmJkS05WNnRqRlRZODI1NzFVSktyT2FqTnZhMnVtNWRSWGs?oc=5",
-      "domain": "Kooora",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "ملخص وأهداف مباراة المغرب ضد هايتي في كأس العالم 2026 - annahar.com",
-      "description": "المصدر: annahar.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQX2l5WWR5bUd1Sk9DV2RoYzd1bi1qSG8tUEJNVHFoMGpFcDhjcmFEWG9DQnIwOFJZd0tlaDc2U3dIZDZFeWJFQzFSMFNsaUs5NWNoeWIyVW95eTJ3bjJsYmJmMExyX3BzSXd1eTlpVElQSjlEdGhnOHZiUHF6MmVBRFhPUjE0ZmZGM01aVmI2R1BuSkJ6Ymo1MXUtRkxxTlpURTdCdEJxaUxwWFpMNW9pTmhVZzZGdlVvMG5zeW00V2s0eUtFa1dneVJIUXhNcTJFY25FVWFZYkhvR0dUTmNBNVpXRWhnYm5oQTNzY2kwSHNoUVNIdmtob2xEOUNLdUp2Mms3YzE5dW51QVFFUFVhV0pxdU9DTUNvWlBmWWVpa0JzNEVJa1otVnMyLUE0dVFLS0xvc2RFNlFmbUJPOTJZOTNqRHRhWHpOUGRRdHI5cmtCNzZ4Y1JTS2w3MmdrazVaak9BUGtORFo1cjJSMjh1ZXU1RW1pZFBoYnVjWE1WOFp2NFk1Y0xsQUUzVnFXdWN4?oc=5",
-      "domain": "annahar.com",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
-      "title": "جدول مباريات اليوم الخميس 25 يونيو 2026 في كأس العالم ..القنوات الناقلة والمعلقين - Kooora",
-      "description": "المصدر: Kooora",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNNUtwM1g5X0lmZDAwYXZ4YTNyWVMzVFJxT3pQQUR5V29oTWNVdGNHTVc2cFNrUFR3aHRFbUI2RUJWa2xSQXBWWE9jTzhzSk9Tci1rQ0FzNFloX0stakxQYms2R3ctbWxsVzFWekhKYWhha1hiem9aQklWSzNrVzlFUmpIZUp0YXBjb05yWHVHZnBQUEJoQjR0VWVjdVFSVVdROVlKXzdIbHIySnVaVEtlcUFwUTZoVW1OVTcxTXJfZ1dtd0x5Vjl6N3NrbXUtWEt5WFBfak1NWHBpSXdleUJ3VFRlWlk5dE91ZXFzZnZJUVVLMm5CZnY5X1ZGbkRJMG1XWDRNYjQ4TklXaHlwd0s0QUlkWUExR1dGTkQwVVE2XzBqTWw0RUhsR0g4MGVxRTdTWFhEQzRjNnVISFhyTFk4d043NTd2eGs2YzhEbXlNZmFFaW8zRDRIZXRwRXNOX3FZSHMxQU1XaU85WVdFZU9hYjVNdnB6Tkk0bWdZX3l6amx5VTJ5YWNfN0tpYnk2U2lZUV9BZHptQ0Q3djVwcWF2ek9sSUxpdWxrRnNyVXZBb3B2Um9USHBXbmxXYWpBdXRteE12VzlrYy1fRHpwVzFIZl9MV1psbEZ6S2pZbXVnNTBhTlhXdG54Mm1Lay1wcnU3NWVhaHlyR3N0YkVHcFlGbERMcV9ub0taVU9GRENlTEk0dWM2WlBjeVN0eGc1Q3k5SUJjMXhaLXFmZEpfQW9zZ292dHEyT25HSWNNeVhiZ3h3OUZwUTA1YnV5Zjg4Y2RpenNMUFRNNTFVN1F2Y01LYnB5bmpRQVNNQWZfUGNUOV81eVBJVTgwX2lLZXNqV2JCQjlHREszNWZTTEM0NGFsVWVTQnFZQ3h1cTVPbHFqSE04ZUVWX1lYbGxFZlFwQ3c1RDJoR2p4QmdsaDA?oc=5",
       "domain": "Kooora",
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
@@ -557,6 +548,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbW1vcHZQQkRIeXFxVzJ5NnAyZjJ5UFlKZmtiLWthSWdwUTFKcFlCaEdSQ09mMGhmWUJnNnVrNEE5emJuR2pCaDJiTDQ0N2U1Rl9vN2NPcUxIT3pvOGp0OGNkSjRUdG8yZUFERW9CcG90ODBTQk02bjlabGlEaEZZMF96RmMtNzN4NFc1QnZxcUFJTW5HWHFEWi1CZ0ZlRUI1b3JTaUxuR1hTVXNXVnJHZng1UzBtUi1jWmVNdVFtWGRzaVlIZVlmckJNOVhqcWgzX3hRNXdOMkVlaVZBbG1lXzRreWl4YldwMWlGS0RmSWRQM3Vyd21PZXRrZHNPdWtfMnpDdDhwcWZOUFpka3VmOHBEYw?oc=5",
       "domain": "Hespress",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "معركة الـ395 مقعدا.. المغرب يختار برلمانه الجديد - سكاي نيوز عربية",
+      "description": "المصدر: سكاي نيوز عربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQeVV6d0xEd2dlNXpkSUhZbFhkX3dlQS1qY0dBUFRVWkVTZ3AwdFZKOGZGZ3FoY1pPUUI5cDZDdUY1NEtmNll6TGJTR0VkNmw1RmlESW1LcF9OdFhZOUR6WjA4NXE2MzB1M05XZDJxTHlveGREZUJGa2FSUUlKX1pxMGdzZTk4V1NjcXZKbGs4Q0dfRzVIWnV3ZERQTVA1cllSZnpjRDN6MlpPdll4bEd5bEsyeEpIcFdZVWlMRkp1NXhmcnh0UFVMS2lrOGVaVmtKTmJTb3EyR3NkQ2w1SU04SmVhYWpNMC1ES0g4RHpqalpETFBsMmJUQXJTYkNpSDZYMnEySEUzandYSDZEYVU4dHg5dHdtUnBBVEdHYjlfekpHb01zaVF1c3dFTzVFa2NHRmVIM3p5aEtObWxwckdCeVdEX1dzRi1NMzA3WGhWdkRiSlpucWM3N3lvMDVDS2NIeWYtR2xhOXVMQ182WjdaZmJTTDlSMzZ2SmNBSHBTRFYyQzhOenJMV19mc9IBkANBVV95cUxQdEtDMV9vRldEOHNKN2pMUGpNVjdjMUFGSTdpQU9pbTV4X0xDN3JiMmY5MzRRQk9fQUpmc1lDS3lQalhqOVJ1MnZlNGJuX0I5WXdKb0oyYnZDYXlyNXVtbElKdU5YWW4zYi1PVm9YVDY2aUE2VndBQVFTNkRwZ21PRUlpeXBFRW90SVU2Q2FfeDNpT3haMTItNXJpbFdUSnFkTndIeV81SkhmTE9rc3FsdWZWdmpIRUowSXJOY1JYak9iZzZseDJmdk9GUGpJTTBRaVFUNHR5SS11RS1GaE5hZXdqNjJKMTQ0R183MTZtNTdpSVBvWmdHODVsN1lXeHB6WG5mVlliYkxyZ1czZW5yMTdib2xTdTNoYWMwTGZKQV96c1ZjSXAwVjk1clFQeXcxaFJSdFlzZVhlWHZTcS10eWxQWXlFeTc0eTJxOE00RTR2ZWRKaTRYOXVfSUtfU19FWFZPMktVRTc2N3RzUzlnaG9oVjJMYmpJY0ZPczdBdFVpNkc0Yk0yMi1xd3UyMkR1?oc=5",
+      "domain": "سكاي نيوز عربية",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
