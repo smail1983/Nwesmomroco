@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T16:35:51.885498+00:00",
+  "updated_at": "2026-10-16T17:36:46.580495+00:00",
   "articles": [
     {
       "category": "business",
@@ -36,15 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOT0NlcUZVaGhsNkZvbWVxenRNMl9Ndi1jOFo0OUNpRHl1TjBSSU5MWWpkXzFLSFN4V2l3WjJVVUdtcHVuU1pyYVVzcjZITm42RFAzQzVyX0ZjLWNZY3NqNHhMVHI1cE9ZejgxLWo0d3Z2SUJfUFJLUmJUTTJ0WEkwLXBCRi0xanhEZEFJUFFoREp6OUxqYmM4QkxhaVB4VlJERUd0RTdkemRTemFydTFoSGp4anRUaWFFS0huUmlrY3JUMDdzVURoX0Vua2UzcUhUd0pVME5SU2dIMi1zTXVzYTJLQkotNG1GUGk3NzFNa3c4c29HUTZCdEQ4eENiQzFrRXRlcGV5TDBXQVMzblpfNkdJdHkyeVV6dHlvV29XQ2wzYTIx?oc=5",
       "domain": "Hespress",
       "date": "Wed, 31 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "وصل إلى 4%.. 5 أسباب لتباطؤ نمو الاقتصاد المغربي - شبكة تواصل الإخبارية",
-      "description": "المصدر: شبكة تواصل الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2T3ZzdFdEWVc2OUd4UU4wak4za0duVEI4NE5fNW9xa29mRUk5VW5aRURsVm5JRF81aUZjeXRSRmhXdGJpQXFqSm1Qc1R4RVJwOG9J?oc=5",
-      "domain": "شبكة تواصل الإخبارية",
-      "date": "Wed, 30 Sep 2026 21:02:28 GMT"
     },
     {
       "category": "sports",
@@ -92,31 +83,13 @@
       "date": "Wed, 30 Sep 2026 13:40:34 GMT"
     },
     {
-      "category": "sports",
+      "category": "general",
       "title": "عاجل: محكمة التحكيم الرياضي تنظر في ملف نهائي كان 2025 بأبواب مغلقة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE11VkhOVVdCOWdGbDI2VE0wMHZ1cG5VMGdMREhhNEE4Y0JnOU9sNG5PX0tMNnB4N0pYdUIwTFl6SlNyOU0?oc=5",
       "domain": "inews.ma",
       "date": "Wed, 30 Sep 2026 12:28:38 GMT"
-    },
-    {
-      "category": "business",
-      "title": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.1% وسط تقلبات الأسواق - شبكة تواصل الإخبارية",
-      "description": "المصدر: شبكة تواصل الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzRXFMaEItTVVqNTBMVkVrdHZFeE5FMXcyUldacVB1WXhzVXh0aS1PZTFnaGdqeXFzN3VuTElUODI1WDU5NF9IdjVjZlVDUExHMEpB?oc=5",
-      "domain": "شبكة تواصل الإخبارية",
-      "date": "Wed, 30 Sep 2026 12:26:29 GMT"
-    },
-    {
-      "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4% خلال 2026 - Attasiaa",
-      "description": "المصدر: Attasiaa",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSEhsQ19ydG9YN0ZqMERDaFJKcklGODQyV1ktQ3p2U2lmV25pQUNDU01ha2ZYbS1lOVBRM1FqQ2h1dkRQUjBCUWlxemhxMUJGZmpPTEtRVEtRbXYzX1FGNDVDMDBXRktTWDlKV0h6YXFjM2dRcnhVQi1PT3NhWVVkbDFqRHlIM1FVRVJUYW5qcXhETktwd2pVNUl4X2lqYlNOazlmQXpTemkxamZGNXU3T0I0THNnN3ozZ2xubXlKTzVhbVN5R1B1a1BydDV3RFQ2ZXhPcnN1VEh0cTlKQ2tFN2FvNmY3ZHY5YVlUQ3ZoQnI4dnhpZkF0S0FDRTF2enRSRHF5RS1EQmRnSWZOMkJZSzd0STJrQ19pZzNqRlVNcUVMdFlRbmtmek1SN2JoeGMwTXlTWnFTTndMUFdmUGROSHZB?oc=5",
-      "domain": "Attasiaa",
-      "date": "Wed, 30 Sep 2026 11:34:40 GMT"
     },
     {
       "category": "general",
@@ -170,15 +143,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPdV85SEZnbDFISGUzR3NNbF9CdnJHU3Y3RHJSNlJrUmU0cjdfQ3pQQVRvbWZwdlh5c25yUzFyZTZWX0p1VGdFbWhlRFFsM2ktRklWMnlTM0lCbEdWNHExc05WaGVtWk43aERaYUFuWjI3UmU5YnhldVhDNHRuOVg1aXpOeEpNTjh3TzBxcDFULWdjWHFtUnlnY2FKOUF0SGtJQVFoOWhET3BCR2JsRnNSTDZQcmpOWWZEZ244UTlseFVPUXg0X0F5dC1ENlJZVGFJU2VKRkw5UWNtNFREQXRjdzIxVEFTSUN6SjhGR3hHNHk5VGZjZEFCdWJSMi1hS21lOXFCaFdDeWxPeEJ3MmxRN21PbzZGcmFULTJZT3JtWVJvTjdpWHBRejJDdkVSNVZwRklibmFET0pmaWxIYUV4ZG1RSlhZVDlSaWlpazJVbldWNVBLZlVna25aVHpwV1JIbXFJNjFDeWtueTFDNjVaVUNoalR6bEptaDdFTnh5MmdhTXE1V0VfMXBqNmFZTGFrandGOE1tRVh4VUxuZTZfUnJFM0liQVQ1bXg0LVlsalNKUE1Y0gG6A0FVX3lxTFBDamQwTkhaZEc2TmhGbGV0WUMybmEwOXB4Z2tkaTRNaXFzRVRnOXB6cU5wdUczUlU1djZmSUtQRE9McFJfUmR6TXNWMXdkNUhYV3A0TlVFbXE0ZVQtOW9DRHBPb2FrM1VWQ1dOMEhhdDFFanQtSTA3V3Y3TjNneU1ldnM2VzhrSk90MXVNcmRoOUZzRktmSFJDUllVQVREdC1OaFlDQUd2NG5WMlR1dUdxZFV4aktNTGVVVnEwQ3ByeWI1U0dJMVowZUxJRmc4T0Nfd3hwTjhPV0EyMUM2aUw3dE54RWpNQk1EOERfQ0I3akJkZUZUSzhZU0V0MGM0VHZDV043dk9VSmV2bTB1NVFDblQzZ2hVTnBQa3VWa2ZhYzlRRV9sU2V0Q0ZTeHA4VVRidDU3RWtIQXZYQzJpUUZsUFU4V2FHektOTUZ6bHdGZVJaVDFMQ0x6eWg1REs3clR1Tk9yYkphVlJWOUlMQVBGdk9mWUs4U0l1T2YyVWRvSUZRREp4WjE4bGFBSUJ5M1RDZHFGR0NMMmtsd3gxVDJyNHRPVWpWRmU5NkVOelNUZVlWWFVFd2dlSEE?oc=5",
       "domain": "العربية",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "نمو الاقتصاد المغربي يتباطأ إلى 4 % - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb3AzZHF3ODVqSjhjd0JQckdudHc2QlhCMGMwd0RwSTBZTUZlZFFNTkdKQ3BNcE5uVVdFMS1SSXZvWU51OUUxSktYSVluTnN6cEl0QkFhWlFOVkVqQ3p3UkU2NW1rMmdhWG44U3ZnYWt1eS1fYlF5bTMzRGVDcnlpYXd3N19xWGtLMGlrWmNIM09UbUJYdEItV2l4RTVzQmREeG9FdkkwR082bkVfZG5ZSmpSVW9wNFAwTmdYalRpMTFFdXdCZmN0S2NtZTJnV05wNldnYjh2alNQWjBtaWJ5WjBzWS1kQkN2bUdWVjAtRW9ZQ3BCdHdxc1NWLXBMZ2tOYmZDaHFyMWMyZW1RQzR3em1JNDd3WmVha2lCeW80N3VYM0lSX0hmSzRaNTFsNzQ?oc=5",
-      "domain": "Hespress",
       "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     },
     {
@@ -264,15 +228,6 @@
     },
     {
       "category": "technology",
-      "title": "اكتشاف ديناصور \"غريب\" عاش في المغرب قبل ملايين السنين - سكاي نيوز عربية",
-      "description": "المصدر: سكاي نيوز عربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNWdDekkyYVJOQktMbWxXUFRMbWExYkRSal9FNGJnTXB4VHRBTlV3al9hS1RoNmw5c2hqNmhPOHdweFo1cGxKVExVenZEM3FnRnd2UGY3OUczSVc0NW00VXhWaDNRM2daOWdNamFILXN4SklJMGw2QklnSk9jXzRxSVM4c2pINE5TNkgyVEs2OTFvZnZUZU05b09ENEVhMUZ5a21OQnpxR0w4MW44ekpiaFdNTWQ5eGVyaWRxNDNFVVdiVzlyc0MzWnI4Q2ZPakJPY2l2Y1dzZlU2aTJQR2xYeGNieGZmSmZiTHFQRXczdVdLZjB6OTIyYzhZQWpfRjJWSEMwR0VrRUlGTEFfa1QwMTRPVGRBNl9UZkppaF9vWTl1WE1DLTBUa2F0Q1haYWl0eDlOZDA2RzhRREJRN3RYdG9DaXgxQmZQNVllT3BSSjY5bHJacWJSdzA5TTcyODRXdlZPcThwVllta0RWQk01Mmd6eHhiRDhQNnZaMmlGOU93WTdGZUVITFBXQ0tQeHAzRlViUmdn0gGbA0FVX3lxTE9VcklfWnlzcXRJLXhBV0JXV1hhSGRsbkhCUkRnTnZGTTNyQ2F4U2t6aWlRbU5saXV2bGd5aWFhR015WDNvUVg3MHRhUzQ3NkdMY2RhMHhYbGxSVlB2UUZ0TWZyejFad2FNREZRX25XZlJJeTV3OEM4MjdQYTVTQ3M2Y1pBSTM0N1BHSVhQUlZHYy1ZeldPdXZYcTUwUV9nc3EwLW9lcWVZZHpUZTZnR1AyLW9IZHFrOWQxMmtHOHRfVjQ5ZzZiM3JuYk5uT0ZUN3ZvWldaOFhMNXF6N1M4eGp3Y0dnLWpHdy0wLUlSUnpIOWt1WXpGWk9QcnM3U0RKcVdUeG9wTENxcGc1R09ycTg0a2VfXzAxbnhlQjRMVDV4NG9PbEpzNDVaZWNvLTE0Z0szb2JLYW9kWHdXaVBvd2R4Z0drLXgyb2d2QW5NNnZVN0VmUTg0czJERGR4T3pSYldXVmNqMUd5RDBxR01IWWFlektVd0VRbjl2WWwzVGs3QUpWVHJfQTlFWUVhdHNfcy05QWxyOTktUlQ0WQ?oc=5",
-      "domain": "سكاي نيوز عربية",
-      "date": "Wed, 27 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
       "title": "المغرب يعزز مكانته كأحد أكبر أسواق الأمن السيبراني ربحا في المنطقة - برلمان.كوم",
       "description": "المصدر: برلمان.كوم",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -332,6 +287,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxOY1hMTzRqUEVIMGdaMXpuSVQzSDJmUWRMWEtYT1Jfdnc1N3oyY1JOVTBqRVRvZTVUNUJ2alBEWkVzTzJiR3FGNkNxSU1BOE1iM2t6bFJlNGVTZGN0SDREZ3cxV2tjSkNjMVhtN0xEa19PYmxUMG5GTGZFa0dpWGEya0VpZ2NGaUx0V1A5UWMwUFlmZ21GRU1abUlUeVhucU04cHZheTlpNkc5cGtuTmtLMkxxVkRhVDZNRmo2OVFCZFVtTW4wVEMzblpSSUdFYVRHck9LOEhFNExQU1U5MXBiOUdtUWFab2FaWEdHTWxZTExYQk1KM0stb00yUzJabWtTLWdNSXVqOFppMEZkWWVsVVZtb3lVVWg0elFETzZDb0tSTkNlVVlkYkppWDRkYUJRemhDLV9LaVRwZzY5bENFWWZSckZMWW5iemQtT3lWM2pnVnhROEJ1c001LTJiZ18xMmI3TmZJQ25FNVNxd1dGbmpfY1NuVlVGT1VIWGR4Z05Ma2NnbXMwelhxWDNZamEzak9aUEY2Qjc3LXRRalFxM3lXOUtVWDlfTGhfNERfY3R2TWRGRC01SkFIMlJ2MGExX1pHSGZFcnU3ekVNRUVRRHRjaU82Q3JVM0tPSllhbUIzY3JSUjdYY3BDM0JMRUlEY0lBck9ZeXp5QTFyM1VielFhTWJnVU1sRGJ1NUZGdnJkSEV0ZHZQZXZLczJnVjlJODhiWkwwZ0ZFdHBySXk1bWNTcXJMTGQ0c2hMS1hjVGRfeFk0bFItNHh6ek5KS1kzbXltRlBYOEF4N2lmai1TNS1zcGx6TEJma1had2I4cWVkNVg5MHBMM1FIOEZpekM4aEY2NkZGZ25WVjROSUxWNEZwVE0zLUJfcjFLTHQzbWFiYzNKLXR4UXNGaU01STBIYTJEa2pVQnFBZVhqRnctQXhpd2ZRQVk1Q0JMbEZubV9ZVF80N1BQVlJaNlV1SzEwQ2JyZ2l4R09FeWZ6Y0lOUTdjTnlOT2ZMTUlBUy0xTVZWM3hFeGdiVk81aTFwUVA4RVBCNEpR0gFTQVVfeXFMTkktanVZY2hMREZnX2xmSUNzTk9GQU1ZWjc1TlRRcEdQeENiLVVWVHNUTjlGSExZX2hQTXBwU2xCRjV1cXRyVHJxaWMtVkhlYmVORzg?oc=5",
       "domain": "alyaum",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "صندوق النقد يتوقع تباطؤ نمو اقتصاد المغرب إلى 4.4% العام الحالي - الشرق بلومبرغ",
+      "description": "المصدر: الشرق بلومبرغ",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQNXVQSm1GbU9vdHUxSkFjcm9BUDZXS2FfTEljYjZyYkQtSTJyYkFWOFBIRE5SbUEzT0ZSbDJ3dmNBb0tTV1k5WGh6SEVMWXNVQ05wb2VzZWhFVG1hdURWS0liWUI4SThpQTl0S2pVczREVXFhcDFXbUNBVm81eWRNOVQzeWdBQ1E3LW1ENWpUSEtXVnk3VTNsc0liS21rZjhBOWZMWk1uMktIbDR0d01uRmkzNU1lWFI3SWsxdUx3by1YRDFISURiOVdYVFFWRWFXVEtZTTNRSFpGbU54UmZYS25FSERqRmhGVEtsOWJyMm5HTlMwNDItT1MtRDFxdExsX1E2RU9ZYnhxSVRWS1Q0VzBzRHRFNzhmSWVrcWkxeDZWRmhUQi1oai00cVdrcmlWSFZBNi1hN3R3SGVYTnc4M0gyX0psZi1uX2d6X21pbmY3WDJjUDd4c3hqTHJkSVVHXzB2S3BteFJ3LVRsT0M2YnJKd2FBZlQzcWozYXRLc1hnajZTdXVFakE5Ukx5YTZKaTRfZ2J5Sk1qWEpjOFR2dVpfTjlWSV9zZF9kdUFDanFRZ25RNVNFcEhNUzBrTWdQaGducmZR?oc=5",
+      "domain": "الشرق بلومبرغ",
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
@@ -434,6 +398,24 @@
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
+      "category": "sports",
+      "title": "جدول مباريات اليوم الخميس 25 يونيو 2026 في كأس العالم ..القنوات الناقلة والمعلقين - Kooora",
+      "description": "المصدر: Kooora",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNNUtwM1g5X0lmZDAwYXZ4YTNyWVMzVFJxT3pQQUR5V29oTWNVdGNHTVc2cFNrUFR3aHRFbUI2RUJWa2xSQXBWWE9jTzhzSk9Tci1rQ0FzNFloX0stakxQYms2R3ctbWxsVzFWekhKYWhha1hiem9aQklWSzNrVzlFUmpIZUp0YXBjb05yWHVHZnBQUEJoQjR0VWVjdVFSVVdROVlKXzdIbHIySnVaVEtlcUFwUTZoVW1OVTcxTXJfZ1dtd0x5Vjl6N3NrbXUtWEt5WFBfak1NWHBpSXdleUJ3VFRlWlk5dE91ZXFzZnZJUVVLMm5CZnY5X1ZGbkRJMG1XWDRNYjQ4TklXaHlwd0s0QUlkWUExR1dGTkQwVVE2XzBqTWw0RUhsR0g4MGVxRTdTWFhEQzRjNnVISFhyTFk4d043NTd2eGs2YzhEbXlNZmFFaW8zRDRIZXRwRXNOX3FZSHMxQU1XaU85WVdFZU9hYjVNdnB6Tkk0bWdZX3l6amx5VTJ5YWNfN0tpYnk2U2lZUV9BZHptQ0Q3djVwcWF2ek9sSUxpdWxrRnNyVXZBb3B2Um9USHBXbmxXYWpBdXRteE12VzlrYy1fRHpwVzFIZl9MV1psbEZ6S2pZbXVnNTBhTlhXdG54Mm1Lay1wcnU3NWVhaHlyR3N0YkVHcFlGbERMcV9ub0taVU9GRENlTEk0dWM2WlBjeVN0eGc1Q3k5SUJjMXhaLXFmZEpfQW9zZ292dHEyT25HSWNNeVhiZ3h3OUZwUTA1YnV5Zjg4Y2RpenNMUFRNNTFVN1F2Y01LYnB5bmpRQVNNQWZfUGNUOV81eVBJVTgwX2lLZXNqV2JCQjlHREszNWZTTEM0NGFsVWVTQnFZQ3h1cTVPbHFqSE04ZUVWX1lYbGxFZlFwQ3c1RDJoR2p4QmdsaDA?oc=5",
+      "domain": "Kooora",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "كيفية مشاهدة البث المباشر لمباراة المغرب وهايتي في كأس العالم 2026 - شبكة رؤية الإخبارية",
+      "description": "المصدر: شبكة رؤية الإخبارية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQkswcklHYVhmNVoxNWlRaXBQNDNYS1EwN3ZLbDRJVUY5b3JwQ1l3Uk51QUU3NHlGb1Q0RFYzQU5tX1pNemJaU1ZKeWg0TXl3dWQzZF9ZR0dzQU12eDZEcTJmY0lHei1hclFCejBCb2NoRUNMLUJGUF9McHNDT0ZKaUt0M1V5bktTQUJfaHQ0anZkaWt2aUhaQ1AyTHNRb2RoSFVWRjVOSzV0eEc2aFpLTDNoZHhJeDl5dHlKaVRjSmZmNi1aQ2pEY1hodXZxZ1JLTkNKZlUxdFY2U2tXUDB6bC1mT1V2d0RrWmJTQm9ZeEV2RkJQanNydXR5UFBZck9XdlRVT05Uai14MTVoZ1lvRzJmRXhKVzhaVXcwNEQ2Qk9aaG5ZX2JveE54eUk2MXZkMGVTOXp2ejBCeEpQYXZ5M2pfbw?oc=5",
+      "domain": "شبكة رؤية الإخبارية",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
       "category": "general",
       "title": "ألفاريز يشارك في تعادل الأرجنتين الدراماتيكي مع المغرب - Manchester City FC",
       "description": "المصدر: Manchester City FC",
@@ -524,15 +506,6 @@
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
-      "category": "general",
-      "title": "الانتخابات التشريعية 2026 - Maroc.ma",
-      "description": "المصدر: Maroc.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzBWSFU0MzNtNUVnWThMMGNoWlhZLW9XVDh2ZmFwbUh5elVMMHZWZGR1UUVWRFo0ME05MXRpV1ZHdl90cDJKdF9QbDlxR3EtclZmYjl2bmJwZWZ6STRicmM5cHNWY2dVX2tGR1pPaWoyMFF1c3J4VmhZNGdubU0xREFYTkFEdFowV0VwQ1VZcU1vdTliOWY2QUFtWmRKVWFUYk5rV3dFU051T2FWNUx1V1FVVHJGdHRrc2FTU21fVVJhR3llY2Njem5wZ3k1a0dxX2J1RUczRQ?oc=5",
-      "domain": "Maroc.ma",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
       "category": "business",
       "title": "انخفاض معدل التضخم السنوي في المغرب إلى 0.3% خلال يونيو - العربية",
       "description": "المصدر: العربية",
@@ -548,6 +521,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOYkY4UFc4dTlVODBWaEpndDlKMTRqZVctVXJNVHFvbGp1Y2d0V2tkb0tXb2ZpamZnUTFacWlqTFNwTkY2YnhGYm14d2k1ZE9MNVUwZ0FvaXBZMGh6MTV6WFJZOEtvQVBkSThtSGJCb2dYMVNxblRxR2hRY2hNVlRzdURhT3gtd1plc2p3MnNVb2xVdkcwRnczUF93RlVvT3JiMjM4RWtnM1FaNmV6WDlfek9pdElxR2Z3TmlPQ1VGYmlZT3pGNHN4QXdoc0xfck5MUXplaGZMcjZiM1F0UnVMOHVlNHZoLTJEWEREOGFPX2RERHRQLTN4TlV5Y3MzSHZVZThJcnlkQnhjY1BnTV9LUFpOcUlXN29hWXZMNHVBTjVYbHM0dHJqcTBlenpRdlFJdml5c3BGdDlUUWw0RlRlYTRZWHZ5c1VQQ3hXMjF2ZlMzQUVVUmktcQ?oc=5",
       "domain": "www.alakhbar.press.ma",
+      "date": "Wed, 21 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "المغرب يتوقع تسارع النمو إلى 5% في 2026 - الجزيرة نت",
+      "description": "المصدر: الجزيرة نت",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQTEpGN2EtZ3VXdlZMT1RkSEtYS3Jad3dPLUU0TXJFdEZWUUU4aWIwYlB3QXktNXF1dDM2TDNyUkF3RXp6NkVhRWtUYi1XX1BHUkFWZ2I5LXFyWi1jcTRJMDR4OWZIYVNIUkdKcktReWlGa05xZ2N2QVJfRUVPZE5adXdaSTNwLVJiWkNuaXFqdFZMTG1uY1FQbEpYakNvdmdvcXJBOFUtV05JWTlIYWJLRVNEdUlkUHJpRnJXclotNDFfQnpRWXJSRnhDZWpJbWJfSXJyTENzNWVxZEZ3QW1kODVvRXE1WDZySWw3anpaRnB0UDk5OU5wdTUwQ1psSERQNlFWWHZpVHpCR1ZlVjczZG9vc1RvMkNmeU9JampOUUs2cklHRUtRVlpYVXZDT3hHSGtzaF82Y3g3UdIBvwJBVV95cUxNQ0d0dGliMy1FYlRiTUd5S2R2eVZGdmt3WUlVLXNzUHl1ZHUwc0cyTUFwMVdoVEFhTGh2TVpwdE5JV21MRWl2LVBwQTRKcm1OVjltZ1U1NFJoZ3paZ09JeXMyZW1FdTFMUW5xeG1Ycm9ZRE9BNkRNSEFuSEpEMkdzUjB6TnhFTFFSX2JFUE1CZFAwQkVRWjBnVDRXbGFyNXZibzUzOGtBbFRHUWROdjd2S1c2dmNobWQxcFNMTjljQ05WZlJxNUxIbFBwREMwRWo2U09qYmRGcDVBbzFpMWl2SnFid180UGtjWFdudlVCNGptaFVud2VIOGFZaGwyYzZUdU1CVmdQWlZLaW0wWnNVVTVMTGtFMnRzT3Z1bmJjbERFaEtweDVCZUdaMkFPNi1QMkRXVzVMc2VmZWFET3g4?oc=5",
+      "domain": "الجزيرة نت",
       "date": "Wed, 21 Jan 2026 08:00:00 GMT"
     },
     {
@@ -576,6 +558,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWm04STFNSjhaSi1DNVM1TlRtRjBaOWREa0VPSUJ2OWgzclFrVTJ5M0dDdDZUZVJTLW01Q1NiZE9Vc1JjQUQ5SHo3Q0xKRHlWaENwdEFlbW85c3J0WTlPS1dyLVhXYW5IekVMSGtiVVAyWDc1cUpTc0dHTXRVZy1sMjFWRlRuUUJFbGNTUkpOYldJMG54a3YwcFRtTG5rU0RiMlViOXhjSnRHWUxBUGNrUy1RaVF5NmlKcTUwRHBENVdJdjI0OERBWDRfUktZamk2ZHpXMEF2RXlsTUZKYmVGc0hSVnhDenBPWmhMMFdMazNUNWhJRHVMZTQydFQ0VktEZ0NuQ2pYbHpnTk9MMzhZdA?oc=5",
       "domain": "يابلادي",
       "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "المرصد الاقتصادي للمغرب – صيف 2024 الاقتصاد المغربي يثبت قدرته على الصمود لكن القطاع الخاص يواجه تحديات - مجموعة البنك الدولي",
+      "description": "المصدر: مجموعة البنك الدولي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR3lWUXFLM0NfWTdxcXplenN5dVo5Mjk0STlLNFN0cFNyVlRmNkRaa3U1WDQzTkRNUGdhYmZLWE52cXBUNjBfd0Ixdld0T21wNVVscWJzdk9xMXBIQnpfRDQwOWRYajZieFJsMXFJMGNHQV8yU2pZLVphakt3Szk5RXNKOXpHeDNqSFdRQ3F5OFZSV292d19LU1dvNUNVYVRXclNpNFh6bFpXUC11Y2NUcmtKVUJtWE1oQmZMeHgtbG01U3BRanRVZDV5Ml9zYkdfMl9BZWdQZG9KazBFOGs4cU94QXRtLTJWbTBEME1iQUxxaG9peXZYSFJMU1U?oc=5",
+      "domain": "مجموعة البنك الدولي",
+      "date": "Wed, 17 Jul 2024 07:00:00 GMT"
     },
     {
       "category": "business",
@@ -620,6 +611,15 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNcnVFZWNPM3pzczVvUGY1dkZkaFlSNlFCazhtMnpSNVFiclhIazBmNkZxclRrYUpsV29QMThMN3hpeTVSZ2x4R2ZPeXNUVjhXMk1Vd2dnejJ2TDU4Q3I4MV96enp2dy1xY2FEcEV0SHRCQS05cGxaR3NQMlVlS0VQaHltODJQS2lBQmNfdFFKNHowalpEZDFhQzhTNExOQTJWaXhObVNmNnJ1Uk5rdGdHRTE3Z1Y2MHRsMXJYODVpbHdZUkNOT2dhWXpZSkxCY0owVzZIcXZmQndrX19HQ0ZBLU9lNTNwTVp2dkNFekx0R0VRLWRHaUNDZ0tvLUdWZ2QzcmIyTWZ2QVZTcUVsQ2QxOE1oY1VyRUxGQ3NBU1FDZUF3THRWbzFjSlk1bkE1bHZ5eE1mUk5HOWxtTl80dnhZUHFpeEljWWM?oc=5",
       "domain": "Agadir24",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "كيف تؤثر حرب إيران على اقتصاد المغرب؟ - الشرق بلومبرغ",
+      "description": "المصدر: الشرق بلومبرغ",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNMGQwNGRvY1lTbFVJTUZJZjJmUzlJaF81SlBhSTZiVU40R0Q0UVpCRmxVblhDRFIzWFFkNnFDYlZETnBMNUFkSXhKR012VVJRUTF2czZYblFoSGZPdGo3Ul9DR1ZmZTlOY0p0cV84WXotSW40SXJsVWFybzlTNmJyMGYtVEFIUWI3OXhLWmVMSEU1dW9rTnFpWlNxVjc0UDhmdGxLWVdOcGxIUVJHcWlNUkpNSTJzcnBsZnlzQVRKWjJybnhaYU5yZWN5NXFvdjVSR29zYXFvaS1HaWFGenZrcXk2ZE42QjVmXzdITG94WmVIUDhHTHFmTWtEVjdTNDJ5cy1pdjdZZ0daMUhKQ2xZV2NISWZmdWozaWRlS2lZVFRGdkZDOFpMUTNfYy03QVE0MURIeWlZRW0tZVFPaDBiT2FDNW9xMktQX3BHYUtlRUo?oc=5",
+      "domain": "الشرق بلومبرغ",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
