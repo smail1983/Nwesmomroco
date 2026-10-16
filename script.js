@@ -39,8 +39,6 @@ function sortByDate(articles) {
 
 function normalizeCategory(article) {
   if (!article) return "general";
-  // Keep explicit non-general categories, but allow articles marked "general"
-  // to be classified from their title/description.
   if (["sports", "business", "technology", "policy"].includes(article.category)) return article.category;
   const text = `${article.title || ""} ${article.description || ""}`.toLowerCase();
   if (/رياض|كرة|الوداد|الرجاء|المنتخب|كأس|مباراة|لاعب|فيفا|كاف|botafogo|futsal/.test(text)) return "sports";
@@ -113,6 +111,15 @@ async function fetchJsonWithTimeout(url, timeoutMs = 8000) {
     return await response.json();
   } finally {
     clearTimeout(timer);
+  }
+}
+
+function moveLatestNewsToTop() {
+  if (!newsContainer) return;
+  const main = document.querySelector("main");
+  const title = main?.querySelector(".section-title");
+  if (title && title.nextElementSibling !== newsContainer) {
+    title.insertAdjacentElement("afterend", newsContainer);
   }
 }
 
@@ -196,6 +203,8 @@ function initNewsApp() {
   }
 
   addPolicyNav();
+  moveLatestNewsToTop();
+
   document.querySelectorAll("nav a").forEach(link => {
     link.addEventListener("click", e => {
       if (link.dataset.category) {
