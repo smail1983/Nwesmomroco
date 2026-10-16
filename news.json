@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:20:40.537525+00:00",
+  "updated_at": "2026-10-16T04:27:21.021054+00:00",
   "articles": [
     {
       "category": "business",
@@ -74,6 +74,15 @@
       "date": "Wed, 30 Sep 2026 14:19:46 GMT"
     },
     {
+      "category": "sports",
+      "title": "الطاس، نهائي كأس أمم إفريقيا 2025، المغرب والسنغال، كأس أمم إفريقيا 2025، الجامعة الملكية المغربية لكرة القدم، الاتحاد السنغالي لكرة القدم، الكاف، أخبار الرياضة المغربية Archives - Le12.ma",
+      "description": "المصدر: Le12.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNUWdmN293aVpQYW4tdjBwazdCOXllM29HSHhKYzNLRENJckFKbUVBUTI3SjQwSzR5MHBKX2twQjExVE5lNnlBbGtlS1puSlhrZWxuWHYyOW52ckJDemRUNThfUFpzbzhvMGJDZjBVZi1nRGhCRWlCZXE0dW5YZ1d5bVFFRkJLa3dQdm52ZGIxcE85QzB6VHpmZVpqUGsxTWFhMXBCU1d5a3Ayb2tNSUQ2VXdrWHplMGJ3dEEwZkt6ZFpKa1dRQkxJSjdWODNnYU42djBkMXBSZWNoSnU1TlE2OU5oZUZrenE3VGxJaHJ2RjFBOHhTUnNiaHN3YURGRGlmVUlubG1nNVY1bUdGdXNTM1IxdldrMDFVaG9va1ZvTHFUaFR0TVU2VkRVWW80SE9kbkJkVkVDVGxvRFpuc2c?oc=5",
+      "domain": "Le12.ma",
+      "date": "Wed, 30 Sep 2026 14:03:00 GMT"
+    },
+    {
       "category": "general",
       "title": "أسعار صرف أهم العملات الأجنبية اليوم الأربعاء - inews.ma",
       "description": "المصدر: inews.ma",
@@ -92,7 +101,7 @@
       "date": "Wed, 30 Sep 2026 13:40:34 GMT"
     },
     {
-      "category": "sports",
+      "category": "general",
       "title": "عاجل: محكمة التحكيم الرياضي تنظر في ملف نهائي كان 2025 بأبواب مغلقة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -180,15 +189,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNb3AzZHF3ODVqSjhjd0JQckdudHc2QlhCMGMwd0RwSTBZTUZlZFFNTkdKQ3BNcE5uVVdFMS1SSXZvWU51OUUxSktYSVluTnN6cEl0QkFhWlFOVkVqQ3p3UkU2NW1rMmdhWG44U3ZnYWt1eS1fYlF5bTMzRGVDcnlpYXd3N19xWGtLMGlrWmNIM09UbUJYdEItV2l4RTVzQmREeG9FdkkwR082bkVfZG5ZSmpSVW9wNFAwTmdYalRpMTFFdXdCZmN0S2NtZTJnV05wNldnYjh2alNQWjBtaWJ5WjBzWS1kQkN2bUdWVjAtRW9ZQ3BCdHdxc1NWLXBMZ2tOYmZDaHFyMWMyZW1RQzR3em1JNDd3WmVha2lCeW80N3VYM0lSX0hmSzRaNTFsNzQ?oc=5",
       "domain": "Hespress",
       "date": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "technology",
-      "title": "بن عمر: المغرب نموذج إقليمي للنجاح في تبني الذكاء الاصطناعي - مدار21",
-      "description": "المصدر: مدار21",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTekhPNWFnWXlwNldjZGZEUHJEaEFtSTlmbkRMMmhjeEp5RVVRallzN2FKeFVjcGtGU0t2ZlhwNGlWQi1ocFE?oc=5",
-      "domain": "مدار21",
-      "date": "Wed, 30 Sep 2026 01:05:04 GMT"
     },
     {
       "category": "sports",
@@ -326,6 +326,15 @@
       "date": "Wed, 26 Jul 2023 07:00:00 GMT"
     },
     {
+      "category": "technology",
+      "title": "عاجل: المغرب قرر بشكل رسمي إلغاء أضحية عيد الأضحى لهذه السنة - Tuniscope",
+      "description": "المصدر: Tuniscope",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDB0OUVvekJ2YkoyYVItUWNTbmRCSkRWV1VSWHBBOGMxNlJZbmxzNk9EZndyT2c5VGgzZ0RXbzljQ3c3TzBzUF9HVllfNHdnVENwZXNwdGF1WHI2ZVBnWVplS2kwb2VsdEVZUVhESVJsZGtzdXNFVjhwOUhpNFU3NF9R?oc=5",
+      "domain": "Tuniscope",
+      "date": "Wed, 26 Feb 2025 08:00:00 GMT"
+    },
+    {
       "category": "business",
       "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - العمق المغربي",
       "description": "المصدر: العمق المغربي",
@@ -426,15 +435,6 @@
     },
     {
       "category": "sports",
-      "title": "اجتماع عاجل بين دونيس ولاعبي السعودية قبل مواجهة الرأس الأخضر - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPR0dQSUNKbkEwUWQyOTJkZlF4eUxDS25nMjY2UWVZQWgwaWl2MWN1QXVYXzI4UW0tWG9BQVM3STAtaXJYTUl5UndxRERaMEF3eXFtZFc2aDIxejZUd0gtWXI1d0NmMzdGN3Zza2lkSEduQ205cTBUUjlrbTBuamRtOEExckRqTmlBNVBQSGxwcmEzbkVfaURqZHAyWVRXXzhOcDNOTU51VDBpT2drWlhPVjQ3M0h2X3ZvekFIbmFKZTY4aGt5dk5lM1FQempQWW5SRkFVczEtakdrUG9qeGJFVE9hSXZ2NGx3QXF3dTJlYUw1U0FZTm9mV2RQYnpGRlZfMlFJUzd2OXRfa29lVmhCcDlBRFBhQUZTOXJPcHBLTUQ3VnNVQkdJblBpZ0M5NXUxc1ZIOE1abVl0U2JjNnJTZHlQTTBBTWFsSlJ6MzdIaWpTZGZLVUVWdF9jbFBmdw?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "sports",
       "title": "نتائج مباريات المجموعة الثالثة من كأس العالم 2026: المغرب 4-2 هايتي: صنع سايباري التاريخ حيث حقق المغرب عودة مثيرة ضد هايتي للتأهل إلى الدور التالي. - Vietnam.vn",
       "description": "المصدر: Vietnam.vn",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -452,12 +452,12 @@
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
-      "category": "general",
-      "title": "موعد مباراة المغرب اليوم ضد هايتي والقنوات الناقلة في كأس العالم 2026 - 365Scores",
-      "description": "المصدر: 365Scores",
+      "category": "sports",
+      "title": "ملخص وأهداف مباراة المغرب ضد هايتي في كأس العالم 2026 - annahar.com",
+      "description": "المصدر: annahar.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaXloZm55MDVYZDRHbUR2MXB2enA0YXh2MVRKUnVnbFB3RmFaR3BPVXBGUzVHZEM0aHVVdVBvaHFERmlxM251WEdycDIwTnViTWhNT2prbHRXSURPdHNWdExLUDBOTEItMUNBNHEtM3pfbnhiODFHUzV4Rm9yUUdaSzlfaktoYV8tQk9MX0h3cVk5N1Q0NThqOHVHeHFXRnNvcmFfNG9SLV9yNXR2bVhTOF85ejJseWQ3cmdpWkJqX181QlRBQm43c3cwQ1VoU3BvYkFuRXcxZHpla1pwUnlxb2YxcU1qVzdOczJGS190VDA2WGNoTHNVUWg4a0NLOHl4NEpDSkM2cktMVjA?oc=5",
-      "domain": "365Scores",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQX2l5WWR5bUd1Sk9DV2RoYzd1bi1qSG8tUEJNVHFoMGpFcDhjcmFEWG9DQnIwOFJZd0tlaDc2U3dIZDZFeWJFQzFSMFNsaUs5NWNoeWIyVW95eTJ3bjJsYmJmMExyX3BzSXd1eTlpVElQSjlEdGhnOHZiUHF6MmVBRFhPUjE0ZmZGM01aVmI2R1BuSkJ6Ymo1MXUtRkxxTlpURTdCdEJxaUxwWFpMNW9pTmhVZzZGdlVvMG5zeW00V2s0eUtFa1dneVJIUXhNcTJFY25FVWFZYkhvR0dUTmNBNVpXRWhnYm5oQTNzY2kwSHNoUVNIdmtob2xEOUNLdUp2Mms3YzE5dW51QVFFUFVhV0pxdU9DTUNvWlBmWWVpa0JzNEVJa1otVnMyLUE0dVFLS0xvc2RFNlFmbUJPOTJZOTNqRHRhWHpOUGRRdHI5cmtCNzZ4Y1JTS2w3MmdrazVaak9BUGtORFo1cjJSMjh1ZXU1RW1pZFBoYnVjWE1WOFp2NFk1Y0xsQUUzVnFXdWN4?oc=5",
+      "domain": "annahar.com",
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
@@ -476,15 +476,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbndFQnB3aWJLSzVhZWpXNWhMSGJGakZRVE9JV0JTODRFVGJuN1AzMVNZZERkV0dIZVhmdEtWb1JuVFNlT1ZaOGZsUWdhUjhnMTVLMDRQZlZjVnZV?oc=5",
       "domain": "Medi1news",
-      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "Tata Advanced Systems delivers 1st WhAP 8×8 armored vehicles to Morocco - Defensehere",
-      "description": "المصدر: Defensehere",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVk1ZRF8tbi1IQ1VTQS1rRlNlVkpoc0c4QUZLMk1GcTh6aTBqR0lLN3JMamFmZVlZRTlsNUpfWXY3aG1pc1dkMGk0YktqQmRZbTNTTnBDZHhOYzdhcEdrYUdxclVaaU1hMHp6NnV5WjFSc0RpbkI2MkcwOHgyMlZoTmc3SGtrQmdycC1yN1p4a29GZG9GUTRYeTVieWFPMkZt?oc=5",
-      "domain": "Defensehere",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT"
     },
     {
@@ -621,6 +612,15 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR3lWUXFLM0NfWTdxcXplenN5dVo5Mjk0STlLNFN0cFNyVlRmNkRaa3U1WDQzTkRNUGdhYmZLWE52cXBUNjBfd0Ixdld0T21wNVVscWJzdk9xMXBIQnpfRDQwOWRYajZieFJsMXFJMGNHQV8yU2pZLVphakt3Szk5RXNKOXpHeDNqSFdRQ3F5OFZSV292d19LU1dvNUNVYVRXclNpNFh6bFpXUC11Y2NUcmtKVUJtWE1oQmZMeHgtbG01U3BRanRVZDV5Ml9zYkdfMl9BZWdQZG9KazBFOGs4cU94QXRtLTJWbTBEME1iQUxxaG9peXZYSFJMU1U?oc=5",
       "domain": "مجموعة البنك الدولي",
       "date": "Wed, 17 Jul 2024 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "صندوق النقد الدولي يحذر المغرب من مخاطر ارتفاع أسعار النفط - Hespress",
+      "description": "المصدر: Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNk9HSnlqdVVEZ1U5NVliN0RpRU8xeUJTczBnQjZiOFhkdFNJSTk3MUVhQ2V1Rmx3d1lNbWRmLUYtNEh0NUFQMU82b1VHeksxcnpLQTEwUVJfd0Vxc3AzcnlBWHBBV0dWWUt0M1NJNThHemh6VERjclBaTGpfVmN3S3ZjR1pyUmxCYV9KRmVTd05CcjhZcWttd1VZTVk2cE15RGI0WEZsQnA3YTNOWFJDS0RDd0NVWFFQQVhQMXJQZTNRU0Fhclp5MnpSN2xRWkp1TzA1ZGdSVWVqUlVLWjFnRzhHR3ZvTHZSZEZzUjEzYnVya19yN2NIQWNfMjd6NTEtRVRZeFNaeVhXYUt1TG8xTDVtaEJvSVYzbFk1SDlHcGZqUlhYTDVkNnJrOWd1Q0hyeWpBNmpXU3lhRjA2aDdYcy1oMTZIdFltSTRzRGFRaW9GbTV5WkE?oc=5",
+      "domain": "Hespress",
+      "date": "Wed, 16 Dec 2020 06:01:41 GMT"
     },
     {
       "category": "general",
