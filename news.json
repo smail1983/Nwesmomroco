@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:18:36.664922+00:00",
+  "updated_at": "2026-10-16T16:35:51.885498+00:00",
   "articles": [
     {
       "category": "business",
@@ -72,6 +72,15 @@
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNUWdmN293aVpQYW4tdjBwazdCOXllM29HSHhKYzNLRENJckFKbUVBUTI3SjQwSzR5MHBKX2twQjExVE5lNnlBbGtlS1puSlhrZWxuWHYyOW52ckJDemRUNThfUFpzbzhvMGJDZjBVZi1nRGhCRWlCZXE0dW5YZ1d5bVFFRkJLa3dQdm52ZGIxcE85QzB6VHpmZVpqUGsxTWFhMXBCU1d5a3Ayb2tNSUQ2VXdrWHplMGJ3dEEwZkt6ZFpKa1dRQkxJSjdWODNnYU42djBkMXBSZWNoSnU1TlE2OU5oZUZrenE3VGxJaHJ2RjFBOHhTUnNiaHN3YURGRGlmVUlubG1nNVY1bUdGdXNTM1IxdldrMDFVaG9va1ZvTHFUaFR0TVU2VkRVWW80SE9kbkJkVkVDVGxvRFpuc2c?oc=5",
       "domain": "Le12.ma",
       "date": "Wed, 30 Sep 2026 14:03:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "أسعار صرف أهم العملات الأجنبية اليوم الأربعاء - inews.ma",
+      "description": "المصدر: inews.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1SQzZHWW9sMmtQLThNWURnTjliQzhzenNyemVlVTdTck5HQkprTERVZFVfQ29XV1ZDV2dwR0ZhYks3Vkk?oc=5",
+      "domain": "inews.ma",
+      "date": "Wed, 30 Sep 2026 13:43:15 GMT"
     },
     {
       "category": "general",
@@ -308,15 +317,6 @@
       "date": "Wed, 26 Feb 2025 08:00:00 GMT"
     },
     {
-      "category": "business",
-      "title": "11 مليار دولار ديونا متعثرة تجذب مؤسسة التمويل الدولية إلى المغرب - العمق المغربي",
-      "description": "المصدر: العمق المغربي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpVnJUdmNvQXhtVkJHQnU1SGt4WFVvdlREay1UTjVyYjBLdTB5NlFlV2M2Z0RQV3p1RW9DbjRyV3ltTHpHeUHSAUtBVV95cUxPbWhKUjBjNm56SjlBUGVoanJCRlg3TkxRcHNndDRUZ0VfLVB1SUJVMlB2LWpNUXpHd1RvNFd3YzBNdi03c1hPdkhlTjA?oc=5",
-      "domain": "العمق المغربي",
-      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
       "category": "sports",
       "title": "FIFA President Gianni Infantino is Confident that \"Morocco Will be a Magnificent Host\" for the 2030 World Cup. - 2M.ma",
       "description": "المصدر: 2M.ma",
@@ -507,20 +507,20 @@
     },
     {
       "category": "general",
-      "title": "مباشر | نتائج انتخابات المغرب - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbW1vcHZQQkRIeXFxVzJ5NnAyZjJ5UFlKZmtiLWthSWdwUTFKcFlCaEdSQ09mMGhmWUJnNnVrNEE5emJuR2pCaDJiTDQ0N2U1Rl9vN2NPcUxIT3pvOGp0OGNkSjRUdG8yZUFERW9CcG90ODBTQk02bjlabGlEaEZZMF96RmMtNzN4NFc1QnZxcUFJTW5HWHFEWi1CZ0ZlRUI1b3JTaUxuR1hTVXNXVnJHZng1UzBtUi1jWmVNdVFtWGRzaVlIZVlmckJNOVhqcWgzX3hRNXdOMkVlaVZBbG1lXzRreWl4YldwMWlGS0RmSWRQM3Vyd21PZXRrZHNPdWtfMnpDdDhwcWZOUFpka3VmOHBEYw?oc=5",
-      "domain": "Hespress",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "general",
       "title": "معركة الـ395 مقعدا.. المغرب يختار برلمانه الجديد - سكاي نيوز عربية",
       "description": "المصدر: سكاي نيوز عربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQeVV6d0xEd2dlNXpkSUhZbFhkX3dlQS1qY0dBUFRVWkVTZ3AwdFZKOGZGZ3FoY1pPUUI5cDZDdUY1NEtmNll6TGJTR0VkNmw1RmlESW1LcF9OdFhZOUR6WjA4NXE2MzB1M05XZDJxTHlveGREZUJGa2FSUUlKX1pxMGdzZTk4V1NjcXZKbGs4Q0dfRzVIWnV3ZERQTVA1cllSZnpjRDN6MlpPdll4bEd5bEsyeEpIcFdZVWlMRkp1NXhmcnh0UFVMS2lrOGVaVmtKTmJTb3EyR3NkQ2w1SU04SmVhYWpNMC1ES0g4RHpqalpETFBsMmJUQXJTYkNpSDZYMnEySEUzandYSDZEYVU4dHg5dHdtUnBBVEdHYjlfekpHb01zaVF1c3dFTzVFa2NHRmVIM3p5aEtObWxwckdCeVdEX1dzRi1NMzA3WGhWdkRiSlpucWM3N3lvMDVDS2NIeWYtR2xhOXVMQ182WjdaZmJTTDlSMzZ2SmNBSHBTRFYyQzhOenJMV19mc9IBkANBVV95cUxQdEtDMV9vRldEOHNKN2pMUGpNVjdjMUFGSTdpQU9pbTV4X0xDN3JiMmY5MzRRQk9fQUpmc1lDS3lQalhqOVJ1MnZlNGJuX0I5WXdKb0oyYnZDYXlyNXVtbElKdU5YWW4zYi1PVm9YVDY2aUE2VndBQVFTNkRwZ21PRUlpeXBFRW90SVU2Q2FfeDNpT3haMTItNXJpbFdUSnFkTndIeV81SkhmTE9rc3FsdWZWdmpIRUowSXJOY1JYak9iZzZseDJmdk9GUGpJTTBRaVFUNHR5SS11RS1GaE5hZXdqNjJKMTQ0R183MTZtNTdpSVBvWmdHODVsN1lXeHB6WG5mVlliYkxyZ1czZW5yMTdib2xTdTNoYWMwTGZKQV96c1ZjSXAwVjk1clFQeXcxaFJSdFlzZVhlWHZTcS10eWxQWXlFeTc0eTJxOE00RTR2ZWRKaTRYOXVfSUtfU19FWFZPMktVRTc2N3RzUzlnaG9oVjJMYmpJY0ZPczdBdFVpNkc0Yk0yMi1xd3UyMkR1?oc=5",
       "domain": "سكاي نيوز عربية",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "مباشر | نتائج انتخابات المغرب - Hespress",
+      "description": "المصدر: Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbW1vcHZQQkRIeXFxVzJ5NnAyZjJ5UFlKZmtiLWthSWdwUTFKcFlCaEdSQ09mMGhmWUJnNnVrNEE5emJuR2pCaDJiTDQ0N2U1Rl9vN2NPcUxIT3pvOGp0OGNkSjRUdG8yZUFERW9CcG90ODBTQk02bjlabGlEaEZZMF96RmMtNzN4NFc1QnZxcUFJTW5HWHFEWi1CZ0ZlRUI1b3JTaUxuR1hTVXNXVnJHZng1UzBtUi1jWmVNdVFtWGRzaVlIZVlmckJNOVhqcWgzX3hRNXdOMkVlaVZBbG1lXzRreWl4YldwMWlGS0RmSWRQM3Vyd21PZXRrZHNPdWtfMnpDdDhwcWZOUFpka3VmOHBEYw?oc=5",
+      "domain": "Hespress",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
@@ -533,30 +533,12 @@
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
-      "category": "general",
-      "title": "{teamName}: كل المعلومات، الأخبار، والنتائج - kingsleague.pro",
-      "description": "المصدر: kingsleague.pro",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONGZLTGdtRUN6MW1DT0pjNGdQWUk0NmxoSkljdUJWeTlpWlZyNnlvVzJtVlEzWFhxQmthUDZMY1hKNmMydzlFZnJQdWxka0ctcXV2dW1JZw?oc=5",
-      "domain": "kingsleague.pro",
-      "date": "Wed, 22 Oct 2025 21:05:25 GMT"
-    },
-    {
       "category": "business",
       "title": "انخفاض معدل التضخم السنوي في المغرب إلى 0.3% خلال يونيو - العربية",
       "description": "المصدر: العربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOUlE5YkZOakotWjA4dkltWThmS2x3M3JSSGE3dmh0anpJQUx2d3Q1MEMydUFFbkNPeW14YUU1enM5ZXNhWlNDbkloV1RXbEVBSzFnVWN5b09aenhaNEZBdENIUjJ2Q2ZXd2pJT29aT0tQTjB5cEF3QVdQb1d4RHlRTzdmUkVzYy1KTDA1OTEtcnJoODNDZEFpeUl0ejk0Z2NqT2F6ZmxGblRVcWFBdWtfTHctQnRkVGNsekhuS20tMkkyaFVJTTFJT1psZVo0OUk2ZWR5UEl2YVNGekpaVGZLa2ZUTk5fSC1rMEl1ejlDcVY5b3pBRExfUjM5Z1pMdkV3ejhjaU5ramViNFY0N1hjeVktRllTdVhfUmUwYXMzQlItWWZweVJNMnR4dWc4V0xjWnJjYk5Vb21FNFpRRDZYMWI4ZlBZdXdDelFYbm1YR0VOdkxNbGZFZGlRQldzeFlhYmM4SnVnOGRHQlptQ2QxVm9GcVg4WHZEVGRrTGJRb0gxbm5VV1MxQVVRVUROcHlEcXlaRkt5eVZhRk52blUtbWxMV1NLMklIaWJ3WWd6ZE1UWEVLaWxaTkFJWXhvSFHSAcQDQVVfeXFMUGRNVTRaQ21LejYxR2ttbDBWVU11OEhKLVpuZHkxQzZfNS0yYkZoSkRiZUxKOUxyUGR2cjhySHpHUGIxbkVsMU02S0l4cFlUN0I3VzhjV0s0MUFuRWJPMzl4S19iYVFETl9MMWRDSUtOSWJ6RGt0RGxaV1N4QkdSX21aUTNzTlVJT016c09tQmVSejhoVjFkT2JyOXZEenN2anlOOWxIZUg1eXNLQ3MxQ0FqRVMwTlk1cTBNWDNfc3A3MWs1UDNiYlZQMDNwZllYVTVaTFhuQjZveEM3dXhqbXNQcFQ4RElhcHJVR052bUIycnMydlliTU1PclJpVjQ4OHNleGlESU1KakdKX2t4Tzd5bXFaSWo4UVVfb2lhTFNrY1Q3Ukl5cXRoSjVYdEhVQzlzeEtTTXdYRzlGaWx5bkFWeGUzM3ZWbzM0dXlCZEEwamx4NXpNTnA1ZWduMkFWcU1WS3VNVGo1OE5ZQThzV3RpUTVZQVRNdHpPZGJ4SXYybk9CU3czbWxUQnRuaEdvSFJHSXZmTk00TDdzUklhd0djcTBCWXBtV1IwdEpYang3WlliTUM2bDFleV8zbjFqU28zS2M?oc=5",
       "domain": "العربية",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "معطيات حكومية: الاقتصاد يتصاعد بمعدل نمو مرتقب يبلغ 5.3 بالمائة - Hespress",
-      "description": "المصدر: Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOR0ozcjVVWUVTOUQ0NlBNc195NUtYMlFlcWJ0T3FsMWRmcDRIMjRTTEdFUzVsWklIYUNCWmdub3lHSEJ0Uk1zSFJhUEYxVVFOdXR4TmFlTVEzN3dVTDltZ0xkZmZJd2xBX3BYQ1FIN2poLTZnNHBEQ0EyWF9JSi1YeFFEVlRYMm9HcV80cHlmRHhDcVhDaTk5MWVFdFJPVzNweTJUSFE1aE1FUm13bW0xUmRzSGNaYU9TNTdoUWxzREFBRFVNSC15bG4xR2l4MlktSlRyRjZ2Z2R4b0V5VmFSaEV6Q3poQ2pBMGNtVzZWdFY1SXBLMHZOeGp4bWdUSnhmZ1BSU01IWVBpUW9FYjdTaGI2MUZONFJxOGVWWExyWnpWV2pLQ0x3ZzlJWTdOVUtWZXlHRnZib2FIOUkyejBXVFR3QXdremMtR1pKSUNVVGtkRE1M?oc=5",
-      "domain": "Hespress",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
@@ -597,15 +579,6 @@
     },
     {
       "category": "business",
-      "title": "المرصد الاقتصادي للمغرب – صيف 2024 الاقتصاد المغربي يثبت قدرته على الصمود لكن القطاع الخاص يواجه تحديات - مجموعة البنك الدولي",
-      "description": "المصدر: مجموعة البنك الدولي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR3lWUXFLM0NfWTdxcXplenN5dVo5Mjk0STlLNFN0cFNyVlRmNkRaa3U1WDQzTkRNUGdhYmZLWE52cXBUNjBfd0Ixdld0T21wNVVscWJzdk9xMXBIQnpfRDQwOWRYajZieFJsMXFJMGNHQV8yU2pZLVphakt3Szk5RXNKOXpHeDNqSFdRQ3F5OFZSV292d19LU1dvNUNVYVRXclNpNFh6bFpXUC11Y2NUcmtKVUJtWE1oQmZMeHgtbG01U3BRanRVZDV5Ml9zYkdfMl9BZWdQZG9KazBFOGs4cU94QXRtLTJWbTBEME1iQUxxaG9peXZYSFJMU1U?oc=5",
-      "domain": "مجموعة البنك الدولي",
-      "date": "Wed, 17 Jul 2024 07:00:00 GMT"
-    },
-    {
-      "category": "business",
       "title": "صندوق النقد الدولي يحذر المغرب من مخاطر ارتفاع أسعار النفط - Hespress",
       "description": "المصدر: Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -621,6 +594,33 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1hBbWdqZ1Y5VlRSRHhxSXlWQkUtcXNHSDE4ZERHdEJLTXFsYU5wSDZlZUZNaWdISDh2NXhnNk5CMzNzSFctbEd4N1BfYV92SGI4Tk12bVhVeW9DVmQtc3AwZmRrWXdkVWVXQkl5YTVDUmM2aFdleHBtMVZ3WEthMU42Y1NIYzZFSDlYajNWUFBsVWMwOTAyejNSU0hsdmhvVDZKZWxiLUhtMXZnRVUxdTdqWWZXUFpSTUZ5NUVTVEU2ZGJNVUFCRGo5NGNkdw?oc=5",
       "domain": "صراحة نيوز",
       "date": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "Live Stream.. Morocco vs France in the U20 World Cup 2025 Semi-Final - chamaly.ma",
+      "description": "المصدر: chamaly.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUV3WVRuYThybFpPZTA2dGRMX0tSSWIyakhIc1phZ2R3S2RZZDJIQld5LVdCbklCd1Qzc2hWUTNYcXlPOHdtQnJadVJnakdmSU1vOGc2UnNORG1mOTdsOWloeDJaN2pkTjNIbW1TODdudkduQ2x2XzM2ZEthbXBUVU1DeHBOMnRyTnd0NV8wY2RKMGFMSURnTmRRcEtrUQ?oc=5",
+      "domain": "chamaly.ma",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "أخنوش وصمود الاقتصاد المغربي - Hespress",
+      "description": "المصدر: Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPeGxZazQyQnZRRDNjeTBuOUpEeTZkWVAya2wyenNZbkFXeDk3aXlZS0NnWjN3N3Q4bTBnQ2pGTTZERGExczIzZU9VNHdyTkxoZlR1dUt3YzhDbVg3RnZEcEViaXRpX3o2NjU5MDhPVEllZEszeXNFZERfYkotTnJVczBXLVo1MnA0c2NWbjZEbnI3dVJxejJfRzJ3YU80LVZiZW1FbkxSekxzTWJIOTluSEZmQjFLODFQbzVuNU81ZDVYS3J6Z1luZnFhbW1MTnQwN0RjNjNuN1kzUnVPbHZUOWtSbGhUZm9TMFdSTm5FRjFsb1g5ci1obGpRbE1KOE1IUzRQQXQxdlFsMnU3bVlLRFRvSFdBMEVYVE5V?oc=5",
+      "domain": "Hespress",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "أخنوش: الاقتصاد المغربي على أعتاب قفزة نوعية، ومليون منصب شغل تلوح في الأفق - Agadir24",
+      "description": "المصدر: Agadir24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNcnVFZWNPM3pzczVvUGY1dkZkaFlSNlFCazhtMnpSNVFiclhIazBmNkZxclRrYUpsV29QMThMN3hpeTVSZ2x4R2ZPeXNUVjhXMk1Vd2dnejJ2TDU4Q3I4MV96enp2dy1xY2FEcEV0SHRCQS05cGxaR3NQMlVlS0VQaHltODJQS2lBQmNfdFFKNHowalpEZDFhQzhTNExOQTJWaXhObVNmNnJ1Uk5rdGdHRTE3Z1Y2MHRsMXJYODVpbHdZUkNOT2dhWXpZSkxCY0owVzZIcXZmQndrX19HQ0ZBLU9lNTNwTVp2dkNFekx0R0VRLWRHaUNDZ0tvLUdWZ2QzcmIyTWZ2QVZTcUVsQ2QxOE1oY1VyRUxGQ3NBU1FDZUF3THRWbzFjSlk1bkE1bHZ5eE1mUk5HOWxtTl80dnhZUHFpeEljWWM?oc=5",
+      "domain": "Agadir24",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
       "category": "general",
