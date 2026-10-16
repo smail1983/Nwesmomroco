@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T04:27:21.021054+00:00",
+  "updated_at": "2026-10-16T11:18:36.664922+00:00",
   "articles": [
     {
       "category": "business",
@@ -56,15 +56,6 @@
       "date": "Wed, 30 Sep 2026 16:24:00 GMT"
     },
     {
-      "category": "sports",
-      "title": "قرار عاجل من حسام حسن فور وصول بعثة منتخب مصر للقاهرة - 365Scores",
-      "description": "المصدر: 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNnRlcmw5dXMzSlVESkNOSkNic0xzYWE4a2VxaDRXRVdTbkdabnRISEhJUXpUZmlidG1xNXJFR3VvSV9pdlRoc05LdXNXQ2pxWEotT3F3X0tpUnp5TEFacjE5bkFObEM1bDNQcW5mTHg2TGVmQjZXX1FfLTVlU2pnTnctdmZkNHpNRnJ0bWluc2hiZlhSc0ZrZlR4M18xaUY4RkNJdDBxT3ROT2Jfc3lMaWdqdXB4UVczSDF2amplNUNma0ttQm5Dalo4bUZUTUNSU1BPZ1V6SlpnZ09EUGpPc2VJaDZkYm51bUY0aHdTVEZaMFkwNlhUeUtockVKT2pxYzF2bkhzU2xLWXNpNThrWl9OZUxLVmM2eUw3U05jS0V4MTlFNWdnUk56MjVrRUZnek5YRV9HakFHakRDbFE3ejJPVjVYMTZtbm5wdUlMU0trd0J3UWhKS0JGcEUwSlRlN3c?oc=5",
-      "domain": "365Scores",
-      "date": "Wed, 30 Sep 2026 16:11:32 GMT"
-    },
-    {
       "category": "general",
       "title": "منتخب المغرب - مالي تعوض غانا في ودية طنجة - قناة ومنصة المشهد - أخبار العالم اليوم",
       "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
@@ -84,15 +75,6 @@
     },
     {
       "category": "general",
-      "title": "أسعار صرف أهم العملات الأجنبية اليوم الأربعاء - inews.ma",
-      "description": "المصدر: inews.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1SQzZHWW9sMmtQLThNWURnTjliQzhzenNyemVlVTdTck5HQkprTERVZFVfQ29XV1ZDV2dwR0ZhYks3Vkk?oc=5",
-      "domain": "inews.ma",
-      "date": "Wed, 30 Sep 2026 13:43:15 GMT"
-    },
-    {
-      "category": "general",
       "title": "\"كاس\" تحدد موعد جلسة استئناف السنغال ضد تتويج المغرب بأمم إفريقيا 2025 - قناة ومنصة المشهد - أخبار العالم اليوم",
       "description": "المصدر: قناة ومنصة المشهد - أخبار العالم اليوم",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -101,7 +83,7 @@
       "date": "Wed, 30 Sep 2026 13:40:34 GMT"
     },
     {
-      "category": "general",
+      "category": "sports",
       "title": "عاجل: محكمة التحكيم الرياضي تنظر في ملف نهائي كان 2025 بأبواب مغلقة - inews.ma",
       "description": "المصدر: inews.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -270,15 +252,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBUSXRQbnV6RHJJLWUtWVN3ZjRpV3NSWDBieTYwYXpsWmtBS0Y1ZmFTN3AzSUZLMlB4LWgxR2Fxd2t1b1U?oc=5",
       "domain": "كيفاش",
       "date": "Wed, 28 May 2025 07:00:00 GMT"
-    },
-    {
-      "category": "business",
-      "title": "بدعم \"المقاولات\".. صمود الاقتصاد المغربي أمام هزات الجائحة - العين الإخبارية",
-      "description": "المصدر: العين الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4Q09RSTdIWUdTc3lCSktiLWExV01qbmlKb0NoQmZ4c21ycE56RVRWUU13a3plblRna2F2Ymp5WDhoMG1kbEFubExmQV90bFJ0ZGhIamN2UE1pUFZ5UWFfc1I0M29TZHhiYkNPMUhTRk52VFA4ZDdZ?oc=5",
-      "domain": "العين الإخبارية",
-      "date": "Wed, 27 Jan 2021 08:00:00 GMT"
     },
     {
       "category": "technology",
@@ -551,6 +524,24 @@
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
+      "category": "general",
+      "title": "الانتخابات التشريعية 2026 - Maroc.ma",
+      "description": "المصدر: Maroc.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzBWSFU0MzNtNUVnWThMMGNoWlhZLW9XVDh2ZmFwbUh5elVMMHZWZGR1UUVWRFo0ME05MXRpV1ZHdl90cDJKdF9QbDlxR3EtclZmYjl2bmJwZWZ6STRicmM5cHNWY2dVX2tGR1pPaWoyMFF1c3J4VmhZNGdubU0xREFYTkFEdFowV0VwQ1VZcU1vdTliOWY2QUFtWmRKVWFUYk5rV3dFU051T2FWNUx1V1FVVHJGdHRrc2FTU21fVVJhR3llY2Njem5wZ3k1a0dxX2J1RUczRQ?oc=5",
+      "domain": "Maroc.ma",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "title": "{teamName}: كل المعلومات، الأخبار، والنتائج - kingsleague.pro",
+      "description": "المصدر: kingsleague.pro",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONGZLTGdtRUN6MW1DT0pjNGdQWUk0NmxoSkljdUJWeTlpWlZyNnlvVzJtVlEzWFhxQmthUDZMY1hKNmMydzlFZnJQdWxka0ctcXV2dW1JZw?oc=5",
+      "domain": "kingsleague.pro",
+      "date": "Wed, 22 Oct 2025 21:05:25 GMT"
+    },
+    {
       "category": "business",
       "title": "انخفاض معدل التضخم السنوي في المغرب إلى 0.3% خلال يونيو - العربية",
       "description": "المصدر: العربية",
@@ -621,6 +612,15 @@
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNk9HSnlqdVVEZ1U5NVliN0RpRU8xeUJTczBnQjZiOFhkdFNJSTk3MUVhQ2V1Rmx3d1lNbWRmLUYtNEh0NUFQMU82b1VHeksxcnpLQTEwUVJfd0Vxc3AzcnlBWHBBV0dWWUt0M1NJNThHemh6VERjclBaTGpfVmN3S3ZjR1pyUmxCYV9KRmVTd05CcjhZcWttd1VZTVk2cE15RGI0WEZsQnA3YTNOWFJDS0RDd0NVWFFQQVhQMXJQZTNRU0Fhclp5MnpSN2xRWkp1TzA1ZGdSVWVqUlVLWjFnRzhHR3ZvTHZSZEZzUjEzYnVya19yN2NIQWNfMjd6NTEtRVRZeFNaeVhXYUt1TG8xTDVtaEJvSVYzbFk1SDlHcGZqUlhYTDVkNnJrOWd1Q0hyeWpBNmpXU3lhRjA2aDdYcy1oMTZIdFltSTRzRGFRaW9GbTV5WkE?oc=5",
       "domain": "Hespress",
       "date": "Wed, 16 Dec 2020 06:01:41 GMT"
+    },
+    {
+      "category": "business",
+      "title": "Royal Jordanian Launches New Route Connecting Amman and Casablanca with Two Weekly Direct Flights - صراحة نيوز",
+      "description": "المصدر: صراحة نيوز",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1hBbWdqZ1Y5VlRSRHhxSXlWQkUtcXNHSDE4ZERHdEJLTXFsYU5wSDZlZUZNaWdISDh2NXhnNk5CMzNzSFctbEd4N1BfYV92SGI4Tk12bVhVeW9DVmQtc3AwZmRrWXdkVWVXQkl5YTVDUmM2aFdleHBtMVZ3WEthMU42Y1NIYzZFSDlYajNWUFBsVWMwOTAyejNSU0hsdmhvVDZKZWxiLUhtMXZnRVUxdTdqWWZXUFpSTUZ5NUVTVEU2ZGJNVUFCRGo5NGNkdw?oc=5",
+      "domain": "صراحة نيوز",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
       "category": "general",
