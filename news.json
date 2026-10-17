@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T08:50:38.067742+00:00",
+  "updated_at": "2026-10-17T08:51:07.968469+00:00",
   "articles": [
     {
       "category": "general",
@@ -335,15 +335,6 @@
       "date": "Wed, 14 Oct 2026 18:14:05 GMT"
     },
     {
-      "category": "sports",
-      "title": "تابع هولندا ضد المغرب - TOD",
-      "description": "المصدر: TOD",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDhUV1BxWGxZekM0Z2JBMHFNQXBuTGZXQXFoMmJkUk1ncW5oRlRYQ1J1UXFJQTA1dTJMbHBaUkQtVDBqekN5RG5sb2pCbkNsUVFyRmgwekxSQnotNm9sMmhwYTU5Zm13eUlrN1lMcVdIT2VtRlpJalhMdDBLa3V1TEdCQWJUTGJHdXlmNFZSQ29RNEtHUW9JQUYyZw?oc=5",
-      "domain": "TOD",
-      "date": "Wed, 14 Oct 2026 18:07:52 GMT"
-    },
-    {
       "category": "business",
       "title": "الاقتصاد المغربي يترقب نموا بـ4,7%.. الفلاحة والخدمات والاستثمار تقود الانتعاش - برلمان.كوم",
       "description": "المصدر: برلمان.كوم",
@@ -477,6 +468,15 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBpb19uYnZhNjEtVVlkX0trOEFibEJPWW0taEt3TC1wRXFxbGdLV3FaV1M5Y1lzeE5yVjFJaHBOX0dUSWc?oc=5",
       "domain": "https://inews.ma/",
       "date": "Wed, 14 Oct 2026 15:13:58 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "أنس صلاح الدين - صوت الحق الاخباري",
+      "description": "المصدر: صوت الحق الاخباري",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdnF6NEVOcS1SdThFR2pTOEtPWkhqeEtyZlBqeHQ0VGFnRWFfdFJlWUc5OV8zdzNFOHcwdDhPYlNLZjlLMjRWY1lERExaaVF0UkloRWxteTFtNlF1R05HaW1JMk9kUWlCWE0xaVJEZzBpOElmSzE2N3JGX3BuQQ?oc=5",
+      "domain": "صوت الحق الاخباري",
+      "date": "Wed, 14 Oct 2026 15:03:47 GMT"
     },
     {
       "category": "business",
