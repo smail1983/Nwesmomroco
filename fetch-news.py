@@ -1,4 +1,6 @@
+import html
 import json
+import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -83,6 +85,59 @@ def text_of(parent, tag):
     return (node.text or "").strip() if node is not None else ""
 
 
+def clean_text(value):
+    """Turn RSS HTML snippets into short readable Arabic text."""
+    value = html.unescape(value or "")
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
+def clean_title(title, source):
+    """Remove the repeated source suffix added by Google News RSS."""
+    title = clean_text(title)
+    source = clean_text(source)
+    if source:
+        patterns = [
+            rf"\s*[|–—-]\s*{re.escape(source)}\s*$",
+            rf"\s*[|–—-]\s*{re.escape(source.replace('https://', '').replace('http://', ''))}\s*$"
+        ]
+        for pattern in patterns:
+            title = re.sub(pattern, "", title, flags=re.IGNORECASE).strip()
+    title = re.sub(r"\s{2,}", " ", title)
+    return title
+
+
+def item_image(item):
+    """Use an RSS image when the publisher exposes one; otherwise use the fallback."""
+    for child in list(item):
+        tag = child.tag.split("}")[-1].lower()
+        if tag in {"content", "thumbnail", "enclosure"}:
+            url = child.attrib.get("url") or child.attrib.get("href") or ""
+            media_type = child.attrib.get("type", "")
+            if url and ("image" in media_type or tag in {"content", "thumbnail"}):
+                return url
+
+    description = text_of(item, "description")
+    match = re.search(r'<img[^>]+(?:src|url)=["\']([^"\']+)', description, flags=re.I)
+    return match.group(1) if match else FALLBACK_IMAGE
+
+
+def item_description(item, title, source):
+    raw = clean_text(text_of(item, "description"))
+    # Remove a repeated title/source prefix if the RSS feed includes it.
+    if raw and raw != title:
+        raw = raw.replace("Google News", "").strip(" -|–—")
+    if not raw or raw.lower() == clean_text(source).lower():
+        if source:
+            return f"آخر المستجدات حول: {title}. المصدر: {source}."
+        return f"آخر المستجدات حول: {title}."
+    if source and raw.lower() == source.lower():
+        return f"آخر المستجدات حول: {title}. المصدر: {source}."
+    # Keep the homepage cards concise.
+    return raw[:360].rstrip() + ("…" if len(raw) > 360 else "")
+
+
 def is_recent(pub_date):
     try:
         dt = parsedate_to_datetime(pub_date)
@@ -104,15 +159,18 @@ for category, queries in FEEDS.items():
         try:
             root = ET.fromstring(fetch_feed(query))
             for item in root.findall("./channel/item"):
-                title = text_of(item, "title")
+                raw_title = text_of(item, "title")
                 url = text_of(item, "link")
                 pub_date = text_of(item, "pubDate")
-                source = text_of(item, "source")
+                source_node = item.find("source")
+                source = (source_node.text or "").strip() if source_node is not None and source_node.text else ""
+                source_url = source_node.attrib.get("url", "") if source_node is not None else ""
+                title = clean_title(raw_title, source)
 
                 # Ignore empty, duplicate, source-only and stale RSS results.
                 if not title or not url or not pub_date:
                     continue
-                if len(title.strip()) < 25 or title.strip() == source.strip():
+                if len(title.strip()) < 25 or title.strip() == clean_text(source).strip():
                     continue
                 if not is_recent(pub_date):
                     continue
@@ -125,10 +183,11 @@ for category, queries in FEEDS.items():
                 articles_by_category[category].append({
                     "category": category,
                     "title": title,
-                    "description": "المصدر: " + (source or "Google News"),
-                    "image": FALLBACK_IMAGE,
+                    "description": item_description(item, title, source),
+                    "image": item_image(item),
                     "url": url,
                     "domain": source,
+                    "source_url": source_url,
                     "date": pub_date
                 })
         except Exception as exc:
