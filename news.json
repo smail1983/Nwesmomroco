@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:15:47.197195+00:00",
+  "updated_at": "2026-10-17T10:38:48.643280+00:00",
   "articles": [
     {
       "category": "general",
@@ -223,6 +223,17 @@
     },
     {
       "category": "general",
+      "title": "لدغة أفعى تفجر مواجهة بين برلماني ومديرية الصحة بتاونات.. اتهامات متبادلة ومطالب بالتحقيق",
+      "description": "لدغة أفعى تفجر مواجهة بين برلماني ومديرية الصحة بتاونات.. اتهامات متبادلة ومطالب بالتحقيق https://inews.ma/",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE96MGdGbUU5NldCYTZndWpNWDE1SlhNeG02ZW5td3pldVpURjRKc1RZYjY0Wkk3czBvUUpEUWlWX0hjRWM?oc=5",
+      "domain": "https://inews.ma/",
+      "source_url": "https://inews.ma",
+      "date": "Wed, 14 Oct 2026 19:38:49 GMT",
+      "local_url": "/article-781d2a2944db.html"
+    },
+    {
+      "category": "general",
       "title": "الدقّ والسكات في المغرب… والزغاريد والجوق في سبتة ومليلية! #المغرب",
       "description": "الدقّ والسكات في المغرب… والزغاريد والجوق في سبتة ومليلية! #المغرب YouTube",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -365,17 +376,6 @@
       "local_url": "/article-65b08915de04.html"
     },
     {
-      "category": "sports",
-      "title": "عاجل : تشكيلة ريال مدريد الرسمية امام روما",
-      "description": "عاجل : تشكيلة ريال مدريد الرسمية امام روما شبكة تواصل الإخبارية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tUEY1M0oxa0xkYWRyMVE1UjZOMVhFZXl0ZVJTTUNtYUdYN3pheFJ6ZDUwODlUT2NCZVpGLURTcnZRVEhVUXFqcUlxTlhJTzFwNFdV?oc=5",
-      "domain": "شبكة تواصل الإخبارية",
-      "source_url": "https://twaslnews1.twaslnews.com",
-      "date": "Wed, 14 Oct 2026 18:00:24 GMT",
-      "local_url": "/article-a7307b25ee23.html"
-    },
-    {
       "category": "business",
       "title": "المندوبية السامية للتخطيط: الاقتصاد الوطني المغربي سجل نموا بـ4,1 في المائة خلال الفصل الثالث من 2026",
       "description": "المندوبية السامية للتخطيط: الاقتصاد الوطني المغربي سجل نموا بـ4,1 في المائة خلال الفصل الثالث من 2026 ANFASPRESS",
@@ -465,6 +465,17 @@
     },
     {
       "category": "business",
+      "title": "الاقتصاد الجزائري الأول مغاربيا والرابع إفريقيا",
+      "description": "الاقتصاد الجزائري الأول مغاربيا والرابع إفريقيا أفريكا نيوز",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQV0NYb2VKODViQlFmYkhmQUlTYW92bUw3ZVpmc3dQZjBQZlFCOXEwVmhNVjQ1UWpvUmV5MDRiY1VPYjFhc09fZ2xHZU5vaHcwWkh5c29zRGJQQXpqOU13ZE5DYVgyUE9uR3FlUlp6MFhCQk5fVDFGOVRoTGNSLUwxN1ZDSVl6WVdYYzg5YlVuUEdaZC12QnVqbWVJRTJhZjF6bW9ZUDh4Z1ZRV3BNQTQxNXlNMk1sZk1ROFJVYUhnYlI3R3VvalVlRDFlUzV5ZzdEQ2dIZmdoenVjUHVRNjE4QnN1ZDFvb19QTE00VUt5c0tMWl9TS1k4aFhtZERLRUJKb1JrM3NDVXhoc3h4M0dINlJsXzhTN2tDSVRqV040ck5CRkVHVmZvZ1RjX0plZGx3dWRORGV4M1IzeVlqdDNBNA?oc=5",
+      "domain": "أفريكا نيوز",
+      "source_url": "https://africanews.dz",
+      "date": "Wed, 14 Oct 2026 16:31:04 GMT",
+      "local_url": "/article-b61ab82effe9.html"
+    },
+    {
+      "category": "business",
       "title": "في تحقيق مطول لمجلة “جون افريك” : نساء يرسمن ملامح الاقتصاد المغربي ، تعرفوا عليهن ..",
       "description": "في تحقيق مطول لمجلة “جون افريك” : نساء يرسمن ملامح الاقتصاد المغربي ، تعرفوا عليهن .. مشاهد أنفو",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -541,17 +552,6 @@
       "local_url": "/article-1795eb080b6e.html"
     },
     {
-      "category": "general",
-      "title": "تحذير عاجل من المسرح الملكي بالرباط بسبب حفلات فنية \"مزيفة\"",
-      "description": "تحذير عاجل من المسرح الملكي بالرباط بسبب حفلات فنية \"مزيفة\" LeSiteinfo.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQeTRONUdqR195Z3l6OFlHMHZSd0JFUUJYaWxSMkZIeHFIcVJqbzFnU0tMc3Z2SFk2MnZUdDBLSjZhd2ZxUDUwZk5lV2pMV0FIbDBtQS1McDBRZDY3ZjdybGx3dlBGNmtVWFVObXFyU0k5VnZ3a0tzbjFuNW51YnpDU0hyV3d0eVN2dG9ncnhfZ0E3S2FpOUlReHBhQ2xKMjk1dEVFSWx2Ym1HV01QMzVsNy1NNVVzT2UtalFXVTlkSDdvWHV5XzFqSk5LNmRzdjhNbHZZV3g4c0lCYnlveTJ2ODdlLXZZUG5SalFVYjJWSXRncl95WnFyMnBhZV9VVEpHeEl2RFZWNGVoVWNNMndYZmt4bXRlRTNFT0pzVnlTUGxqY25TRGhIbVRQVVJKN2c4UlFGOTY1ZndfUjhGNFhiUzVLbUswUnN3eVFVZ0ZvcDBsWXphTklnR09TeVBPdE13RDh4UTBUbFozQQ?oc=5",
-      "domain": "LeSiteinfo.com",
-      "source_url": "https://ralia.lesiteinfo.com",
-      "date": "Wed, 14 Oct 2026 15:13:41 GMT",
-      "local_url": "/article-68add9aa7295.html"
-    },
-    {
       "category": "sports",
       "title": "مدربة جمهورية الصين الشعبية ما شياو شو تستعد للمشاركة في كأس العالم للسيدات تحت 17 سنة",
       "description": "مدربة جمهورية الصين الشعبية ما شياو شو تستعد للمشاركة في كأس العالم للسيدات تحت 17 سنة FIFA",
@@ -594,6 +594,17 @@
       "source_url": "https://hnews.ma",
       "date": "Wed, 14 Oct 2026 14:05:00 GMT",
       "local_url": "/article-1e16074f9ece.html"
+    },
+    {
+      "category": "sports",
+      "title": "منخرطو الرجاء يصعّدون ويطالبون الزيات باجتماع عاجل لتقييم وضع الفريق",
+      "description": "منخرطو الرجاء يصعّدون ويطالبون الزيات باجتماع عاجل لتقييم وضع الفريق lematinsports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPQ2QtaVNXY1FnVGdqQTQ5ZXltQ1hZak9fX1BndDh5RzdYZi1sSFc2bThvWUxRd1pFYU1neW9fTGdvbF83WGZtUlJQNDFfUmZLZFh0Q09fQmVCLUdVOGRhYWNyZlczNXY2SF9rMko0YU9oU0drRG5oOVY2Mk40eGc4S1dnVE5BV1RPeWRoMEYwalc3aWpGa19YSDZyaTZKaXpmUTZrVWNLRGFUTmp5OHFPMHdKUTkzVmtKMkplYUZhTDZhUWZTX2c0U2Y1YnNxTGYzTEtsT05jcHQwMDlJeVdWM1JNdjNfb3lBM3V4eDZSNmJqU3BqS1ZHRjV0TTl6TlNuZ3oxMUFlVUo0OTNRamltQ3BiZDVyaHFBeHpyTzRvaTc1MzB2ZjBxZ3dMNnFYcnNWMVVIMnhrcTBOLWp5WktEdWRGQVFaT2ZKS0lrOHBZWjVfMnlvSWhLUUVnZ1NsUFp2Mlk2bldlR25CUjFWYTdIUnhuMVktcU8tWlV1V05KYk5FVE9CWkttWUNwV3BpT3FRUmJFeERqTDFSMzJNU3RmbE9PdVZ5YjBTdmYxdHVYRGNCWWJKRnpDR3NXZkNidXlXTmhiWEF6Ql9XMnB3UktMZFE4eGFnQ1hDQXpTNDE0MEY4dFRkNkY2a3J0SWlPY2thb1RwXzhnd2VURkpMeGdOSjJFeEo4Z1htLVZ6aDB6aDlNZndxZkwyODY2WFNOVHZhSHUtZkZMU1ZfRlZQRUZacTNqbkx3dUdyNndzam5PVlVwdUw0cGtWY2dzOFpoSlJNWmlRRzBxQ2NNS1QwbDdXaA?oc=5",
+      "domain": "lematinsports",
+      "source_url": "https://sports.lematin.ma",
+      "date": "Wed, 14 Oct 2026 13:55:00 GMT",
+      "local_url": "/article-b1e808025b21.html"
     },
     {
       "category": "business",
@@ -693,17 +704,6 @@
       "source_url": "https://barlamane.com",
       "date": "Wed, 14 Oct 2026 12:15:54 GMT",
       "local_url": "/article-186fc702af8c.html"
-    },
-    {
-      "category": "business",
-      "title": "مدفوعا بالأسمدة والاستثمار.. نمو اقتصاد المغرب يتجه نحو 4.7% بنهاية 2026",
-      "description": "مدفوعا بالأسمدة والاستثمار.. نمو اقتصاد المغرب يتجه نحو 4.7% بنهاية 2026 ihata",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQb3dxcnExbmlhMEFzNXVhTGl1ZExBVWE4al9tWWJGOXhUakcyTXhxMmNVTEpOWjlZczdKaXh6NVlmX1owM0NibmJYTG9fYTVZZGJNbVZCS3AxMzJFeG9pM2ZHTHFlMTZLSUJObGt5dm1rSmpqbWdrNG9Lb3hCX2hBSEt0MUtNUU5HdjJ0WW1LM2FfT0JJdkNlbk9YdzlibDN0c0ljTm80bWtOdG1NVUFrbFc5OWJUV29lY0t4NkJ0VWhTWWliN3ZJLU5Vem9rWmFyOHY3MVdwTzV1Nm1wZGN4U2wxajNsS0RkUEpwSFZwaUFSYUxPazQzcHNDOUp1bzZBemNQczR4Y1NMRGpxazgzS0kyX0tpekpLVFVPb2FYRVV0WEh3cDFrZHQwNGpYSWRFeTYyZmJyems1Sk9CT2lZMXBEN1dMdw?oc=5",
-      "domain": "ihata",
-      "source_url": "https://ihata.ma",
-      "date": "Wed, 14 Oct 2026 12:08:07 GMT",
-      "local_url": "/article-69ca48c0c96c.html"
     },
     {
       "category": "technology",
