@@ -2,7 +2,8 @@ import json
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 # NewsMorocco focuses on Moroccan news, with extra priority for breaking
@@ -55,9 +56,13 @@ FEEDS = {
 
 SITE_URL = "https://nwesmomroco.com"
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
+RECENT_DAYS = 3
 
 
 def fetch_feed(query):
+    # Restrict Google News RSS results to recent stories so old archive
+    # results cannot fill the homepage.
+    query = f"{query} when:{RECENT_DAYS}d"
     params = urllib.parse.urlencode({
         "q": query,
         "hl": "ar",
@@ -67,7 +72,7 @@ def fetch_feed(query):
     url = "https://news.google.com/rss/search?" + params
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "Mozilla/5.0 NewsMorocco/2.0"}
+        headers={"User-Agent": "Mozilla/5.0 NewsMorocco/3.0"}
     )
     with urllib.request.urlopen(req, timeout=25) as response:
         return response.read()
@@ -76,6 +81,16 @@ def fetch_feed(query):
 def text_of(parent, tag):
     node = parent.find(tag)
     return (node.text or "").strip() if node is not None else ""
+
+
+def is_recent(pub_date):
+    try:
+        dt = parsedate_to_datetime(pub_date)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt >= datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)
+    except Exception:
+        return False
 
 
 # Keep a separate pool for each category so one topic cannot fill the whole feed.
@@ -94,7 +109,14 @@ for category, queries in FEEDS.items():
                 pub_date = text_of(item, "pubDate")
                 source = text_of(item, "source")
 
-                if not title or not url or url in seen or url in category_seen:
+                # Ignore empty, duplicate, source-only and stale RSS results.
+                if not title or not url or not pub_date:
+                    continue
+                if len(title.strip()) < 25 or title.strip() == source.strip():
+                    continue
+                if not is_recent(pub_date):
+                    continue
+                if url in seen or url in category_seen:
                     continue
 
                 category_seen.add(url)
