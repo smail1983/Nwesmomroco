@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:43:28.087322+00:00",
+  "updated_at": "2026-10-17T15:30:24.628925+00:00",
   "articles": [
     {
       "category": "general",
@@ -79,17 +79,6 @@
       "local_url": "/article-aeaf7fdf7ec4.html"
     },
     {
-      "category": "sports",
-      "title": "\"كان\" الفوتسال .. المنتخب المغربي يكتسح زامبيا بسباعية ويضمن التأهل إلى المربع الذهبي",
-      "description": "\"كان\" الفوتسال .. المنتخب المغربي يكتسح زامبيا بسباعية ويضمن التأهل إلى المربع الذهبي Medi1news",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meEd2eXJyOTFxcWJ1LVNpUEZ5MlVYMEFVaGZoYWwtYllSbUUwTUdHY2Z1d0JKcHFPWF9kM24tOTdtVERqQlFCTWx2VGpNWjNnT3VQUnpjQlNLY2Vt?oc=5",
-      "domain": "Medi1news",
-      "source_url": "https://www.medi1news.com",
-      "date": "Wed, 14 Oct 2026 22:10:44 GMT",
-      "local_url": "/article-89aa5b49b0e9.html"
-    },
-    {
       "category": "general",
       "title": "البطولة: « ريمونتادا » اتحاد طنجة أمام المغرب الفاسي تمنحه النقاط الثلاث – اليوم 24",
       "description": "البطولة: « ريمونتادا » اتحاد طنجة أمام المغرب الفاسي تمنحه النقاط الثلاث – اليوم 24 اليوم 24",
@@ -110,17 +99,6 @@
       "source_url": "https://www.almashhad.com",
       "date": "Wed, 14 Oct 2026 21:57:04 GMT",
       "local_url": "/article-808e1241edc3.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"أسود القاعة\" يدكون شباك زامبيا بسباعية ويبلغون نصف نهائي \"الكان\"",
-      "description": "\"أسود القاعة\" يدكون شباك زامبيا بسباعية ويبلغون نصف نهائي \"الكان\" Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOWWZYZXJ4VnZZblpJbWhmaTN6R3diWUNneDBWMHZxRERLMHkyLUdUYnI3cnFRSjJ0X1FWLUhDekwxLXN0Y1NCaThTSVNSUXNhSGtuYWFyaGpBMVpKZ0VjWGlYNm9KZEZYOUkzRWJaQmRDX1Jrb1hjU2s3UzNnVEdPaV9VTlBsczk1VzMtUTQ0R25PakxCNGpya0NMaW9lNVk3MnpnVGFWWHdpaGhRcnh0OU0xazIyZ1c1X1V6d0xfR3lodGVoR1Zxc0hzUmtSc0lhamlES0dWSmN5eWFrNVdtM2Qzb3BqTkI5bWNyRnd2aVBMMDZCZWN5TlpiNWo3N0VVQ0lObXFKUERpWWVtb3c3bUtYRC12RkdyVS1INW9TaEw3ZlBHQThxQTRnbmtCN1FnbGZXSFI2YkdfN3hEaDBIQWVQVEdMbk9SSFhjMFdB?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 14 Oct 2026 21:55:50 GMT",
-      "local_url": "/article-408a19e82714.html"
     },
     {
       "category": "technology",
@@ -145,6 +123,17 @@
       "local_url": "/article-dd77dad1358f.html"
     },
     {
+      "category": "general",
+      "title": "المنتخب المغربي للفوتسال يكتسح زامبيا بسباعية ويضمن التأهل إلى نصف النهائي",
+      "description": "المنتخب المغربي للفوتسال يكتسح زامبيا بسباعية ويضمن التأهل إلى نصف النهائي العمق المغربي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zYUFzZzRsUTlHUGdXY3J0UGJEMms3SzI1UDRrZnV3enBfUGQ3UEp1RDBRaGZiTVZDYXA0WW1RZm1HR2hoU1HSAUtBVV95cUxNNUNCUi1YTXp6S1lYS1ZFRHpTTkZaVWRFTWxfNFdhSmRJVmVaSHdFMG9oUHFHMzZHSURRZEpOX012TUpLXzZ2dW5kUm8?oc=5",
+      "domain": "العمق المغربي",
+      "source_url": "https://al3omk.com",
+      "date": "Wed, 14 Oct 2026 20:45:26 GMT",
+      "local_url": "/article-884560664043.html"
+    },
+    {
       "category": "technology",
       "title": "رئيس النيابة العامة يثير تحديات استخدام الذكاء الاصطناعي في القضاء",
       "description": "رئيس النيابة العامة يثير تحديات استخدام الذكاء الاصطناعي في القضاء https://inews.ma/",
@@ -167,17 +156,6 @@
       "local_url": "/article-15afd4a15b92.html"
     },
     {
-      "category": "general",
-      "title": "بعد احتجاجات الموظفين.. كلية بالرباط تعتمد رسوما متدرجة للدكتوراه حسب الأجر الشهري",
-      "description": "بعد احتجاجات الموظفين.. كلية بالرباط تعتمد رسوما متدرجة للدكتوراه حسب الأجر الشهري https://inews.ma/",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE95S1Vqd0ZyY3hZR2drR21hYldnbmtTelhsdHR2c2xycXJ6Y3ZocUdPZkdERkd2MkR2RGFxbndOOTlNcWs?oc=5",
-      "domain": "https://inews.ma/",
-      "source_url": "https://inews.ma",
-      "date": "Wed, 14 Oct 2026 20:24:14 GMT",
-      "local_url": "/article-d32cf3414ef9.html"
-    },
-    {
       "category": "business",
       "title": "صندوق النقد يخفض توقعات نمو المغرب إلى 4.5% في 2026",
       "description": "صندوق النقد يخفض توقعات نمو المغرب إلى 4.5% في 2026 جورنال 24",
@@ -198,6 +176,17 @@
       "source_url": "https://www.winwin.com",
       "date": "Wed, 14 Oct 2026 20:08:55 GMT",
       "local_url": "/article-9849212bf019.html"
+    },
+    {
+      "category": "technology",
+      "title": "بالأمم المتحدة .. الأردن يجدد تأكيد دعمه لسيادة المغرب ووحدته الترابية",
+      "description": "بالأمم المتحدة .. الأردن يجدد تأكيد دعمه لسيادة المغرب ووحدته الترابية نبأ الأردن",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85cG9JQk1oUVA1Ymd2UEFOQ0NZOFFEczRxMzZ5cDlyVkszTDVoMWRuMjhaWG5zSWpLMU8zQjVXWGdaVlpCWGRjdTZVeVg4VFF6?oc=5",
+      "domain": "نبأ الأردن",
+      "source_url": "https://nabaajordan.com",
+      "date": "Wed, 14 Oct 2026 19:50:04 GMT",
+      "local_url": "/article-5a2a970e3a52.html"
     },
     {
       "category": "general",
@@ -277,17 +266,6 @@
       "local_url": "/article-da2c33d307f9.html"
     },
     {
-      "category": "sports",
-      "title": "شارك في كأس أفريقيا 2025.. نجم منتخب المغرب يعتزل بعمر 32 عاما",
-      "description": "شارك في كأس أفريقيا 2025.. نجم منتخب المغرب يعتزل بعمر 32 عاما الجزيرة نت",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRDNLcXBMb0ZDTG54SUdENE55U3FsXzZTZklJb1F0RzVVVnNwRXd5NTdDZnpzM2pTSnAzN0NTQzFZdkd0OFExNHRQYVJRU3lfbS1YMEJYNGRFbUdOZlh6b0hPX0R5TVlXNGI0eVd3MmVqcUFsQlZxSldTck1ZUlkxNGNyM0RWcWxLaDdRdGRsdVcwYnk4NnNJOHNrRnVYeGtSZUlHeXZPX3B5WHlRV2JjeHI0MzhaNWJza3UyNGFNMFFDaHUyeFJURDYwREZPRXF0QzRNZGlXZ3VtNDR3T0twakdFc1Y4c2RvZkNFY2RnbHA4UDU3cFJaUzZKVGVNaGs0dUd6dXRRUVZGRU9HRk9OZDhwUHpYS3k4WVVjS21kWXlHQ2F2azNWWll3Z0Vuc1BadlRSMnVaUlBDOXc3cU1fQ1pLenNCYS1sajA0M1pQR2VuRGY2SlJHWU1n0gHaAkFVX3lxTFBEM0txcExvRkNMbnhJR0Q0TnlTcWxfNlNmSUlvUXRHNVVWc3BFd3k1N0NmenMzalNKcDM3Q1NDMVl2R3Q4UTE0dFBhUlFTeV9tLVgwQlg0ZEVtR05mWHpvSE9fRHlNWVc0YjR5V3cyZWpxQWxCVnFKV1NyTVlSWTE0Y3IzRFZxbEtoN1F0ZGx1VzBieTg2c0k4c2tGdVh4a1JlSUd5dk9fcHlYeVFXYmN4cjQzOFo1YnNrdTI0YU0wUUNodTJ4UlRENjBERk9FcXRDNE1kaVdndW00NHdPS3BqR0VzVjhzZG9mQ0VjZGdscDhQNTdwUlpTNkpUZU1oazR1R3p1dFFRVkZFT0dGT05kOHBQelhLeThZVWNLbWRZeUdDYXZrM1ZaWXdnRW5zUFp2VFIydVpSUEM5dzdxTV9DWkt6c0JhLWxqMDQzWlBHZW5EZjZKUkdZTWc?oc=5",
-      "domain": "الجزيرة نت",
-      "source_url": "https://www.aljazeera.net",
-      "date": "Wed, 14 Oct 2026 19:10:35 GMT",
-      "local_url": "/article-658bb6fa9061.html"
-    },
-    {
       "category": "business",
       "title": "تقارير دولية ترصد صمود الاقتصاد المغربي أمام التقلبات العالمية",
       "description": "تقارير دولية ترصد صمود الاقتصاد المغربي أمام التقلبات العالمية Febrayer",
@@ -343,6 +321,17 @@
       "local_url": "/article-7e9ddd34cff8.html"
     },
     {
+      "category": "general",
+      "title": "قصص من الدوار.. “حكايات من التراث” تستعيد زمن “القبيلة” ودور”الحاكم”",
+      "description": "قصص من الدوار.. “حكايات من التراث” تستعيد زمن “القبيلة” ودور”الحاكم” https://inews.ma/",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzWEZkTlhjcE11MG80MXNDVVpTWHBtcFBhRU8tNktJN1pSWUlWOG1ucUdRX0NDNmZXby1pSjJuTGJIdTA?oc=5",
+      "domain": "https://inews.ma/",
+      "source_url": "https://inews.ma",
+      "date": "Wed, 14 Oct 2026 18:04:13 GMT",
+      "local_url": "/article-c35149ccda0d.html"
+    },
+    {
       "category": "business",
       "title": "الاقتصاد المغربي يترقب نموا بـ4,7%.. الفلاحة والخدمات والاستثمار تقود الانتعاش",
       "description": "الاقتصاد المغربي يترقب نموا بـ4,7%.. الفلاحة والخدمات والاستثمار تقود الانتعاش برلمان.كوم",
@@ -352,17 +341,6 @@
       "source_url": "https://barlamane.com",
       "date": "Wed, 14 Oct 2026 18:01:28 GMT",
       "local_url": "/article-b863c6c126b1.html"
-    },
-    {
-      "category": "sports",
-      "title": "شارك بنهائي أمم أفريقيا.. نجم منتخب المغرب يعلن اعتزاله في عمر 32 عاما",
-      "description": "شارك بنهائي أمم أفريقيا.. نجم منتخب المغرب يعلن اعتزاله في عمر 32 عاما Kooora",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQdkxMODR1eVVqYUE3ZlB0Z2NVZmhPUnBzTFhMLTRZZXN6Wi1mMkh6ckhZRjN4YWtMdUNPNVlBcjJvOUFCVlBUXy1rYks0WFFwV1ZRa3FiUzFvZDhIUTU2WU95WjVsWDlHeFA1RG5WRnlzWUpPT2tLb2t1U1g4S3ZFZzljT2xJSHF5dWFpZDE4ak4wUzBaSTN5WDJHc1ZqMGRodlpDMzQ2dkVrOWFDSmRTaWRfaFZXUzhVVGw2YnU0OEVTczl2ZDdHYnhYcHU1NEQ4T24zTk94b1NyeTVmQnhRTEJuSEs3LUNzVVZQNlB5SzBDVHN2TjJEbV9GWW1LSUZldFdjN0RvWUN2VTd6Q3lwYm9uWHNwY1pzN1ZXNVJ5ZTB3X0RQUGpXQWxyYkVUUXJXeHdaSWF2dFoxWnZOMm5BbmttYmJhSFoyUUg0T1V6OFhFRDNGSVRvd1Vvc2hzYjJFQ293SUU1Y0RaZHhzbHNRZkk3Si1XcHlya2lxbW5PdERORldCd2FJWjBlQTVPZTNvMmVkTm41c3ZBLXJBczlHYUpVSWhFd3B4ZTJGZ3BxZzBFUzRRa3hLOC1EYlFmV19HVVoxdV9wWUR5ODFhd1dMcXdvMHVhT29GbjVPZTcyLW5HazF5bFBiUXBBMWFiektUb1FjXzdZLWlDNzY5SGRYM0ZqUWVqdkpBdDYzMWF3RkRPNkZWQVZ4TjEzcC1HNWUxTmhiUHFjR1E0UEFrWE9GaFBFdDdJTVpmSkI5SnBqZS1kTWR1V2NtYU82azk5aWxvM1N4RzRYWEE2UjNHV1R1d3FTNDJHLUExQnY1T3BJcmpuUm5xbkduTWhHbWlmNDNrdUt0Y1ZrWWhHdm0tUXc?oc=5",
-      "domain": "Kooora",
-      "source_url": "https://www.kooora.com",
-      "date": "Wed, 14 Oct 2026 18:01:27 GMT",
-      "local_url": "/article-65b08915de04.html"
     },
     {
       "category": "sports",
@@ -418,17 +396,6 @@
       "source_url": "https://kech24.com",
       "date": "Wed, 14 Oct 2026 17:18:01 GMT",
       "local_url": "/article-7f56c56ecbfa.html"
-    },
-    {
-      "category": "sports",
-      "title": "تغييرات مرتقبة في قائمة منتخب المغرب وجولة أوروبية لمحمد وهبي",
-      "description": "تغييرات مرتقبة في قائمة منتخب المغرب وجولة أوروبية لمحمد وهبي 365Scores",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcjMxa1J2c0xQQjVWRTNQeXBTbC1jMmVnQl96TDNkNlFISXBoTXdJcnFtblZZMWlzeEkxOGl6Sk9qbmdnRC1oUkFibVlvWU9ZUWhxVzRXcTR4ZWZoNjZaY18yMUtrdkQ5VmJzRWRaenhoNURTbERJRHplUU9xbDVuYUJHbXp2RmlCSVNpVWRqSnpHTU1pczR5em9hNHZmZ0FObXdab1NBMjRWTlhRSjhOXzFITG9wUHRmRm9aZEp4U0dpR1BrVV9aNXFUX2VQZXBKVWpEdzNtWkRhRTNURnp6NzhYRjcyc0FUSllVVnFxZDA2WWRRZ2VRN2RHV1RpaG9YQVVNWXBxQmZLTDNzNGxmcWh1N2tKMEpieHJyWEJuWXQzVG1OMXRRSmVvR19VeUJxYkR2RF92djFpQTN4eEw5VGNoRWhZTGZBOXNYQV9ERGhzRmgxWmRZOWxDelRzcWs?oc=5",
-      "domain": "365Scores",
-      "source_url": "https://www.365scores.com",
-      "date": "Wed, 14 Oct 2026 17:13:32 GMT",
-      "local_url": "/article-2fc75ce35dee.html"
     },
     {
       "category": "general",
@@ -487,6 +454,17 @@
     },
     {
       "category": "general",
+      "title": "إصابة 15 مغربيا بالعمى في طنجة إثر حقن علاجية والسلطات تفتح تحقيقا عاجلا",
+      "description": "إصابة 15 مغربيا بالعمى في طنجة إثر حقن علاجية والسلطات تفتح تحقيقا عاجلا صحيفة نواكشوط",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84ZHp4bWp1cDdrbjg5aGhJT1BtaG10WERaZ1pjdUlIWXdCOFFKT2dQd09FLW9uYnNaazdzd2pld1BUNjViVGdwX2ExZw?oc=5",
+      "domain": "صحيفة نواكشوط",
+      "source_url": "https://nouakchot.com",
+      "date": "Wed, 14 Oct 2026 16:16:50 GMT",
+      "local_url": "/article-9441a147024d.html"
+    },
+    {
+      "category": "general",
       "title": "شروط النصر لشعب الصحراء الغربية في معركته ضد الإحتلال المغربي",
       "description": "شروط النصر لشعب الصحراء الغربية في معركته ضد الإحتلال المغربي Maghreb Online",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -520,215 +498,6 @@
     },
     {
       "category": "general",
-      "title": "الملك يستقبل المنصوري ويطلع على مسار تشكيل الحكومة الجديدة",
-      "description": "الملك يستقبل المنصوري ويطلع على مسار تشكيل الحكومة الجديدة Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeGZlWUx1LVB3RDROV3NDRE5rYkZxUlNudkY5QmQ3MVR3clFmbzhSdS1GaFM1dUhSaldTTFg1dy1oeUNHSU5scGMyaHVUV2hXM3U0eUUzeTN3eGM4blZMZmVLNFdHbDBxWTBMYm1mQ01VU2RlNVpqY01aUTRpQms5NDB0Mmo5ckJueTJrRkg1TlkyLWhqS0Z4clg2RDlxZEZCdFZSSExNVExMbGxsZlg5d2FHTF9GenYyTWNYOVRvWk1rVXFMamplek9QVk9lc3dEd01NOGVZSGhaZTFBMk9Fa3E1M0VoWWNoeEJGc1QyZHFGdlo5UHgxemZkandmeFpCUXNTSUdrUVNGM2hvWVZ3TkY4anNGdjNoOVNMUlFwY1JOZkVuaVAxemI4bVlSMGcxTG44aTZDMXNWZXRvckdBWmZNNDd4aFhUdkhsb2NodUJfc29GTjBN?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 14 Oct 2026 15:26:34 GMT",
-      "local_url": "/article-dd721c373371.html"
-    },
-    {
-      "category": "business",
-      "title": "منظمة نقابية تستنكر توقيف 61 مغربيا بالجزائر وتطالب بإطلاق سراحهم وضمان عودتهم الآمنة",
-      "description": "منظمة نقابية تستنكر توقيف 61 مغربيا بالجزائر وتطالب بإطلاق سراحهم وضمان عودتهم الآمنة https://inews.ma/",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBpb19uYnZhNjEtVVlkX0trOEFibEJPWW0taEt3TC1wRXFxbGdLV3FaV1M5Y1lzeE5yVjFJaHBOX0dUSWc?oc=5",
-      "domain": "https://inews.ma/",
-      "source_url": "https://inews.ma",
-      "date": "Wed, 14 Oct 2026 15:13:58 GMT",
-      "local_url": "/article-1795eb080b6e.html"
-    },
-    {
-      "category": "general",
-      "title": "تحذير عاجل من المسرح الملكي بالرباط بسبب حفلات فنية \"مزيفة\"",
-      "description": "تحذير عاجل من المسرح الملكي بالرباط بسبب حفلات فنية \"مزيفة\" LeSiteinfo.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQeTRONUdqR195Z3l6OFlHMHZSd0JFUUJYaWxSMkZIeHFIcVJqbzFnU0tMc3Z2SFk2MnZUdDBLSjZhd2ZxUDUwZk5lV2pMV0FIbDBtQS1McDBRZDY3ZjdybGx3dlBGNmtVWFVObXFyU0k5VnZ3a0tzbjFuNW51YnpDU0hyV3d0eVN2dG9ncnhfZ0E3S2FpOUlReHBhQ2xKMjk1dEVFSWx2Ym1HV01QMzVsNy1NNVVzT2UtalFXVTlkSDdvWHV5XzFqSk5LNmRzdjhNbHZZV3g4c0lCYnlveTJ2ODdlLXZZUG5SalFVYjJWSXRncl95WnFyMnBhZV9VVEpHeEl2RFZWNGVoVWNNMndYZmt4bXRlRTNFT0pzVnlTUGxqY25TRGhIbVRQVVJKN2c4UlFGOTY1ZndfUjhGNFhiUzVLbUswUnN3eVFVZ0ZvcDBsWXphTklnR09TeVBPdE13RDh4UTBUbFozQQ?oc=5",
-      "domain": "LeSiteinfo.com",
-      "source_url": "https://ralia.lesiteinfo.com",
-      "date": "Wed, 14 Oct 2026 15:13:41 GMT",
-      "local_url": "/article-68add9aa7295.html"
-    },
-    {
-      "category": "sports",
-      "title": "مدربة جمهورية الصين الشعبية ما شياو شو تستعد للمشاركة في كأس العالم للسيدات تحت 17 سنة",
-      "description": "مدربة جمهورية الصين الشعبية ما شياو شو تستعد للمشاركة في كأس العالم للسيدات تحت 17 سنة FIFA",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0lMTFVNdTZ6TTR3c0RrZjM0RlcybExDOExfNVd4NzRCYnRyZ3A0UW5sNHRMOW00YkRUUFVhV1BOcEpTRU9fbUFVOE92WEROQWNvQmlndVpvaThTTjZnT0Z5SzM1N25aX0FfMU5Rdi1UaV9iSHF0VGVQck5SYTRWZ3ZSNXJfLVFyVXAxRDYzd1R1Y2d1eS1vUEJQaUhCajRHa0lRYlJlalFpQ2F2Z1p3cWhKYU4?oc=5",
-      "domain": "FIFA",
-      "source_url": "https://www.fifa.com",
-      "date": "Wed, 14 Oct 2026 15:00:00 GMT",
-      "local_url": "/article-e15dfb0e1701.html"
-    },
-    {
-      "category": "business",
-      "title": "توقعات النمو الاقتصادي المغربي 2026: HCP يتوقع تسارعاً إلى 4.7% في الربع الرابع",
-      "description": "توقعات النمو الاقتصادي المغربي 2026: HCP يتوقع تسارعاً إلى 4.7% في الربع الرابع الجريدة نت",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaUsyQV9paXYxUWgyMFNtUU93UzhXSldGQmwwYlBPTU4zdGtwTFlpOUlUMURxNmhLRUNpTklGajF1NW9tZDhaamVYb08zWTFaTkZqaHpNRkhxVFpwbS1adEIxM2VXcXBWQ2lLOW1LRHBINXE4c1Bld0NacEVYWUYxZWJpQ184RjB0dV9JRFkxSTNqUnhlb0NMMG13Y2c4bUpHZGZUZnYzY3RRSGJGSWhLck9UVG9PODRoNXdFVEswNGJMSWZNM1ZGb2RrUmVfZy1pY3BkMlB6R0VUb2lEM3B6SHBrR29pLXF1UFJjNlZXZExUd0diMHBWUE52NDJCUHd1c05Ja2N3RTkyd3JHVWhPYll2MmhXOHpCQ1IwX3dtVDRxNW9kWHJIalhmTXpaazhfTHFjTEpvVmZnOWptUkRCRkNITGNwSUdEandjMnNMR2UyZw?oc=5",
-      "domain": "الجريدة نت",
-      "source_url": "https://aljareeda.net",
-      "date": "Wed, 14 Oct 2026 14:22:00 GMT",
-      "local_url": "/article-8985d38b09cf.html"
-    },
-    {
-      "category": "business",
-      "title": "المندوبية السامية للتخطيط تتوقع نموا اقتصاديا بـ4,7% في المغرب",
-      "description": "المندوبية السامية للتخطيط تتوقع نموا اقتصاديا بـ4,7% في المغرب H-NEWS",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5sNTZnbE40eVBKdnNmSVRySnZtcEhUamdJQ28xNUs4LU1NNkZiWmFlZXdsUm1pMF9OSFZTddIBREFVX3lxTE9YX1BhWWd6Q285Mm1mS01EV191R09JMG5STUwxZkswWGx0MUN4ZHItRFRfT2VxeFpKRDhBcWE1OGxfdmk4?oc=5",
-      "domain": "H-NEWS",
-      "source_url": "https://hnews.ma",
-      "date": "Wed, 14 Oct 2026 14:05:00 GMT",
-      "local_url": "/article-1e16074f9ece.html"
-    },
-    {
-      "category": "sports",
-      "title": "منخرطو الرجاء يصعّدون ويطالبون الزيات باجتماع عاجل لتقييم وضع الفريق",
-      "description": "منخرطو الرجاء يصعّدون ويطالبون الزيات باجتماع عاجل لتقييم وضع الفريق lematinsports",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPQ2QtaVNXY1FnVGdqQTQ5ZXltQ1hZak9fX1BndDh5RzdYZi1sSFc2bThvWUxRd1pFYU1neW9fTGdvbF83WGZtUlJQNDFfUmZLZFh0Q09fQmVCLUdVOGRhYWNyZlczNXY2SF9rMko0YU9oU0drRG5oOVY2Mk40eGc4S1dnVE5BV1RPeWRoMEYwalc3aWpGa19YSDZyaTZKaXpmUTZrVWNLRGFUTmp5OHFPMHdKUTkzVmtKMkplYUZhTDZhUWZTX2c0U2Y1YnNxTGYzTEtsT05jcHQwMDlJeVdWM1JNdjNfb3lBM3V4eDZSNmJqU3BqS1ZHRjV0TTl6TlNuZ3oxMUFlVUo0OTNRamltQ3BiZDVyaHFBeHpyTzRvaTc1MzB2ZjBxZ3dMNnFYcnNWMVVIMnhrcTBOLWp5WktEdWRGQVFaT2ZKS0lrOHBZWjVfMnlvSWhLUUVnZ1NsUFp2Mlk2bldlR25CUjFWYTdIUnhuMVktcU8tWlV1V05KYk5FVE9CWkttWUNwV3BpT3FRUmJFeERqTDFSMzJNU3RmbE9PdVZ5YjBTdmYxdHVYRGNCWWJKRnpDR3NXZkNidXlXTmhiWEF6Ql9XMnB3UktMZFE4eGFnQ1hDQXpTNDE0MEY4dFRkNkY2a3J0SWlPY2thb1RwXzhnd2VURkpMeGdOSjJFeEo4Z1htLVZ6aDB6aDlNZndxZkwyODY2WFNOVHZhSHUtZkZMU1ZfRlZQRUZacTNqbkx3dUdyNndzam5PVlVwdUw0cGtWY2dzOFpoSlJNWmlRRzBxQ2NNS1QwbDdXaA?oc=5",
-      "domain": "lematinsports",
-      "source_url": "https://sports.lematin.ma",
-      "date": "Wed, 14 Oct 2026 13:55:00 GMT",
-      "local_url": "/article-b1e808025b21.html"
-    },
-    {
-      "category": "sports",
-      "title": "المغرب يوقف سويدياً مطلوباً في قضية محاولة استقطاب منفذين لجرائم قتل",
-      "description": "المغرب يوقف سويدياً مطلوباً في قضية محاولة استقطاب منفذين لجرائم قتل العمق المغربي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BX1N3ZWdXVkltTkNKSnRIQXhKWDlMT3lUb1EtTlRwY0pOaktDOXg2S2lXUG0tWnNVdUtGbi1qeXpHeU0xLW9hZk8yONIBS0FVX3lxTE9BX1N3ZWdXVkltTkNKSnRIQXhKWDlMT3lUb1EtTlRwY0pOaktDOXg2S2lXUG0tWnNVdUtGbi1qeXpHeU0xLW9hZk8yOA?oc=5",
-      "domain": "العمق المغربي",
-      "source_url": "https://al3omk.com",
-      "date": "Wed, 14 Oct 2026 13:24:00 GMT",
-      "local_url": "/article-48c371d6b5f6.html"
-    },
-    {
-      "category": "business",
-      "title": "الملياردير المغربي محمد العلمي يقود توسع مجموعة \"سهام\" في إسبانيا",
-      "description": "الملياردير المغربي محمد العلمي يقود توسع مجموعة \"سهام\" في إسبانيا العربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOMG1Bdkp1emdJeWpNNU5sR3QwZkl1SG5iMnBaUFlKQkxEdU9XZUNDX3BOVEFSNXM5cVgwSjB3d2ZLb1VSNzdNMTZoU3A1ZGp6bWNaX3lhYnRWSFNnbHlnYkhFNUU3TUhRVlZyZmdnOGlpLXVkdkR3YTNwQk9jSmxUdG1veVNDLUZPaUNIaXN5TmNDMmVFYzQzS19ZTjVOc25fUjRPRFF5a0JZSE9KOEFnNWdYdldNNkdHNWoxMDIycVR6bDBva1hvdHIyOHdpeWZFYmhmSlhiSFdqd2RONHJGck94ODlPNlBoTU1tRG05ZWFUNW5rSUJDTGYzeW41YUU5NDFSeHE0X2RiY1o2M256UUFpYTJBYld6dnBSbXh0YVZMMF9oaW84ZnVGcXQtSTVTbWtJdk9Sd0hRQTJQZEtfTnF2bjJnZGdKSlpvNHU2YTBad1p2WXNiMVBLSjFqdUtxTzVWNzNCR1I1ZjBaMnk1c1JFSjZhQzVHNUxpemZ4YjZjQlZNUk1scmVMRDVoakdkME9CWi0wa0YteVhFRFZYbUI4WnhCaW5iTnljZGVtZlhtWjhHdDRuc09ZVExobHc5UDl3NmVTQktySzhleGhBY2tEVEhQYmZpNy1vTncwMkhmUElkSmR2NFkyRTQwczNqTnp3LWxXQm41RXVQWHhFN0tLVEcxbGRYaUxwSXhQamsxZFg1NTZwWHY5bVlrdDZ2VkpRZTZ2UdIBrARBVV95cUxQTzlfXzZheUI1ZVhKY1JoTEFzZTdmd1dNUTFLQldPM2xRdGdZSUdRSnFVNlNwNVBmdktzOWRENU9XU0xVcUFydUVWVlBzZk55Zm5aTlN0MVlJa08tdHR4ZGpyc1ItOW9pMlI2ZUp5cUJaejdTM0hQUDNJUFMySE9Qb0J3dmZocEM4c1c1Ym5QeHFDR0RmUW9JdDZsZzVEVjl4UGtGOFJlOHFLdHVEb1YwM3hKRWtVN09ZakEzY0o5MkJZbjNqNHVNR1h1bUZlOURZRmtJU2JNVnlCUnE1M2hWNGZfTGtpbzM5MEJLSE1YOU1udEc5WVNLNF82X3Fkd01ZU2gwZXNrbGhxOFVORWNKaXZKSEhXZUlXVDRDcEt5LTd6S0hlWmp2bnpwQUdacTZNOWFoYlFFSUJJaGpOSl84RTVwOVM3cXNlZ1VQVjVNU3JfejdMeWcta0k2d2lIN0VaSTNONHVfSG1zd3ZyakFGNEJqdjVFaEJPWG5tZnlObnpvOC1kekEycTBXQWJzSEx3UVFyaEk2eGFZOGVFSnBnanJrSWpQc3dpWTVmR2VsT2NEWW03Ung4YTFvM0lQOGI5UnNLQk9CU3pRT0lYdEltOWRrdFNYSWtXLUhhQmJjc0FBYWw1UWtIanVsOTdnR3NxQWFCZVRNME5MSE56U01mNmdkMEJrRjJvbUxHVzdXaHlkQ3lKRURodXlmVlJfem0xcnBJMXJPV1hxR2ZL?oc=5",
-      "domain": "العربية",
-      "source_url": "https://www.alarabiya.net",
-      "date": "Wed, 14 Oct 2026 13:24:00 GMT",
-      "local_url": "/article-a8641502941e.html"
-    },
-    {
-      "category": "business",
-      "title": "الملياردير المغربي محمد العلمي يقود توسع مجموعة \"سهام\" في إسبانيا",
-      "description": "الملياردير المغربي محمد العلمي يقود توسع مجموعة \"سهام\" في إسبانيا العربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQTzlfXzZheUI1ZVhKY1JoTEFzZTdmd1dNUTFLQldPM2xRdGdZSUdRSnFVNlNwNVBmdktzOWRENU9XU0xVcUFydUVWVlBzZk55Zm5aTlN0MVlJa08tdHR4ZGpyc1ItOW9pMlI2ZUp5cUJaejdTM0hQUDNJUFMySE9Qb0J3dmZocEM4c1c1Ym5QeHFDR0RmUW9JdDZsZzVEVjl4UGtGOFJlOHFLdHVEb1YwM3hKRWtVN09ZakEzY0o5MkJZbjNqNHVNR1h1bUZlOURZRmtJU2JNVnlCUnE1M2hWNGZfTGtpbzM5MEJLSE1YOU1udEc5WVNLNF82X3Fkd01ZU2gwZXNrbGhxOFVORWNKaXZKSEhXZUlXVDRDcEt5LTd6S0hlWmp2bnpwQUdacTZNOWFoYlFFSUJJaGpOSl84RTVwOVM3cXNlZ1VQVjVNU3JfejdMeWcta0k2d2lIN0VaSTNONHVfSG1zd3ZyakFGNEJqdjVFaEJPWG5tZnlObnpvOC1kekEycTBXQWJzSEx3UVFyaEk2eGFZOGVFSnBnanJrSWpQc3dpWTVmR2VsT2NEWW03Ung4YTFvM0lQOGI5UnNLQk9CU3pRT0lYdEltOWRrdFNYSWtXLUhhQmJjc0FBYWw1UWtIanVsOTdnR3NxQWFCZVRNME5MSE56U01mNmdkMEJrRjJvbUxHVzdXaHlkQ3lKRURodXlmVlJfem0xcnBJMXJPV1hxR2ZL0gGsBEFVX3lxTFBPOV9fNmF5QjVlWEpjUmhMQXNlN2Z3V01RMUtCV08zbFF0Z1lJR1FKcVU2U3A1UGZ2S3M5ZEQ1T1dTTFVxQXJ1RVZWUHNmTnlmblpOU3QxWUlrTy10dHhkanJzUi05b2kyUjZlSnlxQlp6N1MzSFBQM0lQUzJIT1BvQnd2ZmhwQzhzVzViblB4cUNHRGZRb0l0NmxnNURWOXhQa0Y4UmU4cUt0dURvVjAzeEpFa1U3T1lqQTNjSjkyQlluM2o0dU1HWHVtRmU5RFlGa0lTYk1WeUJScTUzaFY0Zl9Ma2lvMzkwQktITVg5TW50RzlZU0s0XzZfcWR3TVlTaDBlc2tsaHE4VU5FY0ppdkpISFdlSVdUNENwS3ktN3pLSGVaanZuenBBR1pxNk05YWhiUUVJQkloak5KXzhFNXA5Uzdxc2VnVVBWNU1Tcl96N0x5Zy1rSTZ3aUg3RVpJM040dV9IbXN3dnJqQUY0Qmp2NUVoQk9Ybm1meU5uem84LWR6QTJxMFdBYnNITHdRUXJoSTZ4YVk4ZUVKcGdqcmtJalBzd2lZNWZHZWxPY0RZbTdSeDhhMW8zSVA4YjlSc0tCT0JTelFPSVh0SW05ZGt0U1hJa1ctSGFCYmNzQUFhbDVRa0hqdWw5N2dHc3FBYUJlVE0wTkxITnpTTWY2Z2QwQmtGMm9tTEdXN1doeWRDeUpFRGh1eWZWUl96bTFycEkxck9XWHFHZks?oc=5",
-      "domain": "العربية",
-      "source_url": "https://www.alarabiya.net",
-      "date": "Wed, 14 Oct 2026 13:24:00 GMT",
-      "local_url": "/article-a8641502941e.html"
-    },
-    {
-      "category": "business",
-      "title": "بدعم من الفلاحة والخدمات..الاقتصاد المغربي يترقب نموا بـ4,7% في نهاية 2026 | موقع الدار",
-      "description": "بدعم من الفلاحة والخدمات..الاقتصاد المغربي يترقب نموا بـ4,7% في نهاية 2026 | موقع الدار https://inews.ma/",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9jRmJsQjlSRDZyOGNQRHpHdUhqZFktZ1ZSV3IzQm5GeXJwdDI4eERlUU12N0pSb2lkak8tTDlaeGZHcUU?oc=5",
-      "domain": "https://inews.ma/",
-      "source_url": "https://inews.ma",
-      "date": "Wed, 14 Oct 2026 13:08:36 GMT",
-      "local_url": "/article-80410f00d85e.html"
-    },
-    {
-      "category": "business",
-      "title": "صندوق النقد الدولي يشيد بتدبير المغرب للتوازنات الميزانياتية",
-      "description": "صندوق النقد الدولي يشيد بتدبير المغرب للتوازنات الميزانياتية زنقة 20",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA4YjBWTTBzTjFsZ2JrYkwtLUFmdk1qaXJXTTNjSjRubFFtaDZjZzZqRjRNWE1sd0dpc0d1MzBmcEhGbkNh?oc=5",
-      "domain": "زنقة 20",
-      "source_url": "https://rue20.com",
-      "date": "Wed, 14 Oct 2026 13:00:09 GMT",
-      "local_url": "/article-a1520b9ad108.html"
-    },
-    {
-      "category": "business",
-      "title": "صندوق النقد الدولي: الجزائر تتصدر اقتصادات المغرب العربي والرابعة إفريقيا",
-      "description": "صندوق النقد الدولي: الجزائر تتصدر اقتصادات المغرب العربي والرابعة إفريقيا الحراك الإخباري",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOTzBSeVdUY29ub1NBMGdSSnpXcER1ZDhDM2tEUmM0Z0Y5OEJHY25pcDN4bWY3bmNWRWtSN1hheXY4RF96NEdJeHBfTi0zMXhpSEFjZ0t3VHdYaWVmWl85c21wLW5TQlJnUGdHeXhjOVg5Q1hOVjd3Y3FvQ0lrYjNEdFVRNW52RWNtU1Q0QlZaajQ4TV9PZEdtV3gta3pKMjZhYkhyWGhWSEducUlqbTYzSDZudXRnMThrQXVKVmF3dXVsR1liY0NhTWZyWlhOTjNOa2tCR3pLY01nQ1lxelZnMkxDdGM3aWZNdU1hS1FZcVNzdnpsVXZzYm12b2RfWXBSaG4zRVRqS2tONjBzS3JqZkUxRHNoclhyY3JHWlllaHdpVzdhRkVZZTE2Y0gxRTVFalZqd1U4M1N6Z0N2bDVndzh6RXBjbHhVemR5NmE3QXBZTWtmQjUzRlBJLUlMbHA4OEFPcU5vU2pwLVBGcDI0WmpxV1J2VmlpUXk0WEJSaHFfNlVDdkY1WFZ2TzZuellXZVh0QzBiZDJrVmI2b01NZmxDc2lHYTdhdURzcEVfNXVCX3BXQ3hNWWd6YVI1ajZMMmxicjFMSGxKVHR4Ri1xVFV5SlRocmVodWJZelY2MXhUUDZ5MDRjbXk2c1Q1dmg4MzVpWkRBRFdDczFLdkNiOW51WWJGTTlCWEIyZDMxdmZ2MmxsOHhXclNUWjY5bldYSmpIeHhMUWd3Y2dCTWUycC1hbFJGYlpVT0VWV3dpTUw3WlItNndKNHlFS1NiWUF1ck1Z?oc=5",
-      "domain": "الحراك الإخباري",
-      "source_url": "https://alhirak-alikhbari.dz",
-      "date": "Wed, 14 Oct 2026 12:34:47 GMT",
-      "local_url": "/article-7b97cc00fc8c.html"
-    },
-    {
-      "category": "business",
-      "title": "المندوبية السامية للتخطيط تتوقع نمو الاقتصاد المغربي بنسب...",
-      "description": "المندوبية السامية للتخطيط تتوقع نمو الاقتصاد المغربي بنسب... Africa For Press",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPLVVBVkN3cVN2MURjUktXOHBkTE8xNldkLTBiQUxrbXA3S2dzZklYamU5d0tacVItdE5BSnYxX0dZUWs0Vi1uaktDamFJM2htck92bUZOc2dBQ2hSLUZqYjJYQlVFYU1nT2c5MUtlc1VDN0dTZUQ5c1h1YUUyTGExbHFfMnN0SEhRNFNfV0hvZlBJNjR3eTdBNXB3dGg1UU1Jai1aYUxZWGMtaTExcGQwbFM2cWlLSDFXaGJKYkxLeDNtdWh1RjJaYS1Oc20tckw2MEx5eHZzZVVQZXEyX25DU3lMYTdDWmw3UWY0Tnc3cFNDVHNkNk5MWGpuajhqekhjcFJYRWFSMDk5c3kzeElKOFRNYXJnYk9hN0JsWk9ORTdTeFJpSUFpTkRDakgtNXhoNWI2NG5xMEZ6WEJ2NU5YZ3dISF9NekhiTVdCb0NHdGtFVER1S3NVNDFJWmhjWkNxYkxrOHF5ZDBQU0d5MjE3UEE4UGdlYnJIM0NQUHdjWUtwMDVIMi1pd29lTEJOZHV1WnhOa1piZFo0Z1NzSlBJbjNFNWJGV0d4M1JKTVZhVFJlbGRFU01mV0NHWnV1UTFORTYtanlMbTBzT3RFV2xVOTc3cHFWMzJ2VlRjMVNlNFU1aUd1bHlkZU9UaDMtNDUwRDI5aXBVVW5hNEhIZTdTS2hGMVZsTHREdkNSMC1Jd1pqdTBnOGRMWmFvbTBuT0NOVmhfVmRQRV9TWFBldmxUdA?oc=5",
-      "domain": "Africa For Press",
-      "source_url": "https://africaforpress.com",
-      "date": "Wed, 14 Oct 2026 12:23:50 GMT",
-      "local_url": "/article-1e587900907e.html"
-    },
-    {
-      "category": "business",
-      "title": "تقرير: نمو اقتصادي بلا فرص شغل كافية.. البطالة الهيكلية تكشف تحديات الاقتصاد المغربي",
-      "description": "تقرير: نمو اقتصادي بلا فرص شغل كافية.. البطالة الهيكلية تكشف تحديات الاقتصاد المغربي زنقة 20",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9yVnFObGxEbktLNjRYY0VCQ1BoV3FGTndnTXJLRzBKRjZVT1pZRGVWNXZ0R25ncW5fX21tQl8yRzh1MkY3?oc=5",
-      "domain": "زنقة 20",
-      "source_url": "https://rue20.com",
-      "date": "Wed, 14 Oct 2026 12:19:24 GMT",
-      "local_url": "/article-63f77ba89575.html"
-    },
-    {
-      "category": "business",
-      "title": "الاقتصاد اليوم - الدرهم المغربي أمام ضغوط الأسواق.. وكلفة التقاعد في فرنسا تزاحم إنفاق المدارس",
-      "description": "الاقتصاد اليوم - الدرهم المغربي أمام ضغوط الأسواق.. وكلفة التقاعد في فرنسا تزاحم إنفاق المدارس France 24",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxOYjF5dTltOTVQaDg3UWtBX3dRVUhRRzIwZWNKRjNmU2xhN3lMME1Td3ZTaTFnSHQ3eFZMMy1yUFl2bDFqNnE3Y1RxZXVPSFdvRlRFQlNfNWlJM3gyV2tvZmdtVE1seDl2TS04R2lIekQzQ2FrbHRXUlp3Y0FaSkpaLW56ajNBbHdoMk03dy11emZpUnZJV2FtcU81WjFBWlh2OFBab1FFajJrWEViUUFSYlduNWZjSnUtYjFBZ1V0V2tFRV9iMXc5NzhfTW9hOExjVHhBWDJtb0RzVzBEZHRxaHBzOXFqRm1aTzZsc1o5Zy1XQ1ItcDFua0djUS1hLXdEXzBDZkZKa0dfSkxKT2ZvektVNTMySU5EcEZQbE1pY29OSHY3OW1MY0pha1RDNmFQUlFoNktjSUxVS1VoYUUySzZpMmdiYTRtZm5CaXIwc0p2Y2oyX2E3LXlrT2tscXd5XzdMMnUwaWxUMzd5MGR4aUZuNHBjQkVKX25HdWFTRUExZVdiWkJPczhEb0NJUml4RTFKV3BWMGRtZThMRXJBaG9MVm9Yb2w3bWNJVDlTRUw3M3JRZzZJVE5pclRWNDZZWWNLMU1wM1JMNy1PemEtSVdJX2tkY09PVlNCQWFPcTNTMVlEUzhBRDJhWFVIWDRoQV9IMUF5U0kzVldyNng0Y1dSblhXUC1MamVqZlFmUDdlaW9xTHQ0MnF0NDNoT1BoSEUxX0g3Z3BiaVZsVDF5QUlwM29jclhaQ0xtc3ZwUGVJcjFnWFNlcFBmTnF0SGZtYTVjWE5DSWV2cm83M1NLNFZCR290YjIwQnNsM0ZFZXRhRkl2QTMwNVA2a0ZDT0FZNEkwRTFMX3U0RzBWSWtNVGd5blA4TmRmZERYQ2h3ajFpbjh6d2hYaGc5TURNb0JlemR5SXFha3VwOUhHU1pvUXhmek93NHVJZmJENzh4b01LNHpOQUZfOVJLNV9wQjlxZXBYUnc4VGtLLTZqVkhmMQ?oc=5",
-      "domain": "France 24",
-      "source_url": "https://www.france24.com",
-      "date": "Wed, 14 Oct 2026 12:17:37 GMT",
-      "local_url": "/article-e0976ebb8fd8.html"
-    },
-    {
-      "category": "business",
-      "title": "صندوق النقد الدولي: الاقتصاد المغربي سينمو بـ4,5% في 2026 و بـ4,2% خلال 2027",
-      "description": "صندوق النقد الدولي: الاقتصاد المغربي سينمو بـ4,5% في 2026 و بـ4,2% خلال 2027 برلمان.كوم",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSzIzZjBLS1Rnd1NjUUtDYXVTa0Izb1VvVlh2Tm5MTkNSdmJMX0lIRTlXRFM0eHNhNmRmNVJ4YVNNWjJ4ZmtJQlV1dU1UcmZWcEtIb2tLY1FOdmN4bENiWXhDZE1zX25lS2ljVEJncEFjYWxaU2xIZEk4Y29wLUQwUnRfRDV3cGp1SmJqNFNhUF9OVElySFhydXdvLUdjU0ZmanNTYmt5Zk9VUG41RTZOa1RraWIyNExSRGxUeVNIUGo0eTZKLWdJeml3WVc2Z05pV0k3MDRUazEtTlNERldOX3Y2RjZVLUhIeWtqaVoxOGt3YTZld1FIQkcxbi0yNjFfTTJIUTdlYm5aQUdualZENjdIZnljRXFhOTZ5QWhSVWJPaDdVTGJTdjJqa1pjdzdVTlRHSzRaZ0V4cUwyYy16bXRVTlY?oc=5",
-      "domain": "برلمان.كوم",
-      "source_url": "https://barlamane.com",
-      "date": "Wed, 14 Oct 2026 12:15:54 GMT",
-      "local_url": "/article-186fc702af8c.html"
-    },
-    {
-      "category": "technology",
-      "title": "رحو يدعو إلى منافسة شفافة في القطاع الصحي وتسخير التكنولوجيا لتقريب العلاج مم المواطن",
-      "description": "رحو يدعو إلى منافسة شفافة في القطاع الصحي وتسخير التكنولوجيا لتقريب العلاج مم المواطن العمق المغربي",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzY01XOXg2NFBldHhPTUFjcHdRV1FoT2hGRjYzVmU5YTRaVEpaS3ZxRGs5azRfWEdTZGZ0eTBUNnRfRE9zOHfSAUtBVV95cUxQcFR6WTlDaUtvQnpfRnNRU1Mwd0tGbjNNWVYyQTNuQm55dnVPX0VpVUtCZ3JfZkJkakdIY0dyNzNTYVB0VXhMbHNUQkk?oc=5",
-      "domain": "العمق المغربي",
-      "source_url": "https://al3omk.com",
-      "date": "Wed, 14 Oct 2026 11:50:01 GMT",
-      "local_url": "/article-a08ef11ea982.html"
-    },
-    {
-      "category": "technology",
-      "title": "أداء الأسهم العالمية اليوم: صعود أوروبي مدعوم بقطاع التكنولوجيا",
-      "description": "أداء الأسهم العالمية اليوم: صعود أوروبي مدعوم بقطاع التكنولوجيا العربي الجديد",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxQOTVRT2ctV1NfZjdodHdWSHNwcXNmOWlOclhGVjVZNGRqVDFUQW1kTW5EVW5qdlNzelA3VE1mVTVEYWVrbGNFNXR2Q21QZmZBc0xENjhZbGQyMWNfLTlNVVVSTmk4NGdReTJhNlJqekN6bm1xUWlad1NKbmlhOWJFR0xINUxBVG9OdkcxbnBmaHpYM2FjV2NQcmpJUjZWLWFqamhMTmQ3aUZEOWtkT1ZWODZoaGNENHRxWnRUUFhVcGNDTHhNMkVlMk5GYzkxV2YxdHN2OFpvdnhqNUd0Z0lDZUVWWHk3MlFVSkNsWE4yek5SZml4VWtkQm96dUN1TDNoOWVLMnFXRTB1TlQ2UndjNWRvSXY4RTBpY19pdmtqTld4WU9Ed24yeUNoWmxJY2N4SzVZMUg2ZzFCLUYwdk1BSlJMWVU0aVY4SzRPNGlSd2I5VWRXVjFveENSXy1tcFEyR3NoSmJITVc0VjBsdjJCVDZWQ2ZlWkhVRUFlaXFGbEV1VnQtOExBbTZJbF9oUlZ2bjRYV2VDTXdrWE5PaWc0blVaWXZIb2ZobVRqbi1HSlJrY1ROZHZTQWRqWFZCZ3pOWUVMUGtwTG9BUWVfcVpkTG5PWGxuc3pid2pyclpyTzU1dldudkc5RGdrdlZXY0ZUZGdOZk12UTFUeXcxamlSWkFpdGHSAYoEQVVfeXFMT29GUkNIeFFMQk40bVBLbEtfQjJLSmQwdzNGbzF5UWlrQlp2RWZKNzd1VFFneWp3b2liV3Nobmp5cE1CeWlzZHZJTFJwZklqWGd3d1ZiOW5UbGFmMURHeVVUbWRISENjZE9Nb2pDU09jVjNXVXpRWVFFVDRRajNzSW4zS045SXYwczd0M2duUXRXZmpPNWpiaklTV1hCUFA2N3BfalJYMFhnSmRCSU0xcGZlY0YtYjNJbUk4bHRaaXhqcmtZYXBXNkNFNGhzSzNPZDhoQXpPMUktSHJnMVR2M3hvQ2ZULWRfU2p0a3RZRnVlRXlsVWdhV3dWUlhjWnB3UXZXWXRzSmVfOXhpMGxNT2piTHQ3eUpENGJfVHRiQUNjVVkwbF90eEROSUU1MWxVSkE4MzNLYXhvaEIzcTEtUTFwdHc2RTFOSTdmZ3I0cF9rWEozc19BM0VyUUVaRlBKUHhmNU9UTWpUbWI3OEJEZVl3TnNlMkpXbVZJQ2hfc0ZfaHlPQTdlT2dUMzhTQ2xJNGRmRmUzem1LY3BIMHg4RXVqblRxa0dXSUhnOGR0OHJMenNteGRqb3RhU1JrSk5rQVZxd0V2Y0JyWHU3VzNqa0ZGbktGb3BwMlhiOEhGa1J1bXNhUHhKNlpCa0huQk9KVUM1aGFoZExJNnNURGszUVp0bHBfVG5OQTJ3?oc=5",
-      "domain": "العربي الجديد",
-      "source_url": "https://www.alaraby.co.uk",
-      "date": "Wed, 14 Oct 2026 11:38:25 GMT",
-      "local_url": "/article-a53a098f3505.html"
-    },
-    {
-      "category": "general",
       "title": "المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
       "description": "إدارة الدفاع الوطني المغربية وشركة Harmattan AI توقعان إعلان نوايا لتطوير وإنتاج نظام IRIFI على الأراضي المغربية، بمدى معلن يصل إلى 2,000 كيلومتر.",
       "image": "https://images.prismic.io/harmattan-website-2026/2eSB_w6ZmDjuTY4v_Image.png?auto=format,compress",
@@ -755,6 +524,50 @@
       "date": "Tue, 13 Oct 2026 09:00:00 GMT"
     },
     {
+      "category": "sports",
+      "title": "نادر رشاد يعبر عن سعادته بتأهل منتخب مصر لكرة الصالات إلى الأدوار الإقصائية في بطولة أفريقيا",
+      "description": "نادر رشاد يعبر عن سعادته بتأهل منتخب مصر لكرة الصالات إلى الأدوار الإقصائية في بطولة أفريقيا خليج نيوز",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdkJYelJMalV0SmhOMFJVSm1Mb0FYckdvNUtpM3c3ZWdacnVZMEQxaklLYm1GNDRiMURjdklFTnJZa2hZTWdNaHd6OGk1Mlp2b21qZ3pnUWdwWHNfRnFHOGxMMEhkV1pTRkYxQS1JbWZubmxoSTM5MHZjaE9BVFVTblBmRWhtOVhNM1o4R1hLa3lnaU1iWjVOSXpGdlhDTktLYXE5R0JaMVQ4azFKVlNBLUJYbHduN1BNRjQxR05ZYnRESzk5MktGbnM5QXF1dEVxcXlVSmdwZ0JlSGdOS2QwczlVd2llb0F6Ni1NeTViWjdPSGU2UTkycTVrRTNmUWU0V0NRUEYydTV2QklnTlAxOGtkZHdNdGRlOS1xVzVfYlRHMVNUbngzR3R5aGNZbTFrQlNpZWFsVlg5ZGhrN21rUW81UkFzU2ZSSHRheW9UYThEU1JrX2lZ0gHcAkFVX3lxTFBOaVA3VEpSZS1FV2IxQmVoSU5URjgzUGZfeDE5bFVkZ2FDQ2NZSVF3Vk5PdGZ1RkdLaE9TdFV4dHAyUUF1Rm82eXBFRVd4SjRPMERWaUJhMnN1UG9iMXZkUzFLNEFxTXV5NEYza0hfdGUtcWxHMms1TG9tTmhEYWJyenF3WnB6M3Z5ajlHTzdFRzVnb1RWSzlMNUpTbWRRdUF3bVhnUGl6R0hmT1o2SkExUWdrak9wQVFoVTJjSl9EZld6elJWN3o3bFowZE9JcmwxUUV3dnpRc0MzcVFxblluWTNiNWNzNHZZblNMaGJCdTg5RXE0cGJMSXRkaEFsLV9OX1dHU09nUjZtb0RUb1NSczVxMlRwNGNQRGEtNUFzMlQwc0hiU1ZpeWNVblRhdU1CYTdRMG0wNjhjc1ZfSHBsUUp3R3hEWWVzWU1jZlZlQkRhTDJFN3hhSmhSQw?oc=5",
+      "domain": "خليج نيوز",
+      "source_url": "https://www.5lejnews.com",
+      "date": "Thu, 15 Oct 2026 23:36:08 GMT",
+      "local_url": "/article-08c5c2a3b0df.html"
+    },
+    {
+      "category": "sports",
+      "title": "بعد تدهور وضعه الصحي .. الأسرة الإعلامية تتمنى الشفاء العاجل للإعلامي مصطفى طلال",
+      "description": "بعد تدهور وضعه الصحي .. الأسرة الإعلامية تتمنى الشفاء العاجل للإعلامي مصطفى طلال جريدة تيليغراف المغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNZ0FCcWloaHRGMzdHblp6ai0yM2d6NG5WbjhHSUt5U25DRmZWaUZRZ0ZMWjZrNklsS3hHVXlSVTRxOEdiUU83WDF3THVVWVhEYmxwcG1CVjdieUxSZnJ5Ni1Hb1VLNURWV3BoUmNPRmFyY2dEcTQyajhtcG42LTNnVksxcnAyMzRuMXBHTThJSXdOWUFLV3ZpX1JUcFNtZFpxc3VsQ3czY0QwT0U0RFRWMktPUGItRTFFVngzbmhEY1lUbHRzdFd0YnRZT2ZKSkZ1ZTMya2Q1SlpIdGR0bzQtNGU0YWdISlpPc0IyY1NkMmU4VkVwY2FFUTRsSU5iaWxWc1VtTGZqbkkyWFZNb3F5RjRqWGZvTzQzY1pBVVZVeFkxZlhwX19yNkt5X0w0WnR3aFVKMUx1S1J5OHpZTG9xazYyZ1hGVXN6MlI5S2s0TFFJVHBDalgtcG9aS0NRZW1YYm1uZVVRb2pRczA5VnlESDhZSlpUM05VbE5xRjhEOGxBOHNrOWs2ZHZYLU42enNQX281SFp4MmtEVUdCMk51SWRfTy10WGhzM21uQ3dDdlkzaW5QR29EYWUxRTRTSVFTVDZEdmtvdEJ6OFgyYThsVlJzRXdrY2FRbTBGaUlxNldyZmhNLUhjY21kVzJLWkV6OXhuVFdqVEpvX2UxSjI4c0JOTk5TLWdRVWtqV3VjRFppeGN5aWgwMXRxVTFkbV9xVDNzeEFMYzQ0UGNqb25kNDlTWE1GbWRSdWQ3Z3ZNbFM0b3Zib3NITHZnRVI5R0VNTVNkTExxV0ZSVEVzNlRPaktJa0xqNXpVSzVhUllyS2tTRTRjdWFQeE9uTTE2S2RUTzFBXw?oc=5",
+      "domain": "جريدة تيليغراف المغربية",
+      "source_url": "https://ar.telegraphe.ma",
+      "date": "Thu, 15 Oct 2026 22:50:00 GMT",
+      "local_url": "/article-728cb4ec4944.html"
+    },
+    {
+      "category": "sports",
+      "title": "موقع الدار يتمنى الشفاء العاجل للإعلامي مصطفى طلال | موقع الدار",
+      "description": "موقع الدار يتمنى الشفاء العاجل للإعلامي مصطفى طلال | موقع الدار https://inews.ma/",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE95YnZ6TEExQjd0OEFFSkd5OUhwZkg5QmZsMFFDXzJhRTJGdldrNF8yOUJmTjlQaFVMRS1Wdk52MGI0TFk?oc=5",
+      "domain": "https://inews.ma/",
+      "source_url": "https://inews.ma",
+      "date": "Thu, 15 Oct 2026 22:42:12 GMT",
+      "local_url": "/article-669864f7f81b.html"
+    },
+    {
+      "category": "sports",
+      "title": "محاربة الأمية بالمغرب.. برامج متنوعة ورهان على القضاء عليها بحلول 2029",
+      "description": "محاربة الأمية بالمغرب.. برامج متنوعة ورهان على القضاء عليها بحلول 2029 العمق المغربي",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwaENVNnJmdE42b1JNWEFEN050aC00LW03b01FM1ctZEc3am01R3pQLUdvS2tjdndOY1NLcExIQks2VkJ3VXZPTVFVQdIBS0FVX3lxTFAwaENVNnJmdE42b1JNWEFEN050aC00LW03b01FM1ctZEc3am01R3pQLUdvS2tjdndOY1NLcExIQks2VkJ3VXZPTVFVQQ?oc=5",
+      "domain": "العمق المغربي",
+      "source_url": "https://al3omk.com",
+      "date": "Thu, 15 Oct 2026 22:29:00 GMT",
+      "local_url": "/article-65d92620465f.html"
+    },
+    {
       "category": "technology",
       "title": "ثورة الذكاء الصناعي.. أنثروبيك تحقق إيرادات بـ16.8 مليار دولار",
       "description": "ثورة الذكاء الصناعي.. أنثروبيك تحقق إيرادات بـ16.8 مليار دولار صوت المغرب",
@@ -766,6 +579,127 @@
       "local_url": "/article-13035abf65de.html"
     },
     {
+      "category": "sports",
+      "title": "المديرية العامة للأمن الوطني تستقبل وفوداً قضائية من 24 دولة بمقرها الجديد في الرباط",
+      "description": "المديرية العامة للأمن الوطني تستقبل وفوداً قضائية من 24 دولة بمقرها الجديد في الرباط https://inews.ma/",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FQlljNWdFMm9GM2ZJaEltVG5XV19tM3RpUHhXN1Z6UmpRM3ljczhPZ3kyNXdJLXJBYjgwdUlMOWhDZWM?oc=5",
+      "domain": "https://inews.ma/",
+      "source_url": "https://inews.ma",
+      "date": "Thu, 15 Oct 2026 21:39:47 GMT",
+      "local_url": "/article-ff148a44130e.html"
+    },
+    {
+      "category": "sports",
+      "title": "مواجهات نارية في أوروبا وحسم أفريقي.. أبرز أحداث الأسبوع المقبل",
+      "description": "مواجهات نارية في أوروبا وحسم أفريقي.. أبرز أحداث الأسبوع المقبل الجزيرة نت",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSU1zLU5SYV9WNjU1UVNVQ2VCVUE3MUo1bXNhbFFLdzlTNXA3ZW9oeV9rc0RKN3lLeDhwNDd6UWdGWGZTX0VVSE5hc0JjUmNiSXEtcDM0Zk1BNXJSS2o5VUUwT2ZrbmgyMlM0WkV0NFhzU0thZ0FpU29oeW93b29sOEFiZUtuMDdyYmZqZk5ZLVE5TWpCUlZFOUNjQ2tQa3cyOXVReEJQVElSRXV3T3NHSXdGT3dNNkY1SFNtUDNuU0s2d3EwQ2dxVFl1djV2TG9CbE94LWk4aV9QZmtqYUprbThxWkZJUXhpWjRlcnJ2X0pMaHVzdEpha1ZvS2dISXhNT2lkM0lScUFrNmFsRWU4bGhnWUNpaUJNWnJOTVM3cFJpczZPaHBUWUlNX1FoREs50gG2AkFVX3lxTE5Kd3g2aVFxWVZwUkNzTTRMZEZjVm5HN3V2ckc3QjNYVUZ5RWRLQlBEVjBZSmtQNURJRk9hREZQendXd3NzZjlqYnlTajJOZlJ3SVRFbERYdGpES2RPcmxxM2RfYm1uX3lGVHVvcWpxVWt2MUV6UFBHZVlvbmVjMXBueHEyeXhNOFNBTDE5ekpTeVBYdmk3bzdwYUl3elA3djA4UkNxMlJ5cnhROVl5MW1YZHNKNTE3cFU5ajVJSm5tWnJBLTZmZEMybXNyR0J3VFJvNm5nSFBsWlltN2RBYndlaVM1Y0x0SWt5MlBMem5lTERxT290MVhlVkhLc3UxVnloS1J4RjF6V3NkdVRWQXU0Vi1pNVNqRXpSaExqMkVwQVRjZHNiUUxEaXJTbDV3T0c4RVpDUGc?oc=5",
+      "domain": "الجزيرة نت",
+      "source_url": "https://www.aljazeera.net",
+      "date": "Thu, 15 Oct 2026 21:39:20 GMT",
+      "local_url": "/article-0a51f3b1c924.html"
+    },
+    {
+      "category": "business",
+      "title": "الوضعية الخارجية الصافية تسجل عجزا يتجاوز 791 مليار درهم في 2025",
+      "description": "الوضعية الخارجية الصافية تسجل عجزا يتجاوز 791 مليار درهم في 2025 24saa.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQ1NySC1NbERMR19ZenBUYUVDSEVsRC1PMm80Mk80eXRPZ1ZYdFdkbGxFVU9UTXdlYUhpWjlzcExNcXhhbmFOM2NzTmVQTWNtekdVUV93S0I5MEpZR2Zzby1XYTZPaUZMUC00VHI2ZVBFVW1QVDgtTkpKeDBhS1ZJeGI0WnMtRWZTdThNbm1jM1pwQW1aZjNfSF94VmFQQ3RReFFic1QyOWl6YlBybHJMODNqdlJidnBub3ZSaHJmOC1DZUNRVmxVSUh0U014T2ZrZ3pFNUx1cnIzc1E1bDBPaWtPTXVFa3RBV2ppYTZ2RHBMaVZyWFlzQ2piUlh4QW5zZ3hRXzFZODRvdlBSTjNVckZhbEwydmg4ZjlZS0IyTmF5SGJWRHl6ckhobW1DTzVGekFCTk91cjBnQ252?oc=5",
+      "domain": "24saa.com",
+      "source_url": "https://24saa.com",
+      "date": "Thu, 15 Oct 2026 21:27:11 GMT",
+      "local_url": "/article-79bd1e7184bc.html"
+    },
+    {
+      "category": "business",
+      "title": "تعافي الدرهم المغربي يطرح أسئلة حول كلفة العجز التجاري والاعتماد على الاقتراض الخارجي",
+      "description": "تعافي الدرهم المغربي يطرح أسئلة حول كلفة العجز التجاري والاعتماد على الاقتراض الخارجي Attasiaa",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVd1Wi1ycERxUV9WOEt3bE0wMkJSN3JxNmY0TUV4VGVTekwwR0gyREZnVFNTYVBwWlNhSGpGVGxhMkRfU0dVZDJKaFc2VTVkd3RNTzZiN19SQVQ1WTYwNWN2UmpUVUo3R09ydDkwbGl6T2hiYm12SjVLT0RXVVBpWHVabUdla2pOVVhFZ25RTzdHbTdTdXJfblE4N0hSZm5IQ1kw?oc=5",
+      "domain": "Attasiaa",
+      "source_url": "https://attasiaa.com",
+      "date": "Thu, 15 Oct 2026 21:26:04 GMT",
+      "local_url": "/article-c701dbaeb0ac.html"
+    },
+    {
+      "category": "technology",
+      "title": "الدار البيضاء.. قمة مغربية أمريكية تراهن على الملكية الفكرية لدعم الصناعات الإبداعية",
+      "description": "الدار البيضاء.. قمة مغربية أمريكية تراهن على الملكية الفكرية لدعم الصناعات الإبداعية صوت المغرب",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdzNwT0xVTG81ajVwMHNvUGVEbm9CM09lTkRNSDk1cFJmRUVtMVpBeU1CSlVjY3FOM053MXRMNk9LM3V3c1MxYTNUTUJVaUZtWHd3YWpMeGVnUXVtRHU5LXNxNjFPaWs0d25oYXBUTGV6Q3ZUdkY3RENIWWVLZVBqd2k0OExzeGNYNFlhWE90c3lBblQ3R1k0cktTbnFQTVd2SjRJRHo4SVdGOU9iVWUwVEFqSDI0alNKUHg4d1NzdHFWV3FuYjVlejZTd1ozOGFaNU1TRVFyWnduazdaamdnU1REOE80eWowUGRYZzg4WE1yMDRUX3RrM3h5Z2xubUZoVTlIR0hrU29GNkdoVi1TaVowLTFuN2RuZkhhX2VpLUlKOEJYWjFjOHoxVWl5NmtGOWcwaXVjSU1fWENfdXJB?oc=5",
+      "domain": "صوت المغرب",
+      "source_url": "https://thevoice.ma",
+      "date": "Thu, 15 Oct 2026 21:10:00 GMT",
+      "local_url": "/article-f137d8dd6d7d.html"
+    },
+    {
+      "category": "sports",
+      "title": "جدول مباريات اليوم الجمعة 16 أكتوبر 2026 .. القنوات الناقلة والمعلقين",
+      "description": "جدول مباريات اليوم الجمعة 16 أكتوبر 2026 .. القنوات الناقلة والمعلقين Kooora",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxQLUczTWs0dTJhQ3JwUWhHdloyTzZ3ZUVNYkRKeENuSHgtanJoUWtKODJBRnBJcno4WHdkOC1pZFMycjdlTHM4TmZ0c0Zhb3F5UXByS09TTXI5TWIzRklkWU5MVEQyN2MtMWFRejdfQ2hUQlhzdVppb2lLdC1EX00wLVIyZTNLSWhUZEZucjVEQWFjN3FNeWx1cmo4ZnNTa0hMTmlTSWRTZUVnNUZ4dmVXT0dGOUpHem9IZnJPNUFaY1ljQWJwaHNmY09YaVlzUlZlX1NaUWFyUTJnUGt3TFZSYlpiVFNGSFRGd3JxLU9yU196S1BmdklDV0lJY2NmU3NhbXh3Wkt1NmxQLTV3ejJrODY2Z3J4MnJFd1IyRXItSjJzdFoxd3FIOVk4ODk3ZG1FQnRrUzZXdnlvMzVNYVR4eDhKckVTTThiRlhPZm9ndU56RjQzM0JJWjJxQXNzQTNPZkh2WnlNMElucDM0Vk5ldzA5WU5JdWlVVmNqdjVOQ1pVVTRuV25KRWZvOXdHREdGWnVlNzk1YjVoYTh6RXl5WXgxTHNnOEtfUkpvSlJYcWFua3Rxck00UDlmZ2duNVhtOEZ1TGtnd0FRQzZfaXRFR1dYVUR0QmhaLWs2YWNqRjZBc0t6OHlnaUtlV29oUk93RnJDSXJBV3Frcmh6b3hCS0E2N1FUbmZjNmtmTVh4d05ZSlZmTXNJODNhX2M5b3F6N21ncmxiMDFobmFsT092TWlxdklzNUdvNzBZQmFTcHh2RkFnWnNjeS1YdmpfY0dQR19Bc3JDdnJSZzhrM21GZjI2eERtdw?oc=5",
+      "domain": "Kooora",
+      "source_url": "https://www.kooora.com",
+      "date": "Thu, 15 Oct 2026 21:03:07 GMT",
+      "local_url": "/article-496039c04a96.html"
+    },
+    {
+      "category": "business",
+      "title": "الدرهم المغربي يتعافى لكن وسط عجز تجاري متفاقم وارتفاع الديون الخارجية",
+      "description": "الدرهم المغربي يتعافى لكن وسط عجز تجاري متفاقم وارتفاع الديون الخارجية 24saa.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZ3djUHBWQ3BTcUpBazZEdy1KNmFfeW5FaHhkX3V4SC16WUx1dm53cHhzZTNrMmJscjZKb2pKRS1JLVpkb3B0RkJxdFZ3YXUwNTYyUmNBQzVzUVRoMFdPUDFqTFJ0eHVJMGR4eVg3M2x6NmJQVlJkUndQa0tyUTFCSElERGFaMzRfN2lvOXpJcjVjQW1ib0NMcjVEX1BtczlCRzNRU29TSi16ZG5YdURTdW5WWXlqaHV0cTNnaDJ4Vi1ncFQ3ZVVwTWlKOWJHS3NLRGVJZEJDdDU4UU5TS3ZWOWM4M0pvTHVfVXBwSmVKOFI1SW1iVzZXUDlkSmJBaEVZMGZwZFA0c3dDMGRQNHJhbXJKZU51ZDlxdEpFN3B6Y0JxNFFkSEI1S0Z4OVRRY3RGMC03Sm9R?oc=5",
+      "domain": "24saa.com",
+      "source_url": "https://24saa.com",
+      "date": "Thu, 15 Oct 2026 21:00:24 GMT",
+      "local_url": "/article-10606be03de4.html"
+    },
+    {
+      "category": "business",
+      "title": "مندوبية التخطيط تتوقع نمو الاقتصاد المغربي بـ4,7%",
+      "description": "مندوبية التخطيط تتوقع نمو الاقتصاد المغربي بـ4,7% كِشـ24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPVEFlN0Y4YlFYVUhzZjZDWmFCTkZBeWNnYnhib1ZkQkxqNEJmbXIyUjlTaHRISmlFUkthNjdxTkItQk4zSThaZHVSN1RvTkU4WGpSeUUtWjFrXzFpMHdvMmlSUTN0OEdaV3pLaDJVV0dCUkxFY09Md2FhUFZRa0hfWmxZbWM5enVsRG4yWjFCa1d2SUI3RnplY2w3ODk5T2lkd2pzdVVsSHh0Tzk1UDN1VjRTNEJHU1RScURFbUszTnFUSkIxWUVLN0pLbWlpTWFEbFYyc1kxdnlQLWRuU1NiOWRzb01abXY1bllOby1UT3hYSWJ3cXdfbkpJVTJjRnh2TS1iVmpkbU9CMXN5M3ozWUFGLVY5emktTjNDZ3RwV0FsMVRRWmttMGlXTFg1aWZwOUdIMzBHcWM5c3NUTThEYVNkall3NmljYXdWa0IxYjNFaDJEMjZBWmdKZVF6cUtwNVRXdlNMck5jY0hEUWtic1paZ21fb3c3dmJsZVpUb9IBhANBVV95cUxNOXZuT3FGNlNfcTl4WDVhMU92Nzd4eHJNV1d4ZWQxZ280YmZkUXlldlM0MkYyWndRYnpIY3VlcEdkQkNsdmhMU0wwSVFBMUxMQS1lUlNpd3RpS2RWY0ZSbTlXbEZDcHVpTU9xNTI0TU9MLXM1dTNPVW4yZEdTX2JnR0RpcUVxTHBHSllNdXktSGRTWVpQZXFMdEYtczhwaDFmN3pZV1ZGZ0NGNlFDOWY1T3l4N1Y1ZGFuazUwUmFGOXJQRVZicHdUN3JTQjk5U2FIZWxWUGpLOG1kMzBTZEF6Wll4VUlubzdzUDZseWh2Z1psZFFJYlpGcWxXR0JKSmtJRWFUWWZhTUhRSFAyLXNKRnVMTXU1UnpSY05NUWFycVZXaTJEbTNfTVVSQVczQTVlV2JfdWpianhVYWdhTWtsNUN6S1FnSi0welNxSGg2Zl9WMDFxYlhNSmZLWl94c2FBazN2MmhuVnd5VzBzcFA3QmM5TUhLdGw3UHFoVWFSY05ZTkJv?oc=5",
+      "domain": "كِشـ24",
+      "source_url": "https://kech24.com",
+      "date": "Thu, 15 Oct 2026 20:20:20 GMT",
+      "local_url": "/article-94f8778f1bbc.html"
+    },
+    {
+      "category": "business",
+      "title": "ناقلة محملة بنحو 40 ألف طن من الغازوال الروسي تتجه إلى المغرب",
+      "description": "ناقلة محملة بنحو 40 ألف طن من الغازوال الروسي تتجه إلى المغرب موجز24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUjdQVm1fTDhjMWJvQVFUQVFJbWlvTUs4bURyQlRkSTIxWExHR1Q2b1NwRTBkOFZJRXg3dUptbm9maTRwZDZSdXZvTHcwb1lVdktoNVZZZ1VUb2szZmYxN05sLXVzUmxkS3JyWngzMFBRMnU5NVJLLThKVDRoR1FieXNUdDEwbzMtNkJ6ZW15T21vMEFyRWNBQVVUbzR2TXM2WnhQUGNoVzBCaUVqNFFWdkxZR2dGTTQ5R3I5Rm9uOUx5d29CVUF2T0dtODktdFhVbEJaNGdZWXZsb28zc0RvUzAyRzJsNzB4SThxdUg1UWRDMFZBeVN2VEM1enZzamVpeUVyUEdGYU1ZSDhrSWFwd2tYNHFURjBhMWEycC03QXJ3R1FMN2VuV2wwTndGZ2s?oc=5",
+      "domain": "موجز24",
+      "source_url": "https://www.mojaz24.com",
+      "date": "Thu, 15 Oct 2026 20:12:36 GMT",
+      "local_url": "/article-81cc51b0f7d9.html"
+    },
+    {
+      "category": "sports",
+      "title": "منتخب مصر يفوز على موزبيق 4-0 في بطولة أمم أفريقيا لكرة الصالات",
+      "description": "منتخب مصر يفوز على موزبيق 4-0 في بطولة أمم أفريقيا لكرة الصالات بوابة دار المعارف",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaNVJsWUdXcE1kZTlXQWZRbmJuYUNxd2tHamNJQkpfLWRYVDBJdk52WnBSMGpDQnl5VzNQNHFYZDRTVnBhRjZ0QXVHZHlqTWZQbEE?oc=5",
+      "domain": "بوابة دار المعارف",
+      "source_url": "https://daralmaref.com",
+      "date": "Thu, 15 Oct 2026 19:52:02 GMT",
+      "local_url": "/article-a3769ebc71ba.html"
+    },
+    {
+      "category": "business",
+      "title": "الجديدة تحتضن «اليوم الاقتصادي للجديدة 2026» لاستشراف آفاق الاقتصاد المغربي لما بعد 2030",
+      "description": "الجديدة تحتضن «اليوم الاقتصادي للجديدة 2026» لاستشراف آفاق الاقتصاد المغربي لما بعد 2030 الجديدة 24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZS0Jnd2JHelB6QUhyaDg5YXV1M1dDaFFKNGU1THM5ZVE3LWlUU2RWcGZlRkJQUzFPZWRQRnN5SUU0aDU0SU5RTXNFak0?oc=5",
+      "domain": "الجديدة 24",
+      "source_url": "https://eljadida24.com",
+      "date": "Thu, 15 Oct 2026 19:30:49 GMT",
+      "local_url": "/article-20ea44e6942a.html"
+    },
+    {
       "category": "policy",
       "title": "دي ميستورا: الحكم الذاتي المغربي أساس للمفاوضات المقبلة بشأن الصحراء",
       "description": "دعا ستافان دي ميستورا إلى جعل مقترح الحكم الذاتي المغربي أساساً للمفاوضات المقبلة، مع الإقرار باستمرار الجمود والحاجة إلى تفاوض جدي.",
@@ -775,6 +709,17 @@
       "date": "Thu, 15 Oct 2026 18:00:00 GMT"
     },
     {
+      "category": "business",
+      "title": "الاقتصاد المغربي يواصل النمو تحت ضغط أسعار الطاقة وتراجع القدرة الشرائية للأسر ( خبير لـ 2M.ma)",
+      "description": "الاقتصاد المغربي يواصل النمو تحت ضغط أسعار الطاقة وتراجع القدرة الشرائية للأسر ( خبير لـ 2M.ma) 2M.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNcnd4ai1HRUJpTTNhLUdpRHY4OTl2VTRzZE9EQWdEU0VVc2FTMm9WR0ZucmphbU5Sb2pHUlNJc0hPYVdlVnlueUNES3g3OVIwM1FkTGgxM1pHN1JCcVloQ1FYVHdFVlFrSVo0cmpBNjR5Y2dYRE56VFZUMFN5S29nM1p5WXV3UERwbHBUMGY5SWM1cFlJT0J6aTdVODJUckNrMFFpRm0yR0RzQUNCeUwzb3pDN09pQzNMSlBSbDE5enp3cEh4dFFDX2FyQmk2Q3ZtYXBWWTFtWS13TkVSX0cwV2NqWHBfT2VSM01lSzBDZFlJME1sbGpLYWNaYkNGYVJvYktkUElkMVRxMDdFdF9sTENzcnV2UndLckZyeDhobjJPN2tYZjZweEtxZkJUbTNNOUVfdjNJcjRTRFJOX2RVSzBOdjhNaGhaLUNhUnE0Y3pYeUg0eDRSQXZwbU5zQnFoTWpDbmloaUNveEdWcUFHZU96ZEhTd19PN2JBeDczb0hxYXl1OXlfa3hDM28zclNUMXYwV3FPalpfSS1GWWx6elBQLWlZUzZINzdJN2ZvTWtSYUsxQXZfclRBa0VYMXdwdHpyRDhVcjhnZFhuNmZzZU5yRG1WeThIRUNraW9oT0JMV0VaSWwyaEtTZnZpeUV2clE?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Thu, 15 Oct 2026 17:54:00 GMT",
+      "local_url": "/article-88a946fbc749.html"
+    },
+    {
       "category": "policy",
       "title": "الصحراء المغربية.. اللجنة الرابعة تعتمد القرار بـ152 صوتاً",
       "description": "اللجنة الرابعة للجمعية العامة للأمم المتحدة تعتمد قرارها السنوي بشأن الصحراء المغربية بـ152 صوتاً مؤيداً، مقابل صوتين ضد و7 امتناعات، في تصويت استثنائي هذه السنة.",
@@ -782,6 +727,61 @@
       "url": "article-un-fourth-committee-sahara-152-votes-2026.html",
       "domain": "SNRT News / MAP",
       "date": "Thu, 15 Oct 2026 17:51:00 GMT"
+    },
+    {
+      "category": "business",
+      "title": "مسؤولة بصندوق النقد الدولي تكشف عوامل صمود الاقتصاد المغربي رغم الاضطرابات العالمية",
+      "description": "مسؤولة بصندوق النقد الدولي تكشف عوامل صمود الاقتصاد المغربي رغم الاضطرابات العالمية برلمان.كوم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNVGJiajZpSk1pbTVPQnBmQUUtaUt1RXRicUlOSjM3Mm5WOERXQV9uakkzRlRkVWJfd3I5cVM1Q0RTbmJDb3Fad2FJSDM4ak14ZVZCNS1MWG5ZWjlKOVBScjJiMDU1dVJDY3hkUmJicy1ZajN3ZnU4VVgzRGpnVmRKNkVWWnpINGVyYW01dGRmdWZ1MGFiVG9zWlAxVHk2QU9GQ1NBalpYQm4yVk9LWVgtTTJ5ek03U3h6OURjWWY3QjhVSmM4S1piM19JSW9feEVzTndwbUhELXhGcjUzTmRKcWl2NjhhTUlaekgzRUJUYUNfQnI3bDVpRjhoNldDOXJDdGhxZVRYclZJcE8wVC1rUVh3dWdjMGJxMi15M3hiTkktVDFNU0wwbDJ6MlBzaV9rRFQ3dGRhekJoZDQ1VXR4dkx3?oc=5",
+      "domain": "برلمان.كوم",
+      "source_url": "https://barlamane.com",
+      "date": "Thu, 15 Oct 2026 17:03:01 GMT",
+      "local_url": "/article-70dd3a423322.html"
+    },
+    {
+      "category": "business",
+      "title": "نمو الاقتصاد المغربي يرتفع إلى 4.9% في 2025 وسط تحديات التشغيل والإنتاجية",
+      "description": "نمو الاقتصاد المغربي يرتفع إلى 4.9% في 2025 وسط تحديات التشغيل والإنتاجية برلمان.كوم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNNkR3LXllVjhTTENMUlRTbWRoUFBBQi1tVXU5dS1kQUUwaURXamlmTDQ2LUNFdDJTXzNQWDJ5WDFZZERHWVRLaHJXLUJxQURRdllPLWp0QllKTXRrZFJTNlY2c1ZwVzJ0R1pFNXhlTEs4NTdWVWtqZDk5SzZPLVdtN0hteEI5dWFLMk11b2hBeUt2ZEdfbW9XYjBIQThqeVo4NVN4QzNQUG5iYVphV1AtMzkybnVtSTdJQ29rWlpkeHR2N1B2TVVZNXdNQjRLTnFuV1VaX3FnTTRnY1k1YVN4blZaOEJhbG5XYWxpMWxubzZnNEE5R0FhVlp3enpjbXhPbmZ1d3l5OG8wRDllbmhuN0VsdTlIZFgwanlTSmg2elRsb3VmOGxGLTF3eG5BVFI4SzF2WktjclZCWFFxNEpz?oc=5",
+      "domain": "برلمان.كوم",
+      "source_url": "https://barlamane.com",
+      "date": "Thu, 15 Oct 2026 17:02:12 GMT",
+      "local_url": "/article-cb32c82daf49.html"
+    },
+    {
+      "category": "business",
+      "title": "صندوق النقد الدولي: الاقتصاد المغربي يظهر قدرة مستمرة على الصمود",
+      "description": "صندوق النقد الدولي: الاقتصاد المغربي يظهر قدرة مستمرة على الصمود مشاهد أنفو",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vVHhtal9HUUREcGxSemV5a0NCSHNFdkdNWUsxdGRBZnpfWEZSV195XzgxZmhfRjZ5aWVYd1QwWUY2UkhPY3FWYTlsMXZQZw?oc=5",
+      "domain": "مشاهد أنفو",
+      "source_url": "https://machahid.info",
+      "date": "Thu, 15 Oct 2026 16:40:59 GMT",
+      "local_url": "/article-2ff23915925f.html"
+    },
+    {
+      "category": "business",
+      "title": "المغرب يتولى منصب النائب الثاني لرئيس مجموعة G-24 ويمهد لرئاستها سنة 2028",
+      "description": "المغرب يتولى منصب النائب الثاني لرئيس مجموعة G-24 ويمهد لرئاستها سنة 2028 زنقة 20",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9SUjdRSnUzSHlhTk91SzU2eXMzX2ZmbTVjRkxlZE1Xb2VxMnpZajJKNDY4UFpaSDRuRExOS2RfTm9NSHds?oc=5",
+      "domain": "زنقة 20",
+      "source_url": "https://rue20.com",
+      "date": "Thu, 15 Oct 2026 16:40:15 GMT",
+      "local_url": "/article-87150ef2f851.html"
+    },
+    {
+      "category": "business",
+      "title": "صندوق النقد الدولي يشيد بصمود الاقتصاد المغربي خلال السنة الجارية",
+      "description": "صندوق النقد الدولي يشيد بصمود الاقتصاد المغربي خلال السنة الجارية اقتصادكم",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQVERVdF8wd3lqbldoaGhfNzVsdDFQbXE1bC1XYmNLaEFpMTVuYURBNFlLcFREeUZoU0Q3WHN5dUpQMVo2aVkzbVRGeDktdERmSEc4bDZtRUVxTmVDTUhjcDF0c0k1ZFl4a3p6T2lqcEc3SjFMRHV0ZmlETzA0cDhmaGtvbWNYMmwwVFI1MkpBNUtCWHU4TUZpQW5zUlFIUXF2QVBBdnp6X3hCWUtMdFBqbTh5a3ByWkppZGhBdHE5VVhsSFgzSTdLc1NxZzkzdHpJRTZ1aHRHMDk3VXBOWXQ5QTV5NjJHc1dnclJ0V3FkSEh5TmFBYWYzWUN2a3BpS1p1MDMxY3BwcVF2NjZmTW1CcldNRjB3R2xFSE9zQkdhMFJ5a2pJODN1aGpCSWlGU1ZoZC1lYTdSaVRtZGd2dGdiaFg2dFBBc2Zpb09CWEY5U0sxUnFZaE5SZ1E1dklsM2NLS0IwQ1hBTTVFZnpqWlpkWWZtQXBPNThSdzIyZGNvUkNnUmVKaGF6M3JBLW1KaFVZUUFBRVYxUU1tZGt2U3dGZExsakh4SXZGako2YnJDX2pCNWVuOW00ZWwxRG10VnR5MEtIYTc0Yk00bHV4a3FpbWgwbndzQ0MtX1E2dXQyNGdIcE9mcnU0WGhoSmU2MkpSYUlLcGdtX0ZCelAwY3BmUTExTlRsRmlTODlMNVRDTjdLM3k5TFBrSktyYmo?oc=5",
+      "domain": "اقتصادكم",
+      "source_url": "https://iktissadkom.ma",
+      "date": "Thu, 15 Oct 2026 16:31:06 GMT",
+      "local_url": "/article-7ff6e89bbe6d.html"
     },
     {
       "category": "policy",
