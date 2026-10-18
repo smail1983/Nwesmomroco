@@ -29,12 +29,27 @@ let all=[];
 function render(cat='all'){
   const items=cat==='all'?all:all.filter(a=>a.category===cat);
   if(!items.length){box.innerHTML='<div class="status">لا توجد مقالات في هذا التصنيف حالياً.</div>';return;}
-  box.innerHTML=items.map(a=>`<article class="card"><img src="${a.image||'../favicon.svg'}" alt="${esc(a.title)}" loading="lazy"><div class="card-body"><span class="tag">${labels[a.category]||'أخبار'}</span><h2>${esc(a.title)}</h2><p>${esc(a.description||'')}</p><div class="date">${formatDate(a.date)}</div><a class="read" href="../${a.url}">اقرأ المقال</a></div></article>`).join('');
+  box.innerHTML=items.map(a=>`<article class="card"><img src="${a.image||'../favicon.svg'}" alt="${esc(a.title)}" loading="lazy"><div class="card-body"><span class="tag">${labels[a.category]||'أخبار'}</span><h2>${esc(a.title)}</h2><p>${esc(a.description||'')}</p><div class="date">${formatDate(a.date)}</div><a class="read" href="${a.url&&/^https?:\/\//.test(a.url)?a.url:'../'+a.url}">اقرأ المقال</a></div></article>`).join('');
 }
 function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function formatDate(s){try{return new Intl.DateTimeFormat('ar-MA',{dateStyle:'medium'}).format(new Date(s))}catch(e){return ''}}
 document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.filters button').forEach(x=>x.classList.remove('active'));b.classList.add('active');render(b.dataset.cat)});
-fetch('../manual-news.json').then(r=>r.json()).then(data=>{all=Array.isArray(data)?data:(data.content?JSON.parse(data.content):[]);render()}).catch(()=>{box.innerHTML='<div class="status">تعذر تحميل المقالات حالياً.</div>'});
+
+async function loadArticles(){
+  try{
+    const manual=await fetch('../manual-news.json?v=20261018',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('manual');return r.json()});
+    all=Array.isArray(manual)?manual:(manual.content?JSON.parse(manual.content):[]);
+  }catch(e){all=[]}
+  if(!all.length){
+    try{
+      const feed=await fetch('../news.json?v=20261018',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('feed');return r.json()});
+      const parsed=feed.content?JSON.parse(feed.content):feed;
+      all=Array.isArray(parsed)?parsed:(Array.isArray(parsed.articles)?parsed.articles:[]);
+    }catch(e){all=[]}
+  }
+  render();
+}
+loadArticles();
 </script>
 </body>
 </html>
