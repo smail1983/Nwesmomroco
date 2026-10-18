@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:12:34.737294+00:00",
+  "updated_at": "2026-10-18T10:02:57.425815+00:00",
   "articles": [
     {
       "category": "technology",
@@ -40,6 +40,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Sun, 18 Oct 2026 08:05:34 GMT",
       "local_url": "/article-25935b46a83b.html"
+    },
+    {
+      "category": "policy",
+      "title": "تسليم السلط بين المنصوري وبلفقيه",
+      "description": "تسليم السلط بين المنصوري وبلفقيه Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPbGhfcDl6RE1abE50M1RJdzdycjRXb25fMDVWRzRqRko3al9RNVk2cjY5eDU1anEwVi1mTWd5Wmo3d1lkak9fc3kwUVZDTXcxWEhYWnVhOUN3TlZfeFhPdDBEVGxleEJsbkxzZVBzNFRLbm9LaWJIZV9JN3lVSlNERVlVX0lHa1pyM2VHVVlES01DV0lFNTA0VzZIWXpFZVh6YUk4dG1iaEpLWWZXMV9QeExDTEptRmMtR0dzMjhoSUZvdEtMYlBDVWs5V2ozR0I5SFMwbGk2SXFnR0lGaHBsWHhKN2hBdjFwMG1Zc0tBZTBpRUNkNUZJMmJXVVZQWjJrZ1lBV0JSWF9HbkJvUkVLQWVrUmVOSjM1Slc0aUNVTjRvd3E5N3Y1d21VT3dTWk1zQWVFQkRkcG1OMEJvdmFPamF0V0dnUDVLZm5FOFE3N1kxZF9Sbmc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 21:35:22 GMT",
+      "local_url": "/article-6aeb89e2da99.html"
     },
     {
       "category": "policy",
@@ -304,17 +315,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Fri, 16 Oct 2026 13:16:33 GMT",
       "local_url": "/article-c77f891b3dd6.html"
-    },
-    {
-      "category": "sports",
-      "title": "الموعد والقنوات الناقلة لأسود القاعة وليبيا في الجولة الـ3 من نهائيات «الكان»",
-      "description": "الموعد والقنوات الناقلة لأسود القاعة وليبيا في الجولة الـ3 من نهائيات «الكان» سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNHExa05QX3p5eXh6cm9NdmhYYjZGWkktNnRZbVBCQ1BsNFVOVlZrRndWVV9oMmdLRzBCWk1WS25jS0QzVlY0bHhzTE11NW00NjZOODVTcXBQaWlOakRQaVo3RlRsV2s3OHY0Rno4Q1ZGVy1x?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Fri, 16 Oct 2026 11:44:28 GMT",
-      "local_url": "/article-e8aff03ba648.html"
     },
     {
       "category": "sports",
