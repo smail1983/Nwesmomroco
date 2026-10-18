@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T07:21:24.021532+00:00",
+  "updated_at": "2026-10-18T07:28:09.458382+00:00",
   "articles": [
     {
       "category": "general",
@@ -60,17 +60,6 @@
       "source_url": "https://www.almaghribtoday.net",
       "date": "Thu, 15 Oct 2026 23:12:49 GMT",
       "local_url": "/article-b2eea45ac3e5.html"
-    },
-    {
-      "category": "general",
-      "title": "دي ميستورا يدعو “البوليساريو” إلى مناقشة الحكم الذاتي المغربي بدل مواصلة تعطيل المفاوضات",
-      "description": "دي ميستورا يدعو “البوليساريو” إلى مناقشة الحكم الذاتي المغربي بدل مواصلة تعطيل المفاوضات https://inews.ma/",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04SExLaUh5UGJsdkZmR0dTbUZyNElUNXcwTHQ5aGJjc3FFQWhWRTdMZHhscndvT09TSkJTWnBVdXRZeVk?oc=5",
-      "domain": "https://inews.ma/",
-      "source_url": "https://inews.ma",
-      "date": "Thu, 15 Oct 2026 23:12:13 GMT",
-      "local_url": "/article-68866f0beb59.html"
     },
     {
       "category": "sports",
@@ -214,6 +203,17 @@
       "source_url": "https://attasiaa.com",
       "date": "Thu, 15 Oct 2026 21:26:04 GMT",
       "local_url": "/article-c701dbaeb0ac.html"
+    },
+    {
+      "category": "general",
+      "title": "جامعة للا أسماء .. نموذج أكاديمي جديد يجمع الطلبة الصم بالطلبة السامعين ومهنيين داخل فضاء جامعي واحد",
+      "description": "جامعة للا أسماء .. نموذج أكاديمي جديد يجمع الطلبة الصم بالطلبة السامعين ومهنيين داخل فضاء جامعي واحد Medi1news",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UQV90XzdoSW1CR2lhcU4zRG9weWRXRVdzRW05cTBDaVdZbm9iWENnV3JkbG55bmw3NnZxUTVaRmdiT0V1WVEwMzQ1eEZQMmpQRzhhWmNhZ0dHWjh5?oc=5",
+      "domain": "Medi1news",
+      "source_url": "https://www.medi1news.com",
+      "date": "Thu, 15 Oct 2026 21:20:04 GMT",
+      "local_url": "/article-961a62b8b616.html"
     },
     {
       "category": "general",
@@ -436,17 +436,6 @@
       "local_url": "/article-839989109b46.html"
     },
     {
-      "category": "technology",
-      "title": "تقرير:المغرب ثالث أكثر الدول الإفريقية استهدافا بالهجمات السيبرانية",
-      "description": "تقرير:المغرب ثالث أكثر الدول الإفريقية استهدافا بالهجمات السيبرانية بلبريس",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQREhTckZBMS1Ub2JEenlSRXE3M3hyWGYwQkpxV25NX0NIX01mMlotWkFpLVV4YmdsVEpiVFRqNW9HbU02bE1wd1JXYl8tLUlsMzJERGVuY0I0V1dKNzRZQmFvaGlBa3drQVhVakV5VUxLQ2RLUGx6MmZxMG1pLV9jQkVwZ0ZqM3UwcVBlZzJTVDlldl9TTEZTdFYzVUZmZFZWREI5ZHdkMmxYOEU5QThGcUtlZkVGQ3c1bjNWOUI2OGd1VXQwR1pWeVhhNWVvNmVOcE9NTXNhTHB2Q2FKbTRraXZ2QUlLQlpoM21hYVZQaXJSYWFMZFVnTDJ1WTJvNWFsdWkydnlWQkNUWk5hUjFxRjM3T0ViM1RDUXVXa2J3Y0JTLTQxMElhb0MybVN2a0JPb3RzYTBDeVplT2FKVTZFWWdkMzJ5TEJxV1JGc2QyVW96UQ?oc=5",
-      "domain": "بلبريس",
-      "source_url": "https://www.belpresse.com",
-      "date": "Thu, 15 Oct 2026 18:45:37 GMT",
-      "local_url": "/article-9ba3ffd7a88b.html"
-    },
-    {
       "category": "sports",
       "title": "منتخب مصر يتقدم على موزمبيق بثنائية في الشوط الأول",
       "description": "منتخب مصر يتقدم على موزمبيق بثنائية في الشوط الأول بوابة أخبار اليوم الإلكترونية",
@@ -487,6 +476,17 @@
       "url": "article-di-mistura-autonomy-sahara-october-15-2026.html",
       "domain": "هسبريس / NRT News / TelQuel",
       "date": "Thu, 15 Oct 2026 18:00:00 GMT"
+    },
+    {
+      "category": "technology",
+      "title": "تقرير:المغرب ثالث أكثر الدول الإفريقية استهدافا بالهجمات السيبرانية",
+      "description": "تقرير:المغرب ثالث أكثر الدول الإفريقية استهدافا بالهجمات السيبرانية بلبريس",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOTnRHYkRYbDZMZHF0OWJMcDBvRXRlTC1LQ2t0bDdKYVhOX0Q2UEtpdURrUl9WUkluM1RSclJzdnl4amlHdUVrdFV6QUs3X3Fha3ZKT1FBRkVreWRkenhQZUtQSUVIY0VuZ1d3dWtEOGNvSnh3UUFVMTEwMjJvSFg5SGtaMFFKRFJTemlqaUZaY2xJR3k3NkhlQ2EwNG9IZ2ZERG1rQTJlVXd2MTk4d1BjOHJ5MmprZHpZWmdTTmV3cmZLOXVZaHdRb1FuU3BCb1pTV25yR3dFOW9BUm9WaUtOcUZLWjl4SEtvcVN4UWhpcThCSzB1U1U1cEdNMlZWdU5fX1Q5c242SHRrUVFYUnVSWkVDbnJkU0pLX0xBelZoVEI1bTVDNzBCOXFzSWtnZEhLRmZZZTRkRktSdFNxc0dJWVhJLV8yTmNYQUU2MGU3SQ?oc=5",
+      "domain": "بلبريس",
+      "source_url": "https://www.belpresse.com",
+      "date": "Thu, 15 Oct 2026 17:55:55 GMT",
+      "local_url": "/article-9ba3ffd7a88b.html"
     },
     {
       "category": "business",
@@ -630,6 +630,17 @@
       "local_url": "/article-755f6b8d99ee.html"
     },
     {
+      "category": "sports",
+      "title": "حسن الحريري.. مسار إعلامي من الملاعب إلى ذاكرة التلفزيون المغربي",
+      "description": "حسن الحريري.. مسار إعلامي من الملاعب إلى ذاكرة التلفزيون المغربي https://inews.ma/",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPeWlNRk9mQmN2TmVxQ2hwNzgyVEoxRWtjeDNQVkd4MGtxLVc2M1NoblEzc2s4ZUpxZVlkTDBaMndMUkU?oc=5",
+      "domain": "https://inews.ma/",
+      "source_url": "https://inews.ma",
+      "date": "Thu, 15 Oct 2026 16:33:20 GMT",
+      "local_url": "/article-5946844544d5.html"
+    },
+    {
       "category": "business",
       "title": "صندوق النقد الدولي يشيد بصمود الاقتصاد المغربي خلال السنة الجارية",
       "description": "صندوق النقد الدولي يشيد بصمود الاقتصاد المغربي خلال السنة الجارية اقتصادكم",
@@ -639,17 +650,6 @@
       "source_url": "https://iktissadkom.ma",
       "date": "Thu, 15 Oct 2026 16:31:06 GMT",
       "local_url": "/article-7ff6e89bbe6d.html"
-    },
-    {
-      "category": "business",
-      "title": "المغرب يستقبل 40 ألف طن من \"الغازوال\" الروسي بموافقة أميركية",
-      "description": "المغرب يستقبل 40 ألف طن من \"الغازوال\" الروسي بموافقة أميركية العربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNTmRzT3FHY1hNM2NEUU85S1U2azZiakVVckc3WDRqTlZsN1EwSkFSVWtpZDM2M3AxeUFuWUR3NlRuTVVSVFphOTcta3AweVVpR3NnLUxPRVlmdnR1Yi16U3hOVktEOEJ2TVlmM0tLRkh6WjRVMUpyYTBFV0Q2UFc2RUlGekE0aUFmdnpibjlaWnFqelRuOHhlYUVfdS1DaVlkMUNUQUhfejFOTERkcDdPMlNVaF9zVmQ1MG81WU5VSEdaQndRdDBaRjlMTUEyWkI4Tk92dGFyc012ZWhBbF9nYjdJNG1UVjctc256a01MQ3UzYm52SG1Ta3NCeEw3UWVJQkZpakZ3VmVUM1FLNWJpYVN1Tzg3a3hmTEQ1czEzUEFIYVMwcktKR2NpYUJlcENZVWZSSjBJUFRZRTc2VlJ6Z2l5VHROQ0RvZlY3MXdENUJHM1NlcXhsQzJqa3BqTDJpVzBvNzBhMW1XTXVPUDFybVJiT05hLWpwX2NmYy1iYmxvbmY0WnlRYVdtLUlETk5CaDh0bExRd0piX0tFc1l0QWhXWkc5dkd4aDA1YW1vY1EwOElaYzRMQlQ0Tl9RaW51ZFJtMXdkMS0yQWEtc01ONGlEY3JDYzEwNlh4SGtBS3VFQXVJV2YyQTdhOXBBRlRYczM1b25jNNIB9wNBVV95cUxNTmRzT3FHY1hNM2NEUU85S1U2azZiakVVckc3WDRqTlZsN1EwSkFSVWtpZDM2M3AxeUFuWUR3NlRuTVVSVFphOTcta3AweVVpR3NnLUxPRVlmdnR1Yi16U3hOVktEOEJ2TVlmM0tLRkh6WjRVMUpyYTBFV0Q2UFc2RUlGekE0aUFmdnpibjlaWnFqelRuOHhlYUVfdS1DaVlkMUNUQUhfejFOTERkcDdPMlNVaF9zVmQ1MG81WU5VSEdaQndRdDBaRjlMTUEyWkI4Tk92dGFyc012ZWhBbF9nYjdJNG1UVjctc256a01MQ3UzYm52SG1Ta3NCeEw3UWVJQkZpakZ3VmVUM1FLNWJpYVN1Tzg3a3hmTEQ1czEzUEFIYVMwcktKR2NpYUJlcENZVWZSSjBJUFRZRTc2VlJ6Z2l5VHROQ0RvZlY3MXdENUJHM1NlcXhsQzJqa3BqTDJpVzBvNzBhMW1XTXVPUDFybVJiT05hLWpwX2NmYy1iYmxvbmY0WnlRYVdtLUlETk5CaDh0bExRd0piX0tFc1l0QWhXWkc5dkd4aDA1YW1vY1EwOElaYzRMQlQ0Tl9RaW51ZFJtMXdkMS0yQWEtc01ONGlEY3JDYzEwNlh4SGtBS3VFQXVJV2YyQTdhOXBBRlRYczM1b25jNA?oc=5",
-      "domain": "العربية",
-      "source_url": "https://www.alarabiya.net",
-      "date": "Thu, 15 Oct 2026 16:29:00 GMT",
-      "local_url": "/article-4af92a20537f.html"
     },
     {
       "category": "sports",
@@ -762,6 +762,17 @@
       "local_url": "/article-8e263ec36c42.html"
     },
     {
+      "category": "business",
+      "title": "مجتمع : 425 ألف مغربي يساهمون في الاقتصاد الإسباني رغم تصاعد خطاب اليمين المتطرف",
+      "description": "مجتمع : 425 ألف مغربي يساهمون في الاقتصاد الإسباني رغم تصاعد خطاب اليمين المتطرف جريدة الصحراء المغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03Z3FsSXV6eTBtaG9ESjlldWw0ZHU1bE16ZUtvNnp0bHdyOTBUMlZfZWtURmlXbnBnU25vOVdrMXZhOXNETUVjc3otbw?oc=5",
+      "domain": "جريدة الصحراء المغربية",
+      "source_url": "https://assahraa.ma",
+      "date": "Thu, 15 Oct 2026 12:27:38 GMT",
+      "local_url": "/article-32a9740f3900.html"
+    },
+    {
       "category": "sports",
       "title": "😱 صدمة وجنون الجماهير العربية! أيوب بوعدي يبهر مع مانشستر سيتي 🔥 ومدح هالاند للجوهرة المغربية 🇲🇦👑 Tristan Da Cunha (etnExYnTA8)",
       "description": "😱 صدمة وجنون الجماهير العربية! أيوب بوعدي يبهر مع مانشستر سيتي 🔥 ومدح هالاند للجوهرة المغربية 🇲🇦👑 Tristan Da Cunha (etnExYnTA8) Unisba Media",
@@ -771,17 +782,6 @@
       "source_url": "https://media.unisba.ac.id",
       "date": "Thu, 15 Oct 2026 11:40:37 GMT",
       "local_url": "/article-f333cd04e12d.html"
-    },
-    {
-      "category": "sports",
-      "title": "كأس العالم للسيدات لأقل من 17 سنة ( المغرب 2026 ) ..\"شبلات الأطلس\" مستعدات للزئير على أرضهن",
-      "description": "كأس العالم للسيدات لأقل من 17 سنة ( المغرب 2026 ) ..\"شبلات الأطلس\" مستعدات للزئير على أرضهن Maroc24",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQQ2xlMVd6c3dsdU53aWFVV3lPQzJaT1FIdENiM0FoYnpxTnVuU2hxYjQ4bDlkV3RMQVI2VlVvbkt2ZzRzcGFOTlJyRTkyOUxNQmFUWFlKYzk0VmdPUm5VT2Z0aVBXRVNfWnluVFZDY0lEaHl1ZnpJX0NTb21DSGdGN2syOC11SkNuTjc2SG85LVpuSmE0WEduM3k3Tmx1Z3lWei0tYU1ub0ZSYkJCS2FLSjg1aGY0Z1B1U2NKS2pjckVLRmVLZUpabk00Q3JvcGxCa3llenRxWU5LNzY5LXFCM3FSSFFnaDA5MlZRSzB1TlVsLWQ4TjhYbzczbmcwd3F6X2FEYzluY2lheVBHUlFNcWRSR2tRVUVadEEzVDg5ci1mdlBLN3kyODc1bi0xWWdaazkwMUpES1ZYdEE2Znd6R3hzWkhSODhHVFppYnpHbWdzNDc2eEZMeXdhQW5BaDgySEpXV0hYWE9xYUhjQjU4Y3FPWkhzeElsZ2pHZjQxOUpzNVJPbTVpZUxieHJxVEhEczVGYi1Cb0ZNZVlYRTFIMEZzUUE4X3E4OU9wSEdKaVlYNmlLRGlGZEhoM0xzV1paUWgxaF9HX3JjazhSejNJQmwweFJZMHlMUXN4a3Qwbms1RWN0cXFOcmNEYXZhcTV1bS1JR1FLQURFeS1zUXVuUjA5YnctT1kzQU45eUhJNUZiLU1laWh1NU96OGdGbFd4TmVWLTVrU1JMVnFmMjBRZmhRbDFSZmx0UWtjMTVVMnV4b1RnV2pNQmJmR1JFa1d5N2U5YXp5Y3VoNFVwdDh2X1hKR1IxcGZMbTFLcnVOT3VkZ0xjbDlUWGlhVGRFc3JyVEE?oc=5",
-      "domain": "Maroc24",
-      "source_url": "https://www.maroc24.com",
-      "date": "Thu, 15 Oct 2026 10:54:00 GMT",
-      "local_url": "/article-a2da81442175.html"
     },
     {
       "category": "policy",
