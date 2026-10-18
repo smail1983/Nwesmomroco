@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:51:27.889638+00:00",
+  "updated_at": "2026-10-18T21:52:59.529988+00:00",
   "articles": [
     {
       "category": "technology",
@@ -197,6 +197,15 @@
     },
     {
       "category": "sports",
+      "title": "المنتخب المغربي يواجه النيجر في الدار البيضاء والرباط ضمن تصفيات كأس إفريقيا",
+      "description": "المنتخب المغربي يواجه النيجر يومي 13 و17 نونبر 2026 في الدار البيضاء والرباط ضمن الجولتين الثالثة والرابعة من تصفيات كأس أمم إفريقيا 2027.",
+      "image": "morocco-niger-afcon-qualifiers-november-2026.svg",
+      "url": "article-morocco-niger-afcon-qualifiers-november-2026.html",
+      "domain": "Hespress / NewsMorocco",
+      "date": "Sun, 18 Oct 2026 13:13:00 GMT"
+    },
+    {
+      "category": "sports",
       "title": "خطوة إيجابية من جمهور الوداد قبل مواجهة أمل تزنيت",
       "description": "خطوة إيجابية من جمهور الوداد قبل مواجهة أمل تزنيت سبورت Le360",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -205,6 +214,17 @@
       "source_url": "https://ar.sport.le360.ma",
       "date": "Sun, 18 Oct 2026 13:03:49 GMT",
       "local_url": "/article-b44b6114eeda.html"
+    },
+    {
+      "category": "sports",
+      "title": "المغرب يواجه الإكوادور وباراغواي ودياً",
+      "description": "المغرب يواجه الإكوادور وباراغواي ودياً Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPY2tkVldWbVp3RTBwX0d4bjhQV1NYSjRBdUZGaEM3NUlaMnRDY1doa3dRb0pDUWlYdDRpWkhIN09NcHV0U3pmdy1UVW5vazJiRkVmOGJEWUNzdnFyR3ZhRHZXaHpRWUdVOWhKYm91SDdvaGd2U1FUemZVRmg4YUx1TmsxU2ZWRkZvZ2U2NW9mSVIzbTZROUtRQVNiU1Rzc1AyVmd6NFJLLVpXelR2cF9RbDVNb3BiQi00YzR1WjZMZ1BobWlnSnpEVm5PYUNRb3dlcjdsTWNVZThqYnUzaE9kYWZNREJuVEpJUVczenhuSy1xWEpkaDFKX2sxa3ljNk15MDJPYWQ2WjB3aEJqU1VELVluSXkxSjRRZXFPRWxFTnZDX214blRwbzB3WEJFMEpKeHI4VU9SUkhHSjg4VVhqQWg5NGxqclZMZzFaeExNUmhDRTly?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 18 Oct 2026 10:39:02 GMT",
+      "local_url": "/article-9027d1802011.html"
     },
     {
       "category": "sports",
@@ -263,28 +283,6 @@
     },
     {
       "category": "sports",
-      "title": "المغرب والسنغال أمام \"طاس\" الخميس",
-      "description": "المغرب والسنغال أمام \"طاس\" الخميس Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdVZadFF3V1hhek5vTzNRSGZpejZuVGU4em9LWDBwQldyUi04X0hwSU04TFQxUG03ei1BcC1xQjkxNXZaSnFHQ2hBRnQ2OHFiRjEzbTVPS3BiRlIycnhNcEg5NDkzUEcxdjRNWDl1WUpfdVZ6eXUzdW15R3RJWk5GOUREWEZYMGUtN3gxbWdPR1ltUGNPdG5WUl9iZnhiNHlid096OFhPbnY5by1CWlRJVHRtVFhlTTVQc1U4YzdQSVZkY3RoMkw5a2dranFKdEFUbmdFME1qcV9xckxsWlRvdVNpSTI5SHhkMmhqNlpfel9mX3o4SXJ5bk9hWWp3Njg0ZnFmQnlKNHBYVUNnMUZYTGxfc3RReFkyb2pmUllCczBwZjFRTGJLMUh3eG4?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 20:28:30 GMT",
-      "local_url": "/article-a290e4f23509.html"
-    },
-    {
-      "category": "sports",
-      "title": "بعد \"جلسة لوزان\".. هل تؤكد \"الطاس\" فوز المنتخب المغربي بكأس إفريقيا؟",
-      "description": "بعد \"جلسة لوزان\".. هل تؤكد \"الطاس\" فوز المنتخب المغربي بكأس إفريقيا؟ Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdFRoRWIteVc0VnEyOUV5el9FdElFQmZIU3JvZC1PRWtFdlBYcnFBbDJCY1lpWUU3M1dEem1sajFhNHhHdlZrY183YkJNZ1JtaC04czZwRk1Lbjg5c25wcEUtMUs1UEp3OV9TS1hRY2kxYjRIN3R4a1JJTDdOa29CMXJoOEZCbHpnQk9rWnNRN0VCOXNVdEZnWWozcGg4bnBzTG1WMEczTFQtNzAxeTJpeVVqYXFiOWlwUGMzNDhGTHNCNmtRMF9wakJCdTM2dU1JTktNTUxab1lOQzRUeEdqM0k2RVpDRFp3bUxETHAzcW82ai14X3RqMnFOTHpjUEtYd0dUbms4WXkzQWNUdmJ6LUllOERYaXJucjk4R054V093SHhIY3pIN0JvWEFwLUc3MzB0M0lUblloYmpJWkUzbENPdjBPN2N4?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 20:19:09 GMT",
-      "local_url": "/article-e0d691332a48.html"
-    },
-    {
-      "category": "sports",
       "title": "بالفيديو: « كواليس » مباراة المنتخب الوطني أمام نيوزيلندا في كأس العالم لأقل من 17 سنة لكرة القدم النسوية",
       "description": "بالفيديو: « كواليس » مباراة المنتخب الوطني أمام نيوزيلندا في كأس العالم لأقل من 17 سنة لكرة القدم النسوية سبورت Le360",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -326,6 +324,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Sat, 17 Oct 2026 19:06:56 GMT",
       "local_url": "/article-8e84dd542dd6.html"
+    },
+    {
+      "category": "sports",
+      "title": "وهبي: لا مشكلة في اللعب بالمكسيك",
+      "description": "وهبي: لا مشكلة في اللعب بالمكسيك Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeEhXZDR4WE5sT3RLN2EyZVRIYUtNSk43M2VmbU9oMDhMdnpNM1pxeU52dGNnRlVCMW9CLVh0V0ZaTjlDZGJaYVlEcnYzT1hWdmxRWHJITlA3bjYzakhqLUloSTdzdXI3cGdsU0pYS3c0WThBb2p3WlI2eWVpRUlIeUZid2h1RGU2SVlsMWFLV1JQT21jTEY2VVZJR0NWTERmTDN5STdRajQ1Sk1WZ3FtdEd3eGdNSTMwRkVrX3FoUXNYVS1EM0JRaWpnUmxEYTEtUWJIOWJFNkRiVVhpZjdlT1RUZFdicVY3X096OE55M0x2WEdXcmVsdzM4MUw4d3hQVnNTbWkwcE0yUUhTU0ppZTNWdTI3RHFTWVZoaTlfWF9QbXdOaGc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 17:55:45 GMT",
+      "local_url": "/article-b72481d8a285.html"
     },
     {
       "category": "sports",
