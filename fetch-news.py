@@ -253,7 +253,7 @@ with open("news.json", "w", encoding="utf-8") as f:
 def build_sitemap():
     today = datetime.now(timezone.utc).date().isoformat()
     urls = [
-        ("/", today), ("/articles", today), ("/about.html", today),
+        ("/", today), ("/articles/", today), ("/about.html", today),
         ("/contact.html", today), ("/privacy.html", today), ("/terms.html", today),
         ("/disclaimer.html", today), ("/editorial-policy.html", today)
     ]
