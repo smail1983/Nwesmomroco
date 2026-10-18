@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-18T10:59:56.403415+00:00",
+  "updated_at": "2026-10-18T15:49:39.453882+00:00",
   "articles": [
+    {
+      "category": "technology",
+      "title": "عاجل. \"أنتم الهدف الحقيقي\".. نتنياهو يحذّر من \"مساعٍ إيرانية لضرب أميركا\" بالصواريخ والسلاح النووي",
+      "description": "عاجل. \"أنتم الهدف الحقيقي\".. نتنياهو يحذّر من \"مساعٍ إيرانية لضرب أميركا\" بالصواريخ والسلاح النووي Euronews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXZISWljXzdTSFc2NXpUSUhVOWM5S3Q3eVBBbUZIV1R5VkpEQXgyY0k5SzBQSnJwNjl4bjVjdi1mSk15dGFDYkZ4b2FyYTNORUdpeEhXRFBWN25XLUZiN2YxQ2w2SkZmODRMSUtVT0tjb3RqV2taUV9fcVZaZUVwNnpYQ2JFY1Z4MVQxMHN0WThNQ2dfZV9kM0l1YXpSb0pLak1CbnIwczIzWmp4RjI4NjBiS3FacUo4RUxaMU4zd2JWUQ?oc=5",
+      "domain": "Euronews.com",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Sun, 18 Oct 2026 11:59:56 GMT",
+      "local_url": "/article-8132cfd43c28.html"
+    },
     {
       "category": "technology",
       "title": "عاجل: «أنثروبيك» تعرض سرًا مشروع قانون لتنظيم أمان الذكاء الاصطناعي على الكونغرس الأميركي.. القانون يشترط خسائر مليار دولار أو إصابة وخسائر لأرواح لأكثر من 50 شخصاً",
@@ -32,14 +43,25 @@
     },
     {
       "category": "policy",
-      "title": "تأخر معادلة شواهد أوكرانيا يستنفر الأسر",
-      "description": "تأخر معادلة شواهد أوكرانيا يستنفر الأسر Hespress",
+      "title": "المغرب يدعو لحماية الممرات البحرية",
+      "description": "المغرب يدعو لحماية الممرات البحرية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUTBHSzNnMFRuQzJVd2Zra0Z3VWhlZFJ4TDdseFlFZG9RaDVzRDJoZnNjaGNUemEzZGdWSjR4TklmNzlWYVpyU01DMXY5OVNyalVQUUdGa1FMVGEwRFU3dHVacmY2RnZ4UWw4ZjhGSDNWMVNiODVlclRlbEVzM1JaVkNyb1hkTS1qcGpZS3BGWVhfZVRsYnZaNk5wZGlzSzJfelZTd2U1Qm1OZlhzRTQwWjFuR1dDTG1IbjRQUDNjSW8zazMxc0FhT2lEaFRWY2g0d0NFM09VTmN0ZWhEZzBuMnJsaXNwZXoxLXRfUGZqVS01QU5yTUJnSzY1UHc0c1FCa3l3eXVOSy05Q3BfaEJ0VURyRXA3TFBwX2x5bGgzUmdVeTBhYm0tTHFFal9LeHFwZXVsWkhnQ3JkekdYUjYwRTZpZ2xUSDVHeGpUUmp6NTEzckV0UHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdDlKR2huOUNHUDEtM0RWSmdoYmdsSmtGTzk2d1hKNkN4YWcxaE9ybzZTakg1b0dRYTVUMFZUSmhBRThuclR4NjNLWks2R19HMzNQMENEajQ1WTdJYlpONTk1dG91cTFYNUFjR2dabGhnMjBTY3JYUGZUbFRLZ1BzZk1MLVRhdjdTbVZZNS1yWFhYclZ1b2JuUXhkcTI0N19wdFBwak4wMXVDTHBLbUc3Ym0tei1Ud2JkNzZWLWc1dWVUWkRacXZSeDRhTlFGSkpiblp0OVYwR1p5Z3k0b1gxNlJYZGpHNHJIQnpiYV9ueDdPS1pXNHBmYVFOTk4zamRybF9COThpZ1RqbU5RUlpUZ1E3S0M3M200SGh0X2ExQ1JESzlndldTY2RERHVVY1YxS2ZrQ0Z6TWFmU2VHc2VyU3hfbmE?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sun, 18 Oct 2026 09:15:11 GMT",
-      "local_url": "/article-6f0d4754e179.html"
+      "date": "Sun, 18 Oct 2026 14:35:11 GMT",
+      "local_url": "/article-c07d59bb6470.html"
+    },
+    {
+      "category": "policy",
+      "title": "الملك محمد السادس يقبل طلب إعفاء الوزيرة المنتدبة ماديحة خيير",
+      "description": "الملك محمد السادس يقبل طلب إعفاء الوزيرة المنتدبة ماديحة خيير Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOcks4b3NVaUZBLTdpd3lLako5YTktMC11VjZVeTJHaEcyOE0xWHBOckp6bEVwRzI0dnk2M3c4M1VDTk9XcHpfWjFlbmkxd0xabU5Na0NtbXUwSkVYZkZrUUJnNzBSRmNkX25ja0NsOXVVZHEzdjVDRUpmX0xxMEpkUXl1aHd1TzFDdmVTelJGanNGS1pEeF9JSTRSWFZrQi00c1BPUVBsR0l5N2k4d1phWVUweWFyT3lCVE92NTBYZXRPOGVESDBVWTVfT3dVT3lzZVhJV3pvVjN5V0pYQ1VKakszdEZUVDZrZWRaSnFxdzN1dVh1TFpIR002Ty02MnR2b0VRaEt4b1ZzTG5mNTVRTGdrT0dyeFFXMzJhSmJvOXBuOUdoZjBOck5lakM5NkQyZk9Qa2VVQ0dJRldJLVA1OUJ4dUFXbHhMUE83UEZ5RGxkdEMtVnc4?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 18 Oct 2026 14:17:58 GMT",
+      "local_url": "/article-5ad066965100.html"
     },
     {
       "category": "policy",
@@ -54,25 +76,14 @@
     },
     {
       "category": "policy",
-      "title": "تسليم السلط بين المنصوري وبلفقيه",
-      "description": "تسليم السلط بين المنصوري وبلفقيه Hespress",
+      "title": "بنعبد الله يقود \"التربية الوطنية\".. وزير \"أُعفي\" ولم يُحرم من المسؤولية",
+      "description": "بنعبد الله يقود \"التربية الوطنية\".. وزير \"أُعفي\" ولم يُحرم من المسؤولية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPbGhfcDl6RE1abE50M1RJdzdycjRXb25fMDVWRzRqRko3al9RNVk2cjY5eDU1anEwVi1mTWd5Wmo3d1lkak9fc3kwUVZDTXcxWEhYWnVhOUN3TlZfeFhPdDBEVGxleEJsbkxzZVBzNFRLbm9LaWJIZV9JN3lVSlNERVlVX0lHa1pyM2VHVVlES01DV0lFNTA0VzZIWXpFZVh6YUk4dG1iaEpLWWZXMV9QeExDTEptRmMtR0dzMjhoSUZvdEtMYlBDVWs5V2ozR0I5SFMwbGk2SXFnR0lGaHBsWHhKN2hBdjFwMG1Zc0tBZTBpRUNkNUZJMmJXVVZQWjJrZ1lBV0JSWF9HbkJvUkVLQWVrUmVOSjM1Slc0aUNVTjRvd3E5N3Y1d21VT3dTWk1zQWVFQkRkcG1OMEJvdmFPamF0V0dnUDVLZm5FOFE3N1kxZF9Sbmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOSUVuQkliTl9nUTVVTmhpdkV2eFN2SU9QUG9jdUJWNzhIOWlueW03V1dfMURqMEhaSHdBWmNFTlVnaU9wemhZcUNPS3hPWFVyU1dNNlNxT2I2Y19rX2FldUs3U2QwUy1XSWJLaGdGTEZRdFJVNWFmaU5NX1YwV0QwdDYtTVVBbTFMZElrc3ZlSHdLQzJXcGZmeGQtRGRkaUVZaHViSlk3RC1BRUxJR3FpdE5TVFk5MG9WWWZoOEdzYzhXM18yVU9aMk0xNGxRbVU4SDhhZGdlN2NPQXVRMTlqc2t2V3c1ZENQWUczVVRWb3ZDcDVvMXRrcVBPMVh1WkpORWtGVlV6ZU1Ob2hJYkN1MThwVjNfeUJJNTRKMkVpbWF5T1ktdGdyeVVBSVVVMDQwVDl3ck0tWXQxb25HQ1doa2FxQnY2SGZMY2tKOGlB?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 21:35:22 GMT",
-      "local_url": "/article-6aeb89e2da99.html"
-    },
-    {
-      "category": "policy",
-      "title": "بن به يناقش مساءلة المدبرين العموميين",
-      "description": "بن به يناقش مساءلة المدبرين العموميين Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNblNtMHpGQnY2X0dCUjlXZnU2QkNQR2NPbktkMU9vWjFDSFl1Skd6R0N4SzhwR21WUHVFSUNIbFdsa1FvQURJSWlMZk9LR0FYWXpCVHNHaUNILUpSRFZEYTNhTjJHOUwxUjZSX29zT3dSeUdTZjl0YUdXcTVqQXJfbmdXQW5WM2JvdUdGc1otX0oxdms1RmZRazAxNldxZFlaV3FSR3JwS0NPSkk5eTYyMWlGeldEWm1rTXY3TW5VQVlSUzU0OHFxb1VRZHVzSDlGOUYtMHVkdGJ1NGhpRXBsbDZIOUFIVU1remw2NjNwV19mbGNwRE9mN2FZNElERTIzQkFDS3JGRUdjNktiNkFpWnd1Q3hyYW5zeEgzWlBzS2ZXT1hRQzNaNEtQNnB0anZ2Q1VCRWtCSUU1Tno1U3FmaVJHcDM2Z1FPa05XZmd0MWcwN05EeGc?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 17:23:25 GMT",
-      "local_url": "/article-022bd7688df0.html"
+      "date": "Sat, 17 Oct 2026 21:04:18 GMT",
+      "local_url": "/article-8837c67c800f.html"
     },
     {
       "category": "policy",
@@ -186,6 +197,28 @@
     },
     {
       "category": "sports",
+      "title": "« الكاف » يحدد موعدا حاسما للأندية المغربية في دوري الأبطال وكأس الكاف",
+      "description": "« الكاف » يحدد موعدا حاسما للأندية المغربية في دوري الأبطال وكأس الكاف سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObXA4c200ZUVaZ05xYlZ2RVFGUmxNOWo1c1BvV0xlREhQX1o0QW1YYWluNEZWaXVSU1RpX3hXMUFHeWIwcmpYMXlsUjFvYndBVFBQSkx5Rmx0QmN4UlJLazJCVGZZQ3dLck1GbF9jOXpoNHNDSmJiZ0dlbU5zYjJYMTJLUHFHMGF2enF0aTJmQQ?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Sun, 18 Oct 2026 12:23:45 GMT",
+      "local_url": "/article-06575ef54a7e.html"
+    },
+    {
+      "category": "sports",
+      "title": "البطولة الوطنية الاحترافية \"إنوي\" (الدورة الرابعة).. الترتيب",
+      "description": "البطولة الوطنية الاحترافية \"إنوي\" (الدورة الرابعة).. الترتيب mapsport.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNdFZBTmxKNzlnYndRSlNCeVQzdndsNzlzZ0ZJNzdWR1ppR3NCLVJoR1lyS05NXzFMdUVFSEVhc01WemhBLVpsSUlPSW5YNlV4QjZhNXNOWW1UV2FCUEtPZWN6RVFCaGJxbXp5QUxCN1pBMGtvQ240X0Fia2NYUTdYODdXNnVlekNpclNHZ0p5dlgtQ3NFbjVNa2RKMWtSTmpMZFVKeXlGU05rR05jcEJGcmladnlKeGhPNUxMa1h4cW92ajMwbmlYRU9NWTVSdk1rdkUxb2NwNUg2a01zOUFPM2cycTAzUzM3V3hzLTNlZjRWOExDUW42d1QwU3JzWmhpNWxRVUJnYk5JRXBlSXdBX19qTl9YczZ0Uk55OW9qSkhrSkJDNDRPb0lZcXZJLU5SVkprQ1FEY2xCQXczUDFfVldZMThqQWM5TGFOWGRsVTI3VXdrNnBoa0NqY0NPMmVrNXpiRkZmd3FwUG13TWszVmVwakdodE9HYVVETUMxYmtlV195SWpYNw?oc=5",
+      "domain": "mapsport.ma",
+      "source_url": "https://mapsport.ma",
+      "date": "Sun, 18 Oct 2026 12:11:57 GMT",
+      "local_url": "/article-8e39372ffcdd.html"
+    },
+    {
+      "category": "sports",
       "title": "بطولة إفريقيا للغولف .. المنتخب المغربي ينهي المنافسة في المرتبة الثانية",
       "description": "بطولة إفريقيا للغولف .. المنتخب المغربي ينهي المنافسة في المرتبة الثانية سبورت Le360",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -263,14 +296,14 @@
     },
     {
       "category": "sports",
-      "title": "بعد بنجديدة .. عموتة يخطط لاقتناص لاعب جديد من البطولة الاحترافية",
-      "description": "بعد بنجديدة .. عموتة يخطط لاقتناص لاعب جديد من البطولة الاحترافية سبورت Le360",
+      "title": "أشبال المغرب يترقبون مونديال أذربيجان",
+      "description": "أشبال المغرب يترقبون مونديال أذربيجان Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTFVBY0tqVmxfdVBXVmlrN1pYTndiajY0VUdOWTRObHBwb3BHOXhTbzNzR0FnZ1BxWnM1dWZybnp1clM5QlNzbi1obDl3RENQNEpNT0NuOEVrQUlCLU5BMHpDMGRDTG1GNlBYenR5NA?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sat, 17 Oct 2026 13:27:56 GMT",
-      "local_url": "/article-00b871289e87.html"
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQeEtyaG9qRXlxaF91X2M0TXJqal9QS2NmOEtqYnB3YzFyZG5XbWRsSjFYRGZxbmNDYUV5aFFxZlJvQ0RuQndmUlRMS2tUblVpMUQzTWhEYnN0ci1PX3poVHFqTTRyZ29seFdiemlSeUQ0YnlFNEtxN1lPSUhzbmp2UjJkWHlHZHBWRk5Lc3hGbllEb0RkVnA4WWhSUU5DSTJtRVZJQXlOdUEwTlBSS0xvaUVHY2dXRmJ5YW1xVVNISmRhdzZVZEUwNU96R0Rnb1BWSFlvNGJrUi1HSk9zQ1JaZ0sxYkFVd2NyNFlveGRNYjBYQkNwWFZCekpvaGQ5TzBtNnBEaHpWcTJnRTZvOUZaaVF5MWN6TElsVUJtWmJERjBxZ3ZuMHZlYkdJNkQybF82clVCT1F1MFJMRkRkMW94QVljLW9JYnFtM0NqeHBNeU9yM1Nu?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 13:52:38 GMT",
+      "local_url": "/article-4e1c362739c2.html"
     },
     {
       "category": "sports",
@@ -318,17 +351,6 @@
     },
     {
       "category": "sports",
-      "title": "أشبال المغرب يترقبون مونديال أذربيجان",
-      "description": "أشبال المغرب يترقبون مونديال أذربيجان Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQeEtyaG9qRXlxaF91X2M0TXJqal9QS2NmOEtqYnB3YzFyZG5XbWRsSjFYRGZxbmNDYUV5aFFxZlJvQ0RuQndmUlRMS2tUblVpMUQzTWhEYnN0ci1PX3poVHFqTTRyZ29seFdiemlSeUQ0YnlFNEtxN1lPSUhzbmp2UjJkWHlHZHBWRk5Lc3hGbllEb0RkVnA4WWhSUU5DSTJtRVZJQXlOdUEwTlBSS0xvaUVHY2dXRmJ5YW1xVVNISmRhdzZVZEUwNU96R0Rnb1BWSFlvNGJrUi1HSk9zQ1JaZ0sxYkFVd2NyNFlveGRNYjBYQkNwWFZCekpvaGQ5TzBtNnBEaHpWcTJnRTZvOUZaaVF5MWN6TElsVUJtWmJERjBxZ3ZuMHZlYkdJNkQybF82clVCT1F1MFJMRkRkMW94QVljLW9JYnFtM0NqeHBNeU9yM1Nu?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 01:47:37 GMT",
-      "local_url": "/article-4e1c362739c2.html"
-    },
-    {
-      "category": "sports",
       "title": "\"فيفا\" يبقي إنذار لاعب فرنسا أوليس",
       "description": "\"فيفا\" يبقي إنذار لاعب فرنسا أوليس Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -339,34 +361,34 @@
       "local_url": "/article-2d7b7f7fb385.html"
     },
     {
-      "category": "sports",
-      "title": "منح البث التلفزيوني تثير الجدل في البطولة الاحترافية.. الأندية الكبرى المستفيد الأكبر",
-      "description": "منح البث التلفزيوني تثير الجدل في البطولة الاحترافية.. الأندية الكبرى المستفيد الأكبر سبورت Le360",
+      "category": "technology",
+      "title": "كابلات الإنترنت ومراكز الذكاء الاصطناعي.. إيران تلوّح بضرب أهداف بتريليوني دولار في المنطقة",
+      "description": "كابلات الإنترنت ومراكز الذكاء الاصطناعي.. إيران تلوّح بضرب أهداف بتريليوني دولار في المنطقة Euronews.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PdUlaaTVvVXYtU3lKZ2hNblJmaUlWRndCczNKVkpDQnl2T2ZGczk5ME5OZ3VxeGZsdHBhUWZQX1RwY0RHZEQ0ZllpRWNrLUpWM3o2WnhQLTh1aWNrVkFHSlh6bzZmU3NaSmV3MkZTaw?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Fri, 16 Oct 2026 16:05:23 GMT",
-      "local_url": "/article-7df4c43ece55.html"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX2hzZzZrRkhRLXFQUUtfZFdKMy1xSHVLSXRkaGgycEtsWl8zTlpQZUpfOWJhMkZvV0lQeTUxOWNfSkhFek9kc2ZCbTljZ1VJZGx2RU5NT0tXUTM5U2dVbVptY0dPQnlQWVE4TE5QanBSMGhuNzdFQWJMY3padWo5X3JUTld5WG9rZFJUUEQ2Yjh5aXpDQlZhTFJOM3hqTHYzVnE3eEZyZmN1clBwZEszRHEzeFFOQ0JYRENlN2pDSjEzUE5X?oc=5",
+      "domain": "Euronews.com",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Sun, 18 Oct 2026 14:15:30 GMT",
+      "local_url": "/article-2e8042bc1806.html"
     },
     {
-      "category": "sports",
-      "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-      "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
+      "category": "technology",
+      "title": "المرصد المغربي للسيادة الرقمية يشيد بالرؤية الملكية وبالمكانة الاستراتيجية للذكاء الاصطناعي في الحكومة الجديدة",
+      "description": "المرصد المغربي للسيادة الرقمية يشيد بالرؤية الملكية وبالمكانة الاستراتيجية للذكاء الاصطناعي في الحكومة الجديدة 2M.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQYjIyS2xBMk02Y0NyTEJfdXJsLWtfanVYY0VqMUFtc2tMSUhLWU9RS1JUaTNnN0dWRzNZRmtNWVd4SjRHVmxOd2FvcFNnYU9WcDVKVzNYZGVWOWlleElqRUM1M2NSLWpKdkV0SF9idWt6Nml1NWVqOFFqU21mbUk3UW8tdDdMamtjR3hqd2tYU01VZzdFWnFaVTRCS3hKWC1MU293SUsySW5BWC1sckwzYWl2ZjFqUHRaRlJRd2ttaFJjUC11WlNZODBrOGZSSHVmU1BuLUNYaEM3ZkZOM3RhTFNvRW5uQ3pRSUQ3aW9UVGVra2tHaU5OZHV2a053NURyX0NLakFWeWUyMHMtelF0YndObXlsVHljdGhCMXRFcEVDTnhPSFJObDFXU3lOV3o2MUE?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 16 Oct 2026 13:16:33 GMT",
-      "local_url": "/article-c77f891b3dd6.html"
+      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPeFNPakY3M3otNGhmTjZtYkVWTy0yQkJ0SldmRFZMb2dMam9COGluNlJRaTB5eUlxV3ByVWhUeHBvWEpSSWVuNFNRVmV4b2x4YTVObHlHTGJBMFJCUkJHMXpqV2lRRC04TmE1VjZhM05RdzduV3BsWGJrdk9MRkt6c3FiSElWYU9ycnNuV1VJbHNvdEk2aUNRTGdfTndMT3NNUzVqdG5XWXhmNVVHQ0tLc3RQRUtEaDVNZ1RqVEkwMTVRLWtRTW53ejBBR3k0emVlN2FfTXZ3STdIeGNhMHQ3SUcwNUJaYUpJdkczWGJQc05GSHlxZ3QzYUtSYUk3RmtNNmxoYmhsaHU0MmlyMC0xTlNZNXo2Vl85a2o2OTNVaGRTcXU3S1pvZ21FNmMxVURIRU5ZNmFtdHM3Z1hyN3FVdmdNOFQ3VlZ5ZE92cVpBRUpudmVsLVdsX1BBRmNsdGRaSV9KX2dIcjc2R0w0dTVfVkZURHFlVDNwUXlZa3VCSy1JZ0VobGVjbjZ6MktSYlVSaGlkQ1VWNFdWa0V5MC1wVDdWcFFIWGpONDZ6aC1nclRmZVRIOEx5TXE0RENHUzVoUEpST2ZqU2x0TENVS0x4X3JhMnhCeFpkWnJIek1QWVI0LUJIbkVaTVF0NmNwTkM4LWVJbWtxTVpJYzl3NmVJ?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Sun, 18 Oct 2026 12:17:00 GMT",
+      "local_url": "/article-b7874076ac1b.html"
     },
     {
       "category": "technology",
       "title": "يورونيوز تختبر أول سيارة أجرة ذاتية القيادة في أوروبا بزغرب",
-      "description": "يورونيوز تختبر أول سيارة أجرة ذاتية القيادة في أوروبا بزغرب Euronews",
+      "description": "يورونيوز تختبر أول سيارة أجرة ذاتية القيادة في أوروبا بزغرب Euronews.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlFHQldxQnFpQ3U0Q1VwZEwwRVVjWnVpOVpFSFJJQ3ZCdkZtVEh1YzhMZ19PVFJTWjc1T2xod25rU3J0QTZ3VXBmOTkwMTlIbTNJemNxcDN1WVBTMHRIanhYVFVnM2JGZVVkQkQxU1ZfdTR2VmpSTjZYeS1KYmQzQl9JR2VITzZsNHhyd2YxN2I1bS1McVRHQUdFZ1R1S1pVWUNEUjVZd1VwcW5JQ0Q2bDY5aw?oc=5",
-      "domain": "Euronews",
+      "domain": "Euronews.com",
       "source_url": "https://arabic.euronews.com",
       "date": "Sun, 18 Oct 2026 08:00:55 GMT",
       "local_url": "/article-377809311c2c.html"
@@ -395,17 +417,6 @@
     },
     {
       "category": "technology",
-      "title": "تقارير: أنثروبيك تعرض على بلاكستون عائداً يتجاوز 10% لتمويل صفقة رقائق",
-      "description": "تقارير: أنثروبيك تعرض على بلاكستون عائداً يتجاوز 10% لتمويل صفقة رقائق CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNaGpVb05vQ1hTa2FkR3RmbzBzX2JzeDd1V2ZvY0JtdFFVTWVsTEhHTXRKeXFlRWhxNFdETDc1bzNFVWo1X09tNUdic0psbmZHdjJXd1NSNXptRlBUOXJGajRGc3BLcjhWYndyTkJ2eEdpVVcya0R1UjFJYmFyVU1Bc3JCcHRiNUFXUkpCMk5HR2pzX2FlRlRDeEdETjhKZmxJSmVTYlZHelZuejl2ckxscnpaTlZMWS11dFVQZ0xEN1g2X19CS01IeWk4Ymt0OHE0ekhRQkx6dklJS0tZR3dKSVBXYzkwc0tCM1JVdUlhZDFpOEhST215YnRILU9PRkxVd0xkRUdMY1VJUmd4U25BUDJJcVlibl80VlJPOE40Nk5GNFE5QkZHN29xdXRHWEswUUE5WDJmR21Zczl3MHR2MV92RFdHeHpMdzRtNGF5aEpRaDVuN3JMOWt5dHBoZDZUMXBKWGFBUlU0WTNYdDlTTjJGd2V5UmdsdF9zMjBuMk1ldkZRZ2pkY1VtUmNBT1VfZHFMTTZyaG5MUGhoWEwzVHV3bk5uOUhxczA3azZKWEpRRVhnazcwZ0dqLUFTV1h5YldUZFk0Nk03S2RhWWYzS1FkSktpTFdSbFdyOGFHeDVXMVZHbUhVN0hxYllJM0xWd1hlUFdKdkVpTTdJMmdzWlA1MHY2R0VncXI3UV9CM0xPUnZwQ21mR0NBS01LWjVhelBjRlBn?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Sat, 17 Oct 2026 07:41:18 GMT",
-      "local_url": "/article-dc629990895e.html"
-    },
-    {
-      "category": "technology",
       "title": "الحكومة المغربية الجديدة: لقجع بصلاحيات أوسع ووزارة للذكاء الاصطناعي",
       "description": "الحكومة المغربية الجديدة: لقجع بصلاحيات أوسع ووزارة للذكاء الاصطناعي France 24",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -427,6 +438,28 @@
       "local_url": "/article-caa417b61ac5.html"
     },
     {
+      "category": "technology",
+      "title": "نبذة عن السيدة عائشة كلاع، الوزيرة المنتدبة لدى وزير الذكاء الاصطناعي والتحول الرقمي وإصلاح الإدارة، المكلفة بإصلاح الإدارة",
+      "description": "نبذة عن السيدة عائشة كلاع، الوزيرة المنتدبة لدى وزير الذكاء الاصطناعي والتحول الرقمي وإصلاح الإدارة، المكلفة بإصلاح الإدارة 2M.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOVUxVczNwMFR4RF9CaURnRVBVcWVXc3haWThrc1dwWEpoWlN2RzdKWE40UExBb1JEMnJscXNmYjUxTHlVanZXSVJvUFJhaEZBbDZsa3Q3QVVKSUJ4OFNRTTFnS2F0N1VrS3RjRGN1OWMzcWl5MF9TbDR2c09jTV9vdU5WU1l6MXpTdVphSXUzbXZ2SnNFLUZfeGNMTXJDQWpEM1JoUmFVeEd2Z3I1c3c1MFQ1SUd5OGZQYmx2SGMwMWtYUmdRQkFpRjkzS1VIZjBnVDhlR1BKZWlmalptb2VGdnA0ZUM1Y0JrS2tBQktFVkh6dHVmeDZZdFBORjA2eFZ5ZHhESkd2ZGJlNW0zbTNDczFjRm15cGlZTTlCZkYxMnpIZEdRaWFXZEtYQnJJcTczeE9wTkxlc2kyVXlwSVUxNy1XZEtKMHE2MWNPYjlnaE9XbURQQzdPNjdiNUR1NTJ2QXVlY21WUFRlV0pHQ1ZYQUpkZGNJZ28tS0MtU21KUU9SQzdnN2VfcE81QmNlRmcwYjE4eTRtUzdTd05xeGpjZTRhMWh4NzNMSjZRRW1XWFJoUDNmaGo5ZFJrR1ZOcUIzYWtCSHU0Q1ZGY0lmbG1ock1FNnJaaDk5OGp4VlRBY3VfVWxET2NueVZnNm9rejdTa3ZFbGY1TXNmbUlMTHllRnZ5akdpbFFfRm9yRjBtc01mXzJUbHFSRjRrUXBZQ2duV2gw?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Fri, 16 Oct 2026 21:35:00 GMT",
+      "local_url": "/article-a3790a224560.html"
+    },
+    {
+      "category": "general",
+      "title": "المغرب يواجه الإكوادور وباراغواي ودياً",
+      "description": "المغرب يواجه الإكوادور وباراغواي ودياً Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPY2tkVldWbVp3RTBwX0d4bjhQV1NYSjRBdUZGaEM3NUlaMnRDY1doa3dRb0pDUWlYdDRpWkhIN09NcHV0U3pmdy1UVW5vazJiRkVmOGJEWUNzdnFyR3ZhRHZXaHpRWUdVOWhKYm91SDdvaGd2U1FUemZVRmg4YUx1TmsxU2ZWRkZvZ2U2NW9mSVIzbTZROUtRQVNiU1Rzc1AyVmd6NFJLLVpXelR2cF9RbDVNb3BiQi00YzR1WjZMZ1BobWlnSnpEVm5PYUNRb3dlcjdsTWNVZThqYnUzaE9kYWZNREJuVEpJUVczenhuSy1xWEpkaDFKX2sxa3ljNk15MDJPYWQ2WjB3aEJqU1VELVluSXkxSjRRZXFPRWxFTnZDX214blRwbzB3WEJFMEpKeHI4VU9SUkhHSjg4VVhqQWg5NGxqclZMZzFaeExNUmhDRTly?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 18 Oct 2026 10:39:02 GMT",
+      "local_url": "/article-9027d1802011.html"
+    },
+    {
       "category": "general",
       "title": "توقعات طقس اليوم الأحد بالمغرب",
       "description": "توقعات طقس اليوم الأحد بالمغرب Hespress",
@@ -438,15 +471,26 @@
       "local_url": "/article-f79aa7e17714.html"
     },
     {
-      "category": "general",
-      "title": "بعد زيادات متتالية .. أسعار الغازوال تنخفض بـ20 سنتيما في المغرب",
-      "description": "بعد زيادات متتالية .. أسعار الغازوال تنخفض بـ20 سنتيما في المغرب Hespress",
+      "category": "international",
+      "title": "مسيرة في واشنطن تدعو للتصويت المبكر في انتخابات التجديد النصفي",
+      "description": "مسيرة في واشنطن تدعو للتصويت المبكر في انتخابات التجديد النصفي Reuters",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOeEZUOHhiWndzQkU3RjdZNmh3bnpLR1Zsa3VWaUxFSXliSUJwWlF2Z294M2RIYjF3LWpUNFhQVWYyU09maHVEYWFwSkJSZ3ZMZzZzaHZJSTVJdVBkLVFEZGI4YTlZdlNxUDhlaEk3MVVZM1NUOE4wejZnRll4X2JFa1FtcG9pT0d5b3BLWnd4bzMxTFppeGllMVEyTVBtdEtyS1VIam1salVCY0YtM2ZUYmpONUl5bkVQd2VfV3RDVnBad2FscnI1VXZBMTlXOFRzVk1sdmhjNzB1ejk3TEZ1QzZ4R3U5NUMtVWtCR3Z2aDNVRndCczV6X1hLYzhqb0VnNmRGZk1WU3JKZWtyNlRmbzVnVDhwZHNmam1id1BIWG12RWI0b3IybkhyWmQ2VDkwRW1EN0RRN0ltcjRaZm84MktndXZ1Z3lUZkJDbDBqWHlna1VuZ3c?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 16 Oct 2026 11:47:26 GMT",
-      "local_url": "/article-5471f13b9f82.html"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaU21lTm9GUXMtODNzRHNyVlY5Z0ZtNUNqNnk0bGNXa1JKd2Z1aWtJT1lETlhNX08yakRhRmw0YlM0dDJWSnctcG51LXJ0QlZSUTZtTGJUbkhUZVd3RUg3WUhqMU4yMVU?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Sun, 18 Oct 2026 10:45:08 GMT",
+      "local_url": "/article-cf062aedf518.html"
+    },
+    {
+      "category": "international",
+      "title": "استمرار الاضطرابات في فرنسا مع حلول الليل",
+      "description": "استمرار الاضطرابات في فرنسا مع حلول الليل Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVHV6SmRBRXgyMG1HQUl0SFhuUklqQTBnSGhGaThyUktwbkl1WlUybFZzOFRtZDlyenQxVXhxMnFnX09YZGo5b2FEdHRkMXI0WjYxUmlIZnVvUk5FdzA3YXZneUI5N1lmU3J3?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Sun, 18 Oct 2026 10:45:05 GMT",
+      "local_url": "/article-b456d51a6ff6.html"
     },
     {
       "category": "business",
@@ -456,8 +500,30 @@
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMHhfYkd6djhfUEJGVVBrX2ppV3JzRHA4TmRrenlZV2hxMWZDcFdjNWU5RkE2Q3ZIeTJSRnFIYUNNa2dwOGxXVUtxaUNzR2wzVlRnQmNyNEtTNmFza1ZkZUdwQ3FEWE9BVnRHeFo1VHZMQ2lHc3B6TTFCa1ZzSTBXUEduYTcyemdvaVBIZURUSnE5bVozSmsxZ0tvYUwtZlpwWGRJTGctOVpBQWlKZFMzTTlIZGZpRWVkUzJDcmF0dXhsRjVtUEYzNC1lMUlNSGdfbm9ZeGdYUkpaQThuUnlDb0tXNTFONXdwMl8xTnp0YlpDMV9pZTU2eU5IaWRGelRIWlp1Y0h0aG9yRUFjalZVVDZZTnFXalh3cDUtenZjaTY4RFRRcEZQOXJzZ0VJcW5RY3hfTzY2Zk9vMjZrVWp4MTc0aEo?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sun, 18 Oct 2026 10:17:33 GMT",
+      "date": "Sun, 18 Oct 2026 10:20:06 GMT",
       "local_url": "/article-911f2705442c.html"
+    },
+    {
+      "category": "business",
+      "title": "الملك يوجه خطابا ساميا بمناسبة افتتاح البرلمان",
+      "description": "الملك يوجه خطابا ساميا بمناسبة افتتاح البرلمان Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hSXZpVTV2Sk9POE1CVWtLS3JNYWFaeGprVjBJcXp6QXlJcXZBazJ6MkNIWWtlcHdZMDVGMzIwMmpJV2tR?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Sun, 18 Oct 2026 01:46:14 GMT",
+      "local_url": "/article-cba5ef4c22b9.html"
+    },
+    {
+      "category": "business",
+      "title": "موازنة 2027 بالمغرب تستهدف دعم القدرة الشرائية والحماية الإجتماعية | رويترز",
+      "description": "موازنة 2027 بالمغرب تستهدف دعم القدرة الشرائية والحماية الإجتماعية | رويترز Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UlE4UzlBNFRDT0tSa3FIZGQ0Qk0tdXdXOEJBSXBXRkRObGdBQ2cxRUwyVDNEZWsxWDVqQzA0N0FCQmE1NzExeUllVEw4YjdpaWt6STJ1WnJTSllfQnVBcHBaVEUyaEhQd1BlYmdBQ09YSjU0MEZnRkFTS3Jqb0k?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Sat, 17 Oct 2026 19:39:37 GMT",
+      "local_url": "/article-99e6d67f18eb.html"
     },
     {
       "category": "international",
