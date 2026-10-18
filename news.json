@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:02:57.425815+00:00",
+  "updated_at": "2026-10-18T10:22:56.562956+00:00",
   "articles": [
     {
       "category": "technology",
@@ -274,6 +274,17 @@
     },
     {
       "category": "sports",
+      "title": "\"الأشبال\" يخوضون بطولة شمال إفريقيا",
+      "description": "\"الأشبال\" يخوضون بطولة شمال إفريقيا Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVHgxWXNZNGhxSVRSczZTVTZCLVNicFhiQ0FZMWRfNDcwSFlkUU5ZOFh3TEVkaFZHSDc0S1hyRXFES2Y0bWZJZ3pWSHl5aHFwbVdZTy1raW9JRlNPUXNSeG80bWFQUEtoYzcyNVNlazIzREY5Y01YaExDQms1dmdoUm5QUDhxekthZXNDX3U0SE9fX1A1cTBmSkw1TUN0RHdfRTVyb0RBd3A4TEJTWWZURWIxN2c4U29TNGVEbXlNaV8yOF9qTjdXUGtNWm5PcVN5eXBDNVpZQ2ZqbUJ4YkhzNi10aEF3S2VPOE1fQjQ2dEVWY2hhUmgzZ3ZtVkRMaDB4YUJaVEY5WmN6a0FLZWk4Y0ZuZnlOaXNUX0E1QmFGbGw3MzROdXVXaHI5MDBmTWN0X2hSeFJOamlpeHND?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 04:08:56 GMT",
+      "local_url": "/article-d9457e87b768.html"
+    },
+    {
+      "category": "sports",
       "title": "أشبال المغرب يترقبون مونديال أذربيجان",
       "description": "أشبال المغرب يترقبون مونديال أذربيجان Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -315,28 +326,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Fri, 16 Oct 2026 13:16:33 GMT",
       "local_url": "/article-c77f891b3dd6.html"
-    },
-    {
-      "category": "sports",
-      "title": "الجيش والرجاء في اختبارين إفريقيين",
-      "description": "الجيش والرجاء في اختبارين إفريقيين Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNkNqclR6cHhNREt6X2JQaWRibGdxQTBVSVJZSkk5bm9fN1JUWmVuOEpTZ1E5RUdrTERkcE91R2hxWWctaEtiTVhOWkN3enBScFZZSGJ1V2FyaFJuSk5RZnZxSUJES05oRmdxZUFFVlZqRzNwNy1wbTV3SUVEa251a0RQSEY4US16UFNXN2FTbmpTUkM0VHpFTmtvTXhJRjJvcXhid1A2MUVGM21Wc1VtOTNHYTdzXzQ2R0xOandrbVlaaGk4akNxRVBkelhwT1RLQUkwLWIyLXI2NzNOVE9SdGRXRi1mcm90SnlMSzEyZlV2c2Ixc0J2eVE0djNKYXYxMEx3VHpOU2wzVlRiNTFjT3N6WXRraWxfXzNvMXR6N1N2UDVNajNuemNhbUdockkyTm1DS2JGdmtrcTBoX2dBb1VJZE8?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 16 Oct 2026 10:15:01 GMT",
-      "local_url": "/article-5ae587116681.html"
-    },
-    {
-      "category": "sports",
-      "title": "مباراة المغرب الفاسي ضد اتحاد طنجة",
-      "description": "مباراة المغرب الفاسي ضد اتحاد طنجة سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tVEhhRXZRdkVPR1BDODA1emVqSzVZbEljZnhNTXdnNUxwaFZzQXhHUzdBcENzSUVDeXZab3FPMzlZbEpwZHhkWHUwSmhrRENpLTNNUU1IV1pFMkZ2LVptT3BrMjc4Y1NlbGg5VEVlMUMtdXdneE1USmZ3?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Fri, 16 Oct 2026 10:05:51 GMT",
-      "local_url": "/article-24578ad7cdfe.html"
     },
     {
       "category": "technology",
@@ -436,6 +425,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Fri, 16 Oct 2026 11:47:26 GMT",
       "local_url": "/article-5471f13b9f82.html"
+    },
+    {
+      "category": "business",
+      "title": "\"الغازوال\" الإسباني يتدفق على المغرب",
+      "description": "\"الغازوال\" الإسباني يتدفق على المغرب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMHhfYkd6djhfUEJGVVBrX2ppV3JzRHA4TmRrenlZV2hxMWZDcFdjNWU5RkE2Q3ZIeTJSRnFIYUNNa2dwOGxXVUtxaUNzR2wzVlRnQmNyNEtTNmFza1ZkZUdwQ3FEWE9BVnRHeFo1VHZMQ2lHc3B6TTFCa1ZzSTBXUEduYTcyemdvaVBIZURUSnE5bVozSmsxZ0tvYUwtZlpwWGRJTGctOVpBQWlKZFMzTTlIZGZpRWVkUzJDcmF0dXhsRjVtUEYzNC1lMUlNSGdfbm9ZeGdYUkpaQThuUnlDb0tXNTFONXdwMl8xTnp0YlpDMV9pZTU2eU5IaWRGelRIWlp1Y0h0aG9yRUFjalZVVDZZTnFXalh3cDUtenZjaTY4RFRRcEZQOXJzZ0VJcW5RY3hfTzY2Zk9vMjZrVWp4MTc0aEo?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 18 Oct 2026 10:16:36 GMT",
+      "local_url": "/article-911f2705442c.html"
     },
     {
       "category": "international",
