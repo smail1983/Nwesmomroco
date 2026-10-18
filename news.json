@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:22:56.562956+00:00",
+  "updated_at": "2026-10-18T10:59:56.403415+00:00",
   "articles": [
     {
       "category": "technology",
@@ -29,6 +29,17 @@
       "url": "article-un-fourth-committee-sahara-152-votes-2026.html",
       "domain": "SNRT News / MAP",
       "date": "Thu, 15 Oct 2026 17:51:00 GMT"
+    },
+    {
+      "category": "policy",
+      "title": "تأخر معادلة شواهد أوكرانيا يستنفر الأسر",
+      "description": "تأخر معادلة شواهد أوكرانيا يستنفر الأسر Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUTBHSzNnMFRuQzJVd2Zra0Z3VWhlZFJ4TDdseFlFZG9RaDVzRDJoZnNjaGNUemEzZGdWSjR4TklmNzlWYVpyU01DMXY5OVNyalVQUUdGa1FMVGEwRFU3dHVacmY2RnZ4UWw4ZjhGSDNWMVNiODVlclRlbEVzM1JaVkNyb1hkTS1qcGpZS3BGWVhfZVRsYnZaNk5wZGlzSzJfelZTd2U1Qm1OZlhzRTQwWjFuR1dDTG1IbjRQUDNjSW8zazMxc0FhT2lEaFRWY2g0d0NFM09VTmN0ZWhEZzBuMnJsaXNwZXoxLXRfUGZqVS01QU5yTUJnSzY1UHc0c1FCa3l3eXVOSy05Q3BfaEJ0VURyRXA3TFBwX2x5bGgzUmdVeTBhYm0tTHFFal9LeHFwZXVsWkhnQ3JkekdYUjYwRTZpZ2xUSDVHeGpUUmp6NTEzckV0UHc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 18 Oct 2026 09:15:11 GMT",
+      "local_url": "/article-6f0d4754e179.html"
     },
     {
       "category": "policy",
@@ -62,6 +73,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Sat, 17 Oct 2026 17:23:25 GMT",
       "local_url": "/article-022bd7688df0.html"
+    },
+    {
+      "category": "policy",
+      "title": "مجلس وزاري برئاسة الملك يضع دعم القدرة الشرائية في صدارة أولويات 2027",
+      "description": "مجلس وزاري برئاسة الملك يضع دعم القدرة الشرائية في صدارة أولويات 2027 Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdnBDb2ZhSW5QbGxKa2xXaXJvSVFEdW01RWhpODlHVnR5Tm5NZHVxM1QwMFRPelJLaVJzZUs5X3FfWS1pYklNa2NUUk9JYW5vVkZWV3ZLSVktWktnS3JsWm0zdXZUaXlGSVgtd0c3bzJ3MlhBNkRMUjdnSmNyYlBHaHM0Q1FmSi1yc1JZekZUTGh0aFVzSnhxN3czZ01lTHpIVzBzTEdwWTROMWo4bnNXVTZUbUNlMF9JU3FSRGxpTVc1b01DLTl4anNtTEV6SXVnUnpDVlVDYlNnMEJpU0lRTzhYbE9nUzc2aWNLUEpST1liMWRGVnFnNlY1V0Z1Y2xSZWJHUDFpMTVCWllmWUE0eTN3NjVpbDJpN2FhTzRmT1dLeUthVUZSM2NEbHduMEFzSl9VYjRETjNUeTRmVWxMbXJEcXNsRFpwR1F3YW5CcFE3OVBoNkFz?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 15:47:39 GMT",
+      "local_url": "/article-dac6e1ce2e7c.html"
     },
     {
       "category": "policy",
@@ -183,6 +205,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Sun, 18 Oct 2026 07:35:11 GMT",
       "local_url": "/article-1e6cc071b6e6.html"
+    },
+    {
+      "category": "sports",
+      "title": "المغرب يواجه مصر في نصف النهائي",
+      "description": "المغرب يواجه مصر في نصف النهائي Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNbV9yYTI5VEpvdjM4eXF5RWlzaGNYSFJvRUxMTnFZaXRJTktrLXVVNW9qM0FhVzFlSmVlcGFobWhvWDVzOWRCdEJXdU5hSFprQ1pBYktuNUNWRXg1N0hIQ2puM3A0cXpLaVAxdFhxeElBcS1QV3NjM2NsRzZxLWRmeWNaX29iNE1tcmlVUlUxYkptNm5GODk3NTM4VEZjNWw2bDgzZmotRGlfcmxSMjg2bjNXVUxIbWZCTGs0bkxVa3ZIa0hqejZWalVJSkNMaDBxazRYdGtEWUtjbElab3pNSlZmT21TNWtPcURORVY4elk2QjJXNkd6S1Vzc2d2NUt6TmNyTEg5SUpoNXJWYUNjTTBmUldFRUdFV1hZRWh4S1hfQmdVZnhXdw?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 23:17:08 GMT",
+      "local_url": "/article-7a733ffb7210.html"
     },
     {
       "category": "sports",
@@ -406,17 +439,6 @@
     },
     {
       "category": "general",
-      "title": "مجلس وزاري برئاسة الملك يضع دعم القدرة الشرائية في صدارة أولويات 2027",
-      "description": "مجلس وزاري برئاسة الملك يضع دعم القدرة الشرائية في صدارة أولويات 2027 Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdnBDb2ZhSW5QbGxKa2xXaXJvSVFEdW01RWhpODlHVnR5Tm5NZHVxM1QwMFRPelJLaVJzZUs5X3FfWS1pYklNa2NUUk9JYW5vVkZWV3ZLSVktWktnS3JsWm0zdXZUaXlGSVgtd0c3bzJ3MlhBNkRMUjdnSmNyYlBHaHM0Q1FmSi1yc1JZekZUTGh0aFVzSnhxN3czZ01lTHpIVzBzTEdwWTROMWo4bnNXVTZUbUNlMF9JU3FSRGxpTVc1b01DLTl4anNtTEV6SXVnUnpDVlVDYlNnMEJpU0lRTzhYbE9nUzc2aWNLUEpST1liMWRGVnFnNlY1V0Z1Y2xSZWJHUDFpMTVCWllmWUE0eTN3NjVpbDJpN2FhTzRmT1dLeUthVUZSM2NEbHduMEFzSl9VYjRETjNUeTRmVWxMbXJEcXNsRFpwR1F3YW5CcFE3OVBoNkFz?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 15:47:39 GMT",
-      "local_url": "/article-dac6e1ce2e7c.html"
-    },
-    {
-      "category": "general",
       "title": "بعد زيادات متتالية .. أسعار الغازوال تنخفض بـ20 سنتيما في المغرب",
       "description": "بعد زيادات متتالية .. أسعار الغازوال تنخفض بـ20 سنتيما في المغرب Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -434,7 +456,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMHhfYkd6djhfUEJGVVBrX2ppV3JzRHA4TmRrenlZV2hxMWZDcFdjNWU5RkE2Q3ZIeTJSRnFIYUNNa2dwOGxXVUtxaUNzR2wzVlRnQmNyNEtTNmFza1ZkZUdwQ3FEWE9BVnRHeFo1VHZMQ2lHc3B6TTFCa1ZzSTBXUEduYTcyemdvaVBIZURUSnE5bVozSmsxZ0tvYUwtZlpwWGRJTGctOVpBQWlKZFMzTTlIZGZpRWVkUzJDcmF0dXhsRjVtUEYzNC1lMUlNSGdfbm9ZeGdYUkpaQThuUnlDb0tXNTFONXdwMl8xTnp0YlpDMV9pZTU2eU5IaWRGelRIWlp1Y0h0aG9yRUFjalZVVDZZTnFXalh3cDUtenZjaTY4RFRRcEZQOXJzZ0VJcW5RY3hfTzY2Zk9vMjZrVWp4MTc0aEo?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sun, 18 Oct 2026 10:16:36 GMT",
+      "date": "Sun, 18 Oct 2026 10:17:33 GMT",
       "local_url": "/article-911f2705442c.html"
     },
     {
