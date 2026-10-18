@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T07:28:09.458382+00:00",
+  "updated_at": "2026-10-18T07:30:57.305075+00:00",
   "articles": [
     {
       "category": "general",
@@ -206,17 +206,6 @@
     },
     {
       "category": "general",
-      "title": "جامعة للا أسماء .. نموذج أكاديمي جديد يجمع الطلبة الصم بالطلبة السامعين ومهنيين داخل فضاء جامعي واحد",
-      "description": "جامعة للا أسماء .. نموذج أكاديمي جديد يجمع الطلبة الصم بالطلبة السامعين ومهنيين داخل فضاء جامعي واحد Medi1news",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UQV90XzdoSW1CR2lhcU4zRG9weWRXRVdzRW05cTBDaVdZbm9iWENnV3JkbG55bmw3NnZxUTVaRmdiT0V1WVEwMzQ1eEZQMmpQRzhhWmNhZ0dHWjh5?oc=5",
-      "domain": "Medi1news",
-      "source_url": "https://www.medi1news.com",
-      "date": "Thu, 15 Oct 2026 21:20:04 GMT",
-      "local_url": "/article-961a62b8b616.html"
-    },
-    {
-      "category": "general",
       "title": "صندوق النقد يواصل مباحثاته مع لبنان بشأن إصلاح القطاع المصرفي",
       "description": "صندوق النقد يواصل مباحثاته مع لبنان بشأن إصلاح القطاع المصرفي المغرب اليوم | Almaghrib Today | Moracco Today",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -368,6 +357,17 @@
       "source_url": "https://al3omk.com",
       "date": "Thu, 15 Oct 2026 19:46:06 GMT",
       "local_url": "/article-66dfaf802bf4.html"
+    },
+    {
+      "category": "sports",
+      "title": "بطولة إفريقيا لكرة الصالات - مصر إلى نصف النهائي بعد اكتساح موزمبيق برباعية",
+      "description": "بطولة إفريقيا لكرة الصالات - مصر إلى نصف النهائي بعد اكتساح موزمبيق برباعية FilGoal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGN0huaWsyZzZQQWY4TXhQbGY4d2lJcE1yNGFkM1dESzZZMVZWVnh4Rm16TEE1ZzdUMVJRcDJUc1RiSXM3WFBQZXRWcGNsS1Fl0gHWBEFVX3lxTFBKX202eHlpUWROSWRNNVB2SEFCMlluRXdjdDBmdzIwNndXeW1OajNzNlA0YkNJenVENkg0eF8zd2oxeEVFY2ttODZ3cVh3UDJQeGlHRkR1ZGNVYzFMeWxCMjlKRElUTUJ3RnJ0b09abVdadW1oWWs5czl2OXlrY2w0SFdVWmRWMEVHMGdETVd4SGlMNHdaM0cwRjRPVmp0eGp3NDBUWndxUVpPX1VXMHZSejI1YVFWYVd5ZFVVWXdRdmtfcTExSXNJY1dobHlVd0NGY2E4T0VaeHBtYlBLXzJ4Yk8ydUpkX09IWFV2TlRyT1NXYmRFUDlJRGVINnU5MFg1TTBBVXNSbmVObXdsT1duMUY5NzFRc2NGcWxVZC1vNEMtU3hJeGFJaEhxdEhGc0JIUlVPVTZ0c29CWDRqWWR0M2pDVXlRT0dseGp3X2xoeTY1ZVJEelV2ZC1WVlN3REVjZlVaZHJFcVVzR0NZZVFubE1Lb1Bzemo0a3l1bVphYWZSOUdCWHRQOExVUjlwRnQ3VnJPNEJ0bXgxeTU5LUdHbVRaR0lfQ3RtNTVUcUc0NVFpc0hKejRqczF6RVZScFZtUVBmdm1lMG9hd01KQkltcGJkcTVsUVMwSVRIUEFwWlo1SkstRUhnX0wtOGxkazg1U2hYZU5xdWRvbHNBUm5TTHZFUWJGTzlIMDQ5ZFpWdVhCUWpaZ0JZUUw0eVpFOU94cWdhTWJCbW1iQjlOQUdmcllYR3pIbFliaDFDZWRVc043YzgzbjVtSnpOdnVrY2F2VngxZFE?oc=5",
+      "domain": "FilGoal",
+      "source_url": "https://www.filgoal.com",
+      "date": "Thu, 15 Oct 2026 19:40:00 GMT",
+      "local_url": "/article-f310fc391552.html"
     },
     {
       "category": "sports",
@@ -652,6 +652,17 @@
       "local_url": "/article-7ff6e89bbe6d.html"
     },
     {
+      "category": "general",
+      "title": "المغرب يستقبل 40 ألف طن من \"الغازوال\" الروسي بموافقة أميركية",
+      "description": "المغرب يستقبل 40 ألف طن من \"الغازوال\" الروسي بموافقة أميركية العربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOSXJ4d1FxLTdLMVRwSU1LYUIyTVowS2RzUC1TLTItTXhpNHMyMWMtc1RUdDVqZ19BTlA2SXRYS1J1NWtHcld2a1d6NGxaTldSNVAzb05OdVNBMmRoQmxhNWsySklxZXRRcVdPZzNLN3BEVkJPMnUxdG96cmVwTlV4Z0ROUUpIQ3NjTlFmVFRLOXRNMnE1TEVoc2VwME8zYk9tWlRrdFFnNGdNYkN0UnpiZUhFODNQbHlRQ3BETTlhUTh3aVNKWVo5ejBFSHl3V0pINmtzLUl1SUdkNmxBZndoUFZOV25fN1hTeVJqNjNacVBNTmFQWjctRWJMMmlGU2ZjLVkzenNHVl9YZ1c5UWI1U0thZGZJWGJJUmxiUHBOTnp6UUpZdEpfSjYyaTRXTy0tMFI1SmJrZ09ZOG9kQjJwaWY3N0RHbE5UT0ctc2tZSnR3aEFEWTVGUl9CcVI1MkNycWQtLTNyQVluQXpyRm1nT05TYUZxOFFWYm9obzdNSTE5X1UtMTZRaEROMU8tRkFUdkY0c09Lekp0VFV2M2Jwb01xZlNvR3dWX0dzcm1naFN5VkI4cVFPUmVzcFVPVVhaS3ZCTEZFakxwWWtfQ0hVVVZJOGtXczJvMS1ibXVNZEdvcHNXTTl4S0ZKeXBMYWpycGfSAfcDQVVfeXFMTU5kc09xR2NYTTNjRFFPOUtVNms2YmpFVXJHN1g0ak5WbDdRMEpBUlVraWQzNjNwMXlBbllEdzZUbk1VUlRaYTk3LWtwMHlVaUdzZy1MT0VZZnZ0dWItelN4TlZLRDhCdk1ZZjNLS0ZIelo0VTFKcmEwRVdENlBXNkVJRnpBNGlBZnZ6Ym45WlpxanpUbjh4ZWFFX3UtQ2lZZDFDVEFIX3oxTkxEZHA3TzJTVWhfc1ZkNTBvNVlOVUhHWkJ3UXQwWkY5TE1BMlpCOE5PdnRhcnNNdmVoQWxfZ2I3STRtVFY3LXNuemtNTEN1M2JudkhtU2tzQnhMN1FlSUJGaWpGd1ZlVDNRSzViaWFTdU84N2t4ZkxENXMxM1BBSGFTMHJLSkdjaWFCZXBDWVVmUkowSVBUWUU3NlZSemdpeVR0TkNEb2ZWNzF3RDVCRzNTZXF4bEMyamtwakwyaVcwbzcwYTFtV011T1Axcm1SYk9OYS1qcF9jZmMtYmJsb25mNFp5UWFXbS1JRE5OQmg4dGxMUXdKYl9LRXNZdEFoV1pHOXZHeGgwNWFtb2NRMDhJWmM0TEJUNE5fUWludWRSbTF3ZDEtMkFhLXNNTjRpRGNyQ2MxMDZYeEhrQUt1RUF1SVdmMkE3YTlwQUZUWHMzNW9uYzQ?oc=5",
+      "domain": "العربية",
+      "source_url": "https://www.alarabiya.net",
+      "date": "Thu, 15 Oct 2026 16:29:00 GMT",
+      "local_url": "/article-4af92a20537f.html"
+    },
+    {
       "category": "sports",
       "title": "الفرق السعودية تدخل المرحلة الحاسمة في دوري الملوك لمنطقة الشرق الأوسط وشمال أفريقيا",
       "description": "الفرق السعودية تدخل المرحلة الحاسمة في دوري الملوك لمنطقة الشرق الأوسط وشمال أفريقيا alyaum",
@@ -771,17 +782,6 @@
       "source_url": "https://assahraa.ma",
       "date": "Thu, 15 Oct 2026 12:27:38 GMT",
       "local_url": "/article-32a9740f3900.html"
-    },
-    {
-      "category": "sports",
-      "title": "😱 صدمة وجنون الجماهير العربية! أيوب بوعدي يبهر مع مانشستر سيتي 🔥 ومدح هالاند للجوهرة المغربية 🇲🇦👑 Tristan Da Cunha (etnExYnTA8)",
-      "description": "😱 صدمة وجنون الجماهير العربية! أيوب بوعدي يبهر مع مانشستر سيتي 🔥 ومدح هالاند للجوهرة المغربية 🇲🇦👑 Tristan Da Cunha (etnExYnTA8) Unisba Media",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnZHcnY5VzV0M3g4X0w4NWRlM1hCUFpPQlhvcXNXZ1NyOHduVk4xRzEzRUlmeWkwZUwwTVR2VkRrUjZxSDRGYTBRdHBhcGpCVV94ckFWLWVLbjB6MGhTR3ZjbnJNejBZUUlITURIU0Z3cnBYdVRyajZRODFkeHc3VkJEaXQ5aWsxeWdr?oc=5",
-      "domain": "Unisba Media",
-      "source_url": "https://media.unisba.ac.id",
-      "date": "Thu, 15 Oct 2026 11:40:37 GMT",
-      "local_url": "/article-f333cd04e12d.html"
     },
     {
       "category": "policy",
