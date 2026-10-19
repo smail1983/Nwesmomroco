@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:10:22.752063+00:00",
+  "updated_at": "2026-10-19T13:06:55.545095+00:00",
   "articles": [
     {
       "category": "technology",
@@ -142,17 +142,6 @@
     },
     {
       "category": "policy",
-      "title": "Morocco’s New Government Must Balance Continuity and Change, Expert Says",
-      "description": "Morocco’s New Government Must Balance Continuity and Change, Expert Says 2M.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3NRcjU0ZW1tWVR5Y3FrTFl0V0ROTGtfcmtjMlhKWG9Sd2I5OGpXOWJ4cHFZUGxOb1dpbHJpTUU4WW1Gc0RncTEtVklacTMzZkhFTkdvYjdnblVocTVadlVqVGFhRTd1U1l2aVotOThpelJGaktjeTVNTXhXNi1ocFc5QW5Xam56Tkh0ZXFNQ1diWGRhM0hIMWdNUzRZd1dpeWg2SA?oc=5",
-      "domain": "2M.ma",
-      "source_url": "https://2m.ma",
-      "date": "Sat, 17 Oct 2026 12:27:00 GMT",
-      "local_url": "/article-82866bb0ea2b.html"
-    },
-    {
-      "category": "policy",
       "title": "مطالب مدنية تسبق تصريح المنصوري",
       "description": "مطالب مدنية تسبق تصريح المنصوري Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -161,6 +150,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Mon, 19 Oct 2026 08:14:20 GMT",
       "local_url": "/article-4734b64d179f.html"
+    },
+    {
+      "category": "policy",
+      "title": "تقرير إسباني: الرباط تعزز الاستقلالية .. ومدريد تفقد النفوذ بشمال إفريقيا",
+      "description": "تقرير إسباني: الرباط تعزز الاستقلالية .. ومدريد تفقد النفوذ بشمال إفريقيا Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxON1p4WTNGMmxsVV8zMlZKYUhPdTZBV1hvYW1oR2drbjhJYWdLZngxTHdnc0EwUENNbUlMZndiSGVKS0hHUFU1UkZ0eVQzYmhoVjdzMHRQdnNjNl9GeG8ybXlyWkNTNGM5SlNGMmVrLVpweEhqR0ZEaGQ3ZmpLYmx2a3pzYkEyWklmV3lTMlI3RkRLY3RHX0VNTnVFdE5EY1FFWlJFXzMxZXJnT09rQjdEamg3c1RkbnFWdnpFWnRINjlULVZyTU1PQkN6M3BOM05ZQzFrb2VucnlYdUhUZE14QXZiNjlDUV9iSlRDc0tLWG9pbnZISmRNWjVWN2xSbm1wRTQ1cHJzQUlmWUM3WTVBdzExU3BXQ0dkbVFqVzRkX1JoQzF4YVpob2hIZlNQalBrT0xmRzhtTy1CQjVQaGlxZ1puZUVlQ3FUVVF2WFRrcTlXaHJr?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Mon, 19 Oct 2026 02:05:13 GMT",
+      "local_url": "/article-0f553971fdc9.html"
     },
     {
       "category": "sports",
@@ -172,28 +172,6 @@
       "source_url": "https://2m.ma",
       "date": "Sun, 18 Oct 2026 22:28:00 GMT",
       "local_url": "/article-2ba6fb9a8165.html"
-    },
-    {
-      "category": "sports",
-      "title": "فيديو .. كواليس مباراة الوداد و أمل تزنيت",
-      "description": "فيديو .. كواليس مباراة الوداد و أمل تزنيت سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fMl9XU1M0T1FSZjY3WVNTZGVCM3pfcFR2eGpGZS0ySTRXemwzbzNXY2lzdmx2YkVRZl9IZnUzS00wWWNlWHhOMy1IT2ZPeEViMUpKbThWUzRKTGxhblJZa3FfX3NzRzlLbGsyc3Q4Yw?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sun, 18 Oct 2026 21:25:31 GMT",
-      "local_url": "/article-e520aed7f10d.html"
-    },
-    {
-      "category": "sports",
-      "title": "كأس العالم للسيدات.. المنتخب البرازيلي يتفوق على نظيره الكندي بحصة ثقيلة",
-      "description": "كأس العالم للسيدات.. المنتخب البرازيلي يتفوق على نظيره الكندي بحصة ثقيلة سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UZi1fY0JkZWtDTU9kdkRjUXA0S3B6Qkp1VHZBY2ZvX1FZcWZ4akMwc1lURmF2RUt3dHZnNDlTMnhEVm5uT3hGTHFxQVZjVzE3d1VyQXRDaVlzNUhUa01XeC1IclRQSXZENEdWcjZYaw?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sun, 18 Oct 2026 18:21:04 GMT",
-      "local_url": "/article-51dfd849fdb6.html"
     },
     {
       "category": "sports",
@@ -217,28 +195,6 @@
     },
     {
       "category": "sports",
-      "title": "خطوة إيجابية من جمهور الوداد قبل مواجهة أمل تزنيت",
-      "description": "خطوة إيجابية من جمهور الوداد قبل مواجهة أمل تزنيت سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZLVgzbmxWU2VheERVTlpPLUpYQ2dzN0t5YXkxaU9vdmUwcWhVUGhSSnJ1UWtZeXpGRHVkOVNhUUd5UXN4WDNncy1Xd0hDSDVnTzVYdUxySnZRdHR1TlA5RU9NTnZpWWVpMDNTbjJ0YndnMTdmZnZZeA?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sun, 18 Oct 2026 13:03:49 GMT",
-      "local_url": "/article-b44b6114eeda.html"
-    },
-    {
-      "category": "sports",
-      "title": "« الكاف » يحدد موعدا حاسما للأندية المغربية في دوري الأبطال وكأس الكاف",
-      "description": "« الكاف » يحدد موعدا حاسما للأندية المغربية في دوري الأبطال وكأس الكاف سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObXA4c200ZUVaZ05xYlZ2RVFGUmxNOWo1c1BvV0xlREhQX1o0QW1YYWluNEZWaXVSU1RpX3hXMUFHeWIwcmpYMXlsUjFvYndBVFBQSkx5Rmx0QmN4UlJLazJCVGZZQ3dLck1GbF9jOXpoNHNDSmJiZ0dlbU5zYjJYMTJLUHFHMGF2enF0aTJmQQ?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sun, 18 Oct 2026 12:23:45 GMT",
-      "local_url": "/article-06575ef54a7e.html"
-    },
-    {
-      "category": "sports",
       "title": "المغرب يواجه الإكوادور وباراغواي ودياً",
       "description": "المغرب يواجه الإكوادور وباراغواي ودياً Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -250,17 +206,6 @@
     },
     {
       "category": "sports",
-      "title": "بطولة إفريقيا للغولف .. المنتخب المغربي ينهي المنافسة في المرتبة الثانية",
-      "description": "بطولة إفريقيا للغولف .. المنتخب المغربي ينهي المنافسة في المرتبة الثانية سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWWQzWlo2NHhLSnVaazBMYUw5WGh5Z0JQVkF5eENMSlNLQmxNcVZPbWNyNmF3RzFSZ0ZsRFEtQ2RrMEJLTUUyVVpQaTFZM0xreWkxQnVULVNnd0xTcUgzNURyX0Q0Z3E5dHc?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sun, 18 Oct 2026 08:03:04 GMT",
-      "local_url": "/article-ef3fabf6a8cc.html"
-    },
-    {
-      "category": "sports",
       "title": "\"فوتسال المغرب\" يلاعب السعودية",
       "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -269,17 +214,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Sun, 18 Oct 2026 07:35:11 GMT",
       "local_url": "/article-1e6cc071b6e6.html"
-    },
-    {
-      "category": "sports",
-      "title": "المغرب يواجه النيجر بالبيضاء والرباط",
-      "description": "المغرب يواجه النيجر بالبيضاء والرباط Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMGYwcjNvVzF3QWRhdWVpbnZwcVZXNGl0aTNZTFYtUnVrNFBDa1lzWnlJQzQ0WG9PNzNENGZSUVMyb2dLZkxxMjNmX0t2bmxhUlF4ZzgzYVdHTGFscFBSSWtQYUU5U1gxSEIwUUNvdXVMMUZIOE9yQkJETW9zWDRPYmd5MUVhR3ZSSkhHYWRMazR0N1FsenZ5d1hSd1NjenBvczJ0VlhfbUd1WWNLS2N5SUZReWZTd2JRUTVFcTRfVFBmZ3pUbjF3WXItV0lwR1RMM3YtRk4yRVJ0RlhpakNuanY5d3VJUWZ6OHBYNERFTVFBTnMxeTByQjNnYWJsMDBFQUNMR1NuWWJfRWh3MkdjZ1YwZUtsSjU5MjlYQjZtbm9UU09hbXA3SWNZcFJKSWN2aG9Kc2xnT3A0TnA1eU5xNEZGMXFiOXp4STRUQVlqYnhwX0ZF?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sun, 18 Oct 2026 06:48:59 GMT",
-      "local_url": "/article-c5aecd5aaa69.html"
     },
     {
       "category": "sports",
@@ -305,14 +239,14 @@
     },
     {
       "category": "sports",
-      "title": "مونديال 2026 .. المنتخب السعودي يخسر برباعية نظيفة أمام إسبانيا",
-      "description": "مونديال 2026 .. المنتخب السعودي يخسر برباعية نظيفة أمام إسبانيا Hespress",
+      "title": "جدار دفاع باراغواي يختبر هجوم فرنسا",
+      "description": "جدار دفاع باراغواي يختبر هجوم فرنسا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQNlJMVWlMcUZkOUVjcWFIZ0JjdGJ6VklUWjJKSXZSQmZzZUM3bnZfa3kxTGtVSXVLNjQyQWN5dHR5Y2txZ25CblBHR3l5bW9TUlNQTDFpMGc1MkotY1k3bTBTWS1wQkRiQy0xRFhUMWpRQjE4ODRXY1gwQmdFd3hhdUxTWnZhTGRlM0g5MzRfZjNXZm16RnFXeDd4bXBKYW0teW5ZY2ZLVXFuN09Ybkdma1FkODdTejRKNm1aTUEyRkFZREdYbTc1dkRfcDBXZVhhNlUyZUtYOEJDQkw2bVpRRUFJVUkyRkItSkZTV0x3UnA2YmtiQ3lBeXFaMWlwUG96M09od3g5aEVsS21NNm8wZ3NNRW02cVN3bjlDemJ5aV9saGNET0l0TF9WeTY2cVVFOE5WYmEyNzNXcFZNRDhsQTNreXhpODBOZ1NYWFNHWWFxNnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNTEhlRzExcUZENDVnd1hTMTlFMUVJeUpsOEMwRG9BVmxFTEhpRV9YNE1PMkVLTWVGUnk3U3l0YXg3UmhWTkJnQXEwRFZwYWNYVTJ5clpocmszeDZCcDNJclNsSGVvd1Z4MG0tYlZxSlhndE5pU3pjRHdUZmhGMC1FdGRLNDgwem9tcmVQZUNDWi1wSlRYQTljX05BalBER2dETmdtdDVGNmVKNU41T3ByMlhnNmQ4SzJwQlZUY3BtcC1WS2lnYlpIWEI5U1c2WFZjb0JqVzJneUdTRDJTTTRiaWVKZEdITGFpcG5NcW9PVmNwYXM0NEFnQVlYY2pFZHh3WkcxRllvYXBDY3pOejZQckVCWnVFWDd4V2RVWXhjQ3BHalU1clU5dEVPMUE0RUc4WVgyTjNpaWtub0pfbEJDUUt1MzN5UQ?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 23:47:42 GMT",
-      "local_url": "/article-4eb52478dc9c.html"
+      "date": "Sat, 17 Oct 2026 23:22:32 GMT",
+      "local_url": "/article-b47e77d1fc3a.html"
     },
     {
       "category": "sports",
@@ -324,17 +258,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Sat, 17 Oct 2026 23:17:08 GMT",
       "local_url": "/article-7a733ffb7210.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"أسود القاعة\" يكتسحون منتخب الجزائر",
-      "description": "\"أسود القاعة\" يكتسحون منتخب الجزائر Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOZVFvRWJxYmtZU1B5RjV2dHNMb2NTTUZjNFpTbkx1MnFlZm5UdXAzNlRjUU1RZHZCdWE2cTFxQVlfMUp2MmRhakY0U19TblNPek9rbEE1cm1HdEU5aWI3a2ltbER0a2ZBNjl4Z05DQ3F5M2xrQXBhNmo2Z2hqSklsYU5xdmZQTVZ1dTNLXzNINERiNkZHZW9oUndqS19Ic044Ulg0SEFob210VnJrOUd3Mkw2T05jOU12Q2hlWlc0UE5OSnVFd2hyTUhZQUF6cWNQUlJhSHhFYkxzRGtuTWpFZl9fLXRBUkJwNjFjLVdsOXpWNnViUFBkOTQtWGhCX1pidkxEVktWR0o0S1ZHS2ZkUHFOTGgxUjdOVDlMU29jQ2VzQUswNDRkcC15Ynk2anRSOTZCNkxQZDJIbUs1?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 23:14:13 GMT",
-      "local_url": "/article-c0b53d77b279.html"
     },
     {
       "category": "sports",
@@ -371,25 +294,80 @@
     },
     {
       "category": "sports",
-      "title": "المغرب والسنغال أمام \"طاس\" الخميس",
-      "description": "المغرب والسنغال أمام \"طاس\" الخميس Hespress",
+      "title": "المغرب يغادر ربع نهائي \"كأس العالم 2026\" بالخسارة أمام فرنسا",
+      "description": "المغرب يغادر ربع نهائي \"كأس العالم 2026\" بالخسارة أمام فرنسا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdVZadFF3V1hhek5vTzNRSGZpejZuVGU4em9LWDBwQldyUi04X0hwSU04TFQxUG03ei1BcC1xQjkxNXZaSnFHQ2hBRnQ2OHFiRjEzbTVPS3BiRlIycnhNcEg5NDkzUEcxdjRNWDl1WUpfdVZ6eXUzdW15R3RJWk5GOUREWEZYMGUtN3gxbWdPR1ltUGNPdG5WUl9iZnhiNHlid096OFhPbnY5by1CWlRJVHRtVFhlTTVQc1U4YzdQSVZkY3RoMkw5a2dranFKdEFUbmdFME1qcV9xckxsWlRvdVNpSTI5SHhkMmhqNlpfel9mX3o4SXJ5bk9hWWp3Njg0ZnFmQnlKNHBYVUNnMUZYTGxfc3RReFkyb2pmUllCczBwZjFRTGJLMUh3eG4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNd3ZMWTZ1RkM4ZnZuanJXS0V2eFhseDVUY2NPemxPVkZvM0Nqc3J3bS11ZDdfUnJWaWtxcXNuY2ZhbUpWYzNBbGh3VlRaZkItMTVOZk1wVS1kVzl2Z0JqUFBOOVFSUFkteXJHalk3QTktZVhTNHRoR0VaaG5VNzEwNG1HNnUtZG9tSUpKMWFPUW5PcWRYNjd0eG5QaGQxbHpQME1UaURqMjVqUExWeWU2azVIUWVrelV2VVA1elJmckVLX2N3R2xHS01odDM2Q0toTUIxd01uS2dEaWdtQnN2dy1rN00xYlZYVU81dlBlQzNyQnZoWUVWYjRhTEdzUTdqLWcwdVk0bUJ5T1VRUExtcFlvSEtfQ0hLRjlYTlhWYmVKZF93VFVUS0xiZVhhS2g4VWh2el9uU0dWcFR6SktkZkhOU18tTkFpVkJaek5n?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 20:28:30 GMT",
-      "local_url": "/article-a290e4f23509.html"
+      "date": "Sat, 17 Oct 2026 19:25:16 GMT",
+      "local_url": "/article-5fbaac49fdf8.html"
     },
     {
       "category": "sports",
-      "title": "بالفيديو: « كواليس » مباراة المنتخب الوطني أمام نيوزيلندا في كأس العالم لأقل من 17 سنة لكرة القدم النسوية",
-      "description": "بالفيديو: « كواليس » مباراة المنتخب الوطني أمام نيوزيلندا في كأس العالم لأقل من 17 سنة لكرة القدم النسوية سبورت Le360",
+      "title": "ركلات الترجيح تحرم \"لبؤات الأطلس\" من بلوغ نهائي كأس إفريقيا للسيدات",
+      "description": "ركلات الترجيح تحرم \"لبؤات الأطلس\" من بلوغ نهائي كأس إفريقيا للسيدات Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZUlWdHh2bDdFOW9oLXl0SUZLdVM0WHNyRlhRSjBJaGg5RVNuQnE5VWM4WngxSm5VTFY2b2FwTzBSOU10bGQxZFlSRnlTN2VsMU1MWEZyZTRPeHp5T2ZVN1NlY3hVY2wxZXlhcHpLTDBaSUlyVzNJWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQNGpsUFBHX1ZIMkVQeUktQ280VHNPRUF2bDQ2Vm1GUVh1X3RIX0t2Q3g3a3hhRUQzdzVmbDE5dVFxZ0FXQlRXUDFWX3FzbndQeVNMOU5PX0liWXRjSXRfWkZSMVNrWGNmbEg1SkxvZXUzMzdGLW56UGFmVlRXeUNWcFpBZ19hOTBTelZCNUN3VmxNM0pCY1IyUi1GRjRabGROSTYyc2pOeWhVb29rZjBDZ1AyUnFmd3QxU2UtV0ZDLWhHZnRadFIzQnYtUk5sNVFxOWw1LWxRZmxDZERVZUduaFpib0pYRmVYbEo0XzhxQUE0UzkyUnNxVWZRcU0wejl1YzdZVnVWa1FWeUhmOFZrTkxTTGpNZC1mcG8zOVczcm13dWJiQ0ppUjJlX2xiQmNiTVFKb0J3LW5jeWxvTng4N1ZCUDJ2c0U3OUl5VS1zUQ?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 19:06:56 GMT",
+      "local_url": "/article-8e84dd542dd6.html"
+    },
+    {
+      "category": "sports",
+      "title": "ليس من بينهم لاعبي الرجاء و الوداد .. 14 لاعبا في لائحة المنتخب بكأس العالم أذربيجان",
+      "description": "ليس من بينهم لاعبي الرجاء و الوداد .. 14 لاعبا في لائحة المنتخب بكأس العالم أذربيجان سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKeWpjM1JWMWZ5eUVfUkVwWWxQQlZIN2Nnay1sVW9PVTlHc0VHNTBrRG5VelBZYVhlZmlwQ3lMRno0YVVRc01ueUpfRzdOb2loMXJpZUdQbkdNUVNSaGUzZUVDT0VuS0JBVkVKQk5Law?oc=5",
       "domain": "سبورت Le360",
       "source_url": "https://ar.sport.le360.ma",
-      "date": "Sat, 17 Oct 2026 19:44:45 GMT",
-      "local_url": "/article-534d1786a6d5.html"
+      "date": "Sat, 17 Oct 2026 14:03:07 GMT",
+      "local_url": "/article-98c70e69f4bf.html"
+    },
+    {
+      "category": "sports",
+      "title": "أشبال المغرب يترقبون مونديال أذربيجان",
+      "description": "أشبال المغرب يترقبون مونديال أذربيجان Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQeEtyaG9qRXlxaF91X2M0TXJqal9QS2NmOEtqYnB3YzFyZG5XbWRsSjFYRGZxbmNDYUV5aFFxZlJvQ0RuQndmUlRMS2tUblVpMUQzTWhEYnN0ci1PX3poVHFqTTRyZ29seFdiemlSeUQ0YnlFNEtxN1lPSUhzbmp2UjJkWHlHZHBWRk5Lc3hGbllEb0RkVnA4WWhSUU5DSTJtRVZJQXlOdUEwTlBSS0xvaUVHY2dXRmJ5YW1xVVNISmRhdzZVZEUwNU96R0Rnb1BWSFlvNGJrUi1HSk9zQ1JaZ0sxYkFVd2NyNFlveGRNYjBYQkNwWFZCekpvaGQ5TzBtNnBEaHpWcTJnRTZvOUZaaVF5MWN6TElsVUJtWmJERjBxZ3ZuMHZlYkdJNkQybF82clVCT1F1MFJMRkRkMW94QVljLW9JYnFtM0NqeHBNeU9yM1Nu?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 17 Oct 2026 13:52:38 GMT",
+      "local_url": "/article-4e1c362739c2.html"
+    },
+    {
+      "category": "sports",
+      "title": "السفري يستغل تواضع أندية البيضاء ويخلط أوراق صدارة البطولة الاحترافية",
+      "description": "السفري يستغل تواضع أندية البيضاء ويخلط أوراق صدارة البطولة الاحترافية سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Xc0pTOEUwU1dxNlZFc1luTElFVUtneV9pckt3eEJrS0x3WVJ3clJvS3pjYkdibV9Ndkh4X2xweVBIZlRESm9nUlNyWW4zRTE4d3ZsdGh0NkJyY3V5bVc0Mk1JYWg2RjNxNTFtek1vSQ?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Mon, 19 Oct 2026 11:26:20 GMT",
+      "local_url": "/article-fe246f506bd5.html"
+    },
+    {
+      "category": "sports",
+      "title": "البطولة الوطنية الاحترافية \"إنوي\" (الدورة 4).. الكوكب المراكشي ينفرد بالصدارة",
+      "description": "البطولة الوطنية الاحترافية \"إنوي\" (الدورة 4).. الكوكب المراكشي ينفرد بالصدارة MAP SPORT",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNWlJkMVNnWm1iMXkxVXRFRmlOdUs3dEFCeW5HY0xDS1UtTU1hUER6eU5sdkhIb29vWHBPc1pBaVF6MlZPYV9GUjFxeXNQMnZlN25YMUwxSTItRVhIeUlQN2dtcmhhbFJEWlhvenJJbmNhOW5wbGhra3JOSjFyNEJINF8xMnN2QjFZQmg5ZjFPWUxNS08zalM2RTYwSjhfWlRoZGM1c1dXeGtnbXcxTHF1LTFGb0NkbTROeVpQWm1yc1UtNUxZS2pXUXVSQXM0R3p3VnM5ZUk2ZV9lVXlXY1VneGtkS2ZEa0FpY0RZSjg1YzBvZjVUOGRTUTFmdHpzNldpdHNWeGhneUxFNHlMMFZvZ2pBU2FKSUdTbjBteTVSM0RmdHFsZ0ZuS1E4UEQ3RmV0ZFNpZ0pCanJaaWJOTElKdnRESVFoN3VDVXptU3I1RGVrTHRVVHZLUm13SFBKcTlVVUJsZExCSFFWY1c3VXU2Q0ltTGgwdHFYU1NaaWpuODk1YU5PYk5KNlJudUFXbk9NdUxpYUM2Qks?oc=5",
+      "domain": "MAP SPORT",
+      "source_url": "https://mapsport.ma",
+      "date": "Mon, 19 Oct 2026 11:06:42 GMT",
+      "local_url": "/article-0f79e2a6db22.html"
+    },
+    {
+      "category": "sports",
+      "title": "\"أسود القاعة\" يواصلون الإبهار.. ويكتسحون ليبيا بسداسية في كأس إفريقيا",
+      "description": "\"أسود القاعة\" يواصلون الإبهار.. ويكتسحون ليبيا بسداسية في كأس إفريقيا Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxObk1QS0ltVUs0OFRUWHNSR09QYUhEOEs5OWtwc29wNV9rLUNLNzY3S0ptTnBadl9ob0xyczZ1RU1oVlB0enJ5bnhRZ3htTUZFLThBRTZ3eXo2ckd0UmpEaTFtYXdsbTBsc2Q2NlVUSUxYWHBPckJjTndOSzVvWXpPRG5lQWlMR2ZJalNPWGRjRUE1bl9qYmtKMjFpclU1Y2RjYTQ5c1liNklFWFlzM0xnMXNQRmMxa3Y3bXFwdU9OSjhNZ0gySTNjRHpLMHV1bVFDcUdrYUFxRWZxQ1RGMExNeV9NS2Z3Z1gwSDdZM3d1bno4bWRJUExLOUxKSklGUEdaTjBxMVhTRFdkUjBlRm5QVnNtTHVsT2JhRlFDdjIxU090QjdMRF9EbnBMTXpJM3dZNFNYVmJfZTFyZFVqZldRRlVSeGkybFVxaC0yRw?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Mon, 19 Oct 2026 07:28:13 GMT",
+      "local_url": "/article-0e3e0e415f46.html"
     },
     {
       "category": "technology",
@@ -426,14 +404,14 @@
     },
     {
       "category": "technology",
-      "title": "يورونيوز تختبر أول سيارة أجرة ذاتية القيادة في أوروبا بزغرب",
-      "description": "يورونيوز تختبر أول سيارة أجرة ذاتية القيادة في أوروبا بزغرب Euronews.com",
+      "title": "توزيع سهم «سبيس إكس» لكل طفل في أميركا.. هل يفي ماسك بوعده؟",
+      "description": "توزيع سهم «سبيس إكس» لكل طفل في أميركا.. هل يفي ماسك بوعده؟ CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlFHQldxQnFpQ3U0Q1VwZEwwRVVjWnVpOVpFSFJJQ3ZCdkZtVEh1YzhMZ19PVFJTWjc1T2xod25rU3J0QTZ3VXBmOTkwMTlIbTNJemNxcDN1WVBTMHRIanhYVFVnM2JGZVVkQkQxU1ZfdTR2VmpSTjZYeS1KYmQzQl9JR2VITzZsNHhyd2YxN2I1bS1McVRHQUdFZ1R1S1pVWUNEUjVZd1VwcW5JQ0Q2bDY5aw?oc=5",
-      "domain": "Euronews.com",
-      "source_url": "https://arabic.euronews.com",
-      "date": "Sun, 18 Oct 2026 08:00:55 GMT",
-      "local_url": "/article-377809311c2c.html"
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQcDdLaEZvM2c5cnhkaUVQTTdNQXl3NEYtUW43TkQtVkt1d2k5cjFxN1cxYy1rS2ZEYW9fdHBqVjh2MkpoQVNJckpLdmJaemRQWkdQUWpwVmUzMG0wYVhJRklXRGRTQ3pHWGFfTkV5V3VSb2hDOWNGdXhhNk5Ec1ItVnZfYnBwT1pyZENGX0xzSTNSYWZ6YVp1QUZkU1IzZWpVREpqMV9RQllwWnZrdkt6T0toZld6OWtfa2FFcmFfREpiMWwzalJqMUtobWhneG85cktwdl9GN1kyTEY0OHNPd29OVU5ndVFpMmJPNkFiSW5PM1EzM2Jkb3o1VHJaYnNXRFFyS3FGWklfV3JJelJUWDZEZ1pWVGhVLWk2MmpneHNfMUtHbUM2VmQ3a2Q1ME1SeU5qT0JSdERWVjBhYkNNTG1YcjA2eDRuZ3lCMHJUbHNBV185aU95YWlJOWctYTdiOFRVekhvNzZsRXI0UzExWm5wOVlwejVGOW1fRnNhTUkxUjhOU1BnMk1HUU9WbklHZDhqd3loTksxQ0YxbFd3TTI1X2JCOG9oLXhQNHF5TjdMZDhzWE52MG8tVUxkcEZaOUFSQjY1Tk9wSFBp?oc=5",
+      "domain": "CNN الاقتصادية",
+      "source_url": "https://cnnbusinessarabic.com",
+      "date": "Mon, 19 Oct 2026 12:30:40 GMT",
+      "local_url": "/article-4dad69644348.html"
     },
     {
       "category": "technology",
@@ -458,15 +436,15 @@
       "local_url": "/article-7d3d23d2f4bd.html"
     },
     {
-      "category": "technology",
-      "title": "“إيتيدا” والمعهد القومي للاتصالات يكرّمان أوائل خريجي برنامج التدريب الصيفي 2026 بعد تأهيل 10,485 طالب وطالبة",
-      "description": "“إيتيدا” والمعهد القومي للاتصالات يكرّمان أوائل خريجي برنامج التدريب الصيفي 2026 بعد تأهيل 10,485 طالب وطالبة 25h.app",
+      "category": "general",
+      "title": "توقعات طقس اليوم الاثنين في المغرب",
+      "description": "توقعات طقس اليوم الاثنين في المغرب Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdFlDamN4Y2EwMTJWSi1wQ2thb1hjeE1CWW5zZjhJc2FtWWZFTEJsV1FVYkFfZzR2UG43TjVkdDVHSEhWMlJvbC0xNFZkNmstbW9tdEFQSm5hSTZ2clA5VHhyQWFiNG9nMGR2MXZBMTBuQ2JmQlVmM20xSHNTazNtcG1Yd1o3Y2MwckNMM3cyXzYybEM0TGVHcEREMmc3VkJhNXRKSWZuQ05MblprYzFDbEZDUFAybHZiN3NsVUZYdVN4Y3BCSGpaODBrZEl3UGlkOXI1S0M1TkNWUE1lazJhMzVOUV9lZmhBVTZzZGtCRTk2ZFB4UlNnWVZEOHhoRjBEa0xUQXFNcksxMDNzT1YwaU10S2JwWlFrMnlpV2NQNVhRbjBYMUNjRmw4UGZTRGQxMlFuMUVYTHNUZzgyeGNva1hRNGU3ckE?oc=5",
-      "domain": "25h.app",
-      "source_url": "https://25h.app",
-      "date": "Mon, 19 Oct 2026 06:08:11 GMT",
-      "local_url": "/article-265a3e5453a9.html"
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOS29JbVdlLVlnVUctWThhZTJIeGZfUFg0NG9kT1Z1MnlWMVFKUmVwR0RCZHE2NGwyVV9TcGNSeTdiTzRrenExYk5obWpBbVZwN3lNVHI4akxIRHlkTWVQX21wVzFUTVhpM1dsMi1kRkZvZzlyNjZDVkh0NlFjTHlJU3BtejVUcEdCTWJ3WWduSVpDcFdMc1hwMTZMUHc5c0tlVUV2a202a09ILXZOWmp3TkRLYUhxbmF0ZnpoeVlHb3FVU21RcEluZVh1YW9kUHpTUU9WRXM3QjBJRDA5Um9XQU05c0xHT3ZFMFNwUlNLYXJwbFd4WlIzRUZfYnZ2LXhrZ1JEakw3LUcxdFpsVlBvMFlzbmhZSTdMOElwRm8tSm5Zd1FWZ2c0WXFOMHJra1F2dkFhOVBQbG5MMGRZR242Rg?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Mon, 19 Oct 2026 07:30:22 GMT",
+      "local_url": "/article-64664a8ce793.html"
     },
     {
       "category": "business",
@@ -558,6 +536,17 @@
     },
     {
       "category": "international",
+      "title": "مراجعة: SALTY BRINE: HOW STRANGE IT IS، مسرح Soho",
+      "description": "مراجعة: SALTY BRINE: HOW STRANGE IT IS، مسرح Soho BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0hVeXgxLUJDY0FURE1ZOXpQSVNYX1ZFeXAtYkRtbGUxTWV6NFJtU0FaUF91b0xqTkh0Zkw5X1ZMTFA2NEZqMEN5WmxwTERXVmtVR0JkQWpNbGI0ekF4cW9iMUNTZWtGWHZWYkNpSC1hU21jNGl5Ty1Dc0M1a1R4N2NQMmtNR2dTaFZ0aldyNVozMV9GT25RLVFpaDctUjFDRV9r?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Sat, 17 Oct 2026 18:14:53 GMT",
+      "local_url": "/article-bd9e6e189109.html"
+    },
+    {
+      "category": "international",
       "title": "Walsh breaks her own 50 free world short course record",
       "description": "Walsh breaks her own 50 free world short course record AFP.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -566,28 +555,6 @@
       "source_url": "https://www.afp.com",
       "date": "Sat, 17 Oct 2026 18:06:07 GMT",
       "local_url": "/article-971ffed76fc1.html"
-    },
-    {
-      "category": "business",
-      "title": "وزارة الذكاء الاصطناعي ليست ترفا؟",
-      "description": "وزارة الذكاء الاصطناعي ليست ترفا؟ Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQM0Nta1lORWpHR2JVUjhJZUJXMS1MZTBDV21zaXUtY0VuaDh3QzVqdE9FTzVZQnB5M1hLTmNEWDRMeFhyMU9oUE5lYnJsNnFrYWNHSEZxSTNNbld5MjlUUUJXSGdyV0NMaV9pYnpSTGtHaFl0dkVQclJfUk8xVkV1WW8yZkxvLXRULXY5NmMzYURZcTUwWjdTR0Y0Vi1zRXpBYXJhc3kyUldBZ0I2TmhmN2lvQXpRdk9UUGlud090cW53MzhuQ09ucHozX3dwdHZLdjdFeno2eExwMXA5ck1pMzJkdFZZblkzU3VzU3dTdThDNFk5eUxXNTRSNTZoOE00Y0VReW0tajRYVDVKa3BFVzRIazMwUlBjUzlQX1ZvVmVfdWNUa0RzUEZkR2VmeXpvcUxBTFlvbHctRnNK?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 17 Oct 2026 11:47:43 GMT",
-      "local_url": "/article-09f5d1f46b21.html"
-    },
-    {
-      "category": "business",
-      "title": "المغرب يتصدر اقتصادات شمال إفريقيا في تصنيف المخاطر الاقتصادية",
-      "description": "المغرب يتصدر اقتصادات شمال إفريقيا في تصنيف المخاطر الاقتصادية Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPeVhCczRxMTNaLVNmbVFmVll0WE5qQm1EUWpVWTYyNlBHRlVJX3c5OEJRZzJOY3VTTlBrM3BPRDFZLTVnNUpZT1JwdkpLUEtUWTlSLTRMWVQ2WlVLdmptYUpPeVlIQkh3cXZ6UEZvSExlWUF2N2JzLXZJMGoweVZGT29TMXdaekxINFktSi1aR2ZyU2dkeTRwbXdYSHAwYXZkSlYzNk45MDdjOGExVGxyOXM4T1lHX0JuSWdqemdDRFFaRndBd25xQlhWdkdXVnpwcnVFd0s1Tms3a0tLOFRBcUhzdkhZWnFiU2VOSVZ4NDJ3Nm9CVUlYalNuQ3B2am9GWVdlekE0aVQxS3RfTVRJTjE3TzNEalJ0RkZqV2FCbVRFdzFOaC1URnFBUEdCRDJNTnVmX1c0ZXVBSzVvMGhLazF5NG5PSEg5VVlrekNleVJxcUVEZ2c?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Mon, 19 Oct 2026 05:05:47 GMT",
-      "local_url": "/article-160e244d97c3.html"
     },
     {
       "category": "policy",
