@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:11:25.516446+00:00",
+  "updated_at": "2026-10-20T17:00:00.838666+00:00",
   "articles": [
     {
       "category": "technology",
@@ -55,17 +55,6 @@
       "source_url": "https://www.dw.com",
       "date": "Tue, 20 Oct 2026 13:13:12 GMT",
       "local_url": "/article-9dfdd3c573fe.html"
-    },
-    {
-      "category": "policy",
-      "title": "La troupe de théâtre Chamat présente \"Les silences des pères\", le 28 octobre à Meknès",
-      "description": "La troupe de théâtre Chamat présente \"Les silences des pères\", le 28 octobre à Meknès 2M.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU01YWXRFQUx6UXh4UkdXLXdSaFpHT0oybjFsSENndEowSUNvZUh0cjI5Zi1OdERqd0VHYmpOc3lLSTljVWZaX0NPODhyTW41VG5HX3Vja2NoOEEyeC1fOUNlVjZQUWxWcWVfR2xBZUt4eUNDem9SZTUtWElaWHBxRFk4UFB2dlN5MlpqLUNDeDdjR3RhR1doUmkzMVFwTUk1NExjMFRoN25FbThQVGs5c2FYYw?oc=5",
-      "domain": "2M.ma",
-      "source_url": "https://2m.ma",
-      "date": "Tue, 20 Oct 2026 12:01:00 GMT",
-      "local_url": "/article-a91b73f79990.html"
     },
     {
       "category": "policy",
@@ -164,17 +153,6 @@
     },
     {
       "category": "policy",
-      "title": "المكاوي يرأس فريق الاستقلال بدل خيير",
-      "description": "المكاوي يرأس فريق الاستقلال بدل خيير Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPZlBiQ0VEOFFxNGo3Q0hxMmVhOHJwcDhUMFRIZEk5TmVrWWdMcEV2WUp6T2hCX05aZW9nYXlOSWtaWk4wbU1hbkY5UWRHeDA0TnBheWU2N2J5VGFMR0x2S0c5c0JYQWdoS3ZGTmRwVTB2YjBDVW1VaWJ1V18tcXgwRWJiV3pSZnNDRXZYQkpfeGZicmN5UmotOGRWV0hxbUNDRmtkUTdLY2dtV0Y3RDhCMXNjV21veS1OR3pNc0pPSEJvRmtlcFFEUHh2Y2lvN0VrSnQ3OTZtQWtHVkUtU0xFLUpzY3N2VGQ3a2tLS1p0VUViWk9fRWJfSnpsaXlwbExhQzliSk5KMzVBWXlmS2c2SnZYUVBBa2t4ZFlNb2lDeFF1Z0lBTGxKXy1zQi1MYkE2MnNISjJ2NVRlRWxyNkJrbkRoY3pTUzNwejJGeW5R?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Mon, 19 Oct 2026 17:11:51 GMT",
-      "local_url": "/article-a2d28c0ea341.html"
-    },
-    {
-      "category": "policy",
       "title": "المنصوري تؤكد مواصلة الدفاع عن مغربية الصحراء",
       "description": "المنصوري تؤكد مواصلة الدفاع عن مغربية الصحراء Assabah",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -230,6 +208,17 @@
     },
     {
       "category": "sports",
+      "title": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة",
+      "description": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FMC00SVd0UVRxMkV0X1hxVkd4Nnd3cUI2TXpaVmN1cWpiT3ltOHBRbkQ3Y25tYUJoQ2RiV3U4X1YzNFRL?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Tue, 20 Oct 2026 10:32:19 GMT",
+      "local_url": "/article-c9589909c652.html"
+    },
+    {
+      "category": "sports",
       "title": "\"الأشبال\" يخوضون بطولة شمال إفريقيا",
       "description": "\"الأشبال\" يخوضون بطولة شمال إفريقيا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -238,17 +227,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Tue, 20 Oct 2026 10:20:04 GMT",
       "local_url": "/article-d9457e87b768.html"
-    },
-    {
-      "category": "sports",
-      "title": "العصبة الاحترافية تحدد مواعيد الـ5 و6 و7 من البطولة",
-      "description": "العصبة الاحترافية تحدد مواعيد الـ5 و6 و7 من البطولة Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FMC00SVd0UVRxMkV0X1hxVkd4Nnd3cUI2TXpaVmN1cWpiT3ltOHBRbkQ3Y25tYUJoQ2RiV3U4X1YzNFRL?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Tue, 20 Oct 2026 10:19:15 GMT",
-      "local_url": "/article-faa7921d6a45.html"
     },
     {
       "category": "sports",
@@ -410,7 +388,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPUzdLeUVISVAtSnBKa2M3cU1rdGRIOXpSMDdvYWlHMmV6OUF1cC1CN0NCWkJaM25JQUlFX0dLUnFqLVZCbkRaUFFVdERKOTdEUzN4eGJqMGFzaW9pQ1hNdzM1SWhySGg5UGRCdktmd25EaTZzUE5oTDQ3MVVDZVJucm9fa2xUMnVRT2MxQlR1ZlU5UjRBQ0NUX1AzeEhwM3loSGZ2LVQ5MG5nQzJhQjJBNVN4LS13SzhnNTQ0VG5WX05yb3dHN0FXZy1tUW1aMHpPTVdXa1JpYVVHYUNfT0ExXzJESXdJNWloaU10QmhnUkxUY21KVmp2YmtkN21vd2dCRlVWVFFRTFZNb0R2ZmU3UlZLQnEwZzZhUVVXM3VvTGN0Z2F1YW9Oa0ZLNlBPbUNQV0VVSmJrZVBoZFc3ZnNQZ1gzZkwwV0owNXc0clJSSHhKMloyWWs5b09CdHgwZlBxWjU5Y0RyUERYamE5U2Fzd3A3UFAyM0pudmpCbGFuZlhSeV9RYmNPTFZyVjYtdDV6OFJHZzRmYmlvNTJ0S1ZCUXgzLVhTQ3dDTjlhNDl6cWxTcFRha1FKNWRR?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Tue, 20 Oct 2026 12:14:44 GMT",
+      "date": "Tue, 20 Oct 2026 12:44:44 GMT",
       "local_url": "/article-b89f1b3b6254.html"
     },
     {
@@ -421,7 +399,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQLUt0WlNtZm1TSFo0eVhVMGZpR2k1dHduYzg0MUVTZUpCRzhZUkNRVFF4ZkpqNjQ0VVRRSC1aOGlYUGZCTkJLemhzckdDdzBBUDg3SG1PWVRwT0dCQUdFU213WlRYSXhFWGlyT0pMMHBjdTNvLTFRcTVjLTlkN3ZZVi1ibzdKMEtsTDdBTEkyMzVGXzB0eUY1bjF0NngwWTBxaGNhc2ExVFkwRUF0aEpCdTVVS01vdE1rcUdOcUJRdWR1eWxhbkllR0tvUTNlcVVMUGZSUWpxTzM1TVZNRzlGQUpuTlFoX0IzZU42RDdIbFRnT19yQVFObGo4QjVoOGQxZXE3YWxUTEFwUzRjU3g3Qy0xME16TDY5dzZEVFRfTkZtMkRPc1JfVk4wZ3N4Y0gtdzdFbklZZkQ1aDJDc1hzbzBvTzlOelRhMnNzb2tOT2dLWWRmUzZTUHNZT2hNd19NNXZBWDV4TmlFaUlrTXpwREp4cTZocWpyb3U2Z1RwemMyd0hDekdhZUNqZl9JUzA5c1g1VkJGQTNRTlk0MmFHODBGcEFRaTJNdVlyY1lDNnVINFhvNlNESVJiVHB4MEZ1NjJaMVVUTXRQZ1lSeXpGR3kzLUY2MFBUbzVOUU1ra1BmYTIyczQtdzlFQXFSb3ZaMW0tZXJBUGFVVzk3dTdUS2FBZUZwMXFLQmc?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Tue, 20 Oct 2026 12:10:30 GMT",
+      "date": "Tue, 20 Oct 2026 12:40:30 GMT",
       "local_url": "/article-bad746177eca.html"
     },
     {
@@ -524,6 +502,17 @@
       "local_url": "/article-2d3e907593c3.html"
     },
     {
+      "category": "international",
+      "title": "انقطاع عالمي في البنك الرقمي ريفولت: ما الذي تحتاج معرفته",
+      "description": "انقطاع عالمي في البنك الرقمي ريفولت: ما الذي تحتاج معرفته Euronews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSllPTWRDSGRQVVdwdnljbVVHYnhRdGJ3ODk5eTcxSDAxU1BWaF9icGtFTGtLR2RjaGZqanloT2tRb05MeXI5Z2c2YXktRExfcWJNN2hLRmxTYkNMb253ZzRHc0NyV01mbXJxaXNkLTVYcTUzcDVJc2lkUldxZ2JXMTRxcFR3M2lnVlhWRG5fNWF5WDNRdHVFVEFn?oc=5",
+      "domain": "Euronews.com",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Tue, 20 Oct 2026 16:23:10 GMT",
+      "local_url": "/article-a0d23a68dd66.html"
+    },
+    {
       "category": "business",
       "title": "صديقي يربط جاذبية الاستثمار بالمغرب بالشفافية والامتثال للمعايير الدولية",
       "description": "صديقي يربط جاذبية الاستثمار بالمغرب بالشفافية والامتثال للمعايير الدولية Hespress",
@@ -531,7 +520,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNYXlNLV9iWk0xWXZhSzAzOU9MS3VzUEI5X1J6MVdxaFAxclNSRkdjWGhfR3dtMkxuNXhUeXVabHgwVTg4YUY5MFZrU1huZHFjbXRNNGVGaGJqbmJBMk1JV0lFXzRrZkdJOExZdm9XMnhsMjhJRVNhME8xYVBxYlhQVzc3U2FBZkt3NjVOM0NMLUVjQlB0U2FYMTJaSC1hZTZybEVDZmRQQ2ZCT0hpazVZU3RTM1hIdVVWd1dJdHRDeW00STlhdVVxZjhhZm1KQnNmMUhtTHdFa09BVGFKaG01MEt4LXdDVDZXdEFtU1ZVaWptQkdjTEp1NHMybDVkU0ItaGt0SWJnYVJuWWRwcXIyV0lCSlhDXzUyYmIxUUVVNHljbjFLSmZSVEVsQzJFeDdhM0JJWWV3VWl2MVlYaEtMVmlPeHBodk93bTBkTHgwaUlFak1scHc?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Tue, 20 Oct 2026 15:04:32 GMT",
+      "date": "Tue, 20 Oct 2026 15:05:16 GMT",
       "local_url": "/article-05e2378a99f1.html"
     },
     {
@@ -544,17 +533,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Tue, 20 Oct 2026 13:01:20 GMT",
       "local_url": "/article-bc7c6210ccdb.html"
-    },
-    {
-      "category": "international",
-      "title": "هاو عراقي يحول الخردة المعدنية إلى نماذج لأسلحة عسكرية",
-      "description": "هاو عراقي يحول الخردة المعدنية إلى نماذج لأسلحة عسكرية Reuters",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLTTllZ2JoOWdRQklwSTVvSElEc2luY3lHSWJhMkdoQl9YWkw5TGVJekctNVlvcDBoRS1YalAxUnJXa0NfcHYwUFBwMkJQMDhUWDB0TDRleHJmdEptMmh1Z0EyRzM3S3lJY2Uw?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Tue, 20 Oct 2026 11:36:14 GMT",
-      "local_url": "/article-360660018cc5.html"
     },
     {
       "category": "business",
@@ -575,7 +553,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQaEN6N1F4b2tKc29INndVTzhKa09PN0JjWHJ3MUxLekVWamVKTm9senc0OG9ITENNTWxEVERyUWs1aUw1NGpRRjlwSEdENXRRY0piSWdudVozbGw4ekdpcW5jM3E0cUtuSE8yQVAxaklaZ285dVdpb21MQU9ZeVNXbF90YzVDTVJzT3Vfbkl6RlQya0o4T2ZCZ2lpSzRkT3MtMVItcUR4b1FwcG81U2M3UnZmeUZwRnZLOGN0SHpoNGVZeHpDdlhZZktsc2lUdmd5NDNxVTFoZkRzTlFDV0NoVURrQjg2dTJKbE5jTjgtd0pERHQwMHdtVTJvYklBZ1dETGF0MWhVcnF1WVBaaDItQ0xNY0wtcmllYnloUkVURXlBZ1QtNkxtdXkwdXdhRTMwU292V1Zmbko0TThKSVJEWUtVUlkzT2JQalNQUklzZERHNkw0eXBpVzhOeU1hTDdwamY0RHl2cXp6U1JZX0Jrc1JNbXdxMU92RVg0Mmh3RDgydFZtbDJjSTVpcw?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Tue, 20 Oct 2026 06:06:55 GMT",
+      "date": "Tue, 20 Oct 2026 06:36:56 GMT",
       "local_url": "/article-5f8157823940.html"
     },
     {
@@ -632,6 +610,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Mon, 19 Oct 2026 14:15:02 GMT",
       "local_url": "/article-6c41d716e596.html"
+    },
+    {
+      "category": "international",
+      "title": "إبداع وأزياء مميزة في مسيرة الزومبي في مكسيكو سيتي",
+      "description": "إبداع وأزياء مميزة في مسيرة الزومبي في مكسيكو سيتي Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RMDQxYWpudEszcGlxOWJVUlM5UFJsOWJndU5kczUxUnBIVV9zdWhJd0h4MnNFQVJmVkdTTGF3MzRhQjZ0bnRWdjhPQS1kOVZEejVlcnMzTHVDWnlfNVZPVlJOa25mMzZHa2c4?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Mon, 19 Oct 2026 11:26:57 GMT",
+      "local_url": "/article-e284966a6625.html"
     },
     {
       "category": "policy",
