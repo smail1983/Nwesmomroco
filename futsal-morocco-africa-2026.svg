@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8d0012"/><stop offset="0.55" stop-color="#d71920"/><stop offset="1" stop-color="#006233"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff1a8"/><stop offset="0.45" stop-color="#f5c542"/><stop offset="1" stop-color="#a66a00"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<circle cx="1050" cy="110" r="180" fill="#ffffff" opacity=".08"/>
+<circle cx="120" cy="680" r="220" fill="#000000" opacity=".12"/>
+<!-- Moroccan flag -->
+<rect x="850" y="35" width="300" height="190" rx="18" fill="#c8102e" opacity=".95"/>
+<path d="M1000 72 L1024 106 L1064 106 L1032 130 L1044 168 L1000 146 L956 168 L968 130 L936 106 L976 106 Z" fill="none" stroke="#006233" stroke-width="8"/>
+<!-- trophy -->
+<g filter="url(#shadow)" transform="translate(505 90)">
+  <path d="M90 20 H210 V90 C210 160 190 205 150 225 C110 205 90 160 90 90 Z" fill="url(#gold)" stroke="#fff2a0" stroke-width="5"/>
+  <path d="M90 45 H45 C45 125 70 150 105 155 M210 45 H255 C255 125 230 150 195 155" fill="none" stroke="#f5c542" stroke-width="18" stroke-linecap="round"/>
+  <rect x="125" y="220" width="50" height="45" rx="5" fill="#d4a62a"/>
+  <path d="M105 265 H195 L215 292 H85 Z" fill="#f5c542"/>
+  <circle cx="150" cy="108" r="33" fill="#ffffff" opacity=".22"/>
+</g>
+<!-- headline -->
+<text x="600" y="390" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="78" font-weight="900">المغرب بطل إفريقيا</text>
+<rect x="145" y="425" width="910" height="105" rx="22" fill="#111" opacity=".25"/>
+<text x="600" y="500" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="58" font-weight="800">في كرة القدم داخل القاعة</text>
+<rect x="245" y="565" width="710" height="92" rx="20" fill="#ffd400"/>
+<text x="600" y="630" text-anchor="middle" fill="#111" font-family="Arial, sans-serif" font-size="48" font-weight="900">اللقب الرابع على التوالي 🏆</text>
+<text x="600" y="715" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="700">المغرب 5 - 2 أنغولا • نهائي 21 أكتوبر 2026</text>
+</svg>
