@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:05:15.608979+00:00",
+  "updated_at": "2026-10-22T12:31:23.862756+00:00",
   "articles": [
     {
       "category": "technology",
@@ -384,6 +384,17 @@
     },
     {
       "category": "sports",
+      "title": "أنغولا تقصي الجزائر من \"كان الفوتسال\"",
+      "description": "أنغولا تقصي الجزائر من \"كان الفوتسال\" Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPU2gwZGlPdmk0X3VGb0RVOTNQTk44b0RpT2I0YVg0d0JHcXhVNVY4czRUM0tsR0VqazlZS1Q5RGwxTkg4ckQ1WnE1cU5YZDNkT1FjVFpBNG1xNUFHem9wTFJtOEhrMWdOMXZVZ0R0WFRjU2NIQWxxc00yaWFBNDJENF81bk8wT1g5MG1SLS1jXzlZR2h2d3l0SFFJWGpfN1JsNF8xNzB6ankxMnQ4N3kwUG12UlJoNmxSVTRYeHozNU1uU3Z6OGo2T0pyU0l4czNvWWRWMG9JRjJUc3BEM3NoWHFLdDhNTk5LTlo4dXhlTWt3NFprOFc5RWcyb1pCdWdsTG4wT3hqbGVHanI2MVh2TXRQc3EzdE5jVVNxSWZNU3VVWGRJVFphZDFIdUJaZlRFZU1LX3BTRVJmSW84M0hsUlBRdlRldw?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 22 Oct 2026 10:19:54 GMT",
+      "local_url": "/article-4b6924badff8.html"
+    },
+    {
+      "category": "sports",
       "title": "\"كاف\" يبرز تألق المغرب قبل مواجهة مصر",
       "description": "\"كاف\" يبرز تألق المغرب قبل مواجهة مصر Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -481,17 +492,6 @@
     },
     {
       "category": "technology",
-      "title": "الذكاء الاصطناعي والتحول الرقمي يغيران الطيران: السلامة خط أحمر",
-      "description": "الذكاء الاصطناعي والتحول الرقمي يغيران الطيران: السلامة خط أحمر Euronews.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmhaOEpBeTVvanJGRWhxSnZXMkNyVzJHNzBDeW0tWUE1WkpOYnBzRmN6cUpySXdWbmxhOTBzd21GVWRtUzh4LVExX0xhc2ZVU285dWdxZzV0R3lxNk53UXFKWkh4QVlweDBRV01DN09SMjdXYkNQeTJwTG1vTXQ0Y3BJdGU5aGNySmY5bDhXU1o3dElCaEw5SEVtbUVIcUxuYWlZQk5uZGhLZW9NZHNqZkhnc0RSWVpUdE9PY09VTzYxdw?oc=5",
-      "domain": "Euronews.com",
-      "source_url": "https://arabic.euronews.com",
-      "date": "Wed, 21 Oct 2026 06:00:04 GMT",
-      "local_url": "/article-05590cb3ffa1.html"
-    },
-    {
-      "category": "technology",
       "title": "مدن شرق آسيا تهدد هيمنة الولايات المتحدة على الذكاء الاصطناعي، وفقًا لمؤشر مدن الذكاء الاصطناعي الصادر عن The Observer",
       "description": "مدن شرق آسيا تهدد هيمنة الولايات المتحدة على الذكاء الاصطناعي، وفقًا لمؤشر مدن الذكاء الاصطناعي الصادر عن The Observer AFP.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -536,14 +536,14 @@
     },
     {
       "category": "technology",
-      "title": "أمازون تستثمر أكثر من 16 مليار يورو في ألمانيا خلال 2027",
-      "description": "أمازون تستثمر أكثر من 16 مليار يورو في ألمانيا خلال 2027 CNN الاقتصادية",
+      "title": "ثغرات برمجية تهدد 70% من مواقع العالم.. والذكاء الاصطناعي يكشفها",
+      "description": "ثغرات برمجية تهدد 70% من مواقع العالم.. والذكاء الاصطناعي يكشفها CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPUzdLeUVISVAtSnBKa2M3cU1rdGRIOXpSMDdvYWlHMmV6OUF1cC1CN0NCWkJaM25JQUlFX0dLUnFqLVZCbkRaUFFVdERKOTdEUzN4eGJqMGFzaW9pQ1hNdzM1SWhySGg5UGRCdktmd25EaTZzUE5oTDQ3MVVDZVJucm9fa2xUMnVRT2MxQlR1ZlU5UjRBQ0NUX1AzeEhwM3loSGZ2LVQ5MG5nQzJhQjJBNVN4LS13SzhnNTQ0VG5WX05yb3dHN0FXZy1tUW1aMHpPTVdXa1JpYVVHYUNfT0ExXzJESXdJNWloaU10QmhnUkxUY21KVmp2YmtkN21vd2dCRlVWVFFRTFZNb0R2ZmU3UlZLQnEwZzZhUVVXM3VvTGN0Z2F1YW9Oa0ZLNlBPbUNQV0VVSmJrZVBoZFc3ZnNQZ1gzZkwwV0owNXc0clJSSHhKMloyWWs5b09CdHgwZlBxWjU5Y0RyUERYamE5U2Fzd3A3UFAyM0pudmpCbGFuZlhSeV9RYmNPTFZyVjYtdDV6OFJHZzRmYmlvNTJ0S1ZCUXgzLVhTQ3dDTjlhNDl6cWxTcFRha1FKNWRR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNcUoweFBuMTF6ZkYtM0tmdnJsSFJtaWhDbXk5M3VubWN2emR3U2I0dW4wRGlqYl9lUG0tcGhqek02dE8xck1laldJeEg5UWtWWmxyNTlubE5LS0RhbkZKbWRmUXdndkE2WVZHakp5Nl84MTlMOWY2Njd1YUYtbENSR0UyWG1ET1NyUWpoR3JFWmVIV01aZURNcHFnZ2J4Vlc0WDAyX29xdkMzSGlmc1JDWEJqNlVfb0tVSUFUSTBHM2JKby11MWZZZVlYSkpkTmtwZGxHYXJnaF9ObE5HcnlkYjZQTUxCYnM5ZWNlWjNlVVdfTkVyeWJjZ0gxdHpvcjViOVhFZFRTQjVtdU9sOVVzSGttRWtreVlyZnpmeHNhN0NyUzFCMkVGZ01sNGZ6U0NEeDFOb2NsOG43WmZwcy11Rkk2LWV2SzE3NGZDSGdQeC1JR2xLRS1MVFkzNWRQbDVKVlFJbkNFQ2FPY2l0dTdRR3AxMjR4QnpvLUhlQThvVzlNT2dPbm5VMVc0QWd1YUhlZkJBUi1vVEdhcmdJT3U1NXNpRkItYzBqNGNhbi02U3doeUluX3p4UVpPVVZIZm1Ma0ZKc0oweThoMk4xZUFkY01lcWNmYVBNbjVzWlRUbXd5ZWRIdl9ZbDhwbkxWY0ZYQ0FqdFpneWhtaW9vUlJPdjM1ZkxVQQ?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Tue, 20 Oct 2026 12:14:47 GMT",
-      "local_url": "/article-b89f1b3b6254.html"
+      "date": "Thu, 22 Oct 2026 12:24:34 GMT",
+      "local_url": "/article-1e61a66d3bc5.html"
     },
     {
       "category": "technology",
