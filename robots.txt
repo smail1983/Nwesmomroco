@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nwesmomroco.com/sitemap.xml
+Sitemap: https://nwesmomroco.com/sitemap-news.xml
