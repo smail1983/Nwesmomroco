@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:44:50.584667+00:00",
+  "updated_at": "2026-10-23T10:31:10.353656+00:00",
   "articles": [
     {
       "category": "technology",
@@ -22,6 +22,17 @@
       "source_url": "https://www.afp.com",
       "date": "Wed, 21 Oct 2026 13:21:26 GMT",
       "local_url": "/article-ae3683ab08ba.html"
+    },
+    {
+      "category": "technology",
+      "title": "عاجل. - عملية إطلاق نار في الضفة الغربية تسفر عن إصابة جنود إسرائيليين.. ومقتل المنفذَين",
+      "description": "عاجل. - عملية إطلاق نار في الضفة الغربية تسفر عن إصابة جنود إسرائيليين.. ومقتل المنفذَين Euronews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hT2pHMTVWaVUybi15a0l6VGNZbGRCMDUxZ3hoRlQzSXlqb0I5NTRlUGl3Wjg5MVJRMkNJVWdwa3FPbVN2QlM3a0RMdUEyaVh5ZlFjbjhMNzctUXh2bWwxWkM1OXhqQk8tRjZESHJqYVN4RE5raWc2R3BQQQ?oc=5",
+      "domain": "Euronews",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Fri, 23 Oct 2026 05:51:55 GMT",
+      "local_url": "/article-95f90320b1a2.html"
     },
     {
       "category": "policy",
@@ -58,6 +69,28 @@
     },
     {
       "category": "policy",
+      "title": "النقابات تشيد بالتدابير الاجتماعية في البرنامج الحكومي وتنبّه إلى ملفات حارقة",
+      "description": "النقابات تشيد بالتدابير الاجتماعية في البرنامج الحكومي وتنبّه إلى ملفات حارقة Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOT2lVZHdtQzJWS3pPeTVGVl9FdUZmWDJqOHR1SUJmbnNNVkZhaHlFZHVKQ3k4R3BVMFlFVExhRF9kbVh5MG9EYTFraEpEOWkwQTVuQnYyQmRMQ2VyVFN3eHdmckFmeHgwYnc5NVFOcmFXWFhIU1JfRkg3ZTZCWHlXOUtiRUs5enNrTUI1akV4aE40RXloMjR2b21Ba2R4NjFHUHRENnd5bFZnU1EyZkRzV0NKTmlDTlJvS3h2ejd1a3ptTUFKcXg1U25zaDY2LVprdnFTWnotcmRHYXZ0TGxxaUljb0IzeWxBWUVUUXVnczJaQXR4aUZLc3M4cGlEX3IwOURXbUpSZmM5RTZuOFFOUHV3YkEyTmQ0Tlg0UXhVUzE0RHZ1NTdpZFp5aHVwekJHc210TGZCSWNiVmhQYWFhV2RHLUpkemZwTTNUeU9EWUtCSzZn?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 21 Oct 2026 15:36:50 GMT",
+      "local_url": "/article-653838f1dd91.html"
+    },
+    {
+      "category": "policy",
+      "title": "وزير التربية الوطنية: نحن على استعداد لمراجعة قرار تسقيف سن اجتياز مباراة التعليم",
+      "description": "وزير التربية الوطنية: نحن على استعداد لمراجعة قرار تسقيف سن اجتياز مباراة التعليم 2M.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPY1RDMWM2S3R4Z1pWbTFDUTZ5MHJnVFYzdDFMRzRzZlA4TGtlMDZiQUxzNzJLRlE2QWFuNTZpbkR4MGRYdEtVS1FBNk1zWUhtcUEwMkpHRGxtSVAzMTFURk1ILURLZ0FfYWxCOXRBRzNWc29QMU1rVjNmekFYZFJDZzFyc2dvblZSVnhDVmlRdkFvSFplYXhILTBzYkJxdTVPd2ZvellkTU9hV2c1eG5fZklaSUwwbWF4RHcwLThPYk84b3YyQ3RCTmpmbmgxandxMUJXazV5LUxtTFBqS0podXc2MS1jUm9ZNkJ0RjZ2QjRnbGd2UHIxWHBsYlJGLVZWNGplSVJHOEthVUNuRmpCWWkzZ1hZZ2JaNXFyU1l1NjdUQWpXX19ubHJUM0Zvby1tRXdEYmhMa2c4TVMzczNEaGk0b1BGTXFwZk9SRWdnWDRXX2FfYkdvRmYxUjB3Y0otdDMzeHR1Zm02VlIyUEFpTXFpUVNuT3VSTzRtWURQUkoxSmtSYVpQRV9hYTRHU1pyNjBaTGpJYVRkNXpxSnR0dzBxcVE5RUJKaVZVdHBrRERSSXhxTW9iTmZpZHRYRVFJOExCUTRMM3JyU3RIYVZNanpvNzY4NTdkTE9xeXdkWjlyTWVvOGY3amV0N1p6OWVOMDAtcGdTZkY2QWhhTG91UUJXdm5qZUphR0t3?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Wed, 21 Oct 2026 13:20:00 GMT",
+      "local_url": "/article-408aedcf3046.html"
+    },
+    {
+      "category": "policy",
       "title": "إسطنبول.. المغرب جعل من تحديث المنظومة القانونية والقضائية أحد المداخل الأساسية لتحسين مناخ الأعمال (السيد وهبي)",
       "description": "إسطنبول.. المغرب جعل من تحديث المنظومة القانونية والقضائية أحد المداخل الأساسية لتحسين مناخ الأعمال (السيد وهبي) 2M.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -91,6 +124,17 @@
     },
     {
       "category": "policy",
+      "title": "قيادة الحزب تدفع ماديحة خيير إلى الاستقالة من مجلس النواب",
+      "description": "قيادة الحزب تدفع ماديحة خيير إلى الاستقالة من مجلس النواب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQWTRraXVDZkM1M05MSmVfVmdnWVNlNjg3M3BzMHN5UENiV1p6R0VBRUtsSGowb1F4NTJhcjNHRGExQUQzeTBZTUZkN29TSGRidWRJTjJQQ0tzcXJNV3ZaSXZwQkRSaE9yREhnU0RtSDZSN3ZJMFBOX2VvNjJfZXRYMkQ2R2lSY29vNjI2VjhQUnkwR0ptNnk1MlpIQlVxTVNPblZ5cXFkbTVWaTJ3QjROS1ExTFhNelZObURZcGt5WFFOZzRiQ0FZTUo0Z0VfX19IeDlpVWx3QUV0RlNGc3RCaUZZd3NMV3pSSGoxUi10UmJ4TFNkTWZFMmx0RkFDR0JPSk9SU253MHVHZHQ3a3ZVQWpPSmpGLUozdmprWlBoZnIxU1JFdzRKQ0Y0eDVjX0xvY2tNclZmekpYNUU3Q2g3ODJGSlZ0eV9jM3psaExnQmxDMGwzWmFV?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 21 Oct 2026 12:19:25 GMT",
+      "local_url": "/article-db606ab0e523.html"
+    },
+    {
+      "category": "policy",
       "title": "كأس أمم إفريقيا لكرة القدم داخل القاعة (المغرب - أنغولا).. مسار مثالي للمنتخب المغربي قبل بلوغ المشهد الختامي",
       "description": "كأس أمم إفريقيا لكرة القدم داخل القاعة (المغرب - أنغولا).. مسار مثالي للمنتخب المغربي قبل بلوغ المشهد الختامي 2M.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -99,39 +143,6 @@
       "source_url": "https://2m.ma",
       "date": "Wed, 21 Oct 2026 12:14:00 GMT",
       "local_url": "/article-d80faea40ab8.html"
-    },
-    {
-      "category": "policy",
-      "title": "الدورة التاسعة عشرة لتظاهرة \"ليلة الأروقة\" يوم 18 دجنبر المقبل في عدد من مدن المملكة",
-      "description": "الدورة التاسعة عشرة لتظاهرة \"ليلة الأروقة\" يوم 18 دجنبر المقبل في عدد من مدن المملكة 2M.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQT3BKRm5SZXltYnZUbUlSTTlwMUFPTTdFUTlubEhjLXVXY1BWWmtVTEZsazVzcE1DVjVaM0doaS1DS01kaEF4UXM0ektUR0FBY2xZT0dYVmplNUI3ZHZ0SVJUUEN6Q3JwTU1pYlRST0tEUktGVmpHVDNCbngza09nWGxJdzhJY1h3eTBJYmlhR29idXpUYk52YkhpV1FBNy1HZFdncnlQN2tybWxHZXdiTmlwdlZIV0RObjRXZ1B1R1ExMjNyS0dNVzBBQ1dnOEp2c3FSZjNpVWk3MGluc1F3c2R0cXhZb2hfM0R3ZGk1OXluRTVYUFlVVUdHbDdONGdZV2FLYjNEeXZReE83Qm1pTWF1dndaa1k2dkkyZVVuU1VhanRPUEt6ajU4MTY3NnJYR0xtZVd0QURaM3RYR0IyXzlIT2cwRnFZOEVvWllpMHl6SHlMODlTLV9ZVFN1VlMyOC1zOVBUa3lnOVQ2ZXd4TlBNZWpBN2duQzBSUnNRS2J2bkxFWUZ6MUJRVmp2Ymdpc0V2RWRXRmh1RjctZUV5aDI2Q0VTN3o4X0hjVllfWTJmWVN3SDNyQ0JsWFJqbkd6RFIzSmUwRkdiT09UZ2l1TWhOQjFZVFJzQ3FYZg?oc=5",
-      "domain": "2M.ma",
-      "source_url": "https://2m.ma",
-      "date": "Wed, 21 Oct 2026 10:19:00 GMT",
-      "local_url": "/article-05236fae9ec0.html"
-    },
-    {
-      "category": "policy",
-      "title": "ألعاب دكار الأولمبية للشباب.. المغرب يشارك بـ39 رياضيا في 17 نوعا رياضيا",
-      "description": "ألعاب دكار الأولمبية للشباب.. المغرب يشارك بـ39 رياضيا في 17 نوعا رياضيا 2M.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPM19RQ1ZWNVp5c1ZyeGtBUEk0TVBWanRtNVNEQmVLM0hITXJOREItWHVwQl9uVVBQbVg0MXBiZTNHNml4Ymo0SlZHMGZWVVJpdWFQRjcwSXZVX2ptSGx0dkp5ZU9EeUtCb05jV2FnN0c4NmRpUFY5bWpBeEVnNDBvTFNpZ2VSZkxkRUJjejBSdWtWSmR1TnhpWHhWRzFwVGRJV3VQaFFSWFNuMEpWd3dFblNQUGtaTHdZTHdvSDFfR3d1a291YmRpbjRNRTFCbGZLTEtEc3RlX0xUaGZfM0R6TWNieWNZQTE0VXBoVnlHcUZSRDZVWm8zRTZMSHRzOW9PN1B1cHFtcG9Qb0ZFNzNTVE1mSzNBMU5ZaVJPN1I5ZnEzUkhhVDFvRHlwTVpJUExzbldlSUVkZHIzMEJLUktmdkZKNXdkOVh2VFkxc1RPS0VqTjVxVl9tLXBpQVRHNjFqR2RKS1hjT2owcXNqcHUtdDdOQkRGemJDU0ZpRnBLa0x1UGpFV1dxZVZxbVQzaWM5Q1dyMDFGcU1OTmNRTzRMc2pYVGNEaVA2UDBidDhZclVRVzBxOENFM1J6WHEzcUc1OF9RQldGTklSdnlockZ3VFZDRGtXS3RKYVg0WHZOdWM?oc=5",
-      "domain": "2M.ma",
-      "source_url": "https://2m.ma",
-      "date": "Wed, 21 Oct 2026 09:47:00 GMT",
-      "local_url": "/article-fa0e88d36015.html"
-    },
-    {
-      "category": "policy",
-      "title": "تصنيف \"فيفا\" للسيدات.. المنتخب المغربي يحافظ على مركزه الـ 64 عالميا",
-      "description": "تصنيف \"فيفا\" للسيدات.. المنتخب المغربي يحافظ على مركزه الـ 64 عالميا 2M",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPUGFJYU1aVTd2MVRmWE1SUlQtenE2YTE1MlJnZGszYkpzc2E2b2w2WHZvY3BIT0JLQ1FsQXYyWXYwREJQT2dsY0U4ZmRFZEpBWFBLcDFobzktVUhBRVlISWNucVM1YWN5c3VvbG1nblo2UkZZMGd3OXZ3WGVLS3lMU1ptYUVNekdiWUFTcWxvS3ZpTTlBX3ZReHlrbnFKZGhlZC1JUGRnbVNZSDlSbXJObzcwWHhyNG51ZEtyWWNfMWk0VDlUSmswdkE0XzE1NzZFaTE3SFRzbXhFcG9BTTh3WDAwMHFIcUNJM3NHdWVTVmEwNk9Sdk5FN1gwd2FEQkppeERfRVpPMUNQeFZzYWNyOGZiZ1FHTE01cGd3djFKakFqNDQzaENTcnJpdUwtMkpESzRGZGhVSHd6dEhLVXV4WU5GeHY4NXZrQlAwejhmRE5lRXEteG5TVEJUUXI0ZWNHUldWWk5BLWF0ZG5fZEliWlRjMzFmbUp2UlREVVRDSDI1R0V6MzV4VGxpdE9OZ1JON3JWUTVzamV1RHlXV2YtLWU2Mk94R1BTUndaY0V0WmZhZXNLUWlYalZOWVJFZHY1UnRFSkNPOFVHR3dXMW5LaW1Vel81ZnV5dHBpODAwSFhpckpidmxFaHNfams5STQ5QTN2SHhB?oc=5",
-      "domain": "2M",
-      "source_url": "https://2m.ma",
-      "date": "Wed, 21 Oct 2026 08:17:00 GMT",
-      "local_url": "/article-00487c1d6895.html"
     },
     {
       "category": "policy",
@@ -157,6 +168,17 @@
     },
     {
       "category": "policy",
+      "title": "الأزمي يدعو إلى إصلاح المنظومة الانتخابية وتوضيح مصادر تمويل الالتزامات الحكومية",
+      "description": "الأزمي يدعو إلى إصلاح المنظومة الانتخابية وتوضيح مصادر تمويل الالتزامات الحكومية 2M.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQVHcwVEVrdGFSSTBTRWcyMDFwTjRHUUhtbXdsTENhUFoyeXhtZ1lzRjFCSDJ4TEk5NS1CZUE1UUVsT1k4UjRKT2VaTURWZlhvSE5Ea3Utbk5OWkstcE93bFlHdkp4WmNXR2poX2VCTFl1QnVwREpVVDNIY3o2Rm1UZ1pZSmM0NFc5WmQ1YlN2YW13TmdpcURMOGZXdkY4aDRVbXpXdW0yNHBLWU00WHlTTmxHcjFLaC13Um5LNFEzUVpjdktYVnY1Qk5YT011T0pTRVMxVVhDdkMtbVR1eGd6NXBNLXQ4ZldBYVJmR3pTcG1oTHVGUzdQR0NiSFJhTDVIeS1Dc3VFVndsRVJVcDl0bU91UkUwNE5UUU93eW90M2tCUm5xZk5hR1NjajdVV3NVSnBKaFVKNTJyNGdxdjk2Yms1enRzNzRGZHB1VkExN1dwVl9NTVU4RE5PM2RiNjZMRzRyb2did0ZidGhSTEFzZDZkVG42S3VHWUVXSGZlUVNRcVdlS3N1RDY4blBrSWpINEp1bG5HX0JBQzR5NkpEWVVSejVzSVEtYUo0UGdJSFdGaWhOWEt0azZtaFRmeVpLSkNSUEhUOF85engtel9MS0l2RlVaZWxvSmluemJHVUREcTRVU2pnWkdJV1RweWlO?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Thu, 22 Oct 2026 20:58:00 GMT",
+      "local_url": "/article-93a68861a3d9.html"
+    },
+    {
+      "category": "policy",
       "title": "التصويت على البرنامج الحكومي",
       "description": "التصويت على البرنامج الحكومي Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -179,25 +201,14 @@
     },
     {
       "category": "policy",
-      "title": "كرة القدم المغربية داخل القاعة ،قصة نجاح متواصل لجيل من ذهب",
-      "description": "كرة القدم المغربية داخل القاعة ،قصة نجاح متواصل لجيل من ذهب 2M.ma",
+      "title": "هشام صابري: الممارسات التي تثير تساؤلات بشأن نزاهة الانتخابات يجب أن تخضع للتحقق والمعالجة القانونية",
+      "description": "هشام صابري: الممارسات التي تثير تساؤلات بشأن نزاهة الانتخابات يجب أن تخضع للتحقق والمعالجة القانونية 2M.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNSzhVb1JGdGNJZGg0TW1xVzZWdjRaV3VEYWtFZUNTZFJ0QnJ5Q19FY2h2TEs5YXdZcVBReTFVaGRELXhXTnpxMjZNU2paSFpWb3JUdk5aTmg1RU1TN0tPdVliZm9nc0RYd2MtR29pX0hvRjFwZVhYZGYyYUNvMHlQRzMxaXhpZ2VzLWMtUFk1Sk5TTUNPc2xjYkEtZFZnZlVMZ2xlNmlBMUVySkdsdGdLRG5xYzhVX1NMV1YwOTlvUkdNNGx1Z1BJWHp2SWRZb0NLZHpHSWpRNWM4RzhwNk0zRVJYT09LTjI2S3I0cXZFRDEtcmlxQzBDa21FM3ZmTUFqYmxpNzZCanhQc1E4MF9XTWFZczVLb1Yxc3dMbmpESE1zSFpNeGJQT0FrZzBVYndlUjBjUGc5aUdrWDBJYTVSWGJzZVVseEY4WTBPTUM5WGxoQUxYQmRaYlpLNTlkUHBsZm1EN1FRdnJXb1FJTERSX2otaDVJSi1fd3dTVFFjUWNINlFoQURacE04ZlMwclZpa19Ubm94bkhqeU1WQ293aEs2MFpwU0hxaFMzQTgtZW9wN1NnWXVRd1VXNWljcWVJZDZWbDR0ZHNMZzBYZlZsb28zOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPYm54TWJrdzhxRFVEZHBDbXVhUXl4NkZrSEJKNVpnQ0hZWi0yOGhJaGZJYVJnOTd3dW9uWFZFWnM4Y3pPdi0yRFBDZFd6OGtiUUZGQ1BWRG9MZUdTV18zNDNGM2FMbHItbWw0d0ZwV21UZEczZUg2cm9KWUdFRFRrMGxUZlpjV3pNVFUxOTJ5LTFzOGFqRk1pQUF3VGV3NndhTERtaDZXX2FlM05XcFhvRVJXU2hhcmVCRTQ2dzdmeDlzWUo1VzVwVURCSGJFd295S3Y2YVh4T3BHMXBkMDdxM2ZDVjlFNEFqTDhtbFBWNmsyUWNWbjZzbjNJcTd1YlBmZ2N4amx3REVHbFFwVjNubUFXNjZPMHdiOVlQbUhtZWV4N2pRc3JHWnhtc3ViOGp4WHBZUEljdVFkMm5qLTNra3FhXzNrMnVLSUtRbEM1TkdJTld6elV5Znk1cmZVM0NZeVp6SDhOX2E4cUhzWm5iQnRqUXUxa3ZYR1J5aTh4Y1BIQkVJUXZUdmVhVnpPSlBBTlJiZmFpWDRYdWRqWDJPdG01Z1lKYW5DMWZ4d3ZWRlFCcVVwVHNjQ3RWUERIeG1tWEcwV1Z2XzV2c000Yjdxd3p1ekRjQ1dKa0E5dUlmZkVIMmhwUkNMdXYwcjhYTU50?oc=5",
       "domain": "2M.ma",
       "source_url": "https://2m.ma",
-      "date": "Thu, 22 Oct 2026 17:46:00 GMT",
-      "local_url": "/article-f9c6f2956030.html"
-    },
-    {
-      "category": "policy",
-      "title": "المغرب.. إحداث أزيد من 66 ألفا و277 مقاولة خلال ثمانية أشهر (المكتب المغربي للملكية الصناعية والتجارية)",
-      "description": "المغرب.. إحداث أزيد من 66 ألفا و277 مقاولة خلال ثمانية أشهر (المكتب المغربي للملكية الصناعية والتجارية) 2M.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQTHVhaVliNjJ3ejBBOVE2S2ZwYjJXbXpTNnZGMmxOQXAxZlRlV2xHQnZwa2JBbWZBaFV4MUk2UG5MQVBmUUJTTzQwdnNtaVFYTUxBelR6QnVRdVhvUDBYdFJubHRqRWFqNGw0RHRkVUF6M0xlLWNKRy13SlYzcHVNbDN1d2dBa3hYVDBCNmxpdkt5YVBUUTRSTlFMNG9aZGpXS212OHdxOG5mT2RuNnFBSlk5S05UMXZhdUpQWVFnbnJVQ3QxR3pmVnRkeTlYeUdqdzVGVEZSYzJpRXN4UTRER0JjdS1NQ01PcG5QRVN0U2NzZUMyVXhaUmFIRWFjREduQVdlRXhjazItZU9QUUZiVThCLWc2cFBkZmJZdF9FVjJudFZHUHRYTzltNWIyUjI2Vkk1c3F2dzVkOXh6SGY0Y19Qc2x4UElFcHJ6TnhfdHh5VlkxT0VXUndiMjNreGpzWXEtSnZiUXFLbmwzWkpkUFVKNy04bE8xZEozeFVaQXh1R2NZVkxHQWtSNlBIUTVmLS1fQkhkVUJMWEJTRTVPN0p0YTRlM2duUE5mSDhncWlKRDNJMm4xdXREbU1Gd2pqdWxrX21JVWxUYWNwTTdWRkVOWlYzWmZGdGMw?oc=5",
-      "domain": "2M.ma",
-      "source_url": "https://2m.ma",
-      "date": "Thu, 22 Oct 2026 17:46:00 GMT",
-      "local_url": "/article-2ffc4cfa55e5.html"
+      "date": "Thu, 22 Oct 2026 17:13:00 GMT",
+      "local_url": "/article-d7a9593a436d.html"
     },
     {
       "category": "policy",
@@ -209,6 +220,17 @@
       "source_url": "https://2m.ma",
       "date": "Thu, 22 Oct 2026 14:20:00 GMT",
       "local_url": "/article-2b66e3ee7b99.html"
+    },
+    {
+      "category": "policy",
+      "title": "درعة.. أمطار تنعش حقينة السدود وتحذيرات من مخاطر الأودية",
+      "description": "درعة.. أمطار تنعش حقينة السدود وتحذيرات من مخاطر الأودية 2M.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNcm5kLUlvT3AxMHVMdnFlbTFDb0ZYd3JMaWdLUWhoc2JzVjVQY2NZd2dXZklwODFNdG9ONXBRczIyTWFZRDlmSGVmZlRJSkFCLWdaUzNFcWRJcFF0UTYxcHhRZ1p5bUhsVDRZaG1kcjJWMVYwck1lcG1vdm40LUl0bF9VS0J1Y3dVZldaU0Jxdk1iYUtMZ1FfT0Y1TDJ0NnpfSkRFSTlXd0pLX3lxTmEwREtHYXVKMmlIV2hmeW9wSHIwVzVRUF9fNnpJZ0NUQ29kSWVSR0tXU2FwWjkzZHN0aUdOVWtQcXdkRFpiXzNFNVBnNVU5QlJfdkx0NzB2Q2pkSzhKbnFDbWJqZF9sb05uMjVTR3FMUmtmdFJyM3VHclFNU0I0VXN2a081RGx2a2VqMVYwRGRjTEZFWDluOW10VzRwUHNoQXlrQW1KQmRQQ0xGOHdZUlVPb0FmNUNTdU16MjJvTG1vU0RodXp4b3VfMXl5czYxUmRJSlFKcXU1NlltSEdzN1I4RVFkOU5YeWRudVEtMnhJOTlzTlphVFh5WVNPa0tHalpiQ2NTVnc1ZEt4anR3MlE0Z2lYeS00dTJQ?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Thu, 22 Oct 2026 13:07:00 GMT",
+      "local_url": "/article-fe94e760cae4.html"
     },
     {
       "category": "policy",
@@ -231,17 +253,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Thu, 22 Oct 2026 07:02:49 GMT",
       "local_url": "/article-da9668da2dd8.html"
-    },
-    {
-      "category": "policy",
-      "title": "قيادي فلسطيني يثمن دعم المنصوري لحل الدولتين تحت قبة البرلمان",
-      "description": "قيادي فلسطيني يثمن دعم المنصوري لحل الدولتين تحت قبة البرلمان Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPX2pzSHpweUwyODdaXzN2U0t4dl9pQkplYVoydUlmb0dfaEljWVpRWDloemNLamdIWkpwN1Y4SDhkUjdkMC1XMHpxMDVSX0k4LU44N2xTQURpSGtSRGR2a0I4YVhROUlUN0g3SjJudkFmV1RwMTJMVE9QczlVQkFRZG9BanVyU01FT0ZUVXZWcUcwRkFHZU1QdTUwRlJNVDZGbDU1NTFHWWJFd3JmTG1xeVNlN3ZkWU5ZUW94VU1Cc083a2NLQ28xQVYyZXhQeEduUUI3Vl9iNVpNbHFQSWZjNkJ2Z1llOFBKT2ZBSVRTYkExUDdkU0ltRkxuNzd2RUU2OHBva0hsQXB5Q3hPdzgtZW5GZnJkOFdmdjA3RkQ3ZG1ZV0U2NngwdHkyT1ZHYjNGMGppSWpLT2htVGFOUDFxTnZvZnZqSXdqMkFJMkZCNlVuRGpXX0dB?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 22 Oct 2026 04:03:50 GMT",
-      "local_url": "/article-974e5f040bb3.html"
     },
     {
       "category": "policy",
@@ -340,6 +351,17 @@
     },
     {
       "category": "sports",
+      "title": "الركراكي يكشف معطيات جديدة بشأن اختيار لامين لامال لمنتخب إسبانيا",
+      "description": "الركراكي يكشف معطيات جديدة بشأن اختيار لامين لامال لمنتخب إسبانيا سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrdEw0WXpNa2V4SDFyMFNBRXRvT05XWkNEaFMxQUxueWVYNXhkekI0Uy1BRVdNMEJHdFBpUGhlYlE0MXdLT0JMemdsLUdLRWVhV0pZcGp6UzNiYjJKaW5OOWdPOUxVNXd0d0ZPcHFWQ2hqYVBScFZGSQ?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Wed, 21 Oct 2026 14:05:00 GMT",
+      "local_url": "/article-0d4385de347e.html"
+    },
+    {
+      "category": "sports",
       "title": "الوداد يبحث عن مدرب جديد.. التونسي نصر الدين نابي يتصدر المشهد",
       "description": "الوداد يبحث عن مدرب جديد.. التونسي نصر الدين نابي يتصدر المشهد Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -348,17 +370,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Wed, 21 Oct 2026 13:09:05 GMT",
       "local_url": "/article-223b53a6e0bc.html"
-    },
-    {
-      "category": "sports",
-      "title": "الموعد والقنوات الناقلة لقمة أسود القاعة وأنغولا في نهائي «الكان»",
-      "description": "الموعد والقنوات الناقلة لقمة أسود القاعة وأنغولا في نهائي «الكان» سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sbG5GSkVKWllfQzNITlFJZXNLRXlJM0R6SEF2bWlZb1NNOHloVEpUOXdSY3lPd0ZscTFRdHVKVmNVMmlCS0JVREc3YlRPV2VWNE9HMUlpMldPYWtSNXEyeFZiU2tzXzQzb0lzX3Y1TQ?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Wed, 21 Oct 2026 13:04:54 GMT",
-      "local_url": "/article-9af1e849fce6.html"
     },
     {
       "category": "sports",
@@ -395,14 +406,25 @@
     },
     {
       "category": "sports",
-      "title": "كأس الكونفدرالية الإفريقية لكرة القدم (الدور التمهيدي الثاني-إياب)... الرجاء الرياضي والجيش الملكي يخوضان حسم التأهل بملعبهما",
-      "description": "كأس الكونفدرالية الإفريقية لكرة القدم (الدور التمهيدي الثاني-إياب)... الرجاء الرياضي والجيش الملكي يخوضان حسم التأهل بملعبهما سبورت Le360",
+      "title": "الكشف عن حكام الجولة الخامسة من البطولة",
+      "description": "الكشف عن حكام الجولة الخامسة من البطولة Assabah",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZaHd0Y2I2Zi1QZGtTSkEyM3otTVF4UHV2LTV6STl1T2FTaUtsd3VHaGxZZzV6Wm5lb0RjYVhBVW1rRmw4SHNvTkVxM3RYOE1Od2poVGJ6SDdFVG9IanNCbXFqZzU2cExUZ0VCOWtHd0xXXzdKVjZpSjdqQ2M?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Thu, 22 Oct 2026 15:02:55 GMT",
-      "local_url": "/article-02a6064eaee1.html"
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5rNjhpS0NWa2k0eTkwd2FyeXlicWoxOGZUVjkxZm1aXzZBSjRuaFNmQ1RrQno5d3FweVdwYlVNR1pha3Ix?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Thu, 22 Oct 2026 19:40:36 GMT",
+      "local_url": "/article-802cd050f86c.html"
+    },
+    {
+      "category": "sports",
+      "title": "كرة القدم المغربية داخل القاعة ،قصة نجاح متواصل لجيل من ذهب",
+      "description": "كرة القدم المغربية داخل القاعة ،قصة نجاح متواصل لجيل من ذهب 2M.ma",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNSzhVb1JGdGNJZGg0TW1xVzZWdjRaV3VEYWtFZUNTZFJ0QnJ5Q19FY2h2TEs5YXdZcVBReTFVaGRELXhXTnpxMjZNU2paSFpWb3JUdk5aTmg1RU1TN0tPdVliZm9nc0RYd2MtR29pX0hvRjFwZVhYZGYyYUNvMHlQRzMxaXhpZ2VzLWMtUFk1Sk5TTUNPc2xjYkEtZFZnZlVMZ2xlNmlBMUVySkdsdGdLRG5xYzhVX1NMV1YwOTlvUkdNNGx1Z1BJWHp2SWRZb0NLZHpHSWpRNWM4RzhwNk0zRVJYT09LTjI2S3I0cXZFRDEtcmlxQzBDa21FM3ZmTUFqYmxpNzZCanhQc1E4MF9XTWFZczVLb1Yxc3dMbmpESE1zSFpNeGJQT0FrZzBVYndlUjBjUGc5aUdrWDBJYTVSWGJzZVVseEY4WTBPTUM5WGxoQUxYQmRaYlpLNTlkUHBsZm1EN1FRdnJXb1FJTERSX2otaDVJSi1fd3dTVFFjUWNINlFoQURacE04ZlMwclZpa19Ubm94bkhqeU1WQ293aEs2MFpwU0hxaFMzQTgtZW9wN1NnWXVRd1VXNWljcWVJZDZWbDR0ZHNMZzBYZlZsb28zOA?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Thu, 22 Oct 2026 17:46:00 GMT",
+      "local_url": "/article-f9c6f2956030.html"
     },
     {
       "category": "sports",
@@ -414,6 +436,17 @@
       "source_url": "https://ar.sport.le360.ma",
       "date": "Thu, 22 Oct 2026 13:31:49 GMT",
       "local_url": "/article-97c75460202e.html"
+    },
+    {
+      "category": "sports",
+      "title": "6 أندية من الدوري الإنجليزي تتصارع على ضم جسيم",
+      "description": "6 أندية من الدوري الإنجليزي تتصارع على ضم جسيم سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSGV3MTRUR2hvVGFKOXZVZjk4TDY0ZS1IS3BXbGh1Yks2NGNLTTBhOExVVmJ2S0J0bm9MVTlqWXlqb3ZyTjdsNWZWazI0Wk95YWdwNDVkOVRzYVRqOXdSMFNBaDN1TkNxYkgxSV9hUzQ5U3JiaWFNaktTSUNsWjQ?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Thu, 22 Oct 2026 10:07:34 GMT",
+      "local_url": "/article-ca3cf151480f.html"
     },
     {
       "category": "sports",
@@ -436,6 +469,28 @@
       "date": "Sun, 18 Oct 2026 13:13:00 GMT"
     },
     {
+      "category": "sports",
+      "title": "المنتخب المصري يسحق على نظيره الجزائري بـ (8-1) ويحرز المركز الثالث في « كان الفوتسال »",
+      "description": "المنتخب المصري يسحق على نظيره الجزائري بـ (8-1) ويحرز المركز الثالث في « كان الفوتسال » سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ybkdaNXhvcmsxaVJXNlBRa1VWLWRJRUlQTjBObl95WXJmNU4xdFNRaFA2OGVjNFNZS1d6V1ByRTJpVWtBU0xEdmIwR0hxeWMyRFNLWWFKWTJUM194THE2V0pkdUhzR2VCRzZhUFdNLUFDZi11?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Fri, 23 Oct 2026 08:13:29 GMT",
+      "local_url": "/article-4b09934854f3.html"
+    },
+    {
+      "category": "sports",
+      "title": "الموعد والقنوات الناقلة لمباراة المنتخب الوطني أمام ألمانيا في كأس العالم المغرب",
+      "description": "الموعد والقنوات الناقلة لمباراة المنتخب الوطني أمام ألمانيا في كأس العالم المغرب سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKZkJhOHlUM0d5T1BFT0FLR0dHQ3h0cWNhYUNaLW8tRUh6NmlNWmtLYmxUQmFyZDRZcmozSkF1V3ZYcUd3M244T0pIMHg5aE5DS0dpVFBRU3ZXQ19Yclk1NTg0MHZwXzJMNWlVMmdTVE1EcHd6SWZkOGg4MTBSVWM?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Fri, 23 Oct 2026 08:13:29 GMT",
+      "local_url": "/article-33e307c88e50.html"
+    },
+    {
       "category": "technology",
       "title": "قضية تيليسون أوريليان: ناشره يعلن استخدام الذكاء الاصطناعي في كتابة \"سيتيه سا أو مورير\"",
       "description": "قضية تيليسون أوريليان: ناشره يعلن استخدام الذكاء الاصطناعي في كتابة \"سيتيه سا أو مورير\" Euronews.com",
@@ -445,17 +500,6 @@
       "source_url": "https://arabic.euronews.com",
       "date": "Wed, 21 Oct 2026 19:20:53 GMT",
       "local_url": "/article-dcdd7d44b28f.html"
-    },
-    {
-      "category": "technology",
-      "title": "رئيس شركة إنفيديا يطرح توقعًا مفاجئًا حول دور الذكاء الاصطناعي في المستقبل",
-      "description": "رئيس شركة إنفيديا يطرح توقعًا مفاجئًا حول دور الذكاء الاصطناعي في المستقبل elnabaa elwatany newspaper",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ubEp5d0lYbGtlUXRlVl84aEtoOXVKVEJPZVlEYm1QMUYxVnpEd3VNMFhPWk5UbUQzVzBUSVQ5THIyZU00Z2c?oc=5",
-      "domain": "elnabaa elwatany newspaper",
-      "source_url": "https://www.elnabaa.net",
-      "date": "Wed, 21 Oct 2026 15:11:00 GMT",
-      "local_url": "/article-de6735974327.html"
     },
     {
       "category": "technology",
@@ -470,28 +514,6 @@
     },
     {
       "category": "technology",
-      "title": "Reply Introduces Reply Immersive Experience: a Space Where Artificial Intelligence and Immersive Technologies Bring Multisensory Brand Experiences to Life",
-      "description": "Reply Introduces Reply Immersive Experience: a Space Where Artificial Intelligence and Immersive Technologies Bring Multisensory Brand Experiences to Life AFP.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sdElnRG45U3luZjFqUS1TVG02V3Bjei1RVUVOczItQWtaYTlIbkI5M0pjMzgyek55bDUzM0hXdHJ3cmw3MDhKaXQzNA?oc=5",
-      "domain": "AFP.com",
-      "source_url": "https://www.afp.com",
-      "date": "Wed, 21 Oct 2026 08:00:00 GMT",
-      "local_url": "/article-e513060d978e.html"
-    },
-    {
-      "category": "technology",
-      "title": "AI and Multichannel Communication Come to Italian Municipalities",
-      "description": "AI and Multichannel Communication Come to Italian Municipalities AFP.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQYW03eWIwdUdnQmNmUlpjV2s1ODRKTDR4UGpOMzE5YXBPQ0ZtSk5idVROQ1ZTMjJQZ2E1Y0Z1dmtvYncyQkZPcDNYNA?oc=5",
-      "domain": "AFP.com",
-      "source_url": "https://www.afp.com",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "local_url": "/article-c768950097ec.html"
-    },
-    {
-      "category": "technology",
       "title": "أنثروبيك تنفرد بسباق الطروحات التقنية في الخريف وسط الشهية على الذكاء الاصطناعي",
       "description": "أنثروبيك تنفرد بسباق الطروحات التقنية في الخريف وسط الشهية على الذكاء الاصطناعي CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -503,28 +525,6 @@
     },
     {
       "category": "technology",
-      "title": "هواوي تحاول بناء مراكز ذكاء اصطناعي في مصر وواشنطن تتدخل!",
-      "description": "هواوي تحاول بناء مراكز ذكاء اصطناعي في مصر وواشنطن تتدخل! Arabhardware",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HUHZzVGxIWDB0ZmlqZU16OE9EcGRhcTFSUzFMdFVJN3gxQ0c1cGhsQWFtZzYwR3BkODhxSnM0bXQtRXlTMzRISVlNT1l5QUJHVURUeVM3TFZxdUNmTjRjeGdHamJMM0ZfWFV4b0RR?oc=5",
-      "domain": "Arabhardware",
-      "source_url": "https://arabhardware.net",
-      "date": "Thu, 22 Oct 2026 14:13:44 GMT",
-      "local_url": "/article-3413ac2ca649.html"
-    },
-    {
-      "category": "technology",
-      "title": "ثغرات برمجية تهدد 70% من مواقع العالم.. والذكاء الاصطناعي يكشفها",
-      "description": "ثغرات برمجية تهدد 70% من مواقع العالم.. والذكاء الاصطناعي يكشفها CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNcUoweFBuMTF6ZkYtM0tmdnJsSFJtaWhDbXk5M3VubWN2emR3U2I0dW4wRGlqYl9lUG0tcGhqek02dE8xck1laldJeEg5UWtWWmxyNTlubE5LS0RhbkZKbWRmUXdndkE2WVZHakp5Nl84MTlMOWY2Njd1YUYtbENSR0UyWG1ET1NyUWpoR3JFWmVIV01aZURNcHFnZ2J4Vlc0WDAyX29xdkMzSGlmc1JDWEJqNlVfb0tVSUFUSTBHM2JKby11MWZZZVlYSkpkTmtwZGxHYXJnaF9ObE5HcnlkYjZQTUxCYnM5ZWNlWjNlVVdfTkVyeWJjZ0gxdHpvcjViOVhFZFRTQjVtdU9sOVVzSGttRWtreVlyZnpmeHNhN0NyUzFCMkVGZ01sNGZ6U0NEeDFOb2NsOG43WmZwcy11Rkk2LWV2SzE3NGZDSGdQeC1JR2xLRS1MVFkzNWRQbDVKVlFJbkNFQ2FPY2l0dTdRR3AxMjR4QnpvLUhlQThvVzlNT2dPbm5VMVc0QWd1YUhlZkJBUi1vVEdhcmdJT3U1NXNpRkItYzBqNGNhbi02U3doeUluX3p4UVpPVVZIZm1Ma0ZKc0oweThoMk4xZUFkY01lcWNmYVBNbjVzWlRUbXd5ZWRIdl9ZbDhwbkxWY0ZYQ0FqdFpneWhtaW9vUlJPdjM1ZkxVQQ?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 22 Oct 2026 12:25:35 GMT",
-      "local_url": "/article-1e61a66d3bc5.html"
-    },
-    {
-      "category": "technology",
       "title": "Websites go dark as AI exposes critical security flaws",
       "description": "Websites go dark as AI exposes critical security flaws AFP.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -533,6 +533,17 @@
       "source_url": "https://www.afp.com",
       "date": "Thu, 22 Oct 2026 10:13:23 GMT",
       "local_url": "/article-e5a5865288e0.html"
+    },
+    {
+      "category": "technology",
+      "title": "مواقع إلكترونية تتعطل بعد كشف الذكاء الاصطناعي ثغرة أمنية في لغة برمجة",
+      "description": "مواقع إلكترونية تتعطل بعد كشف الذكاء الاصطناعي ثغرة أمنية في لغة برمجة Euronews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1RiU0F6MVpIUEtpem1FbmNTMERlM0l1dzVDdWc3Nks3c1B6eURVVElSUWk3TzhsYW1JQVNHUHNZQWJ4RHFpbFNYYTU4Y1cxWnBmQTZXOEs1M0pTcTBFZGc3bUVsd1NOX2x4S1NGemxPYVhqMFhwdF96bDNYOG1TYXEyUV92REotbDVmZ0dybjVMX1NJNndqMkpGeF9TdEJPNEY4S3h0Zms5bGFpeEhDSVhRQU9wUHlVeXJKci05d3RZbUZHVWI5dw?oc=5",
+      "domain": "Euronews",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Thu, 22 Oct 2026 09:27:58 GMT",
+      "local_url": "/article-b49b985da10b.html"
     },
     {
       "category": "general",
@@ -547,14 +558,36 @@
     },
     {
       "category": "general",
-      "title": "المغرب الفاسي يشد الرحال إلى أبيدجان",
-      "description": "المغرب الفاسي يشد الرحال إلى أبيدجان Hespress",
+      "title": "AU-UN: Morocco Voices AU Peace and Security Council’s Position on \"Youth, Peace and Security\" at 11th Joint Seminar with UN Security Council",
+      "description": "AU-UN: Morocco Voices AU Peace and Security Council’s Position on \"Youth, Peace and Security\" at 11th Joint Seminar with UN Security Council 2M.ma",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQMTBxMzJRWWRXZC01Qi1aNkZ6U0hJS2twaFNGbHM5V0V6VjhLNF95eDRWZ0w2SU9rVThUT1lsRDRORnhpTzNjU0h4VjUwbTNSWmJnTUFlb3A0bFlWTlljZ1ZPUTN0cTBKUTdwYUpoX1JVSnJfcks2SF9rQmlWSDFrXzg5djVPYk1ZQlVTN19EN1dHOHhjcE9KR21jaV8wcE1sYmxZVmJyQVFHUk1SSV9aZjQtUzYzUEdoX2VtVFNrYUFmQlkzOGhudUZ5Zm1lMXo1NXFycXNMYTdPcm1NM0syN2dfMmJ1OHRZLXVjZG9jQld2ZXM2ejhtdnE5cGpTMjVvMEx6ZjVYT2tIMWtXRjU1WURtVmV4NHlyX1BlM1dqS284SHRPelBWRFJ5d3YxelZCZ2g0QW1BcVlHbXNic2NWUUdMUTA4Sk5Zdkw1NHlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTThta0FsS0hqTnloYlJOM1F4dHhHQlByWnFfaHM2Y0hsV0wzV3Jka0ZWSnhJSUI2eWEwRmZuNVE2eTF4ekNONmFNWTFpME1QU2JFVGd6clo1N09wcmZ5ODdRVHJyMzhlbzMtWHdFN2dOWW9LM05ldEFTV3Ezb3lrcmpzRWhlOFJWT1FSb3lMX2JLNmwtS1hZ?oc=5",
+      "domain": "2M.ma",
+      "source_url": "https://2m.ma",
+      "date": "Fri, 23 Oct 2026 09:54:00 GMT",
+      "local_url": "/article-ec78e73eec49.html"
+    },
+    {
+      "category": "general",
+      "title": "توقعات طقس اليوم الجمعة بالمغرب",
+      "description": "توقعات طقس اليوم الجمعة بالمغرب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNVXdTYWl2azVPNlRxMUdPeDVqcEp5VnNJUjZXT3paSjdsVXBsZVhZZEU2emFIWndDVnFjOXE3d0l3RVNsY0lfTWl0dG92VGZEQ3ctbDhKSUIxcVZYZlhBNFlXcVdtNTJtVHdFZnJpSlJ4MktSTTktcVdsMTVKb3pjNE5waVVSazJsRW9pcXExMDhEZmFNN1R4SWl6LWpvRlY3dmlGNm9BWHY4R0hNQjlBS0JhYXpLem5xU1QxOGItRWdWbEFEWmxlOWpYbTBaVFpmZ1ZhNUFJWkFMRVdTQ0Z1UFVWNUZLU1p5YUZjM0hZdGJyOUFfalY5Y2twVW5rYmM2dmUyYmVEcmxuODRuUnBENXdCT0pTMGQ0Z0tfVGE4MnM4bjhLSVFjWElUMHRkWDc4?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 22 Oct 2026 03:25:15 GMT",
-      "local_url": "/article-f6bc496d619f.html"
+      "date": "Fri, 23 Oct 2026 07:07:10 GMT",
+      "local_url": "/article-f1e68b8aeab4.html"
+    },
+    {
+      "category": "international",
+      "title": "السعودية تعلن مقتل شخص وإصابة 8 جراء هجوم على مطار الملك فهد.. و\"كبار العلماء\": استهداف المقدسات والمدنيين \"إرهاب\"",
+      "description": "السعودية تعلن مقتل شخص وإصابة 8 جراء هجوم على مطار الملك فهد.. و\"كبار العلماء\": استهداف المقدسات والمدنيين \"إرهاب\" CNN Arabic",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPemtwTGVqSng0cWpCZ0hrVFEyY1lUb1daTXRwSllIMnAyRkNHSmVlVzJvYVY2WXdOak0yRjIwd1RXNlNlTXpsNmFtR2lNTWdUa1FLaVRRV1NnVEJ5bUt3TmVNZFFoQko2SGlCR3JuMGtDUkM5Wjg5VFZKYXRxd0xMd29jdVpQTnVzSXJBMTdKcFYtZnNiVzZTQ05LTzA1UG1RN1hhMEdsczEtVUJheEkwZGdaY1BDSnBHNnpQclRlVHZ3b2J5QU1lbnNJU1o0Zw?oc=5",
+      "domain": "CNN Arabic",
+      "source_url": "https://arabic.cnn.com",
+      "date": "Wed, 21 Oct 2026 23:13:28 GMT",
+      "local_url": "/article-9bb20178b882.html"
     },
     {
       "category": "business",
@@ -577,39 +610,6 @@
       "source_url": "https://www.france24.com",
       "date": "Wed, 21 Oct 2026 20:25:11 GMT",
       "local_url": "/article-ba5bf335d2c0.html"
-    },
-    {
-      "category": "international",
-      "title": "باريس تزيل آثار الاحتجاجات وأعمال الشغب",
-      "description": "باريس تزيل آثار الاحتجاجات وأعمال الشغب Reuters",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lV2NZWFlDRDVTVE5lMFdLRXpXYXNDWU1WN1Y3X3hsaEdDVTRLS3c5QkI2cFlqUjRtRWRra05LXzlGYXFTRWRjT2pEbkZMeXl3YXRvdEJEMGFaSVM0cGNxdXlpSjlFbHRaV3RB?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Wed, 21 Oct 2026 12:24:57 GMT",
-      "local_url": "/article-17ed11e8eb17.html"
-    },
-    {
-      "category": "international",
-      "title": "JANE EYRE تُفتتح في مسرح Mercury Theatre Colchester والجولة تستمر حتى نوفمبر",
-      "description": "JANE EYRE تُفتتح في مسرح Mercury Theatre Colchester والجولة تستمر حتى نوفمبر BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUQ1dGQxaDE5NHBFT2VuVDhpWUtsXzdNMU1LLTNpVjZtOElQWUVIbjhVdVJVSU1MX1ktZUhzVVJkclcyaWxhMjBESGk1RkljV05DbFNFVk8yVmsxcXJ0cGwzRGZqckFTUmQwT0JqZFFGbEI1SGw4cFZacnNCVWY5ZmJudzdCY3AyUUEtaXQwdkZzTmpkMlRYSW8wcm1MdHpNV2dxV29DVmQwd1RVZTJHQXhuT1NKN2o2ajBpZThR?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 21 Oct 2026 10:15:43 GMT",
-      "local_url": "/article-d7686f28dfcd.html"
-    },
-    {
-      "category": "business",
-      "title": "الحكومة تتعهد بالتعاون مع مجلس المنافسة لمحاربة الوسطاء بالأسواق",
-      "description": "الحكومة تتعهد بالتعاون مع مجلس المنافسة لمحاربة الوسطاء بالأسواق Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNWlFraFpfSjd1VkM4Y1A3RUpmNGQ5bllISk91ZzRsbDBYM0x0dk5kWlNUNDhmVktYSU9HUXdmSGl2bk1GZzhjeVU1WjRJb0FfTU1FQXBCSUo4cThrck1XOGZZeHlNT0NCcFNwdTM1YWVjdU1FUzg1Q01kTEtZR0d0ekZEU2dfY19tY2dUaWZmb0FnX1NlZ1BjajB1NnJ3Q3BlMldHaXIzamYwR2VHYnAzWkE2ZXlUU3RIdzYzTU5pVk1fNFRhMnVPOUJJVXdQdkNDYS12Z1B2d0ZjbFFnMGlaS2pzU1pOZmhQZnNHZllyVHFLMTEzbTgwN054X3JOWEIwX05BRENzcURsckoxTDQwS3FLd2J3QjRBaDBKQ28wNnR2cUZkWVVnRktpWDZxTW8wdzFmV1RlZVRZUWFUTzhlMGNwNTdhOHp1aUhLSVZwbXJuSTI5aHc?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 21 Oct 2026 08:06:41 GMT",
-      "local_url": "/article-abb8e2b89742.html"
     },
     {
       "category": "business",
@@ -700,15 +700,15 @@
       "local_url": "/article-716672da92e5.html"
     },
     {
-      "category": "international",
-      "title": "السعودية.. بيان جديد بشأن \"الاعتداء الغاشم\" على مطار الملك فهد بالدمام",
-      "description": "السعودية.. بيان جديد بشأن \"الاعتداء الغاشم\" على مطار الملك فهد بالدمام CNN Arabic",
+      "category": "business",
+      "title": "الصقلي: مهرجان فاس يعيد وصل الأجيال الجديدة بالتراث الصوفي المغربي",
+      "description": "الصقلي: مهرجان فاس يعيد وصل الأجيال الجديدة بالتراث الصوفي المغربي Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUzg3QUVpSTFsMjZuREpRVEd2WWg3YndjeUNFRHJ0ekhUclE4NXp2dUZPYXJZenljTVF6V2lMQ1VoM2JxQ0pMQzJ5X0R2SkdwTmRxRjBCMUxtZkZrcDJOVzl6U2dhVk5tdUZSdXUxWVlSdGpNS2xZbGlqZk1nODk0TTJCbks1T1M4UGdOSkp3Vm9wUXVvNjBSVko1RkRDVHJqczBZN0xfbk1RMmFXdFpaWW1XZlE?oc=5",
-      "domain": "CNN Arabic",
-      "source_url": "https://arabic.cnn.com",
-      "date": "Thu, 22 Oct 2026 08:09:37 GMT",
-      "local_url": "/article-f0c5af0817fc.html"
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeS1vSkhFdWNuNHBTNUZERDkzWmxaeTRIcnlvbGNoZ0NVeFctQXVzNUtpbG5oM3hxUlZ0WjBHQ3Zjbkg3aGFpajZWbDFXQWFSLUJOVTlreGFHdl9PNHhnN2Y4TG5zVDVtSUw0eGNxZXJXaXYzZ1RWT1gwMkp6cGRMYUxnSkt6TEFkeGNrZzhRNUxjTEhuV2lCdUFURERWWVJiU3dkd1BjRzVwWkpab2RfTzFzd1BuRE1uVHBuN3hqdDlxd0FRTTNBaEZfcjVlalFGY3BQMXpyQWdibUt5QWJsRGRFeXJRNkJzZFoycWdGQ0RPcHRSenMzaGFOd0hDYU1DSFJVbXBmSEF1VFZzYWlsS21aUU5pSjU2T3dFcnlqbGw0RHl2elpvSDhjX3J3ZWFkOXVCVUEySGRSb24tc2xMZGY5anFyWFJTa2ZrdGNiQVpTbjk3Z29J?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 23 Oct 2026 07:01:55 GMT",
+      "local_url": "/article-5f9bda148195.html"
     },
     {
       "category": "policy",
@@ -772,6 +772,15 @@
       "url": "article-khaled-haftar-morocco-2026.html",
       "domain": "NewsMorocco",
       "date": "Mon, 12 Oct 2026 18:00:00 GMT"
+    },
+    {
+      "category": "policy",
+      "title": "إسبانيا تطلب دعماً أوروبياً لسبتة ومليلية.. 114.7 مليون يورو على الطاولة",
+      "description": "مدريد طلبت دعماً أوروبياً بعد أزمة الهجرة في سبتة، فيما أقرت المفوضية الأوروبية 114.7 مليون يورو كمساعدة طارئة لإسبانيا مع دعم من فرونتكس ويوروبول ووكالة اللجوء الأوروبية.",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "article-spain-eu-ceuta-melilla-2026.html",
+      "domain": "المفوضية الأوروبية / الحكومة الإسبانية / NewsMorocco",
+      "date": "Fri, 23 Oct 2026 10:15:00 GMT"
     },
     {
       "category": "policy",
