@@ -730,6 +730,15 @@
   },
   {
     "category": "general",
+    "title": "ماركيز يفوز بسباق السرعة في أستراليا ليستعيد صدارة بطولة العالم للدراجات النارية",
+    "description": "ماركيز يفوز بسباق السرعة في أستراليا ليستعيد صدارة بطولة العالم للدراجات النارية Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-83cb7268cee6.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Sat, 24 Oct 2026 04:45:00 GMT"
+  },
+  {
+    "category": "general",
     "title": "المغرب يتوقع استقرار العجز المالي على الرغم من التخفيضات الضريبية في 2027",
     "description": "المغرب يتوقع استقرار العجز المالي على الرغم من التخفيضات الضريبية في 2027 Reuters",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -853,24 +862,6 @@
     "url": "/article-cd0b0917fca5.html",
     "domain": "NewsMorocco",
     "date": "MAP SPORT • Fri, 23 Oct 2026 13:04:37 GMT"
-  },
-  {
-    "category": "general",
-    "title": "بعد هزم منتخب أنغولا.. \"أسود القاعة\" يعانقون المجد الإفريقي للمرة الرابعة",
-    "description": "بعد هزم منتخب أنغولا.. \"أسود القاعة\" يعانقون المجد الإفريقي للمرة الرابعة Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-3c02549bc1a2.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Wed, 21 Oct 2026 21:58:19 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"كان الفوتسال\".. مصر تكتسح الجزائر",
-    "description": "\"كان الفوتسال\".. مصر تكتسح الجزائر Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-e29d814ad7b7.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Wed, 21 Oct 2026 19:20:42 GMT"
   },
   {
     "category": "general",
@@ -1467,15 +1458,6 @@
     "date": "Hespress • Fri, 23 Oct 2026 11:13:17 GMT"
   },
   {
-    "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 22 Oct 2026 23:11:37 GMT"
-  },
-  {
     "category": "policy",
     "title": "بعد تنصيب الحكومة الجديدة.. الأغلبية والمعارضة تبرران خيارات التصويت",
     "description": "بعد تنصيب الحكومة الجديدة.. الأغلبية والمعارضة تبرران خيارات التصويت Hespress - هسبريس جريدة إلكترونية مغربية",
@@ -1540,6 +1522,24 @@
   },
   {
     "category": "general",
+    "title": "الأمم المتحدة تبرز أدوار المغرب الدولية",
+    "description": "الأمم المتحدة تبرز أدوار المغرب الدولية Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e7e2f49307f4.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sat, 24 Oct 2026 20:07:32 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "هل يجدد سجال رئيس الحكومة والمعارضة ثقة المغاربة في العمل السياسي؟",
+    "description": "هل يجدد سجال رئيس الحكومة والمعارضة ثقة المغاربة في العمل السياسي؟ Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-44acd4d40210.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sat, 24 Oct 2026 16:04:22 GMT"
+  },
+  {
+    "category": "general",
     "title": "توقعات طقس اليوم السبت بالمغرب",
     "description": "توقعات طقس اليوم السبت بالمغرب Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1576,6 +1576,24 @@
   },
   {
     "category": "general",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c77f891b3dd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 18:10:41 GMT"
+  },
+  {
+    "category": "general",
+    "title": "بعد هزم منتخب أنغولا.. \"أسود القاعة\" يعانقون المجد الإفريقي للمرة الرابعة",
+    "description": "بعد هزم منتخب أنغولا.. \"أسود القاعة\" يعانقون المجد الإفريقي للمرة الرابعة Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3c02549bc1a2.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 17:52:24 GMT"
+  },
+  {
+    "category": "general",
     "title": "تفاصيل الإعفاء من الضريبة على الدخل ورفع قيمة المعاش والدعم المباشر",
     "description": "تفاصيل الإعفاء من الضريبة على الدخل ورفع قيمة المعاش والدعم المباشر Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1591,6 +1609,15 @@
     "url": "/article-908b61827975.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 15:12:57 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"كان الفوتسال\".. مصر تكتسح الجزائر",
+    "description": "\"كان الفوتسال\".. مصر تكتسح الجزائر Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e29d814ad7b7.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 15:05:12 GMT"
   },
   {
     "category": "general",
@@ -2305,6 +2332,15 @@
   },
   {
     "category": "general",
+    "title": "مونديال كرة اليد للصغريات: المنتخب الوطني ينهي المسابقة في المركز 11",
+    "description": "مونديال كرة اليد للصغريات: المنتخب الوطني ينهي المسابقة في المركز 11 Assabah news",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5845d70c7423.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah news • Sat, 24 Oct 2026 17:07:08 GMT"
+  },
+  {
+    "category": "general",
     "title": "الخبرات العالمية والمحلية تتقارب في معرض GITEX Ai تركيا",
     "description": "الخبرات العالمية والمحلية تتقارب في معرض GITEX Ai تركيا Arabhardware",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -2383,6 +2419,15 @@
     "url": "/article-e5a5865288e0.html",
     "domain": "NewsMorocco",
     "date": "AFP.com • Thu, 22 Oct 2026 10:13:23 GMT"
+  },
+  {
+    "category": "general",
+    "title": "Brazil's Andrade returns to take vault gold at worlds",
+    "description": "Brazil's Andrade returns to take vault gold at worlds AFP.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a5d0c9de65f3.html",
+    "domain": "NewsMorocco",
+    "date": "AFP.com • Sat, 24 Oct 2026 17:23:49 GMT"
   },
   {
     "category": "general",
@@ -2890,15 +2935,6 @@
   },
   {
     "category": "general",
-    "title": "الدوري البلجيكي لكرة القدم.. المغربي عصام الشرعي أفضل مدرب في شتنبر",
-    "description": "الدوري البلجيكي لكرة القدم.. المغربي عصام الشرعي أفضل مدرب في شتنبر 2M.ma",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-bd9f5b5faa0c.html",
-    "domain": "NewsMorocco",
-    "date": "2M.ma • Fri, 23 Oct 2026 19:19:00 GMT"
-  },
-  {
-    "category": "general",
     "title": "لقجع يستعرض خطة دعم الأسر ومغاربة العالم برسم ميزانية 2027",
     "description": "لقجع يستعرض خطة دعم الأسر ومغاربة العالم برسم ميزانية 2027 2M.ma",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3034,6 +3070,24 @@
   },
   {
     "category": "general",
+    "title": "كشكول شعبي من تقديم عبد المغيث…في \"رشيد شو\"",
+    "description": "كشكول شعبي من تقديم عبد المغيث…في \"رشيد شو\" 2M",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-afab2870a0c7.html",
+    "domain": "NewsMorocco",
+    "date": "2M • Fri, 23 Oct 2026 22:00:00 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الدوري البلجيكي لكرة القدم.. المغربي عصام الشرعي أفضل مدرب في شتنبر",
+    "description": "الدوري البلجيكي لكرة القدم.. المغربي عصام الشرعي أفضل مدرب في شتنبر 2M",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-bd9f5b5faa0c.html",
+    "domain": "NewsMorocco",
+    "date": "2M • Fri, 23 Oct 2026 19:19:00 GMT"
+  },
+  {
+    "category": "general",
     "title": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي",
     "description": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي 2M",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3058,6 +3112,15 @@
     "url": "/article-e6b30da86612.html",
     "domain": "NewsMorocco",
     "date": "2M • Fri, 23 Oct 2026 15:19:00 GMT"
+  },
+  {
+    "category": "general",
+    "title": "فاس تحتضن المؤتمر الدولي الرابع للأورام الصدرية لتعزيز البحث العلمي وتيسير الولوج إلى العلاج",
+    "description": "فاس تحتضن المؤتمر الدولي الرابع للأورام الصدرية لتعزيز البحث العلمي وتيسير الولوج إلى العلاج 2M",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f98799490b2f.html",
+    "domain": "NewsMorocco",
+    "date": "2M • Fri, 23 Oct 2026 14:19:00 GMT"
   },
   {
     "category": "policy",
