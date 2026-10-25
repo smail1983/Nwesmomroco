@@ -720,13 +720,22 @@
     "date": "Reuters • Sun, 18 Oct 2026 10:45:05 GMT"
   },
   {
+    "category": "technology",
+    "title": "شركة تركية توقع اتفاقا مع وكالة أمريكية لتقييم تكنولوجيا المفاعلات الصغيرة",
+    "description": "شركة تركية توقع اتفاقا مع وكالة أمريكية لتقييم تكنولوجيا المفاعلات الصغيرة Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7bc4e71145aa.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Sat, 24 Oct 2026 17:49:43 GMT"
+  },
+  {
     "category": "general",
     "title": "أفضل فرسان العالم عند أهرامات مصر لخوض بطولة عالمية",
     "description": "أفضل فرسان العالم عند أهرامات مصر لخوض بطولة عالمية Reuters",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-4193a6f7ac10.html",
     "domain": "NewsMorocco",
-    "date": "Reuters • Sat, 24 Oct 2026 10:41:15 GMT"
+    "date": "Reuters • Sat, 24 Oct 2026 10:44:09 GMT"
   },
   {
     "category": "general",
@@ -844,6 +853,15 @@
     "url": "/article-0f79e2a6db22.html",
     "domain": "NewsMorocco",
     "date": "MAP SPORT • Mon, 19 Oct 2026 11:06:42 GMT"
+  },
+  {
+    "category": "sports",
+    "title": "اللجنة الوطنية الأولمبية المغربية تنظم لقاء لفائدة الوفد الرياضي المغربي المشارك في الألعاب الأولمبية للشباب (دكار 2026)",
+    "description": "اللجنة الوطنية الأولمبية المغربية تنظم لقاء لفائدة الوفد الرياضي المغربي المشارك في الألعاب الأولمبية للشباب (دكار 2026) MAP SPORT",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f3c15b5fb13d.html",
+    "domain": "NewsMorocco",
+    "date": "MAP SPORT • Fri, 23 Oct 2026 17:58:48 GMT"
   },
   {
     "category": "sports",
@@ -1627,6 +1645,15 @@
     "url": "/article-e29d814ad7b7.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 15:05:12 GMT"
+  },
+  {
+    "category": "general",
+    "title": "بوريطة ولافروف يبحثان قضايا إقليمية",
+    "description": "بوريطة ولافروف يبحثان قضايا إقليمية Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-b9a69b18cb2f.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 13:23:15 GMT"
   },
   {
     "category": "general",
@@ -2943,6 +2970,15 @@
     "date": "2M.ma • Fri, 23 Oct 2026 19:18:00 GMT"
   },
   {
+    "category": "general",
+    "title": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي",
+    "description": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي 2M.ma",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-432a131cac69.html",
+    "domain": "NewsMorocco",
+    "date": "2M.ma • Fri, 23 Oct 2026 16:23:00 GMT"
+  },
+  {
     "category": "policy",
     "title": "الحكومة تتعهد برفع معاش التقاعد إلى 3000 درهم ومضاعفة معاش الأرامل إلى 100%",
     "description": "الحكومة تتعهد برفع معاش التقاعد إلى 3000 درهم ومضاعفة معاش الأرامل إلى 100% 2M.ma",
@@ -2968,6 +3004,15 @@
     "url": "/article-64e381d7d0a1.html",
     "domain": "NewsMorocco",
     "date": "2M.ma • Fri, 23 Oct 2026 11:17:00 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "ندوة وطنية حول \"الصحراء المغربية بعد قرار مجلس الأمن 2797\" بكلية الحقوق - مكناس",
+    "description": "ندوة وطنية حول \"الصحراء المغربية بعد قرار مجلس الأمن 2797\" بكلية الحقوق - مكناس 2M.ma",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a417ab0a2ad6.html",
+    "domain": "NewsMorocco",
+    "date": "2M.ma • Fri, 23 Oct 2026 09:59:00 GMT"
   },
   {
     "category": "general",
@@ -3088,15 +3133,6 @@
   },
   {
     "category": "general",
-    "title": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي",
-    "description": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي 2M",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-432a131cac69.html",
-    "domain": "NewsMorocco",
-    "date": "2M • Fri, 23 Oct 2026 16:23:00 GMT"
-  },
-  {
-    "category": "general",
     "title": "مطار الداخلة: ارتفاع ب 10,6 بالمائة في عدد المسافرين عند متم غشت الماضي (مكتب)",
     "description": "مطار الداخلة: ارتفاع ب 10,6 بالمائة في عدد المسافرين عند متم غشت الماضي (مكتب) 2M",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3121,15 +3157,6 @@
     "url": "/article-f98799490b2f.html",
     "domain": "NewsMorocco",
     "date": "2M • Fri, 23 Oct 2026 14:19:00 GMT"
-  },
-  {
-    "category": "policy",
-    "title": "ندوة وطنية حول \"الصحراء المغربية بعد قرار مجلس الأمن 2797\" بكلية الحقوق - مكناس",
-    "description": "ندوة وطنية حول \"الصحراء المغربية بعد قرار مجلس الأمن 2797\" بكلية الحقوق - مكناس 2M",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-a417ab0a2ad6.html",
-    "domain": "NewsMorocco",
-    "date": "2M • Fri, 23 Oct 2026 09:59:00 GMT"
   },
   {
     "category": "general",
