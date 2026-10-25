@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:12:27.844750+00:00",
+  "updated_at": "2026-10-25T20:48:03.620218+00:00",
   "articles": [
     {
       "category": "technology",
@@ -32,11 +32,22 @@
     },
     {
       "category": "policy",
+      "title": "الأمم المتحدة تعتمد \"تقرير الصحراء\"",
+      "description": "الأمم المتحدة تعتمد \"تقرير الصحراء\" Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNWHZIMnZqX280Yy02VlNpdTVya2xCYkZ5RUQxTWFiS2VTaVJqelVzbmFsRU1xdXZyVHI3NTNqLUVSTVVqSF9IekFYb2lMd0pTb1praWdDN1l5NGdKLW50RnJzS3J0Y1ZCUFQxTGZNeWVQVkpaYUg1c1pGaXVVQVdzVUpmRlk3bVU3SEdHODJsalJWMjVNZjE2bzVVUnNIMThaRVRkRzBDYjNqN0lEMEtoajlrNThfOUJKM2lnYXluWUZMRnBnWWtJR0VjMjJ2bWFaWlNzWU5PYlhxZ3pESXBPUm5XRzdPTWJUb2RMT2ZOOXhqZnl4NHBUZ3JjV1JoNXB1VjY2TnZickJKb09vSlRQU1BTT3FHMC0wVVJmcTRXcWtpcVlYU2Y3enRhN0JFZjFhWTBVZGl1QmI4TmJ0?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 25 Oct 2026 16:20:20 GMT",
+      "local_url": "/article-4f2f47b2c4b8.html"
+    },
+    {
+      "category": "policy",
       "title": "رئيس أركان \"المينورسو\" يغادر العيون",
-      "description": "رئيس أركان \"المينورسو\" يغادر العيون Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "رئيس أركان \"المينورسو\" يغادر العيون Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPQXVVSVY4ZlFTb2RZdzNMOHA2RU5jWTVsWnpPWUMwbFlRdDdIYjZrQUFuamJWXzFGejN2M3RoemIyU1AxdkVTc0JocTd5enhnWEZBc0tvcEd6N1drMmNZMlFWRWwyRG9vQkp2UGEzNEQzaUNlclFRSXJGVTBSQXZWRVZTLU9wS1JaMmlwS08wd2lfUkhnazB0VHA4LVdVeE5haU5tQlBQNkhJU1RCNDBJVG1oQUZVdHJVRGhicGg5NVRWbmdpMzBZRlI5ZGNBZzF0QlZ0NTh2QmYzLWpXWDBYTWRzTVp1NmNKOFUxSnFWZnZOM3hrR3h0Zm5NcEdGd3E0ZFVmMlFBYXM1TmIzOENGWjNNemcwUmRlcEJ4NEw2Z0x1anJ3bldFbUdNbkhUcTVBZHlaMlduQ3FfS1JZ?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sun, 25 Oct 2026 13:07:37 GMT",
       "local_url": "/article-5c3beed58afa.html"
@@ -64,26 +75,15 @@
       "local_url": "/article-44acd4d40210.html"
     },
     {
-      "category": "policy",
-      "title": "تفاصيل الإعفاء من الضريبة على الدخل ورفع قيمة المعاش والدعم المباشر",
-      "description": "تفاصيل الإعفاء من الضريبة على الدخل ورفع قيمة المعاش والدعم المباشر Hespress - هسبريس جريدة إلكترونية مغربية",
+      "category": "sports",
+      "title": "العداء الكيني دانييل كيبرونو سانغ يفوز بلقب الدورة الـ17 لـ\"مصرف المغرب ماراطون الدار البيضاء\"",
+      "description": "العداء الكيني دانييل كيبرونو سانغ يفوز بلقب الدورة الـ17 لـ\"مصرف المغرب ماراطون الدار البيضاء\" MAP SPORT",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNaE1wLXppVWZfaDFLY1hTOEQydHlZa09RWEVLMGptLUIzQUg2M0lPdExGRTZmank1Yjk4NlUybEhFZUxPNWxESXdrejVZQUxCQXp4RktVNm1PbkZyRDQ2SmR0VmNNYkFsSWhlNXpTTXlXMzZ5N3YwUVlzcmRUNmlkelJWYTJ6aEdfcmZFMmNWZFRDRnUyMTZPa2hGek1vWWE3NE43RkxLOXBIc2ZTRWh4NVlUR3NIT3ktQU1fdXI2VTZwTUxyR3RlQjNsaGctZk5BRXNfWUszT2hBeVRERnZlOUZSR1ZCOGlGWG14TV9hb2RYT29ranhXMHBwU3JDVjYwcTlpOXZ1Y3RYUm81Wlc5ZDNCb1FyM0VTN2JoSHRmR2pMbllFQW9yZ3dzUzlhY181bUhrbExGTFdDTTBiMjRvM0NEOEUwN0hDRzlfOUVrRzZQc0dZTmU4?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 23 Oct 2026 17:13:20 GMT",
-      "local_url": "/article-ee2941f10561.html"
-    },
-    {
-      "category": "policy",
-      "title": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي",
-      "description": "مشروع قانون مالية 2027: ميزانية قطاع الصحة ترتفع إلى 45.4 مليار درهم وإحداث 8000 منصب مالي 2M.ma",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPdGtGU0V0SGFEWGs3V2ZXT2N6V0tmcU9sYWF6SUxScmpvVnhxM3lwSmxhRml0NDRpVFZjclRQUlQwMm5HWXF0SXFDdDBnTXc3V2RKa1ZoT3d2ajNsX1hZOWxNM0lJTmx3anZZXzF6MW1kaEwzQVo0SVJjZzlUaEtia2o0U2FoNEJhbHJtajRzZUZRaUtBeEUtczhSWjVVcHl1eFBuS216RVZITUEzNUlFZ05sWjhjQzlyNkM3OEpOVjlyMlZ3aU8wLS0tbEFfVGI5RTZidjZoVXQxalhWY3FWRXhmb2hJa3Y0TzBHbDBIM2dhYlBETG9hZHJJZll3aW8tblpqTzlPWjFpaWZpeGRMYUxpUHhxUkEtcXhOTDRIUkxsWUpVRG5IVlc2MGduZk43RTZ4R3F3ZWk5OWNaUDRxM3Y4SWs1RS1SOGJQb1pIcUxzMktmYmFfLXdiZUtkQk00MnFoLUE2UzcweE4yam56UXNHN0s1WVpzQXhkeUZDSFdQWG05YkRyRE9Wa0JoWHdXN1c4UmoxenJGZkRVRkNWc09xN1JTTW9leFVFSEV3TnE2NXhXbWZWYm1pN1Bxdw?oc=5",
-      "domain": "2M.ma",
-      "source_url": "https://2m.ma",
-      "date": "Fri, 23 Oct 2026 16:23:00 GMT",
-      "local_url": "/article-432a131cac69.html"
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOWE83a2VKZldTcFdOTEI4ZHBLaWRVVmdzWG1jekxOZjQtTEFnYVlQN1ozbEN5eldhS1UzOWxocUxZN2FpNDFrbnJtTWZuY3NjM3NpOWd4T3NpaTNKNVN1dWNZblFhdERqa3Z4ZlVLbUVMd3NpM3FHN2hlNGcwcEtlcnI2cEp6aHA5Q0ZjaFpycUgtd2ZpT2RsSmZwRE1tTmNfQlNKQVl6Z2o3ZGdvdXJnYTRfZ0JkX29KVTlEQWVQV28wdTQxVlNjUGJsQjRIN1pZeXZTM0g4RThtMGNYcGtQOHA1WjJEX3BHTzgxOHQ0dER0cW5Ec3o4YW1abExOLUVXUEV1SVI1eUhfQlowN1JXQjBFeVFaNGtsWTBhaEluYnB1bU8yMjZaa044b1dWRkVwZTFISlFXcHg2LVZxZllhV2VlNXNaQ2Y3VGRBazZDNWxkdU9RaGhPTVNOZzF6Rmk5Ym4zUjdRM0RGWjFmTTQtWHVTX1dhZEt6Ni1hYkQ5VVRacjc3SFRRdnpQa0ZpRU5aS0U0U0F4MWt2U3Qt?oc=5",
+      "domain": "MAP SPORT",
+      "source_url": "https://mapsport.ma",
+      "date": "Sun, 25 Oct 2026 17:22:54 GMT",
+      "local_url": "/article-ad2a9269a9df.html"
     },
     {
       "category": "sports",
@@ -107,110 +107,44 @@
     },
     {
       "category": "sports",
-      "title": "العواملة: تألق المغرب الكروي ثمرة رؤية إستراتيجية وحلم تحول إلى واقع",
-      "description": "العواملة: تألق المغرب الكروي ثمرة رؤية إستراتيجية وحلم تحول إلى واقع Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "الرجاء يضيع الانتصار أمام \"إل كانيمي\"",
+      "description": "الرجاء يضيع الانتصار أمام \"إل كانيمي\" Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPejZMdW5na1V5ZzFmSURZZHVCdE9nYUNfSnlueHlEc29aWm1SaGlPcTJ2X1dEbGVwWUVxUERhRW1RaWFxZXd2WEI2VDAyRnZTYk5yV21Bc3FlN0NxV0VVOTBpWDBpYTQyVmVpdkRjUGNDek8xVFJNcG5jeDBaajNqQzI1U0o4a0hwU0FiaEcwZTlRdWpHUGtidXBNam1kTmFPS0w5TkZnTXdBeFFOQ1FmR0MwbFd1c1hDNm95Tlgxc0ZmR1BMQWNWNTRfNzJCeC1nUnMtTDBvZmRNWVdQY2FvdWRpbDBFdDJYY015aHNQelVsWTdDNjdDOFFYUUM3VHRnQ2ZoSVVhUklZQVZ1MlFWbG00MDBoM3JxQkNJa1JuNTh5X2JzMGl3UUNsUVZVeVRDTUY2dVpJVkkydUJmOXJpcW9yUTNKR254YVdGcVlndGtSS3QwSWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPSEw1UzFqN0FaMnJLUktKRjJvNXlYTUQtSnEwck1ESk9TcXo4a0hhUFFjY05QRFh2S3d0TkdVQ0toTkNrX0R1TWFlTXNXa2lHSzJUZ1VtMnItQnUzRWVrcVpZNHB2T1VKVkV0MV9FWWlMUGg2RUIwcDZqanVEdElGdmtoSmJkQ1pxNk50WnhfN2hydUFIeDlNYlBwOVFwLWI3RTFVUkwtMWpMbjFKNU00ZWlicXBrWkdJZ3N3YkFEVHQzd01DNGpBS0NRUmdrZXp0NlpScU5XcXNpT19POGl3UFZXTy1CeHlWQXl3RHhOaUxrWUNTWDFCQWFJLWIyX01Uelkwbl82UlhEWGVMU2x0Q3dmYVNLOUxiRTAwb285aV9NbkctdnMzdndLaWRpVk9JRUJIMzdqTTloMTM0M0lhVFA5Y0s0dw?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 24 Oct 2026 20:23:36 GMT",
+      "local_url": "/article-e4dbaa131ad7.html"
+    },
+    {
+      "category": "sports",
+      "title": "مغربي الأصل في قمة \"المربع الذهبي\"",
+      "description": "مغربي الأصل في قمة \"المربع الذهبي\" Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQTdaVnVYZjM5YUZYRFJQMk5FN3pSNDZyclRuc2xCSlhvQlRqbzNzYkpBS3plUTBOZUpwZndfVURxNUJ4MU5kUmhqMWRPQ2tkYThCdGJQRjRtWnBkalZ1NTF1d2xYTFdiN0pXay12c1YzWkFpN3BVTVJhUDNHSmppa2ZwdHdZY0ZOcmUzQ3RvUjNZX05wMG5uQ3pYNGN4RzZkRnJlSmk3R3EtdGhsQ3ozM0dSbktqQWF5MnFVZjNtODJBalpIQ180UW1zMzI4NGZOendTTmo5QW1ocEkwVndnaEE4NGlLd05pNm8ydVlBcFFNSmhuTmRYUmtnby01bmVjU0JnM2N3b3N1SVpwcHFVZmV5RTFZbWpqVWVkb3J6SnpuaU8tTFZqSEcxcmpuQQ?oc=5",
       "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
       "source_url": "https://www.hespress.com",
-      "date": "Fri, 23 Oct 2026 23:35:32 GMT",
-      "local_url": "/article-5290f05458b0.html"
-    },
-    {
-      "category": "sports",
-      "title": "ركلات الترجيح ترسل مصر إلى ثمن نهائي المونديال على حساب أستراليا",
-      "description": "ركلات الترجيح ترسل مصر إلى ثمن نهائي المونديال على حساب أستراليا Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNeFlwak9JMUowbncyS05leWFLRFFLZ1VaeE5PRmpHRGNUY1Vjek5DQ0I3OVAyUnhsQ2V5VVZsNzJ5R002UDZ4UjFRd0RQZ241ZW1RcXFYNHMzMFJneVpUUy1aMmpWNzFlV19vUE9qekZxNWVlaWo1OHJLeURhcXplTzBhZ3Rqb2VHUnl4M2k4NXBmcjdnaV9HN1M0VVM1ZngxTDk3V3VORmVObEw5NXE2cFhkV3pUU0dlVE5Gb1dTLVBPSmhEMkdsTE5iNlhBQUhYLWVUVzhKOHNZWTJRN25MWWRBWFlZUklrQXcySkdYcjQwTWVWbEx4UXlZNU5YSjNlaXo4X0E3UnNXZE9nbEZqS3BaemFJZmpMeWc3T1ZhVzF5Vjk3ZWtyeUFpS0pCZW03bFpBS291LVlyNnFveUc1UUxLeU1wS0VNbHlmRXQtLWxmM09zamdseA?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 23 Oct 2026 22:43:32 GMT",
-      "local_url": "/article-e329c8597493.html"
-    },
-    {
-      "category": "sports",
-      "title": "كأس العالم للسيدات لأقل من 17 سنة (المجموعة 1/الجولة 3).. المنتخب المغربي ينهي دور المجموعات بخسارة أمام الأرجنتين",
-      "description": "كأس العالم للسيدات لأقل من 17 سنة (المجموعة 1/الجولة 3).. المنتخب المغربي ينهي دور المجموعات بخسارة أمام الأرجنتين MAP SPORT",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQRll1OXhVZEloRGc3QUdGN0F5NDZUdTZsWGFXaFhXSTB5b04zTjVERHd2T3hwUlVxYnZ1QmlVZmRZX3lObkt6SG5CcnBPbXl4eERNWnQzbXVYeEpXVHFGVUxHR0cyYkdLa2F6NTRZREVjM2w3Zk5RUFdVSUVscnBUVUNJQTlwZ1VESlFEUHdlc0FpYTVqOU8zQm8wbWpnT0ZRblhmOE5rR2duTE5HaUpRRW1Hdy1xVlNIWG5KX3ZnZDFyU2tGd09UNEdmRURia3JmNFB3MWl3NmVneTR0XzJ2R1prWTVrTEVBeWFRQmxtMFY2ZU0xRmV0VHJfVTItMXNVWGxsMXNfV3I0MU9aYTVpV2VVX2lId0xoOHB6ZmRVaGdRUzRtdnVERE44QnNMeUR3dWhISjNjSUZDczFVcjRVcGdnOHlYbHdackJDRWZqWDkxN0NaY2dpdWRScnZxc0pNZVk2UWppQ3FNUVlPZTdvdDRaT056VzgyUmdhQ19vZ0haUQ?oc=5",
-      "domain": "MAP SPORT",
-      "source_url": "https://mapsport.ma",
-      "date": "Fri, 23 Oct 2026 20:45:04 GMT",
-      "local_url": "/article-076ec756c85d.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"اللبؤات\" ينهزمن أمام الأرجنتين.. وبصيص أمل في بلوغ ثمن \"المونديال\"",
-      "description": "\"اللبؤات\" ينهزمن أمام الأرجنتين.. وبصيص أمل في بلوغ ثمن \"المونديال\" Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOcmpkbjNsWGZQdktja1JSNUFDajZMR3d0WGhWTmVLNlZHandGZkZPSWphNDZtUWdhcVdJNHFnWUxlVm9xc3hQZ043RWMyanhwbndsQ3B1Nml4Qk9xWVVPdnNQN0o4dGtfenAyTElmcVY1X2pKUlQwSUpnaHNzLXJ3MWd2TzFUWnd3OGJpcXBWMld1LTFVUkxidkdFU2tLbEpNRHF2aGtzMWo5ODBuRXNSdDlvNmJ6Nm03SHFGQ2RnYWNzd0NKUU1Ya3NyR1k3bFdiVWJLUXgzNDNvSld2X2pPUEZYQVlDZlVMOFdfVkNPVUZGLXVzQndnLXp3bW44V3hZZ0NCRjRrb3pTMExkRloyZGp1SEU3b3FXNjM2MC1TSWdmTWJHaFNwRzZmbTVta0lya1M1V21udDM0OUNDVk1kQmxSZjVhSkNJclRTbg?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 23 Oct 2026 20:01:57 GMT",
-      "local_url": "/article-6f0eeb540c9f.html"
-    },
-    {
-      "category": "sports",
-      "title": "الدوري البلجيكي لكرة القدم.. المغربي عصام الشرعي أفضل مدرب في شتنبر",
-      "description": "الدوري البلجيكي لكرة القدم.. المغربي عصام الشرعي أفضل مدرب في شتنبر 2M",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNSWpNSHoyOGs0NFVFdVpxaVNlTHZjajBTa0FDdUlkUU5tVWE5blVJLXRHYnJZbDRCMkFYeGNKT21aV0EwekpMam9XdDhlNUlwUU9SZ3JFeGdkNjg3T25pRm9Rd3dOSGs5RkxyRUVxZWxhTDlwWk13dTBvUmZ6UkZ3bFoxN1F4Zkc2cHhVcW54WWJuLWNpMTBqOGhiOURLS3VHZDlCR0hCR2hIbXdrWUJsYzNPbndSZUVlVWdiSGJXLXExSnB4bTRHWWtTXzczb1dVY2RPb0pKWk5Yblk5VHpjSnpyUUlLLUtMSzNNdk9KNTMzOWtqc2NjQ2Fmd1g1TVFmTVZCemo3Q2lxbHdHYzRSeDNjQXlMbHRSSTZ1Z1dORDhZN204Ry1OOXI5eGxwUGZPYTB2N3VrQ1BXZ29RUEZBTl9DdHo0LWpwLUYtM19VcmhQSUJWYnBUSVhSSTZ1MVdmdzRUc2pSQ3dQdkdmUG85VVlqMUNkcXN4aDdfSUJtbXlDSl96NTdqUUEtVmNXM1VfQWwzSWZuNk45QkdyQ2t5SExJa1BPSnZvVGlXSWdGTmZRX0JqWGZ2T3E5ZFQ4ZnJ1My11ckpYRGk0c0ZPRkZOQm5NUHpTd2htT3cxMWZxMmdMd3JYY3p5cVBPVVhiUmFCNjk0V0p1Wlh2TVBBaVZLdzBxMFZ5eFZ5NXcw?oc=5",
-      "domain": "2M",
-      "source_url": "https://2m.ma",
-      "date": "Fri, 23 Oct 2026 19:19:00 GMT",
-      "local_url": "/article-bd9f5b5faa0c.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"فوتسال المغرب\" يلاعب السعودية",
-      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 23 Oct 2026 18:19:42 GMT",
-      "local_url": "/article-1e6cc071b6e6.html"
+      "date": "Fri, 23 Oct 2026 23:35:06 GMT",
+      "local_url": "/article-ebfb7e1097e8.html"
     },
     {
       "category": "technology",
-      "title": "\"يوتيوب\" والذكاء الاصطناعي وتمثيل التباين العصبي: جيل زد وجيل ألفا يعيدان صياغة السرد الحديث",
-      "description": "\"يوتيوب\" والذكاء الاصطناعي وتمثيل التباين العصبي: جيل زد وجيل ألفا يعيدان صياغة السرد الحديث Euronews.com",
+      "title": "قبيل الانتخابات.. نتنياهو ينشر صورة لانفجار نووي في تل أبيب ويثير غضب المعارضة",
+      "description": "قبيل الانتخابات.. نتنياهو ينشر صورة لانفجار نووي في تل أبيب ويثير غضب المعارضة Euronews.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV19qM3B6QVVfS2pEellQcjEwdE14NVJsbHBLcE1DaGp1WlRxZjFOMEFCR1M1cnpuM1lGTWNQTGU2MENqd3hrQVVuSTRDSjlnelowazZsMk4wTlVDNzMwbkR2MGdpNEtGYTAtNGJaWXQzU3BYSEJWMEpfckVodTBBamIwTDNTd09uTFdXaWlsZFpVNzA2Z3p1Q3RqR0hMU3pvblBjOThKRnR2UloyWkFrOFF0cmFmT1NKQmoyWTlIUTNCVU05X1lQMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUtQQzNhX20tX0E0Wm1JTEc3OHo4WTlBamdNX1VvdUpaejNLTy05Z0VOWFhDTkJyT0hWUHNCRHpZWHRveldXTmVUX1U3aXE5aHBhS282blBLb0tSMmRsdXZCSVFDVDc2aUJrQW1kUUZfNHE3YThSYmxvSGpWTUg0REx4UE1qb3doc2tXamJJV0F6V2tiX3NTQVMycDZPUQ?oc=5",
       "domain": "Euronews.com",
       "source_url": "https://arabic.euronews.com",
-      "date": "Sun, 25 Oct 2026 07:30:57 GMT",
-      "local_url": "/article-b782b85d06cd.html"
-    },
-    {
-      "category": "technology",
-      "title": "شركة تركية توقع اتفاقا مع وكالة أمريكية لتقييم تكنولوجيا المفاعلات الصغيرة",
-      "description": "شركة تركية توقع اتفاقا مع وكالة أمريكية لتقييم تكنولوجيا المفاعلات الصغيرة Reuters",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVmE5N1lzbklyaS1SWWdsWkc0M2pELWFTZWdiWEN5R0FUTDgzNGloTjdOZnBlNjN5d2U3cGd3eGUxdDROcS1qbVFoUlFibmxzSnA4TW1mTUxUa2NNU2UyOXkyT2txZUVaSjRBbkdsTXFUOW0zVkZSdEhvUFZKR3M?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Sat, 24 Oct 2026 17:49:43 GMT",
-      "local_url": "/article-7bc4e71145aa.html"
-    },
-    {
-      "category": "general",
-      "title": "توقعات طقس اليوم الأحد في المغرب",
-      "description": "توقعات طقس اليوم الأحد في المغرب Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPS2syU1N3MkZvbW9lUG5LNjJOdDhwOVJKTHdjdWZZMzNTa0o4WmxpZllSTHRrajhwZWFBaDUzYjF5WG45WExSRmFaWjdDcGw5RXNBRm9rdVBmYjBKZllWZkt0RFo2bDh5MHEyZkxqMnVBV0ZYaDRqWTg1RGs4eUY0ZDBzd2VNNVg4eldacXYycTBaWlNBVnYwS0syZE1kR2tfTEFCdm9hMTNyWDg3dEdZblowWW1vSldCR0drVEJGdWk2STBEUXh6eGplWGdveTk1SV9seTNyRThKTVpqUjdpWThCM3g5UV9CbFVXaGp5RXphOWVOQXJBaVBQVFhIUlllSl9EOVNOZUlGYURyWmc2RXZldml1SFByS2dqOVBCRFJVb25lUDlRNXhtOGhFWUty?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Sun, 25 Oct 2026 08:05:51 GMT",
-      "local_url": "/article-a7dfdb6a3942.html"
+      "date": "Sun, 25 Oct 2026 16:23:57 GMT",
+      "local_url": "/article-a98a00313d47.html"
     },
     {
       "category": "general",
       "title": "الأمم المتحدة تبرز أدوار المغرب الدولية",
-      "description": "الأمم المتحدة تبرز أدوار المغرب الدولية Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "الأمم المتحدة تبرز أدوار المغرب الدولية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOOGx5V2VGMURQYzlDdjUwZGVCZTV6NXNXR3VmWXU1a2Vpai1HOEFNTnoxcHFzVjlMRWgwblhpQmYwNU1SZ1hWVTJKWEVQVkY4emRJeU1JcGJDRGZQQ1RZRzJ2a1A2bUU4bGxTM0xzS09NQXBnVXRQekMwYVVvTEhTZV9OVHN2NHpQaVpib2hXLTdKbTJMeTVVVHhTc1Vybm54X3JDbm1YbTZGdE1NWjZoTndHVnNxU3BRbnViREs4TGdJWG5YVFdMU09LSWNKc09MVDlGV0FpbWxEakZnTURWLTlmbEx3VlNPUFhPY0ZtOUVWazRLYThyTkdBejd1N3JsZkk4N2FuWm56ZUozWTRVSnQ2am5qd25aMmQwUFVjQU5vdHhGcDMzVkZiblE2NGJhOGhvVWFJVEowRmRILWZpR0dnU1pnQUFBWldLc0hfdHd3UzBHUEE?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sat, 24 Oct 2026 20:07:32 GMT",
       "local_url": "/article-e7e2f49307f4.html"
@@ -229,10 +163,10 @@
     {
       "category": "business",
       "title": "المغرب يرخص لاستيراد جواميس البرازيل",
-      "description": "المغرب يرخص لاستيراد جواميس البرازيل Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "المغرب يرخص لاستيراد جواميس البرازيل Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMDNLNjJ2eTBNQXB2UW5LcVdBbUlOLVNob3N5Y0oyaUlxb2xIRUFfMUVQdHNsZ0VQM0VNRWJ2UzhFQXF6Zl9vc0xleTNqcFhoRFVyQy10aUY2d3d5UFZqZWRybklFTXR5RjY5aEhmcGNVSnUzLUhFMkpiMTBEYjlLWi1aMVd1OTI5NVltZ0xXS2lnSHE4dU8tR29KbTFPaFZkQ2swaTd6bDJCNjJRdzBwcTV0WW5IWWxZNVdhZ1BMQ3Z2WXEwNGVYUFdPX3FPZkl4UEVRcDkzTnczSDE2U29xUkt4TTlpcVh6VWREdkFBZko1Z0o2R05oUEp5eUd4Rmp0SEdCRWdqeURTNjhUV3lKMVRqdk9ub3NJRjlMaDM3YjkzQ0lISGxXTXFpQWQxZkVlWmZCcUs5M2w2MWRUY2phWlVzSTJMTVNKYUJsX256ZTF2NllE?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sun, 25 Oct 2026 10:14:08 GMT",
       "local_url": "/article-88e03fc565a2.html"
@@ -240,10 +174,10 @@
     {
       "category": "business",
       "title": "من الفلاح إلى المستهلك .. هل تُنهي الشركات الجهوية أزمة المضاربة؟",
-      "description": "من الفلاح إلى المستهلك .. هل تُنهي الشركات الجهوية أزمة المضاربة؟ Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "من الفلاح إلى المستهلك .. هل تُنهي الشركات الجهوية أزمة المضاربة؟ Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVW9uci1sRm9aRmtMOUdBcC1HaG1seTZwc3NDLUN1RUR3ZmxLanNONFQtOGo2V2I1Q2VMUnFVQUdEZklEUGkta3FoTFJwUnhXX0JFNVBYVmJ3UldCWUZXQXdEVlJoZ0IxR2lvWlRLRXE0c1BibXNTX3hrbVA3ejN2MFVhVEJXQjlCTnNpcnBpRDJLQXhTQmNyQVpqbE43cUowQ3BaSG5ad3FzeENUNWRib2hwb0MzNHdxZVpTWGFKcElhdWszX3hDRWFTMllIbC04cFdoRVNLVVFsejdRQk5aMEtQZGo4RGdRekJFR2pYWlBCanhid09NWE14SHZmTmt6cFlvRkhFM200bmxndnVRZk5KUnIyODNLMWlfRGExMGQtNEUwbndOZTUzLVJVN21UOGwtbi0xZ1hINEgzWkVsZDByemktRllkMVRPdXY3UQ?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sun, 25 Oct 2026 10:03:12 GMT",
       "local_url": "/article-e1952ee4aeaf.html"
@@ -251,10 +185,10 @@
     {
       "category": "business",
       "title": "كلفة الاقتراض الدولي تثقل كاهل الخزينة وتثير قلق المستثمرين في المغرب",
-      "description": "كلفة الاقتراض الدولي تثقل كاهل الخزينة وتثير قلق المستثمرين في المغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "كلفة الاقتراض الدولي تثقل كاهل الخزينة وتثير قلق المستثمرين في المغرب Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNy1ScFowN1VqaHl4WUczRXFTVkZncjNpdEVjX3FrbkRkX196NVptRndXekhpSGM3bkI5ZDMwSmh4NWxIbWZyQnBTSzlfdmNuMDVRWDZaQTJ2Y1cwcnRvZENmT0lXZDdXUVFOcDBHQkcxMkIxaTAySUQ0TUFOMEVRaHN3M3VXQnA3VWhtOVZRdXBBQzV3QVl1TGhNUXVLbXJwbjcxcVN0eTBFQkVwelpuaEVGR1otMVZtWjV3Zlp0U0hOMDZ5RlJxRGRwakRjRjlxVlp2ZWhvUXBFcXNZVUVYdTJTcUs0c2xUU0p1WWlBaUFYOHR0YlpCSkNxLUg2NGxIenNZOGRWVm5kZUltbkg2N1BMNTVQUmhLQm9DUl9WT2RXdGhjQXJrdVRRX3dMWVBfUGZGUHdVb3NlRHNJbThyTmRpNXNBVVItNl92UmlPX2dSNXhpcXc?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sun, 25 Oct 2026 09:04:52 GMT",
       "local_url": "/article-2d1946c9e76a.html"
@@ -305,14 +239,25 @@
     },
     {
       "category": "international",
-      "title": "ماركيز يفوز بسباق السرعة في أستراليا ليستعيد صدارة بطولة العالم للدراجات النارية",
-      "description": "ماركيز يفوز بسباق السرعة في أستراليا ليستعيد صدارة بطولة العالم للدراجات النارية Reuters",
+      "title": "أفضل فرسان العالم عند أهرامات مصر لخوض بطولة عالمية",
+      "description": "أفضل فرسان العالم عند أهرامات مصر لخوض بطولة عالمية Reuters",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUQ2dtV1l1QzB3bGZtVVNfV042aEUxWnFfVWVGcDRqWlRsQUY0VUVFUUdkRFdkYlBvZW1BN2FOOUpPZzNLN2JVWllXU2l2MGxReGx4Z2tCYUZSdkFZQ2hvTDVFSmJsR1VMZkZBWGR6bl9fa0RCalBoZkoyaTU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44cEE0SGlQOFlua0pKS2xucURVT0VlbUVmWGpjMXpvWGRBWC1VSDIyRlJCQU0xT0llcGQ0MWtYY2hLcVpzd0J4cWo5SkJnS0xneXJNUkNfNGF1alZtZFdyVmRja2xWWE14RExZ?oc=5",
       "domain": "Reuters",
       "source_url": "https://www.reuters.com",
-      "date": "Sat, 24 Oct 2026 04:45:00 GMT",
-      "local_url": "/article-83cb7268cee6.html"
+      "date": "Sat, 24 Oct 2026 10:23:51 GMT",
+      "local_url": "/article-4193a6f7ac10.html"
+    },
+    {
+      "category": "business",
+      "title": "الحناشي: \"الشهادة الجامعية لم تعد تضمن الشغل للشباب في تونس\"",
+      "description": "الحناشي: \"الشهادة الجامعية لم تعد تضمن الشغل للشباب في تونس\" Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbzd3RUJsV1FpYU5pMTVDOHJ1ZFlEREdZQnltSkQ4LWRVb00wMVhZSThCRURURDFxY3pORWtLMkMxQVkzUEFNRjBUZEVhZExacG9sVmRNQnFkdkZqMXVXOF93TG9ibWdxWV9ZbGEtdm45QllWeTlqSzk1M18tRng1SWFkX21LejVZUWoxckdSOV91VGctWjJ6dEJod2ljb29RMDRCb3J3ZUVnVVNKQ0RSU0pNQnJwUVZxTnY5UnpGX1ROZlMwYW1kWThpdGlyMmI1YXZmYjhMNkR1bFd2aHNwVHJFZHVSU3hjd3ZnVzAtdWoxeHFLSGRzZmh5YVJEeHc2TWdoLV8tWmZ6OWtoRGJPSGFDNFhScWZtRzFldVBGMnF2WU41TGNESUozb3UxMXY3XzZNOG53bVZYVzlMX0dqVlhXV3poWFh2M2RKRVJtVmdNekJ4Qk9n?oc=5",
+      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 24 Oct 2026 01:02:51 GMT",
+      "local_url": "/article-da439a7ddf7d.html"
     },
     {
       "category": "business",
