@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T07:26:56.431753+00:00",
+  "updated_at": "2026-10-26T07:32:23.884692+00:00",
   "articles": [
     {
       "category": "policy",
@@ -271,6 +271,17 @@
       "local_url": "/article-a98a00313d47.html"
     },
     {
+      "category": "technology",
+      "title": "شركة تركية توقع اتفاقا مع وكالة أمريكية لتقييم تكنولوجيا المفاعلات الصغيرة",
+      "description": "شركة تركية توقع اتفاقا مع وكالة أمريكية لتقييم تكنولوجيا المفاعلات الصغيرة Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVmE5N1lzbklyaS1SWWdsWkc0M2pELWFTZWdiWEN5R0FUTDgzNGloTjdOZnBlNjN5d2U3cGd3eGUxdDROcS1qbVFoUlFibmxzSnA4TW1mTUxUa2NNU2UyOXkyT2txZUVaSjRBbkdsTXFUOW0zVkZSdEhvUFZKR3M?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Sat, 24 Oct 2026 17:49:43 GMT",
+      "local_url": "/article-7bc4e71145aa.html"
+    },
+    {
       "category": "general",
       "title": "الأمم المتحدة تبرز أدوار المغرب الدولية",
       "description": "الأمم المتحدة تبرز أدوار المغرب الدولية Hespress - هسبريس جريدة إلكترونية مغربية",
@@ -305,6 +316,17 @@
     },
     {
       "category": "business",
+      "title": "المغرب يرخص لاستيراد جواميس البرازيل",
+      "description": "المغرب يرخص لاستيراد جواميس البرازيل Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMDNLNjJ2eTBNQXB2UW5LcVdBbUlOLVNob3N5Y0oyaUlxb2xIRUFfMUVQdHNsZ0VQM0VNRWJ2UzhFQXF6Zl9vc0xleTNqcFhoRFVyQy10aUY2d3d5UFZqZWRybklFTXR5RjY5aEhmcGNVSnUzLUhFMkpiMTBEYjlLWi1aMVd1OTI5NVltZ0xXS2lnSHE4dU8tR29KbTFPaFZkQ2swaTd6bDJCNjJRdzBwcTV0WW5IWWxZNVdhZ1BMQ3Z2WXEwNGVYUFdPX3FPZkl4UEVRcDkzTnczSDE2U29xUkt4TTlpcVh6VWREdkFBZko1Z0o2R05oUEp5eUd4Rmp0SEdCRWdqeURTNjhUV3lKMVRqdk9ub3NJRjlMaDM3YjkzQ0lISGxXTXFpQWQxZkVlWmZCcUs5M2w2MWRUY2phWlVzSTJMTVNKYUJsX256ZTF2NllE?oc=5",
+      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 25 Oct 2026 10:14:08 GMT",
+      "local_url": "/article-88e03fc565a2.html"
+    },
+    {
+      "category": "business",
       "title": "من الفلاح إلى المستهلك .. هل تُنهي الشركات الجهوية أزمة المضاربة؟",
       "description": "من الفلاح إلى المستهلك .. هل تُنهي الشركات الجهوية أزمة المضاربة؟ Hespress - هسبريس جريدة إلكترونية مغربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -313,6 +335,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Sun, 25 Oct 2026 10:03:12 GMT",
       "local_url": "/article-e1952ee4aeaf.html"
+    },
+    {
+      "category": "business",
+      "title": "كلفة الاقتراض الدولي تثقل كاهل الخزينة وتثير قلق المستثمرين في المغرب",
+      "description": "كلفة الاقتراض الدولي تثقل كاهل الخزينة وتثير قلق المستثمرين في المغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNy1ScFowN1VqaHl4WUczRXFTVkZncjNpdEVjX3FrbkRkX196NVptRndXekhpSGM3bkI5ZDMwSmh4NWxIbWZyQnBTSzlfdmNuMDVRWDZaQTJ2Y1cwcnRvZENmT0lXZDdXUVFOcDBHQkcxMkIxaTAySUQ0TUFOMEVRaHN3M3VXQnA3VWhtOVZRdXBBQzV3QVl1TGhNUXVLbXJwbjcxcVN0eTBFQkVwelpuaEVGR1otMVZtWjV3Zlp0U0hOMDZ5RlJxRGRwakRjRjlxVlp2ZWhvUXBFcXNZVUVYdTJTcUs0c2xUU0p1WWlBaUFYOHR0YlpCSkNxLUg2NGxIenNZOGRWVm5kZUltbkg2N1BMNTVQUmhLQm9DUl9WT2RXdGhjQXJrdVRRX3dMWVBfUGZGUHdVb3NlRHNJbThyTmRpNXNBVVItNl92UmlPX2dSNXhpcXc?oc=5",
+      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 25 Oct 2026 09:04:52 GMT",
+      "local_url": "/article-2d1946c9e76a.html"
     },
     {
       "category": "international",
