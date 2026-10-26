@@ -28,14 +28,33 @@ jobs:
       - name: Build permanent article archive
         run: python build-archive.py
 
+      - name: Normalize canonical hostname
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          old = "https://nwesmomroco.com"
+          new = "https://www.nwesmomroco.com"
+          files = list(Path(".").glob("article-*.html")) + [Path("index.html"), Path("sitemap.xml"), Path("news.json")]
+          changed = 0
+          for path in files:
+              if not path.exists():
+                  continue
+              text = path.read_text(encoding="utf-8", errors="ignore")
+              updated = text.replace(old, new)
+              if updated != text:
+                  path.write_text(updated, encoding="utf-8")
+                  changed += 1
+          print(f"Normalized canonical hostname in {changed} files.")
+          PY
+
       - name: Save generated news feed, article pages, archive and sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json articles-index.json sitemap.xml article-*.html
+          git add news.json articles-index.json sitemap.xml article-*.html index.html
           if ! git diff --cached --quiet; then
-            git commit -m "Update news feed and preserve article archive"
+            git commit -m "Normalize canonical hostname to www domain"
             git push
           else
-            echo "No news feed, archive, article page or sitemap changes."
+            echo "No canonical or news feed changes."
           fi
