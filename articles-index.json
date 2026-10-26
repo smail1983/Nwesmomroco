@@ -726,7 +726,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-704387432426.html",
     "domain": "NewsMorocco",
-    "date": "Reuters • Sun, 25 Oct 2026 18:26:05 GMT"
+    "date": "Reuters • Sun, 25 Oct 2026 18:16:49 GMT"
   },
   {
     "category": "general",
@@ -1144,15 +1144,6 @@
   },
   {
     "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Sun, 25 Oct 2026 00:18:42 GMT"
-  },
-  {
-    "category": "general",
     "title": "\"الأشبال\" يخوضون بطولة شمال إفريقيا",
     "description": "\"الأشبال\" يخوضون بطولة شمال إفريقيا Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1276,15 +1267,6 @@
     "url": "/article-c5aecd5aaa69.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sun, 18 Oct 2026 06:48:59 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"أسود القاعة\" يدكون شباك زامبيا بسباعية ويبلغون نصف نهائي \"الكان\"",
-    "description": "\"أسود القاعة\" يدكون شباك زامبيا بسباعية ويبلغون نصف نهائي \"الكان\" Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-408a19e82714.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Sat, 24 Oct 2026 21:13:41 GMT"
   },
   {
     "category": "general",
@@ -1710,6 +1692,15 @@
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 22 Oct 2026 05:04:45 GMT"
   },
   {
+    "category": "general",
+    "title": "أشبال المغرب يكتسحون بليز بسداسية",
+    "description": "أشبال المغرب يكتسحون بليز بسداسية Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-23b3d1c513b9.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sun, 25 Oct 2026 22:31:55 GMT"
+  },
+  {
     "category": "policy",
     "title": "الأمم المتحدة تعتمد \"تقرير الصحراء\"",
     "description": "الأمم المتحدة تعتمد \"تقرير الصحراء\" Hespress - هسبريس جريدة إلكترونية مغربية",
@@ -1774,12 +1765,21 @@
   },
   {
     "category": "general",
-    "title": "أشبال المغرب يكتسحون بليز بسداسية",
-    "description": "أشبال المغرب يكتسحون بليز بسداسية Hespress - هسبريس جريدة إلكترونية مغربية",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-23b3d1c513b9.html",
+    "url": "/article-c77f891b3dd6.html",
     "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sun, 25 Oct 2026 06:02:34 GMT"
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sun, 25 Oct 2026 00:18:42 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"أسود القاعة\" يدكون شباك زامبيا بسباعية ويبلغون نصف نهائي \"الكان\"",
+    "description": "\"أسود القاعة\" يدكون شباك زامبيا بسباعية ويبلغون نصف نهائي \"الكان\" Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-408a19e82714.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sat, 24 Oct 2026 21:13:41 GMT"
   },
   {
     "category": "general",
@@ -2034,6 +2034,24 @@
     "date": "France 24 • Sat, 24 Oct 2026 14:06:13 GMT"
   },
   {
+    "category": "general",
+    "title": "فرنسا: هل تم الاعتداء على زوجين مسنين وتجريدهما من ملابسهما في باريس؟ صور مولدة عبر الذكاء الاصطناعي",
+    "description": "فرنسا: هل تم الاعتداء على زوجين مسنين وتجريدهما من ملابسهما في باريس؟ صور مولدة عبر الذكاء الاصطناعي France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-50238d62594f.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Mon, 26 Oct 2026 11:10:52 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "كيف تؤثر السياسة الخارجية على الانتخابات النصفية؟",
+    "description": "كيف تؤثر السياسة الخارجية على الانتخابات النصفية؟ France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2e1c79ded84d.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Mon, 26 Oct 2026 09:05:19 GMT"
+  },
+  {
     "category": "business",
     "title": "الاقتصاد اليوم - تأهب في باريس عشية حراك احتجاجي جديد.. والجزائر تحجب سماد \"اليوريا\" عن فرنسا",
     "description": "الاقتصاد اليوم - تأهب في باريس عشية حراك احتجاجي جديد.. والجزائر تحجب سماد \"اليوريا\" عن فرنسا France 24",
@@ -2197,6 +2215,33 @@
   },
   {
     "category": "general",
+    "title": "\"قمامة خالصة\" فيديو \"الأوديسة\" بالذكاء الاصطناعي لإيلون ماسك يثير السخرية",
+    "description": "\"قمامة خالصة\" فيديو \"الأوديسة\" بالذكاء الاصطناعي لإيلون ماسك يثير السخرية Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ae8eb4364ccb.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Mon, 26 Oct 2026 10:42:26 GMT"
+  },
+  {
+    "category": "general",
+    "title": "دراسة: 1 من كل 3 شبان يستخدمون روبوتات الدردشة بالذكاء الاصطناعي لمعلومات عن المخدرات والكحول",
+    "description": "دراسة: 1 من كل 3 شبان يستخدمون روبوتات الدردشة بالذكاء الاصطناعي لمعلومات عن المخدرات والكحول Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-bc9805b6a961.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Mon, 26 Oct 2026 10:29:14 GMT"
+  },
+  {
+    "category": "general",
+    "title": "لماذا يقاضي أصحاب حقوق إلفيس بريسلي شركة الذكاء الاصطناعي أنثروبيك؟",
+    "description": "لماذا يقاضي أصحاب حقوق إلفيس بريسلي شركة الذكاء الاصطناعي أنثروبيك؟ Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-05bbabe23c09.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Mon, 26 Oct 2026 09:39:11 GMT"
+  },
+  {
+    "category": "general",
     "title": "مسافرون يفضلون مراقبة أسعار الغرف عبر الذكاء الاصطناعي لا تخطيط الرحلات دراسة",
     "description": "مسافرون يفضلون مراقبة أسعار الغرف عبر الذكاء الاصطناعي لا تخطيط الرحلات دراسة Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -2238,7 +2283,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-0ff0e5e2f8db.html",
     "domain": "NewsMorocco",
-    "date": "DW.com • Sun, 25 Oct 2026 20:04:17 GMT"
+    "date": "DW.com • Sun, 25 Oct 2026 20:40:29 GMT"
   },
   {
     "category": "general",
@@ -2383,6 +2428,24 @@
     "url": "/article-eaf068c54bb9.html",
     "domain": "NewsMorocco",
     "date": "CNN الاقتصادية • Thu, 22 Oct 2026 12:20:27 GMT"
+  },
+  {
+    "category": "business",
+    "title": "«ميتا» تسعى لجمع 95 مليار دولار لتمويل مشاريع الذكاء الاصطناعي",
+    "description": "«ميتا» تسعى لجمع 95 مليار دولار لتمويل مشاريع الذكاء الاصطناعي CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-551918b081af.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Mon, 26 Oct 2026 11:48:09 GMT"
+  },
+  {
+    "category": "business",
+    "title": "البيتكوين تهبط دون 80 ألف دولار مع ترقب قرار الاحتياطي الفيدرالي",
+    "description": "البيتكوين تهبط دون 80 ألف دولار مع ترقب قرار الاحتياطي الفيدرالي CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a8461d6eb695.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Mon, 26 Oct 2026 07:47:18 GMT"
   },
   {
     "category": "business",
@@ -2590,6 +2653,15 @@
     "url": "/article-bd9e6e189109.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Sat, 17 Oct 2026 18:14:53 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مباشر: تلفزيون بي بي سي عربي",
+    "description": "مباشر: تلفزيون بي بي سي عربي BBC",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-324188110033.html",
+    "domain": "NewsMorocco",
+    "date": "BBC • Sat, 24 Oct 2026 17:30:00 GMT"
   },
   {
     "category": "general",
