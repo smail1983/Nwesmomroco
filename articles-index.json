@@ -612,6 +612,51 @@
     "date": "Reuters • Wed, 21 Oct 2026 11:56:33 GMT"
   },
   {
+    "category": "policy",
+    "title": "قاضية إسبانية تأمر الحكومة برفع السرية عن وثائق بشأن تدفق مهاجري سبتة",
+    "description": "قاضية إسبانية تأمر الحكومة برفع السرية عن وثائق بشأن تدفق مهاجري سبتة Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5be90485a2de.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Tue, 27 Oct 2026 16:34:09 GMT"
+  },
+  {
+    "category": "general",
+    "title": "هجوم إلكتروني على أنظمة برلمان إيطاليا يستهدف بريد ميلوني",
+    "description": "هجوم إلكتروني على أنظمة برلمان إيطاليا يستهدف بريد ميلوني Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-dc6412c7ccdb.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Tue, 27 Oct 2026 15:07:41 GMT"
+  },
+  {
+    "category": "general",
+    "title": "إسبانيا ترحل طالبي لجوء من أفريقيا وآسيا إلى المغرب وسط انتقادات حقوقية",
+    "description": "إسبانيا ترحل طالبي لجوء من أفريقيا وآسيا إلى المغرب وسط انتقادات حقوقية Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2d525676e0e5.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Tue, 27 Oct 2026 13:58:23 GMT"
+  },
+  {
+    "category": "general",
+    "title": "وزير: تركيا قد تستحوذ على شركات وتبرم اتفاقيات لزيادة التنقيب عن الهيدروكربونات",
+    "description": "وزير: تركيا قد تستحوذ على شركات وتبرم اتفاقيات لزيادة التنقيب عن الهيدروكربونات Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3a3d3e3b9a03.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Tue, 27 Oct 2026 13:48:09 GMT"
+  },
+  {
+    "category": "general",
+    "title": "بقاء نتنياهو في السلطة على المحك مع انطلاق انتخابات إسرائيل",
+    "description": "بقاء نتنياهو في السلطة على المحك مع انطلاق انتخابات إسرائيل Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6a662ba04638.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Tue, 27 Oct 2026 12:39:25 GMT"
+  },
+  {
     "category": "general",
     "title": "روسيا تدعو لتعجيل استئناف الحوار مع أمريكا حول الاستقرار النووي الاستراتيجي",
     "description": "روسيا تدعو لتعجيل استئناف الحوار مع أمريكا حول الاستقرار النووي الاستراتيجي Reuters",
@@ -808,6 +853,15 @@
     "url": "/article-99e6d67f18eb.html",
     "domain": "NewsMorocco",
     "date": "Reuters • Sat, 17 Oct 2026 19:39:37 GMT"
+  },
+  {
+    "category": "general",
+    "title": "ليبيا تعلن رفع القيود الدولية على استخدام مجالها الجوي بعد 11 عاما",
+    "description": "ليبيا تعلن رفع القيود الدولية على استخدام مجالها الجوي بعد 11 عاما Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a640a77eb011.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Mon, 26 Oct 2026 20:50:29 GMT"
   },
   {
     "category": "general",
@@ -1486,15 +1540,6 @@
   },
   {
     "category": "general",
-    "title": "أشبال المغرب يلمعون بمونديال أذربيجان",
-    "description": "أشبال المغرب يلمعون بمونديال أذربيجان Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-903ac374dedb.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Mon, 26 Oct 2026 04:02:22 GMT"
-  },
-  {
-    "category": "general",
     "title": "بلفقيه: البرنامج الحكومي يضع الفئات الاجتماعية الهشة في صلب الأولويات",
     "description": "بلفقيه: البرنامج الحكومي يضع الفئات الاجتماعية الهشة في صلب الأولويات Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1657,6 +1702,24 @@
   },
   {
     "category": "general",
+    "title": "النسخة الأولى من \"ONCF TALENT DAY\" تمنح فرص الشغل للشباب الخريجين",
+    "description": "النسخة الأولى من \"ONCF TALENT DAY\" تمنح فرص الشغل للشباب الخريجين Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-55dfbe3bc812.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 27 Oct 2026 15:48:56 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تسجيل أول وفاة بالدفتيريا شمال المغرب لطفل من مدينة القصر الكبير",
+    "description": "تسجيل أول وفاة بالدفتيريا شمال المغرب لطفل من مدينة القصر الكبير Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2496d0976d24.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 27 Oct 2026 12:54:47 GMT"
+  },
+  {
+    "category": "general",
     "title": "توقعات طقس اليوم الثلاثاء بالمغرب",
     "description": "توقعات طقس اليوم الثلاثاء بالمغرب Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1783,15 +1846,6 @@
   },
   {
     "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Sun, 25 Oct 2026 14:56:05 GMT"
-  },
-  {
-    "category": "general",
     "title": "رئيس أركان \"المينورسو\" يغادر العيون",
     "description": "رئيس أركان \"المينورسو\" يغادر العيون Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1909,6 +1963,15 @@
   },
   {
     "category": "general",
+    "title": "أشبال المغرب يلمعون بمونديال أذربيجان",
+    "description": "أشبال المغرب يلمعون بمونديال أذربيجان Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-903ac374dedb.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Mon, 26 Oct 2026 20:30:35 GMT"
+  },
+  {
+    "category": "general",
     "title": "تأخير مباراة المغرب وكوريا الشمالية",
     "description": "تأخير مباراة المغرب وكوريا الشمالية Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1933,6 +1996,15 @@
     "url": "/article-1881981692d1.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Mon, 26 Oct 2026 16:04:10 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c77f891b3dd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Mon, 26 Oct 2026 14:11:06 GMT"
   },
   {
     "category": "general",
@@ -2224,6 +2296,24 @@
   },
   {
     "category": "general",
+    "title": "أستراليا تحذر من هجمات إلكترونية غير مسبوقة مدعومة بالذكاء الاصطناعي وهذا ما يحركها",
+    "description": "أستراليا تحذر من هجمات إلكترونية غير مسبوقة مدعومة بالذكاء الاصطناعي وهذا ما يحركها Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ad9d1993fdea.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Tue, 27 Oct 2026 13:54:13 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مخاطر ذكاء اصطناعي منفلت وهجمات إلكترونية وأسلحة: أنثروبيك تحذر المستثمرين قبل اكتتابها",
+    "description": "مخاطر ذكاء اصطناعي منفلت وهجمات إلكترونية وأسلحة: أنثروبيك تحذر المستثمرين قبل اكتتابها Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e9505cc61432.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Tue, 27 Oct 2026 08:54:01 GMT"
+  },
+  {
+    "category": "general",
     "title": "ذكاء اصطناعي منفلت وهجمات سيبرانية وأسلحة: مخاطر تحذر أنثروبيك منها المستثمرين قبل الاكتتاب العام",
     "description": "ذكاء اصطناعي منفلت وهجمات سيبرانية وأسلحة: مخاطر تحذر أنثروبيك منها المستثمرين قبل الاكتتاب العام Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -2449,12 +2539,21 @@
   },
   {
     "category": "business",
+    "title": "«أبل» تطلق أجهزة ماك بمعالج M6.. ذكاء اصطناعي أسرع 5 مرات",
+    "description": "«أبل» تطلق أجهزة ماك بمعالج M6.. ذكاء اصطناعي أسرع 5 مرات CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3c2895f51b07.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Tue, 27 Oct 2026 12:22:58 GMT"
+  },
+  {
+    "category": "business",
     "title": "عاجل| «إنفيديا» تستثمر 3 مليارات دولار في «ميتا» لتطوير الذكاء الاصطناعي",
     "description": "عاجل| «إنفيديا» تستثمر 3 مليارات دولار في «ميتا» لتطوير الذكاء الاصطناعي CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-0986f0513f76.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Tue, 27 Oct 2026 08:59:35 GMT"
+    "date": "CNN الاقتصادية • Tue, 27 Oct 2026 09:22:57 GMT"
   },
   {
     "category": "business",
@@ -2826,6 +2925,15 @@
     "date": "BBC • Mon, 26 Oct 2026 02:01:21 GMT"
   },
   {
+    "category": "policy",
+    "title": "المنصوري تؤكد مواصلة الدفاع عن مغربية الصحراء",
+    "description": "المنصوري تؤكد مواصلة الدفاع عن مغربية الصحراء Assabah",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-533614c9aa44.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah • Tue, 27 Oct 2026 10:31:09 GMT"
+  },
+  {
     "category": "general",
     "title": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة",
     "description": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة Assabah",
@@ -2869,15 +2977,6 @@
     "url": "/article-cba5ef4c22b9.html",
     "domain": "NewsMorocco",
     "date": "Assabah • Sun, 18 Oct 2026 01:46:14 GMT"
-  },
-  {
-    "category": "policy",
-    "title": "المنصوري تؤكد مواصلة الدفاع عن مغربية الصحراء",
-    "description": "المنصوري تؤكد مواصلة الدفاع عن مغربية الصحراء Assabah",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-533614c9aa44.html",
-    "domain": "NewsMorocco",
-    "date": "Assabah • Mon, 19 Oct 2026 16:54:51 GMT"
   },
   {
     "category": "general",
