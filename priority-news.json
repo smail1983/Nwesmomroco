@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-25T09:27:00+00:00",
+  "updated_at": "2026-10-28T14:30:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "🇲🇦 مغربي الأصل في قلب انتخابات إسرائيل.. آيزنكوت ينافس نتنياهو بقوة",
+      "description": "غادي آيزنكوت، المنحدر من عائلة يهودية مغربية، ينافس بنيامين نتنياهو في انتخابات إسرائيل وسط نتائج متقاربة وعدم حسم الأغلبية.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=85",
+      "url": "article-israel-election-eisenkot-moroccan-roots-october-28-2026.html",
+      "local_url": "/article-israel-election-eisenkot-moroccan-roots-october-28-2026.html",
+      "domain": "Reuters / NewsMorocco",
+      "source_url": "https://www.reuters.com/world/middle-east/israel-election-what-happens-after-polls-close-2026-10-27/",
+      "date": "Wed, 28 Oct 2026 14:30:00 GMT"
+    },
     {
       "category": "sports",
       "title": "الكاف يطلب رأي الاتحادات بشأن إقامة كأس أمم إفريقيا كل سنتين أو 4 سنوات",
