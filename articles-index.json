@@ -663,7 +663,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-d56e2c643618.html",
     "domain": "NewsMorocco",
-    "date": "Reuters • Wed, 28 Oct 2026 15:26:09 GMT"
+    "date": "Reuters • Wed, 28 Oct 2026 17:56:40 GMT"
   },
   {
     "category": "general",
@@ -682,15 +682,6 @@
     "url": "/article-a831af37e72e.html",
     "domain": "NewsMorocco",
     "date": "Reuters • Wed, 28 Oct 2026 13:03:41 GMT"
-  },
-  {
-    "category": "general",
-    "title": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن",
-    "description": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن Reuters",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-0484babc139e.html",
-    "domain": "NewsMorocco",
-    "date": "Reuters • Wed, 28 Oct 2026 12:48:51 GMT"
   },
   {
     "category": "general",
@@ -817,6 +808,15 @@
     "url": "/article-abd6c17fa649.html",
     "domain": "NewsMorocco",
     "date": "Reuters • Tue, 20 Oct 2026 01:06:00 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن",
+    "description": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-0484babc139e.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Thu, 29 Oct 2026 01:30:00 GMT"
   },
   {
     "category": "general",
@@ -1447,6 +1447,42 @@
     "url": "/article-6ae056c4384d.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Tue, 20 Oct 2026 09:05:33 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"لابروفان\" لصناعة الأدوية تتجه نحو البورصة",
+    "description": "\"لابروفان\" لصناعة الأدوية تتجه نحو البورصة Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-656d047af925.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 29 Oct 2026 12:22:44 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"البام\" يجيب المشككين بـ\"تغيير المسار\".. والاستقلال يؤيد جلب الأطباء الأجانب",
+    "description": "\"البام\" يجيب المشككين بـ\"تغيير المسار\".. والاستقلال يؤيد جلب الأطباء الأجانب Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6c9d64a10859.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 29 Oct 2026 12:02:03 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تقلبات أسعار النفط العالمية .. المغرب ينتظر التحيين نصف الشهري للأسعار",
+    "description": "تقلبات أسعار النفط العالمية .. المغرب ينتظر التحيين نصف الشهري للأسعار Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6b47b79666f6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 29 Oct 2026 10:02:52 GMT"
+  },
+  {
+    "category": "general",
+    "title": "داء \"الدفتيريا\" يؤرق بال المغاربة .. أطباء يوصون باستدراك الجرعات التذكيرية",
+    "description": "داء \"الدفتيريا\" يؤرق بال المغاربة .. أطباء يوصون باستدراك الجرعات التذكيرية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-fb674f65d4fd.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 29 Oct 2026 08:03:04 GMT"
   },
   {
     "category": "general",
@@ -2841,7 +2877,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-c5d873e6d645.html",
     "domain": "NewsMorocco",
-    "date": "DW.com • Wed, 28 Oct 2026 11:08:25 GMT"
+    "date": "DW.com • Wed, 28 Oct 2026 17:11:13 GMT"
   },
   {
     "category": "general",
@@ -2899,12 +2935,21 @@
   },
   {
     "category": "business",
+    "title": "عاجل | سهم «أوراكل» يقفز 10% بدعم توقعات نمو الإيرادات 35% حتى 2030",
+    "description": "عاجل | سهم «أوراكل» يقفز 10% بدعم توقعات نمو الإيرادات 35% حتى 2030 CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f62a76cb36f1.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Wed, 28 Oct 2026 19:37:58 GMT"
+  },
+  {
+    "category": "business",
     "title": "عاجل | 2%.. الرقم الصعب في تصريحات كيفن وورش وهدف التضخم العنيد",
     "description": "عاجل | 2%.. الرقم الصعب في تصريحات كيفن وورش وهدف التضخم العنيد CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-6dec43d2405c.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Wed, 28 Oct 2026 19:50:31 GMT"
+    "date": "CNN الاقتصادية • Wed, 28 Oct 2026 19:15:43 GMT"
   },
   {
     "category": "business",
@@ -2913,16 +2958,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-0027fe1ef0ee.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Wed, 28 Oct 2026 19:39:49 GMT"
-  },
-  {
-    "category": "business",
-    "title": "عاجل | سهم «أوراكل» يقفز 10% بدعم توقعات نمو الإيرادات 35% حتى 2030",
-    "description": "عاجل | سهم «أوراكل» يقفز 10% بدعم توقعات نمو الإيرادات 35% حتى 2030 CNN الاقتصادية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-f62a76cb36f1.html",
-    "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Wed, 28 Oct 2026 19:37:58 GMT"
+    "date": "CNN الاقتصادية • Wed, 28 Oct 2026 19:09:50 GMT"
   },
   {
     "category": "business",
@@ -3049,6 +3085,15 @@
     "url": "/article-5f8157823940.html",
     "domain": "NewsMorocco",
     "date": "CNN الاقتصادية • Tue, 20 Oct 2026 06:06:57 GMT"
+  },
+  {
+    "category": "business",
+    "title": "موعد تشغيل ميناء الناظور في المغرب وتكلفته الاستثمارية",
+    "description": "موعد تشغيل ميناء الناظور في المغرب وتكلفته الاستثمارية CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1a365bc42eab.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Thu, 29 Oct 2026 10:33:35 GMT"
   },
   {
     "category": "business",
@@ -3367,15 +3412,6 @@
   },
   {
     "category": "general",
-    "title": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة",
-    "description": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة Assabah",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c9589909c652.html",
-    "domain": "NewsMorocco",
-    "date": "Assabah • Wed, 28 Oct 2026 08:37:37 GMT"
-  },
-  {
-    "category": "general",
     "title": "البيضاء تحتضن النسخة الثانية من معرض التنقل الكهربائي",
     "description": "البيضاء تحتضن النسخة الثانية من معرض التنقل الكهربائي Assabah",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3409,6 +3445,24 @@
     "url": "/article-faa7921d6a45.html",
     "domain": "NewsMorocco",
     "date": "Assabah • Tue, 20 Oct 2026 10:19:15 GMT"
+  },
+  {
+    "category": "business",
+    "title": "ابتكارات الدفع الآمن ودورها في رسم مستقبل الاقتصاد الرقمي في المغرب",
+    "description": "ابتكارات الدفع الآمن ودورها في رسم مستقبل الاقتصاد الرقمي في المغرب Assabah",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c49764ead049.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah • Thu, 29 Oct 2026 08:54:07 GMT"
+  },
+  {
+    "category": "general",
+    "title": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة",
+    "description": "العصبة الاحترافية تحدد مواعيد الجولات الـ5 و6 و7 من البطولة Assabah",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c9589909c652.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah • Thu, 29 Oct 2026 08:33:06 GMT"
   },
   {
     "category": "policy",
