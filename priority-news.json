@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-10-30T19:40:00+00:00",
+  "updated_at": "2026-10-30T21:20:00+00:00",
   "articles": [
     {
       "category": "policy",
+      "title": "🚨 عاجل: الفيتو الروسي يسقط مشروع القرار الأمريكي حول الصحراء ومصير المينورسو يبقى مفتوحاً",
+      "description": "مجلس الأمن رفض مشروع القرار الأمريكي بعد فيتو روسي، ثم فشل مشروع روسي بديل لتمديد ولاية المينورسو، لتبقى الولاية دون تجديد حتى الآن قبل انتهائها في 31 أكتوبر 2026.",
+      "image": "/minurso-security-council-veto-2026.svg",
+      "url": "article-minurso-security-council-veto-october-30-2026.html",
+      "local_url": "/article-minurso-security-council-veto-october-30-2026.html",
+      "domain": "مجلس الأمن / Reuters / Security Council Report / NewsMorocco",
+      "source_url": "https://main.un.org/securitycouncil/en/events/10259th-meeting-minurso",
+      "date": "30 أكتوبر 2026 · NewsMorocco"
+    },
+    {
+      "category": "policy",
       "title": "🔥 عاجل: روسيا تتحرك في مجلس الأمن بشأن مشروع قرار الصحراء المغربية",
-      "description": "روسيا اعترضت على صياغة مشروع القرار الأمريكي وطرحت مشروعاً بديلاً يركز على تمديد ولاية المينورسو واستمرار المسار السياسي، دون أن يعني ذلك تغييراً كاملاً في موقفها.",
+      "description": "روسيا اعترضت على صياغة مشروع القرار الأمريكي وطرحت مشروعاً بديلاً يركز على تمديد ولاية المينورسو واستمرار المسار السياسي.",
       "image": "/russia-un-sahara-2026.svg",
       "url": "article-russia-un-sahara-october-30-2026.html",
       "local_url": "/article-russia-un-sahara-october-30-2026.html",
@@ -21,18 +32,7 @@
       "local_url": "/article-mansouri-russia-africa-summit-october-28-2026.html",
       "domain": "رئاسة الحكومة المغربية / SNRT / NewsMorocco",
       "source_url": "https://www.cg.gov.ma/ar/node/13068",
-      "date": "Thu, 29 Oct 2026 15:00:00 GMT"
-    },
-    {
-      "category": "policy",
-      "title": "🇲🇦 مغربي الأصل في قلب انتخابات إسرائيل.. آيزنكوت ينافس نتنياهو بقوة",
-      "description": "غادي آيزنكوت، المنحدر من عائلة يهودية مغربية، ينافس بنيامين نتنياهو في انتخابات إسرائيل وسط نتائج متقاربة وعدم حسم الأغلبية.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=85",
-      "url": "article-israel-election-eisenkot-moroccan-roots-october-28-2026.html",
-      "local_url": "/article-israel-election-eisenkot-moroccan-roots-october-28-2026.html",
-      "domain": "Reuters / NewsMorocco",
-      "source_url": "https://www.reuters.com/world/middle-east/israel-election-what-happens-after-polls-close-2026-10-27/",
-      "date": "Wed, 28 Oct 2026 14:30:00 GMT"
+      "date": "29 أكتوبر 2026 · NewsMorocco"
     },
     {
       "category": "sports",
@@ -43,7 +43,7 @@
       "local_url": "/article-caf-afcon-schedule-october-25-2026.html",
       "domain": "البطولة / NewsMorocco",
       "source_url": "https://www.elbotola.com/article/2026-10-24-20-29-108.html",
-      "date": "Sat, 25 Oct 2026 09:27:00 GMT"
+      "date": "25 أكتوبر 2026 · NewsMorocco"
     }
   ]
 }
