@@ -460,6 +460,15 @@
   },
   {
     "category": "policy",
+    "title": "عاجل.. الفيتو الروسي يسقط مشروع القرار الأمريكي حول الصحراء ومصير المينورسو يبقى مفتوحاً",
+    "description": "مجلس الأمن رفض مشروع القرار الأمريكي بشأن الصحراء بعد فيتو روسي، ثم فشل مشروع روسي بديل لتمديد ولاية المينورسو، لتبقى الولاية دون تجديد حتى الآن قبل انتهائها في 31 أكتوبر 2026.",
+    "image": "minurso-security-council-veto-2026.svg",
+    "url": "/article-minurso-security-council-veto-october-30-2026.html",
+    "domain": "NewsMorocco",
+    "date": "الجمعة 30 أكتوبر 2026 · سياسة · NewsMorocco"
+  },
+  {
+    "category": "policy",
     "title": "الملك محمد السادس يعين الحكومة المغربية الجديدة برئاسة فاطمة الزهراء المنصوري",
     "description": "الملك محمد السادس يترأس بالقصر الملكي بالرباط مراسم تعيين أعضاء الحكومة المغربية الجديدة برئاسة فاطمة الزهراء المنصوري يوم 16 أكتوبر 2026، بحضور أعضاء الحكومة وأدائهم اليمين.",
     "image": "https://www.maroc.ma/sites/default/files/styles/news_details/public/2026-10/WhatsApp-Image-2026-10-16-at-15.36.00.jpeg.webp?itok=FLTwEH3e",
@@ -2224,12 +2233,39 @@
   },
   {
     "category": "policy",
+    "title": "فيتو روسي ضد مشروع قرار حول الصحراء",
+    "description": "فيتو روسي ضد مشروع قرار حول الصحراء Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-9a5b4bace32e.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 30 Oct 2026 21:45:00 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "الديوان الملكي يعلن طي صفحة بعثة \"المينورسو\" في الصحراء المغربية",
+    "description": "الديوان الملكي يعلن طي صفحة بعثة \"المينورسو\" في الصحراء المغربية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-cf3255a62c8d.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 30 Oct 2026 21:37:14 GMT"
+  },
+  {
+    "category": "policy",
     "title": "\"فيتو روسي\" يعترض على \"المسودة الأمريكية\" بشأن الصحراء المغربية",
     "description": "\"فيتو روسي\" يعترض على \"المسودة الأمريكية\" بشأن الصحراء المغربية Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-18f0f46ccbfc.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Fri, 30 Oct 2026 21:22:30 GMT"
+  },
+  {
+    "category": "general",
+    "title": "ألمانيا تؤيد مراجعة بعثة \"المينورسو\"",
+    "description": "ألمانيا تؤيد مراجعة بعثة \"المينورسو\" Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8f5c6a7366d1.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 30 Oct 2026 18:27:09 GMT"
   },
   {
     "category": "general",
@@ -2869,6 +2905,15 @@
     "url": "/article-2e1c79ded84d.html",
     "domain": "NewsMorocco",
     "date": "France 24 • Mon, 26 Oct 2026 09:05:19 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "المغرب: تعيين فاطمة الزهراء المنصوري رئيسة للحكومة.. ماذا بعد الرمزية؟ - هي الحدث",
+    "description": "المغرب: تعيين فاطمة الزهراء المنصوري رئيسة للحكومة.. ماذا بعد الرمزية؟ - هي الحدث France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a1c884626cfa.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Fri, 30 Oct 2026 16:00:57 GMT"
   },
   {
     "category": "general",
