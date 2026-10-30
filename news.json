@@ -1,38 +1,60 @@
 {
-  "updated_at": "2026-10-29T22:43:33.502607+00:00",
+  "updated_at": "2026-10-30T05:42:40.067550+00:00",
   "articles": [
     {
       "category": "technology",
-      "title": "عاجل: ربحية سهم إنتل للربع الثالث بلغت 0.52 دولار للسهم متجاوزةً توقعات المحللين البالغة 0.40 دولار والسهم يهوي 22% في تداولات ما بعد الإغلاق",
-      "description": "عاجل: ربحية سهم إنتل للربع الثالث بلغت 0.52 دولار للسهم متجاوزةً توقعات المحللين البالغة 0.40 دولار والسهم يهوي 22% في تداولات ما بعد الإغلاق CNN الاقتصادية",
+      "title": "عاجل | 2%.. الرقم الصعب في تصريحات كيفن وورش وهدف التضخم العنيد",
+      "description": "عاجل | 2%.. الرقم الصعب في تصريحات كيفن وورش وهدف التضخم العنيد CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxOb0VrRG5RdjhndGhnZGNfRHdHU1d1ODVhQTNIV2pHUnhqejZENUtvUXFORy1aWVA4RS0xdGh4bkdTT29iXzBTRWFPSWVud2JLVW9PemYtRWh1TktNYklvT3RWVzJNN2RHbGlkaHVHQUY2NGlWMHJrYjBKTXJkMnFCV2k4YTEwNEJFbk1zUXpiaEFpRC1IYl9DVDRpWHBsbzh5dnFSSWdOejVsekdwSnRYWEFkT0t1N3VVSS1HbXdXNXdqSnQxSmFVZllDSmhyZmE1VktlOGUtbDVGbjRVQU1CT3hHRHFiRC1uX1AxQVVEcHR4RVlMWThZZmhXNWF1WVJsTy0tWnN0dV9Rcm9RcUYtc0NMc3pMM1kxbWNoNlA2cTdSQ1pyVjlDSXVjbm1zckxuS0dtbGZYb0V0VlhrbV9JVlJSclowVENrZlVXR1p5ZFJYanlaZHA3QVRqdU5CbnBfMVJhM09XWG5ZTHd1MVNzX2RmWlBpVGxkRnZwc2x2Y2JHMEZYck1jbGRhclJEazJUNWJfTHhZV2ktX2ktQnpqRkhYeDcxRXIyU0VSQUx3YmdpcnFLQWpzMUdfc1pHM3phcG15YmF3UXZPVExDcW9fZnhzby10NUpRZ3N3U2tzaE9STTE0T2p3TEYtaWtieTR1SFBvSEpvS1FGWmhFOW5tQXZKbVRfeVJURnJXZlhudW9SdEttVkZCM01obkpMU29wbkVVNlRDbTA3MklhSjBhVW5EZUpqdXpteGNpekhFemtzTkQ1UFRyMUFhQnJvUm5ka184cU1kek9VRldiS084Tm50Q0IxblZKdktpRnlDdjVzN2tCNGxUZkp1R0NfXzh1WjJPXzNvMzY0aVQ0NmtsMUE1cnExSTEyOXNmemtFRDVLYnYyTHIyNXB3clN6S3Q4ZVRiSjYyLTdlZTZFVUVlTjdJN0NGOFZoQmRYVDUteHVUblVEdV8xTEpUSWk4S25JOVhLaEd0STBYa0dIeTlSdElXSTNKbEE4WmdCUFFaQlh6RlZRS3hHUGMzbl9MUUdNMEFfaVhtZThNcy1nZjRhcXBSUU5YTDJ5LWdIOHlLVlZPczhERXRaYUs1R0tPZDFDVVNqdjl2RkJTam9JVS1RSURSd2pqU21keUhlWkt4bFhCY1ZjbGFhTEhLbUN1UFFPQ3JTWGF1NVFXWWJMbDBsVzV1bjlIRUV0V0N6TjhTNXFoMnhsNGZhbTJWZnUtREN1WFRUSlN0WS00dkliV3pMLWhTWHhIaGRmWkRTT196bmsyaTBnd1JTc0VCZzd2Nk9adnhwREVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNdW1JcVZmR3JsbTFyUUttRUUxRGxYQ2d0eUQ5UGczOS1kZ2tpaUczem5hbnhRZXk4QkxRczFQd0pRZHl2WXhLN3AzM014VGdqLUl0eDBDUlc3dnFPOGVCX2tuN0swdExzeFNsdGdmOE1sWTFtM01na0N0MGdZaFh1dGNxVDdnRUJad2RVb1NhT0tDR25DOHZLQjFWcGNNMndWVXE1djlXWUhNSWhIZ2VVSVJKdF9zNVdlbUdYZFM3VV9oSTFlNUo5WEx6N0NJOHFnYkJxeUxNVXZzRF9sWV9MTWgwYmJuVzFIRHo0VmdUWEFuZm05ZEVoVVRVOGcxeU43TENxZW5EbnhXZ0FqOFlCZjFQTk1tNlBXRlFfRXlWb3Q4TDkxaEtvb2ZxR1JDVlVRdllOT2xJUXAzd2xFaXNsbEFpRndwWEw2TndUUnBrT25qVTViQTQtUEdxQmUxYUkwRHV1cXY2LTEwOVFNZllCdElSYnl1a2FEb0ZRTEZia3U1TlpGNlVQbGExRFRxMVNLX19Ea1U0MEs5YXQyNmVyTzhic0QzT3pJa3IzOW9vZTI3NnhDWThicXNRdjFiajhULUg3NjgyNzZBU0V4X2hGZmV1R0hJcXBFT3AwQ0xqT0N3LWxQY3FWS1d0NA?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 29 Oct 2026 22:24:39 GMT",
-      "local_url": "/article-0a28c4735f89.html"
+      "date": "Wed, 28 Oct 2026 19:15:43 GMT",
+      "local_url": "/article-6dec43d2405c.html"
     },
     {
-      "category": "technology",
-      "title": "عاجل: سهم إنتل ينهار 21.7% في تداولات ما بعد الإغلاق من 92 دولاراً إلى 72 دولاراً",
-      "description": "عاجل: سهم إنتل ينهار 21.7% في تداولات ما بعد الإغلاق من 92 دولاراً إلى 72 دولاراً CNN الاقتصادية",
+      "category": "policy",
+      "title": "بوتين يستقبل قادة إفريقيا بحضور المنصوري ممثلة للملك محمد السادس",
+      "description": "بوتين يستقبل قادة إفريقيا بحضور المنصوري ممثلة للملك محمد السادس Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOU0hwR1lyUmE5WVlNblNrRktwUi00VzFjRW5INzlrTHNjcTNEOVU3REhyMjRkUnJmdnprbDZISXlvYmd0UjFtakxlenVSdE90VEFtVzVjNlY1UXFjVGZwbUVmdkhBWUpSSFBiV2ppRDU0S04tSzVpRDRZbEc2dS1Uc1NtQm9rQThRNndLWkFjeTRjcUpnRHRUQTNpRzNfcWZKdU5UTjNWRXJxeVcxYXhYNWpvRVFKUXJCX2JLMUpvVUl3bzQ2cGNnM1RnSGVrVFVuRV9CeXIzVUdKU2RKSlhJVnVIS1loUklsZmJpVXJuaGR4QS12NkNnOFB0cTI1YXowSFJUVzBha29heGN4SFRlSi05Y0FCenZEM2xZdGR3M0NDVjZiZ1hPemQyODlOM0M2VWt4TURDUG5YZGwwQ1ZqYk16dGxHZTNLdzl0WmtjMU1pN3I5Q0M1OUZRMFhOb3o3TFpmeWFaODJqanB2V2tyMzdYcEMyaEhyMXZZNTRzeDU0WmVxUkh1bHBWdlZBdzVEaEdWUjA0R2FFWTllZkU5YXN1V3A2emV6OTBrREtaY2ZYaUc1SGZOMEJpVXdfekJ2a3NVS2ZJeE11eUxEQUhWN25udXBzdmJHTzZUOFdZcmFjMjZXdm5OU29zNmxmeEhQb2IyTHcweEZ6OUYyMjJoaGZtTVN4Y2dkNjI2RzFaQ2hLa0M4XzZ2S2VQTGoycU5BallBTjhLSVpIeVYxODJmTjVn?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 29 Oct 2026 22:09:19 GMT",
-      "local_url": "/article-44d27e89ac96.html"
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOcE1VNDFxZFJidEYycmUwWlBGczJGT3ZfeHJnWDFHUmVWTXAxMlJBaXRQODJ2UzBucEtNc0lRMzRFb0lGTTQyUlphNE1QOGYtTzdMOVpJZ01XTkw2Nmx3V1VXMzZWU3FMeFBPVTd5ZzYzWUNWamZPdlNteHNsd3lQOV9LT1NJZUY0ZVNjUnBXcHRVSHZ2SVFOYlBsNmFJLXlRdnNhQmpnQ0h4dkhWc3FtWWpRUmNrSnBiMVBfUnNOLXd3MWtybzd1dVpOODNXaG9Za1dkdDNpalo3cFA1U09rNnd6eVJWaDF4ODdBZFhmOFdONWRJd3pCbWEyZHN1STZVU1o1M0VlLVJObHlfa25PVmx2VlBFbDE5d2xjMWZGZDkzc3pFZjZob2hDUXF4T00yNFZtYzFzejlJQW1BemFFcUlONjlrQQ?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 28 Oct 2026 20:52:33 GMT",
+      "local_url": "/article-3501bf6ac98c.html"
     },
     {
-      "category": "technology",
-      "title": "عاجل – قضية الجمبري الأحمر التونسي …هذا ما تقرر في اجتماع روما",
-      "description": "عاجل – قضية الجمبري الأحمر التونسي …هذا ما تقرر في اجتماع روما Tunisie Telegraph",
+      "category": "policy",
+      "title": "المغرب-الولايات المتحدة.. نحو تعزيز المهارات الرقمية للمدرسين وتشجيع إدماج الذكاء الاصطناعي",
+      "description": "المغرب-الولايات المتحدة.. نحو تعزيز المهارات الرقمية للمدرسين وتشجيع إدماج الذكاء الاصطناعي 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPV2dDS3BUNEFtcmZ4SHFNSUtCdHlpdGx4emk4SlB1UkJYYWJxekFUZWQxaEFmMzVOQ0lwMGZJNjQ3Z1JSZV9vbFdfRmhKaUlSQ2R4Q1ZLbjNYaHN4WnpvemxVaHNRWC04WWZYYXVGR0FQaW9lNXcxLTBrTVBfVU5HV3BNM3BZQXNsazhzNVpmQUZzZHN6X2gtMFBqTW9MaUk0Y2g5bjdlVlFYTmJ4NUdnZFhkUGhDMGVGTW5PMTc3WHh5V1JkQkRUOTY3Q2JFTjdMYTVkZFFRTEdQNUhUNjNhT1U0MWhoTjB1aG1GWlJCRUJ1R3pINExCRlc2RDZNVzVqZTE0TmJGa0lRVXoxejFBbDl4RHFsNlZDR2lZVktfdTZrZnpsRXNhTWQ5Nk13WmlJWUVORFVuY3gza196dlVzaWkzbG1NcnVrLVVqNDBGaFRHMlhNeTMzTm9QTGxSTDJCWGtzeXRUMlBWaXVabFlnZUFJNEVDMzRKRHRoSjZqUFVTdFBlTGVXcDAwdW9tUGw0d1k2OHdFMDVQN19MUVdZNGcyTQ?oc=5",
-      "domain": "Tunisie Telegraph",
-      "source_url": "https://tunisie-telegraph.com",
-      "date": "Thu, 29 Oct 2026 16:31:21 GMT",
-      "local_url": "/article-0186b5b7ea71.html"
+      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNNDJyeGpRQ2N0VnVkSmVGSkZjbFdVV1h6WHJjaDBXMVhRa3ZfeXVXWVJfZjRaS0FLUVBHb016dWpRTjhvTmYzaVRORU44NFZBdHhlQ0FEY0ZucjVWWEFwTm9weFVxdGNmMG02a2pjOEZMMDVSNjJtM0UwdjNuM3BJMHZsV3ZCTVdRLUd2ZnU3Vk12RlRmeFp4TkoxSjBtekVwRFFOMS1TWjZyXzUzcFNCZ0I3S3RydFVscHhoWmdnWXZodVJlcGRVa3RZcE55dE5XM1lZVDFyTFhZc1I5VlZMdElDY0phcmVubjZIUUpJaWJSWi1xX242YkhYTEVla1dZZzNwNDV6aXJ1TUVqYmRGbldLN3ZOQmdaNUNuSUlIT2hjU0Fpa1phWGJmNlRmTlpvMFRLMFBxOXg5M3pBNnBiMnlKbkZFME5YS3Q5TUNvY09lN0ZxN0RCelpSb3RVem9ZNzNsaGxfYjBsa0Y4U0IyNEVVaFlWMmpzdmNSNXBXY3R4R0tRd1c0b05GUGc3THFfUDVBXzFzaWhfY3cyNXNSMkIzcXE2ZlMxd0NLenRaMDJnU2IxYmZYV294T0ZTLU81Y3hOTW44XzVTVkxuQjViYUh2LXdsaTM4X0RiQ2o5dy12SkxWNkgtWXdPT1Q0WDl1dGhvQ01tYXJvUXBjc2VHVUQ5V1RPQnBicEhGSFA0YTZhQUNsOVpJNWJnUGNxSXRo?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Wed, 28 Oct 2026 20:24:00 GMT",
+      "local_url": "/article-e28119be8d66.html"
+    },
+    {
+      "category": "policy",
+      "title": "مشاركة مغربية بروما في الدورة 49 للهيئة العامة لمصايد الأسماك بالبحر الأبيض المتوسط",
+      "description": "مشاركة مغربية بروما في الدورة 49 للهيئة العامة لمصايد الأسماك بالبحر الأبيض المتوسط 2M",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPalZtSklNN0cwX3dlLVJ2ZnZIUUdrc21McmpSSkp3R3JJekIzRERHSlVuWGZ0MUZsWkUxbVlpV1loYUJJc3ZvNDlYQ3JJR1hWOGowYWZ1ZTZMVjY0MmxWY2Z4Yk1LLV85MlpISW4xT0x5TDBwWmlPdkJrdmNwUUpiNldrWXlJMDR1TVNZck10emNWZmxZZ2NnMndlR253T1RENmMyM0ZpTUg0VTlwbjdscHkwbG0wQmh3a3BnQ015blktajQyMjIycWF4Tld1cGQ4X1llWnRhR0I2ZnBQbUh0SDRKZDlMZkhaWThrVGVrYkJRTlZfYkNPc3l1LTloZ3UzZzh6WGJhX0RrNFZycm9CeW8wMmRPVWdySEN4OUxJT3pHakxyMXN3WGExVlRRenB6WTNid2NsekhJaU9QM2dOOGtSdmR3ZnJhekdKejgzWW5qd1JRN19xT1NpSWF6Qld4LVAweFRHdzJFa3JRQjBteWZ6RkJHSGtXOGc2TWJKTlVKQWtLakpSOUlEVm9vOURzbUlaUE5kM0tkQ0ZDSTFkQWh2aURSYUdibmN6TGtrSnRGS2tVZDVxeFpuRHVlY1hTbEx2WV9ZZWdzbkhxaHBsczYxTV9MdlFGdlN3NHdXSUdLZnJn?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Wed, 28 Oct 2026 19:45:00 GMT",
+      "local_url": "/article-e25bacbff265.html"
+    },
+    {
+      "category": "policy",
+      "title": "من سويسرا.. الروائية هبة الله العلمي لـ2M.ma: لم أتردد في قبول مشاركتي في منتدى الإبداع الإفريقي.. وفخورة بوطني",
+      "description": "من سويسرا.. الروائية هبة الله العلمي لـ2M.ma: لم أتردد في قبول مشاركتي في منتدى الإبداع الإفريقي.. وفخورة بوطني 2M",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQUHkxbVF5SjM3MEJHNGRKRlVBNnNOTHVxa3BzVUxXUHJrRjctTnJlXzVsRG5pNkIyNVg5ampOdHBDLVRua19LWXNkVTlSNFdVOTgtOEhYbVV2bmhkMktiQWFVMnFRUVJTd0p6QmVRNFNUaC0xMUlnbXZZa0dtbXlOZEFZZkpRZldJT0N0Wm9mU3R2NEpvbjhtTGNTTjMwRXdDMFVQMFQ5RERDRnY5UHhJcnBhM2FpY1VER3FVOGJYRG90bTg5WnNEWEYzeURlYmNHWmstOHZWMVgwdnd6S0Vzdm14bXBTcVJoTmJpUHJvUlB3RmJsQjNRakEzN3ZqVDZGbzJURWhIV2FZaFF3bzROd0xNQUxUVmRuckJ5Yy10YmwzWmI2VVNycVVmNGVqd2xza1V0Z2xtU2FiNVJRNkR5eWctdXd6RjVadnNnd3pveU9ScHhuM2kwZlJhZ2F3OUswTlh3RXgzTEVHcE1jOS1MOUFEU2RxY0VQbGVERWk2YnFPOVRvSEpGbDZUbXZvdXdNdjVQYklSS0l5ZWt6SjRMQm5oWjJKSXM4RTFBcDFPQURaVVZ3WGdUNzlWRHVKaTdzT0hTLTR5VkpPOW9aaS1LU1dQT2hCazRRNll4aU5jMk52bFFPVmtQQ2xLdw?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Wed, 28 Oct 2026 13:00:00 GMT",
+      "local_url": "/article-32417b5f7006.html"
     },
     {
       "category": "policy",
@@ -53,7 +75,7 @@
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBmUnJ0LS1BbWMxdjlDTThpdlAzT2kxSzNjOWd0Wk5RQ1JEZloxN1ZfY3lvbkZsODRINnhqanowTm94YTdo?oc=5",
       "domain": "Assabah",
       "source_url": "https://assabah.ma",
-      "date": "Thu, 29 Oct 2026 16:05:52 GMT",
+      "date": "Thu, 29 Oct 2026 15:52:23 GMT",
       "local_url": "/article-be5e9ab092ac.html"
     },
     {
@@ -80,6 +102,17 @@
     },
     {
       "category": "policy",
+      "title": "عرشان يؤكد استعداد الحركة الديمقراطية الاجتماعية لدعم الحكومة الجديدة",
+      "description": "عرشان يؤكد استعداد الحركة الديمقراطية الاجتماعية لدعم الحكومة الجديدة Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QRUs2ZFIzVHpYcGNTZFFFYmdyeDlRSlFVZEFBTzE3YW5OZkJLMGg5ZUhYdDZiMjJST3o1WVZycjRQR1J2?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Thu, 29 Oct 2026 14:11:41 GMT",
+      "local_url": "/article-965699fe2244.html"
+    },
+    {
+      "category": "policy",
       "title": "\"الأحرار\": مشروع المالية يغيّب قياس النجاعة.. والتدابير الضريبية تطرح تساؤلات",
       "description": "\"الأحرار\": مشروع المالية يغيّب قياس النجاعة.. والتدابير الضريبية تطرح تساؤلات Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -99,6 +132,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Thu, 29 Oct 2026 12:02:03 GMT",
       "local_url": "/article-6c9d64a10859.html"
+    },
+    {
+      "category": "policy",
+      "title": "داء \"الدفتيريا\" يؤرق بال المغاربة .. أطباء يوصون باستدراك الجرعات التذكيرية",
+      "description": "داء \"الدفتيريا\" يؤرق بال المغاربة .. أطباء يوصون باستدراك الجرعات التذكيرية Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZ3pFTFFfeUlVeXFycmgyeDVJZjU0UXN2a3BBclAyUTQycVVNa2pOakh4V2Y5b210dFpjZk1ZNjVhNlVVS3dsREFwZThkOXpSdUNkaEdUeU1GWTJWY1J1N0RpNjVrVk00V1JrT1p1MWlMejRLR0NrSE1kT0NMMjFCRlpYY2xrQzk5eHBBWTFScnhzdEFoZ3QtSVV4cUp6TjlxT0d0cWtPOW0xSnNYaExaUWc0bjdldE02bk9kZUlJY0ZjTDY2dmg5c0xNNUZ0UEJqd1Rvb0ZoUDduZ1pCNlZyZnBmUVRYVVhzeVlMUGZ4RTRwQXNwWlhvenBzYXpiUTExeWV5YVlnMlFHN2FOcEQwVkJ0eUJ2a0hDWENGekFmSWJIdVA3M3N3WGotVVRrWnZ4Sndsb1RIN09jcmhqdHdRbWVvY3pCcWJHbmVBTGdB?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 29 Oct 2026 08:03:04 GMT",
+      "local_url": "/article-fb674f65d4fd.html"
     },
     {
       "category": "policy",
@@ -153,17 +197,6 @@
     },
     {
       "category": "sports",
-      "title": "مونديال أقل من 15 سنة... « فيفا » يبرز الأداء الواعد لأشبال الأطلس وطموحات كرة القدم المغربية",
-      "description": "مونديال أقل من 15 سنة... « فيفا » يبرز الأداء الواعد لأشبال الأطلس وطموحات كرة القدم المغربية سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWVhOVGYydTM2UkFMMmlYdUVsWWlVdTlFLTVZOTJ0RE1NRWdyYTBvQ3FpNHdzNnJqam5ER2VOZDFsZXl1Z2swQ1g2VnQtVXRwZHZlMGJxQjZ2dmtBZkdacVdFWmE2dVRwSDJ1TjJOUWEyMWlSMDkwRGoyLThpUzQ?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Wed, 28 Oct 2026 16:46:03 GMT",
-      "local_url": "/article-7ed143c16bfa.html"
-    },
-    {
-      "category": "sports",
       "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
       "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -172,6 +205,28 @@
       "source_url": "https://www.hespress.com",
       "date": "Wed, 28 Oct 2026 11:15:54 GMT",
       "local_url": "/article-c77f891b3dd6.html"
+    },
+    {
+      "category": "sports",
+      "title": "بمشاركة 4 أندية مغربية.. الموعد والقنوات الناقلة لقرعتي دوري الأبطال والكونفدرالية",
+      "description": "بمشاركة 4 أندية مغربية.. الموعد والقنوات الناقلة لقرعتي دوري الأبطال والكونفدرالية سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44V042enRZVFJJZXM3U1d5RmtLcjctMWtnSVNaUlhIUlRwd3N1MkdhelFKc0E1X3BKWmVKd2hmVjBQSkN5VURhOG5TWHNWMUhaTGQyZWxOY19ONEQ3Qk1DcDBtR2NucHdTdlVJREd0aw?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Wed, 28 Oct 2026 09:45:09 GMT",
+      "local_url": "/article-2250a85ee010.html"
+    },
+    {
+      "category": "sports",
+      "title": "المنتخب الوطني يواجه مالي وديا بطنجة بدل غانا",
+      "description": "المنتخب الوطني يواجه مالي وديا بطنجة بدل غانا Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5VDdmeS13OUQtTkhqNmV1SDlBYzBxTXV2elRvaVRYUU84dU0yY0U0enBzd0wxd2t2dG1aZGZVcVA4Wmll?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Thu, 29 Oct 2026 19:23:17 GMT",
+      "local_url": "/article-372618694b83.html"
     },
     {
       "category": "sports",
@@ -206,25 +261,14 @@
     },
     {
       "category": "technology",
-      "title": "قفزة جديدة | ميتا تطلق وضع الذكاء الاصطناعي AI Mode للبحث داخل فيسبوك",
-      "description": "قفزة جديدة | ميتا تطلق وضع الذكاء الاصطناعي AI Mode للبحث داخل فيسبوك Arabhardware",
+      "title": "مراكش .. رئيس الاتحاد الدولي للمحامين يدعو إلى تأطير قانوني لاستخدام الذكاء الاصطناعي",
+      "description": "مراكش .. رئيس الاتحاد الدولي للمحامين يدعو إلى تأطير قانوني لاستخدام الذكاء الاصطناعي 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JWktwckFsak5QaHl3OHNkbW5FUGtFZzlIa1hkcTcxS0lYR1lkc2xSUDFxOFJoSC0yRDdKZTY4TlpXSWFYMm52cGRqTnZPQnRfZjltckJBM0RxaW9obWpSZ2t2TFBQbjBKdFE?oc=5",
-      "domain": "Arabhardware",
-      "source_url": "https://arabhardware.net",
-      "date": "Wed, 28 Oct 2026 00:39:08 GMT",
-      "local_url": "/article-4758f73b4ec6.html"
-    },
-    {
-      "category": "technology",
-      "title": "هل يصبح الذكاء الاصطناعي خطرًا عندما يتعطل؟ خبير يوضح مخاوفه",
-      "description": "هل يصبح الذكاء الاصطناعي خطرًا عندما يتعطل؟ خبير يوضح مخاوفه CNN Arabic",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGZPUUtGbEwxWE9WakIySlMweEhUV2lRUUstODZRazhUV3VGRjhUTlVPUmlnUzJOb3I2VThtX04wNmVEWS10aDdrY3JSdS1iQzE5WHBrOFBlUG1RcXc4SnBTVWhZVkxlOUw1R0xhRFJYRmxlUTdJbHFKcE5tUHVRa2w1Z0pTTW5oTHh3V05vXzdqcjIwYklDWXBCU1FzaVJ6X0NlaE44aWc0RlVuZzdIbjNDcENDWXZSODRFdmdoaDFKSmZTNXNWbjFJVGVPZw?oc=5",
-      "domain": "CNN Arabic",
-      "source_url": "https://arabic.cnn.com",
-      "date": "Thu, 29 Oct 2026 16:52:18 GMT",
-      "local_url": "/article-f95c280e3c4f.html"
+      "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQS29GOHRWMnhaWF9hdzd5YlNkYjhITDNxZmw0MmNYRGVBVEZYY2J4QmFRcWkzaGZWa3RlLTVEWWl0ZVZpSHJBdHpLcjFTNkdJNkZTZG8wLVBzeVVRZUswY2JGYnRUY3gxYTZMcV9UZ3g4OWRkUHpZOXpoS1JsMnp1aDZmNHVYdHIzSURMNzNIdTF0RzhSY0MtSVpXTWY3MWhvQmhTU3lBSjhpMVh6d1Zra1JLTlFNNG9QejZvTC1Cd3pESmp4d1lKdUtOamFyaThfYXlKNnMxNkFpLVd4aE55eGxid3dqcDlwLUxtQV8xSzJmTzBFNjZpeUFRY2pfaDdKUGNFV2JBMlpleW0wM3RPZ1dSd0hPSnAtazAtODdaMDZ2NjR1NUxBM3l1WW9Mc1MwUW83ckxkN1hyTWhkaVF4ODNkUjRnYUxvWTh4ZDItVW1OTnRRcUV1OXZCY3pGbW9WYkN1eHBuTXJJek9mM3hXcjhrOUtlOFpKdVJfbjhnX3VIWWt6bVRoSXBSbGdKZW9qTHpsRTVRazBua2sxWDNqS1c3UW9kVC14YkxDNW9rYVNQeHZtOFlvV0VnNnVVZjhWcFowZWcya255TERNbGtvTWU4elRWSDAzLU5qblNRQ3k5TFUxSF9IUWQ5aHZoUW8xWjRMV3JCcEtXSlRrd1lhQVpydUhvaFl3WXJGNjM4d1pMUQ?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Thu, 29 Oct 2026 19:23:00 GMT",
+      "local_url": "/article-2310d49bdeae.html"
     },
     {
       "category": "technology",
@@ -260,26 +304,15 @@
       "local_url": "/article-c49764ead049.html"
     },
     {
-      "category": "general",
-      "title": "الملك يترأس جلسة عمل بشأن المُركب الصناعي للناظور وتوسيع ميناء طنجة",
-      "description": "الملك يترأس جلسة عمل بشأن المُركب الصناعي للناظور وتوسيع ميناء طنجة Hespress",
+      "category": "technology",
+      "title": "الذكاء الاصطناعي: كيف يمكنك حماية أسرارك؟",
+      "description": "الذكاء الاصطناعي: كيف يمكنك حماية أسرارك؟ BBC",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQcXJlTy0wVFNkbHUxNWlwckZuMnlvd1BrX2YxWVZGUkd2SFdxLVBZNWlNMG16MC12NFZYWHV3XzVSZzhtWWM3TXhZRlJDaUhIQmppbjdUSlJlWk41U2JxdUZNakd2c3V5RVVjenRXck5YSlJfc0c5R081cmhzQmxiQVp5SGtBRk9ZcDl0UVFXUklLYzBPazJXT29EeEY5U0thMVV1VzNsdjJyRG1XUTBDRzVpaGJBNm5uNGJiMFFlckdwWGlVcV9BajI3X0dHY01NREt0aDctbDZpdC1BT0VWZTVKUWxpWmQzN1EydF9IN1M3RjdPMmpHdE51TmxOMlRvQ0ctQ3RfZ2plajZ2V2tUQldudVlVY0hIeTU4bkdReUFxbWtNTks5dVpvRE9wYnBKUUVxc0tmSHdLWngzN0o2X09Ya0F0aE1CaE1aaHBtNEhNOEIxWGZB?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 28 Oct 2026 14:53:37 GMT",
-      "local_url": "/article-078de7b25f7a.html"
-    },
-    {
-      "category": "general",
-      "title": "ضحايا \"فاجعة إسبانيا\" يبلغون 64 قتيلا",
-      "description": "ضحايا \"فاجعة إسبانيا\" يبلغون 64 قتيلا Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOVDV2dktIRktiRC13ZHEwYllneUlHUzBBNTdqX2RSa0pIYzlwQ3dhU3VfQndEYWFDMWhRaEVtTlU3cGVOLVNJbmRtSkc0eUpTaUZ1ZUdzeS1MdTBUWXhsVUp1NXZDUXVCalVNUlZzVFZjY3hFaklfTkd1MFZHdW01VEFjaGxaYUg2dE02UjROVmJtU0xYeEpEaUVmemt3M25fQV9ndlQ0NW1mQ2JPM0o2bWlMTnBSdHI0eGRLRk5CRDFLSnBxNEI5OURFVDZlYzdfNmQzREJYaUVFXzRwTUh3b3Z5RXVaZkpBcGNDOTBjTnc1YkVmdXJVT0ZUOVIzTS1iSWlqa3dlMkYzR1Q2WlVISzJkMU9CVGZGTm81VTBucDJnTzQ2NE9ya3RZRUY4dG5wQ05jNmQ2NWM?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 28 Oct 2026 14:40:02 GMT",
-      "local_url": "/article-1164912523c3.html"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZU4tVWdIOE9oYmlDdlJsQnNWa0oxQzlwTERwQnNmVTNuMGFoMllvZ1hNS2VVRUZKQkt5SGw5N1RPLXB6N1JhSXE2aUxBZHB5LWRlN0EwTG1DaFJBZWfSAWNBVV95cUxOclVMMFVuZk9FdWtReDUwY2w3ZHNXUUI2cjhYdlZHNlN0aVdOYTRCOUR0eWpOQnRVYlNjcjE4R25xNkJQMlpRWUZWWTgyRmxWV3dGOWUzQmlnMkhrc3hhZVk4Z2c?oc=5",
+      "domain": "BBC",
+      "source_url": "https://www.bbc.com",
+      "date": "Fri, 30 Oct 2026 00:43:50 GMT",
+      "local_url": "/article-8cf707f7c28a.html"
     },
     {
       "category": "general",
@@ -315,17 +348,6 @@
       "local_url": "/article-6e8428973f72.html"
     },
     {
-      "category": "international",
-      "title": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن",
-      "description": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن Reuters",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jUDJDQWl0MlF1Ump4NUJ2V0lwOXprZm9Qcm9KSGdmM3RNWS1iTzFMTS1FcG9aMmE1eWk2MFN0N0tlbmtEb3RSeFhCNlI2Yk1KZC1mdk81cWk3dGZBWjdfRUZrcTNfeHAtX3dF?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Wed, 28 Oct 2026 19:30:00 GMT",
-      "local_url": "/article-0484babc139e.html"
-    },
-    {
       "category": "business",
       "title": "المغرب يعتزم افتتاح ميناء الناظور غرب المتوسط وتوسعة طاقة ميناء طنجة المتوسط",
       "description": "المغرب يعتزم افتتاح ميناء الناظور غرب المتوسط وتوسعة طاقة ميناء طنجة المتوسط Reuters",
@@ -338,14 +360,14 @@
     },
     {
       "category": "international",
-      "title": "تركيا تحذر من زيادة استهداف روسيا وأوكرانيا السفن في البحر الأسود",
-      "description": "تركيا تحذر من زيادة استهداف روسيا وأوكرانيا السفن في البحر الأسود Reuters",
+      "title": "متعاملون: الأردن يشتري نحو 60 ألف طن من علف الشعير في مناقصة",
+      "description": "متعاملون: الأردن يشتري نحو 60 ألف طن من علف الشعير في مناقصة Reuters",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EYmJjQlktQ0dqaFF4SWE0bER4Qkt6M1JMRmpDMmhEOVhScnVES2tvN2xJTWxBeEtyejQxMWN2RkwtY2RRX08zNEZVNHZLWFNMNFp5YkZuOGp0SmthQVdrUTBwcnVQMFFxWHVWZUhENGs5eHlSQ3IwcGUtQnpCNEU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40aE8weDZxeHBTZGRNTzMyRmpMbGM0b0xwRVV0eDh4bkRhaWtvV0ZlR2JJT3k2NmZXaHhWNENWS3JCR1dMYmFpeDFHNUxzODNKTXNWYmNnRDQyWnl1OHI2MVdJQUhhUDRtM2RrX2hKZVIyNVVfclNaNDFtUTR3RG8?oc=5",
       "domain": "Reuters",
       "source_url": "https://www.reuters.com",
-      "date": "Wed, 28 Oct 2026 14:53:43 GMT",
-      "local_url": "/article-f7e518f82ca2.html"
+      "date": "Wed, 28 Oct 2026 14:23:53 GMT",
+      "local_url": "/article-3d35d9e12988.html"
     },
     {
       "category": "business",
@@ -360,14 +382,58 @@
     },
     {
       "category": "business",
-      "title": "تخفيض الضرائب والدعم المباشر.. هل تنجح \"مالية 2027\" في تخفيف الغلاء؟",
-      "description": "تخفيض الضرائب والدعم المباشر.. هل تنجح \"مالية 2027\" في تخفيف الغلاء؟ Hespress",
+      "title": "المغرب ثاني مورد للأفوكا في إسبانيا",
+      "description": "المغرب ثاني مورد للأفوكا في إسبانيا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxObHVZRDZlYy1WSFRHQXJvOC10MU1TRElsSjVyMDNKMjIxQktKT3MwakpXeUdYUElLNmFmN0FfNEEtanpBREhZc2R0MXE1YTR3ZFRlX2pZdkpUXzV3Y2pySlNhY0IteGxNTmRPT0J4TUp5Si0yY1AxbzN2dGRsajNRYUxCTW4xOVVCSHpZLXJLeXJ5WVhVQU5MWUFJb0pjVmdFY3k4Sy1QcXV5NXhicFI5akE1ZTV6WXZFblJvY0N1THZzMEtHdXkyelpRcHpoYThsenduMDE1QThpOGNWY0lnODVEX1NyMG51Rl9YbGszZzVKRXl4OWtjWGFuY0l4TGVYVFMxOW9QY2ZJN19iZVMxVmhuX1VSNHZMMmdNd2Vfekg4Rmh6b3hjZVJDb1k3cUs0Q29ZWUh0bTNlWXN2azhPRlZNMEZFQmIxQVljWGtR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORkhqb3JOMWN2WDFMV2k4NndoYkJobjQ5TmNsWjBNelN6OXVOZ0ZqMEFIbldvZFI1TEc5LTI0cEJnTW5KU0pURGs4SEN1UDExdEg5cE1NMnZVR1BmTUdDNVhfT2VfNmpiNEpoWlNoV3ZHaVBzeXI2WUJOSnZIRWhlVFpxWG9lMWdhYUI0cVo2UlRNaUxRZGtUTnhYY3d3ZTVGRzBvUkpaZ3I2Q0k1UUNDOVZZZ3dQQlM2dnc3aHJZMElvRVVrY0h1eFVZTlUtS1JhZlRNZFc4VWZsRmpFeE1JY2hPN1BHWWo2WFhIWkdiMkc1TFJEX2tIUmpfdjZ3MjFNZURqdWluTkpJVGlySnRpaEwzWFVIbzV3MHAzbnVXT291R3VQZklONFlFek4teHpsdWEzRE1Ma25GVVBvZ0ZpWVhFREg5Zw?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Wed, 28 Oct 2026 06:03:57 GMT",
-      "local_url": "/article-a49517c6afd1.html"
+      "date": "Thu, 29 Oct 2026 22:31:31 GMT",
+      "local_url": "/article-8ecf2c123e1a.html"
+    },
+    {
+      "category": "international",
+      "title": "شركة \"سير\" السعودية تكشف عن أولى سياراتها الكهربائية",
+      "description": "شركة \"سير\" السعودية تكشف عن أولى سياراتها الكهربائية Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VSUd4TGh4cVJuX2x4Q1NoZ0tEdjU2emtmTmg0UElWemhPSWRFdkNWalc0cnA5c1J1MEFOWUJXR2tMSTFHWnZHYTdyM29yVlVJa25SYmZkLVlTdFhTbTRGMXNxMlJadkVFamFr?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Thu, 29 Oct 2026 18:22:29 GMT",
+      "local_url": "/article-1dd34548db6f.html"
+    },
+    {
+      "category": "business",
+      "title": "العراق اليوم: الاقتصاد العراقي وعقوبات واشنطن على طهران",
+      "description": "العراق اليوم: الاقتصاد العراقي وعقوبات واشنطن على طهران DW.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNbEEybHRJMlRTZjZzb0lOajZGd2hzdGFtU1BVLTU0YnN6M0JMVHdVdFJlQkw4VlZvOXRmcUVOTmtlbzFZVkNIMk1fNVkwb0pDcTJnYmZOc2lXX3pUMGF5NmdlVU1kMkxmM0tHXzVsUnRRSXByWWJHcVZUblgwM1JyS3BVSGhBQXA2S3c0RWlUekp0WnNCLXNablZsVnhFX2NKODFocDRXZk92R1VScVhkeWJveGQwamlvQXc4b29YZ2QyNTJiTjNhUEx0UTRRX01RY0J3dHRlcUJRNUF0SnZBMkR3d00yVW1OMTJXazN2UGtUMEI1dU1lbHF4dDJoT21lN3A2aDZNcUttZ1RCekM2S1NYZkUtejZteWxrYUMxOHk3NEZxUE9QUmZEMWhpSWN4NDVKVGIwX2w3cHNfbDhGMnFpWmdtb2ozaEtJRHk4NmkwZ0phM19DRDZUZUE3c2JnRnlhTkQ0d1BTTWxWc3JLa2VYeFptbWpORjd6WWZkdXkwSC1qMDVXNE5ZMGhDMjloQWRlQlZHV1EtbnRocHhVazBSOHJpeDFseU8yS2t5cjZnTkVvbnNmRmhVaGJPeHpNc2Z0VmsycGszV3VNQ2k4?oc=5",
+      "domain": "DW.com",
+      "source_url": "https://www.dw.com",
+      "date": "Thu, 29 Oct 2026 14:54:30 GMT",
+      "local_url": "/article-fb3c5f73655d.html"
+    },
+    {
+      "category": "international",
+      "title": "انخفاض أسهم أمريكا مع تجدد مخاوف الإنفاق على الذكاء الاصطناعي",
+      "description": "انخفاض أسهم أمريكا مع تجدد مخاوف الإنفاق على الذكاء الاصطناعي Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yX0hsYmthTWtfQ0RnMktDQ3JoY2FMNkJGWnB5ZnNpUXlQZXQzTkx5b2wwWTRZNnVFVmNWUzhieEhjVS1KZnVpTkdSdWQxWlZUOGZSQ1E5RnlJSE5BaEZfMFhTcE1Cd1R6R2U4SFdzb2FnTm1YSnAzeXJZb3JEdnM?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Thu, 29 Oct 2026 13:53:44 GMT",
+      "local_url": "/article-d32654338a28.html"
+    },
+    {
+      "category": "business",
+      "title": "العدوي: مجلس الحسابات يواكب العمليات المرتبطة بالمشاريع الكبرى بالمغرب",
+      "description": "العدوي: مجلس الحسابات يواكب العمليات المرتبطة بالمشاريع الكبرى بالمغرب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQTlWejJUMm8wME9NWHBPbGxSTGRFME5sMGVqMS1JMGNIRkJIUDdTQnpmbTY1ZDB6bG5mcE16M1RsUlQ1UFcybVVta2RISmhGRi1xeG9CRUNPVVhRYTZEalBxc21Eb0lTUVNCdjNWMERFUTJtNkM1aXNqR05idHNxZ1R1ZVRJSW83NXJtX1ZaYmtwa2djZGpSMk5pcTZzMVk5c284VkUtSHNBUU4tVXBPdlUxRkJOaUIwZG1abzlTY3MtWUdCNUpiNnBqNHgxYU5PUU1sSE5jRzBxR1RISjNwYVBZb3JpVW1mcllPVEFDMGxkN1liRmtYQ2hqQmp3VGpxT0lUM2hkQVdIOFVzUXhDeC02N2ZVdlhPMWRrbXhrQUpnVjdGdXctN0dTNEZoLUcyalJtVC12WUItQjI1dkkxckRVQTFLUGo3UnZ3WVlCY21NcjdfSHc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 29 Oct 2026 12:36:17 GMT",
+      "local_url": "/article-ee15076422ec.html"
     },
     {
       "category": "business",
@@ -393,17 +459,6 @@
     },
     {
       "category": "business",
-      "title": "موعد تشغيل ميناء الناظور في المغرب وتكلفته الاستثمارية",
-      "description": "موعد تشغيل ميناء الناظور في المغرب وتكلفته الاستثمارية CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNFdFbkVQNHh1WkxxNkFEem1EWFZBdXRTUFpBU0ZPeVMzQlhUYml5bUJKLTVKSFA5SlkxUmlJUXdKYl85YjZOVm0xTjJWUDJHdjljSTNOYVAyWFl2UWlSVDJaV1U0NGpCQTdXQmc2a2s5UF84MTVOM3hoNE4wYWRDSHVsbDFwWURybGpWWUFzRkYxOGU1SjVPam8zcEdhLXdzdWFfRG5GOWFROTN2d1dzNUh5T2hDYTZKUC1qYl9GNktUT3c1ZVl4OEF2Yjk0eWRZcm5QSml1WXVsV2NPRHFONEdTcGNlN1RETEI0dnBYWFdnUlJMOXhFY1BkTUNOd1dSNmhmNUF6Q0dRbm5JYXdTa000Vzc1R3Y1MFZsdkZfMG8tbHpfUC04V0hZUVdmUWtoOWdCbkgxQ083aGc5ZkROekdQUXZXRTZQaDU5XzZPc2FsNTdseEZZYmd3djhmbFFVeWJHMGNNaXVGOXc0WWJiaENQVVBZMVVTMGxlclBhRm1GUktyRlc0cHRtUUVKMUZKWl9tYVZJaUxYS0g2eUhReXd3Y1djeDZhekdHenVpaXY0OW03M2VNTWRsUkNsYkZLZWY2LUVxVndQeTFJTnJSMUFKNXRuWmxhcXVvc01CaElETHNsNks4?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 29 Oct 2026 10:25:31 GMT",
-      "local_url": "/article-1a365bc42eab.html"
-    },
-    {
-      "category": "business",
       "title": "تقلبات أسعار النفط العالمية .. المغرب ينتظر التحيين نصف الشهري للأسعار",
       "description": "تقلبات أسعار النفط العالمية .. المغرب ينتظر التحيين نصف الشهري للأسعار Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -423,6 +478,17 @@
       "source_url": "https://www.reuters.com",
       "date": "Thu, 29 Oct 2026 01:30:00 GMT",
       "local_url": "/article-0484babc139e.html"
+    },
+    {
+      "category": "business",
+      "title": "التجارة بين المغرب وروسيا تسجل تحولات جديدة في الصادرات والواردات",
+      "description": "التجارة بين المغرب وروسيا تسجل تحولات جديدة في الصادرات والواردات Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVlpwU1F5QnRqYVB0akRyUFB5MXRGeVBiMVlLeGZvZUp4djhVV3hyWUV3dE9tb0JCQURTNVpLczYtZ014THpfcmFtQkQ1c0p2cFRfbGtBT2xzOVlYQ1g3aFQtRFhlN1dMMFBibjRmRm1kYi02emp2aHdpQ3V6XzUzaDAzZ1A3WkdmOThoWlB2R2RmZ1E0OTMxOVplcDVfQWNIbFhxeTBfbXJkb1hXZlhaOF81bXkxOG80d1lJUy1DLTVjY3NGZkdHSzlQcVJyZ1VjZ2tlekh1QXptQVU5RUE1empLRUY2WnNTd2xKM0x5a0dpenFPc2xFWF8xQXlOQVJGdnYtS2Z4S25LOFRoM3VpN0x6cnpTdXJrZHMxNW9hV29KYUp4eFppdXFWZElNMDJVajQtaUs0VzdFbVFrSXVjRF9iZGpmSHRla2RwYl82Ty12dU85NVE?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 30 Oct 2026 02:01:59 GMT",
+      "local_url": "/article-2c80b79eabcf.html"
     },
     {
       "category": "policy",
