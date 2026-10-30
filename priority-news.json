@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-10-30T21:20:00+00:00",
+  "updated_at": "2026-10-30T22:13:00+00:00",
   "articles": [
     {
       "category": "policy",
+      "title": "🚨 عاجل: الديوان الملكي يعلن عدم تمديد مهمة المينورسو ويدخل ملف الصحراء مرحلة جديدة",
+      "description": "أعلن الديوان الملكي أن مجلس الأمن لم يمدد مهمة بعثة المينورسو، معتبراً التطور خطوة مهمة نحو طي صفحة الملف داخل أروقة الأمم المتحدة.",
+      "image": "https://e2.hespress.com/wp-content/uploads/2026/10/majeste-le-roi.webp",
+      "url": "article-royal-cabinet-minurso-october-30-2026.html",
+      "local_url": "/article-royal-cabinet-minurso-october-30-2026.html",
+      "domain": "الديوان الملكي / الأمم المتحدة / هسبريس / NewsMorocco",
+      "source_url": "https://www.hespress.com/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%B3%D8%AD%D8%A8-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7-1832126.html",
+      "date": "30 أكتوبر 2026 · NewsMorocco"
+    },
+    {
+      "category": "policy",
       "title": "🚨 عاجل: الفيتو الروسي يسقط مشروع القرار الأمريكي حول الصحراء ومصير المينورسو يبقى مفتوحاً",
-      "description": "مجلس الأمن رفض مشروع القرار الأمريكي بعد فيتو روسي، ثم فشل مشروع روسي بديل لتمديد ولاية المينورسو، لتبقى الولاية دون تجديد حتى الآن قبل انتهائها في 31 أكتوبر 2026.",
+      "description": "مجلس الأمن رفض مشروع القرار الأمريكي بعد فيتو روسي، ثم فشل مشروع روسي بديل لتمديد ولاية المينورسو.",
       "image": "/minurso-security-council-veto-2026.svg",
       "url": "article-minurso-security-council-veto-october-30-2026.html",
       "local_url": "/article-minurso-security-council-veto-october-30-2026.html",
