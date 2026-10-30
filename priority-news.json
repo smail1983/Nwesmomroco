@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30T15:45:00+00:00",
+  "updated_at": "2026-10-30T19:40:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "🔥 عاجل: روسيا تتحرك في مجلس الأمن بشأن مشروع قرار الصحراء المغربية",
+      "description": "روسيا اعترضت على صياغة مشروع القرار الأمريكي وطرحت مشروعاً بديلاً يركز على تمديد ولاية المينورسو واستمرار المسار السياسي، دون أن يعني ذلك تغييراً كاملاً في موقفها.",
+      "image": "/russia-un-sahara-2026.svg",
+      "url": "article-russia-un-sahara-october-30-2026.html",
+      "local_url": "/article-russia-un-sahara-october-30-2026.html",
+      "domain": "Security Council Report / الأمم المتحدة / NewsMorocco",
+      "source_url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/western-sahara-vote-on-a-draft-resolution-renewing-minursos-mandate-4.php",
+      "date": "30 أكتوبر 2026 · NewsMorocco"
+    },
     {
       "category": "policy",
       "title": "🇲🇦 المنصوري في القمة الروسية الإفريقية: دعوة للانتقال من التخطيط إلى التنفيذ",
@@ -26,7 +37,7 @@
     {
       "category": "sports",
       "title": "الكاف يطلب رأي الاتحادات بشأن إقامة كأس أمم إفريقيا كل سنتين أو 4 سنوات",
-      "description": "خطاب رسمي من الاتحاد الإفريقي لكرة القدم يطلب توصيات الاتحادات الأعضاء بشأن دورية إقامة كأس أمم إفريقيا، مع طلب الرد قبل 28 أكتوبر 2026.",
+      "description": "خطاب رسمي من الاتحاد الإفريقي لكرة القدم يطلب توصيات الاتحادات الأعضاء بشأن دورية إقامة كأس أمم إفريقيا.",
       "image": "https://images2.elbotola.com/article/embed/66067_1792873727.jpg",
       "url": "article-caf-afcon-schedule-october-25-2026.html",
       "local_url": "/article-caf-afcon-schedule-october-25-2026.html",
