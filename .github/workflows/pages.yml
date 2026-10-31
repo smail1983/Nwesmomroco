@@ -47,31 +47,33 @@ jobs:
           print(f"Normalized canonical hostname in {changed} files.")
           PY
 
-      - name: Install Monetag ad tag
+      - name: Install Monetag Light tag
         run: |
           python - <<'PY'
           from pathlib import Path
-          tag = "<script>(function(s){s.dataset.zone='12159035',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>"
+          old_tag = "<script>(function(s){s.dataset.zone='12159035',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>"
+          tag = "<script>(function(s){s.dataset.zone='12159034',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>"
           changed = 0
           for path in Path('.').rglob('*.html'):
               if '.git' in path.parts:
                   continue
               text = path.read_text(encoding='utf-8', errors='ignore')
-              if tag in text:
-                  continue
-              if '</head>' in text:
-                  path.write_text(text.replace('</head>', tag + '\\n</head>', 1), encoding='utf-8')
+              updated = text.replace(old_tag, tag)
+              if tag not in updated and '</head>' in updated:
+                  updated = updated.replace('</head>', tag + '\n</head>', 1)
+              if updated != text:
+                  path.write_text(updated, encoding='utf-8')
                   changed += 1
-          print(f"Installed Monetag tag in {changed} HTML files.")
+          print(f"Installed Monetag Light tag in {changed} HTML files.")
           PY
 
       - name: Save generated news feed, article pages, archive and sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json articles-index.json sitemap.xml article-*.html index.html
+          git add -- '*.html' news.json articles-index.json sitemap.xml
           if ! git diff --cached --quiet; then
-            git commit -m "Install Monetag ad tag"
+            git commit -m "Use Monetag Light tag"
             git push
           else
             echo "No canonical, news feed, or Monetag changes."
