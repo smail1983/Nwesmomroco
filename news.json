@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:50:08.105837+00:00",
+  "updated_at": "2026-10-31T12:20:25.300633+00:00",
   "articles": [
     {
       "category": "technology",
@@ -58,6 +58,17 @@
     },
     {
       "category": "policy",
+      "title": "المنصوري تتسلم رئاسة الحكومة من أخنوش",
+      "description": "المنصوري تتسلم رئاسة الحكومة من أخنوش Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE03UXRRUzNra25DR2t4TThucXI4ck8xNnB6dnhfTFhNODMwVUdQUmd1VnBnT2o3eVFvZ2xJN0NVWG1IVmta?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Thu, 29 Oct 2026 23:26:40 GMT",
+      "local_url": "/article-283a11d53378.html"
+    },
+    {
+      "category": "policy",
       "title": "HM King Mohammed VI Has Always Highly Prioritized Africa in Morocco’s Foreign Policy - Gov't Head",
       "description": "HM King Mohammed VI Has Always Highly Prioritized Africa in Morocco’s Foreign Policy - Gov't Head 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -102,17 +113,6 @@
     },
     {
       "category": "policy",
-      "title": "\"البام\" يجيب المشككين بـ\"تغيير المسار\".. والاستقلال يؤيد جلب الأطباء الأجانب",
-      "description": "\"البام\" يجيب المشككين بـ\"تغيير المسار\".. والاستقلال يؤيد جلب الأطباء الأجانب Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQdHJFZ2NGcVhRTUtmcnJkZDJaZlkwWG82Ui1xb1hiQmw5M3pCMG43cFY3RTVCaWx3QzZHVzd2X0Z0OWpKbUE3YklENkNGcnZGMzhxRzU0SUg0bktFc082WHVwSFE2SmQweFg2V2YxWThNZjdFZmhESjc4SEtKb3JRVFU5YUN4V3JpbVJYTVd6cmQtNnZ0UUFLdEJFVngzWlJZQk9KcW9fcHhVbzB2RUhTRGgybzVKR0FkUXN0VVlPNEcwTDNqazhiTGZOQXdjUVdsQ096akpvLTlLWWNjRW9hNVJ5R2xzaEQ4bnd5Y2FqWjZhSERMRmFJbDRHSUVxYm1ITTV5ZEpLbEI3SUowRVFEV0RtaFhPWHdrR0pTTjk5Q1ZnTGJSd2doRzNETVlTZVhSRHBIeWhybXAxUjhBYkdrX0pGbFY?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 29 Oct 2026 12:02:03 GMT",
-      "local_url": "/article-6c9d64a10859.html"
-    },
-    {
-      "category": "policy",
       "title": "دي ميستورا: الحكم الذاتي المغربي أساس للمفاوضات المقبلة بشأن الصحراء",
       "description": "دعا ستافان دي ميستورا إلى جعل مقترح الحكم الذاتي المغربي أساساً للمفاوضات المقبلة، مع الإقرار باستمرار الجمود والحاجة إلى تفاوض جدي.",
       "image": "news-di-mistura-autonomy-sahara-2026.svg",
@@ -142,14 +142,36 @@
     },
     {
       "category": "policy",
-      "title": "فرنسا ترد على \"فيتو\" روسيا: حاضر ومستقبل الصحراء تحت السيادة المغربية",
-      "description": "فرنسا ترد على \"فيتو\" روسيا: حاضر ومستقبل الصحراء تحت السيادة المغربية Hespress",
+      "title": "لقجع يكشف إجراءات مالية جديدة تشمل الأجور ومعاشات التقاعد",
+      "description": "لقجع يكشف إجراءات مالية جديدة تشمل الأجور ومعاشات التقاعد Assabah",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQMWJhVldDdlZyR0JBQlNKUWdFWUR4endka1ZrNXFSU25WaDV4a0pGMGRSN2g1VHlLQnJVQ09teXFnVkV0TTBsYlVwd0U4VG42RjFkOEdOcTNmaEhhZDg0cG9yRzR6UTYxRUZqcFJLd25VZG1PY1VOa1U1ODlldXJFeERBLVBpRUEyUmtaMVg2WDkyU1kxR2R2TzRoVGxxQm1yemJNdFZqbExGMkxqMzlyZ1pTYzI2R0tFR0w5Wng1NGpKeHkzMUlkU3FHR0cycTZwY2RiQlBvc21LOG1CMVZ1NmVHZE02dHFaZ3NhSUtSaGdWZTNOUXdrY0xYWm9tM1FoRlR0WlU5ZVpGdmdaWGJWQkFlU3BiM1RXZHlsZHRjQkk1QXpuYzB0azdtSGZ1QkpjeEdMMnI4UWdsUE1TSENFa2U3YTVDRlhwMFJKaklzYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiVFNEZzhBYnVHU0R0WWF3S0ZTRnh3RTNRcVhJaThQaVc0eHJ1c2M5RWRBQUFYeWlUbnFpOW5qTVk4cXI2?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Sat, 31 Oct 2026 00:41:43 GMT",
+      "local_url": "/article-a5d764350b05.html"
+    },
+    {
+      "category": "policy",
+      "title": "قضية الصحراء.. نقطة إلى السطر",
+      "description": "قضية الصحراء.. نقطة إلى السطر Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOc0oyVG9EcE1RdHdhM3VmXzh6aU9iUlJLOVJOQUZJWVljbGdHVXcwV29oSzRwUTQzcG51WWdIZ3hkdUZOLU83NGV2SU5aczNETnprS0ZIZDVxSUxUbG5qemhENHdLNEhZS3NPV2F3UU1kSkV4Ukw5S0FuUi1ZMWh1RHRiMkFscllhRU41Q1JQSmJpV2lLVkxsMXM5YjZVeWtBXzNjZGxQbGZwcmIwZ2hqMUhrQXh4ekkyNmZEdTdsalktd3hSb3JHSVNNbFN2dDF2Zm1fMEM3QTZPZTF6M0I1RDRpLUtodTlCWG00X3RYRVgya1pfYzkxbnhCMms3cFhWLVZYc2NvNnUxNE1G?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Fri, 30 Oct 2026 23:07:09 GMT",
-      "local_url": "/article-babcaa95d093.html"
+      "date": "Fri, 30 Oct 2026 23:29:51 GMT",
+      "local_url": "/article-b60d105a5405.html"
+    },
+    {
+      "category": "policy",
+      "title": "هلال يفكك تناقضات السفير الجزائري",
+      "description": "هلال يفكك تناقضات السفير الجزائري Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNM3dERG5fcy04NXRtT1ZMV1BiXzU4dDg3ZW1zT2hxRmtsNWRYbGpZWnN0eERfSE02NVUySHJNSndUT1VGSjRSVHBXVUFkUkFGTDR0TGdmRi1ZQWk5MTNIZzZraDZHYi1iZXE3bXBOQURZQWQ4aHcyOVFzMzE5amk4cnBSWUdNenZ6dVRqY3lTcV9jN0ltQzRlQk5fcW9oUU5ZajJuVkhHYWYxMUF6ZGtLek5VSEJhaU15WDJLV2hKNm9ITWJqenIybXpPUjRJSkItRUpsR29vRkpvZEoxMkhIWWpGNHBRQ24xeDN6bTJWd21XQmpQcFpQOGs4NUhEU29PT1AtUlhNZVYtTEZBdi1SeU1hZzFDVF8zQzl6T21zV0lYVXhnZ0tLQXByTjVLa21aMEl5REFFckJsQWNi?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 30 Oct 2026 22:33:06 GMT",
+      "local_url": "/article-9cfc9767f9d8.html"
     },
     {
       "category": "policy",
@@ -175,6 +197,28 @@
     },
     {
       "category": "policy",
+      "title": "هي الحدث - المغرب: تعيين فاطمة الزهراء المنصوري رئيسة للحكومة.. ماذا بعد الرمزية؟",
+      "description": "هي الحدث - المغرب: تعيين فاطمة الزهراء المنصوري رئيسة للحكومة.. ماذا بعد الرمزية؟ France 24",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOYzRTc0owODF3Zng0aHU5YjhRMVFQQ1pKRXVOVW1VWEgyQ0gwVGEtZ2thZGN4ZHl1YTJkNEVnNHVxV2JXSUNDOEktMHBkNkxIbDlvNlpBNXdRSVJMQ2Y3YXJaQ3hWMWVyTDdwRWpMSi11STFOMTQtNXRITTMwSDJsV0ZjUjZqakRuSkhKeTRvQnY5dWhSajJYeHk3cHJjTE5heTlhbVl0WUFKT1AtbW84Y0hEU3VqbGlhb3loWjlNWXhCODBfNXJCWnJKNE9fV0lmQkNDckFsdWpJUUV3dVViVW5sR011UzZNWnNVNGVKcXpEQlNqTFI1eXdXekZjY2x5TmVzSU5wNm5EMUFfNVJqRkpJU3V0d2QzS1JreklFRzlJRlJZQ0N4dkFOMUtmQlYwQ0xtVWIyanF3ekNXSE9UM1ZuYmpPOFB6emstQnZOcHowMnlubmp5WTVGcFBEQ3hxSGFfclVaU1gweGFpSERtdjZjVUUzUlFuUGV5dndfUjFraVVGRE1sREtPLVFHcHpOTklUbE4yZVhDam1sd0pLUXVSMlVpZktfNTAta3Q2NmhqRERmSWVYSFJBYmg3VFA1ZXYwZnJ5NXAwSW5reXM3T0xDZk91T0F2eUNIWF9jLXphajBKbi04Tk1kWnlRMV9DUXNFeEFKekNjQzM3UlR5TEtiUXdtVzE0elBBRVVzQ0t6ZDRaT2FidjRuLS1BcUM0bHluTDJZTF9MQ2l3b0liZHpDaEM4SzdHd1hjWUdHUnNZWGdlTldaMzhiRjdaVFRiYTluSE40cXJPSnBYRGprU0VzQjU3WXpXMVZuNzVOWERtZjVIS1BISGtBS1l3aWY2TnROb0Vn?oc=5",
+      "domain": "France 24",
+      "source_url": "https://www.france24.com",
+      "date": "Fri, 30 Oct 2026 16:00:57 GMT",
+      "local_url": "/article-80b90ed0960c.html"
+    },
+    {
+      "category": "policy",
+      "title": "المنصوري: البرنامج الحكومي تعاقد سياسي ومؤسساتي يستند إلى الثقة الملكية",
+      "description": "المنصوري: البرنامج الحكومي تعاقد سياسي ومؤسساتي يستند إلى الثقة الملكية Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZM2NNaWF1c2dSTmpjNjdzaFdtNTJoMmUtMkR4S2l3Y3dtREVUcHhwYnRiMW8wQnp3MUhKVVcxNHBxX05D?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Fri, 30 Oct 2026 14:48:15 GMT",
+      "local_url": "/article-c150b6f2aeab.html"
+    },
+    {
+      "category": "policy",
       "title": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟",
       "description": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟ DW.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -183,6 +227,28 @@
       "source_url": "https://www.dw.com",
       "date": "Fri, 30 Oct 2026 10:23:52 GMT",
       "local_url": "/article-6f02a9630309.html"
+    },
+    {
+      "category": "policy",
+      "title": "“التحدي للمساواة والمواطنة” تطالب بالتعجيل بإصلاح مدونة الأسرة",
+      "description": "“التحدي للمساواة والمواطنة” تطالب بالتعجيل بإصلاح مدونة الأسرة Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44dnUtZUFaUEtudm5mdkxHSEVYaWY1VWh2NkF6aVpmdUY0ZFA0X25EelZmTHFtOVZXcVlzcko1N1BpTWJv?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Fri, 30 Oct 2026 09:46:19 GMT",
+      "local_url": "/article-1df49f8ad18b.html"
+    },
+    {
+      "category": "policy",
+      "title": "التجارة بين المغرب وروسيا تسجل تحولات جديدة في الصادرات والواردات",
+      "description": "التجارة بين المغرب وروسيا تسجل تحولات جديدة في الصادرات والواردات Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVlpwU1F5QnRqYVB0akRyUFB5MXRGeVBiMVlLeGZvZUp4djhVV3hyWUV3dE9tb0JCQURTNVpLczYtZ014THpfcmFtQkQ1c0p2cFRfbGtBT2xzOVlYQ1g3aFQtRFhlN1dMMFBibjRmRm1kYi02emp2aHdpQ3V6XzUzaDAzZ1A3WkdmOThoWlB2R2RmZ1E0OTMxOVplcDVfQWNIbFhxeTBfbXJkb1hXZlhaOF81bXkxOG80d1lJUy1DLTVjY3NGZkdHSzlQcVJyZ1VjZ2tlekh1QXptQVU5RUE1empLRUY2WnNTd2xKM0x5a0dpenFPc2xFWF8xQXlOQVJGdnYtS2Z4S25LOFRoM3VpN0x6cnpTdXJrZHMxNW9hV29KYUp4eFppdXFWZElNMDJVajQtaUs0VzdFbVFrSXVjRF9iZGpmSHRla2RwYl82Ty12dU85NVE?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 30 Oct 2026 02:01:59 GMT",
+      "local_url": "/article-2c80b79eabcf.html"
     },
     {
       "category": "sports",
@@ -194,39 +260,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Thu, 29 Oct 2026 22:49:28 GMT",
       "local_url": "/article-c77f891b3dd6.html"
-    },
-    {
-      "category": "sports",
-      "title": "المنتخب الوطني يواجه مالي وديا بطنجة بدل غانا",
-      "description": "المنتخب الوطني يواجه مالي وديا بطنجة بدل غانا Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5VDdmeS13OUQtTkhqNmV1SDlBYzBxTXV2elRvaVRYUU84dU0yY0U0enBzd0wxd2t2dG1aZGZVcVA4Wmll?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Thu, 29 Oct 2026 19:23:17 GMT",
-      "local_url": "/article-372618694b83.html"
-    },
-    {
-      "category": "sports",
-      "title": "ملعب هسبريس | هشام الدكيك",
-      "description": "ملعب هسبريس | هشام الدكيك Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdzZLVWJpRmxSd0JWYkh2aVpNS3JJZ3hWM2ZDbzI2MzVUMmpoZlBwNW9VUXRuX09IYkVsYnpCSG9rVllzZE9RTERwZy1TQzdYMUotYkttN2x0OV84amNSVFZYQW0xSWhhcWZ4T21HakN2UGJ3V3Q1UFdDSHAxQXRWZW5zRlJ0dXVBTUZKUlNfZnlnckh3bDg1czlLSGZmcUdhLUU3TC1sdUNBUDFkNUVWVHU4aXB5QVJUMUQ3VVg2cU1MdWY0UFZNMjRfVDRKU0VYc0dUVTZlNTJCa1p1TVRjemI4RExIUU9OcVVBVWh1Zlh0NzQ?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "local_url": "/article-9004b5b69cca.html"
-    },
-    {
-      "category": "sports",
-      "title": "كرة القدم داخل القاعة .. المنتخب المغربي لأقل من 18 سنة يشارك في منافسات الألعاب الأولمبية للشباب بدكار",
-      "description": "كرة القدم داخل القاعة .. المنتخب المغربي لأقل من 18 سنة يشارك في منافسات الألعاب الأولمبية للشباب بدكار 2M",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNQnY1d2toVGxsc2tIMVdwcnJDUEhGQjFORUhzUWVUWDdTbFFmUFZLQVpvTWJUVU5QckxqQ0JpTG54Q3lPbnRfVzBmOEQydTVMV0VOLVgzLVVaaXZlTV9HNmlUMGR1dkI4bGVZX091ZnY0MWNVX0NualhNR1QyU2VCclNva0cxUE5Ca2NKM1lvY1phdWlSdjZIVnZjQVRDZHZhWUY4d2c4NGV0aXktdk9yTmQ2Tk11NVRmNU1SUEg4SkxFS0o2VVZpY2Z4dXZFeDRMRGtiU2pSOHAzZlAxLVhhSlpyUGdUeDdwVExfdEpJV0pLekhpc0xja213NU5XYk9tTXN5V0FEVzJPcnlkdUZyQ0h4cUZMTWw1T0xNS1k2SHV6NTdKb0xLOU5tMkpSQnlKTDQzb2w2S1VhQklxTlF4MTFGVXQ1SXdSMjhKMWdBN0dHVVFEdUp0Y3ZOenllUzd0OWtiTWI3QW9yZWpmd3FnRm8zVUM5YlBuM21TeW05TUlveDFUYU9Ia1ZCb1E0NXY5eVhmUXkxclJWeGpZZmR0cEh0MklZS0hzeDByR3ZGZ3k0eHhCZzdLcG5IZ2JGVWM3NUZzSGdRU2FrN0pkTDJ3WkNqSXc4bDg?oc=5",
-      "domain": "2M",
-      "source_url": "https://2m.ma",
-      "date": "Thu, 29 Oct 2026 16:52:00 GMT",
-      "local_url": "/article-4fd3535999f8.html"
     },
     {
       "category": "sports",
@@ -269,17 +302,6 @@
       "source_url": "https://assabah.ma",
       "date": "Fri, 30 Oct 2026 03:08:43 GMT",
       "local_url": "/article-b8ed35152604.html"
-    },
-    {
-      "category": "technology",
-      "title": "Amazon cloud business accelerates but shares drop on profit miss",
-      "description": "Amazon cloud business accelerates but shares drop on profit miss AFP.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yTld1enNHbGFqNGVmNUV3ZmRkTGhHNU5WTmlqQTJuM1Z4SVFqS2lsdDNYQm5OeHQ0S1YyUV9CdnFfdm12NUU2NGxQTQ?oc=5",
-      "domain": "AFP.com",
-      "source_url": "https://www.afp.com",
-      "date": "Thu, 29 Oct 2026 23:21:12 GMT",
-      "local_url": "/article-5bf0afcd1e37.html"
     },
     {
       "category": "technology",
@@ -393,17 +415,6 @@
     },
     {
       "category": "general",
-      "title": "فيتو روسي ضد مشروع قرار حول الصحراء",
-      "description": "فيتو روسي ضد مشروع قرار حول الصحراء Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQN3N6VXJQd3JZU2pNVjdTekZYWlZtN0JFZmJIZVdwc3YwZm4wOGhRaHNrbXR0TDI0c2Y3eDQ2VzEtUHhpREZ6ZDlqLUNYajlfby1oX2x4YURtRkxGY2ZKOS1WQTBrU1l5SWhqTEdac1EtTHhOWEY3M0FGV3NRUEhpVW1PM3BaWmhGZmwxNnpvVW14aTJmdElIZ19QY293WlM5UjlXaF9QTjAwMExIVEdwR0JndzRPN3Vjb1JTNFYwbXhFWVlyWHZZMWVSbmlYSlF6OGJNTXRkSjUwTVZtT1N0dUN3Wlc4U3EySTkwRkNIcDlOWjQ5OENVcm9hUmpFbGxHNUZ6MW4zMzVhYW1JVVZPWEMzSFJsTWo4LUduYUVCSkRUcUlKby1vbjI5WGwtbXBSbzR6Z1NwWHJJV210emFZ?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 30 Oct 2026 21:55:55 GMT",
-      "local_url": "/article-9a5b4bace32e.html"
-    },
-    {
-      "category": "general",
       "title": "الديوان الملكي يدعو إلى سحب ملف الصحراء المغربية من مجلس الأمن",
       "description": "الديوان الملكي يدعو إلى سحب ملف الصحراء المغربية من مجلس الأمن Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -426,25 +437,14 @@
     },
     {
       "category": "general",
-      "title": "موسكو تؤجل حسم الموقف من الصحراء",
-      "description": "موسكو تؤجل حسم الموقف من الصحراء Hespress",
+      "title": "أمريكا تستخدم \"الفيتو\" ضد مشروع قرار روسي لتمديد ولاية \"المينورسو\"",
+      "description": "أمريكا تستخدم \"الفيتو\" ضد مشروع قرار روسي لتمديد ولاية \"المينورسو\" Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPUV9fWmh3QkttRTRzUGZfQXNtSTcwZmNJTnZmcUVzVVAxT18xTFJkeHdGM1JRSFVycTJUTTBMM1kyWVlKQVN2TFczN2RnWE51VTNsQnY4T0p3a0NETkx2cFRMNURSOXNYclVyU1ZaRVI5aFF0akdKX3k5aGx4QXlYTldCZWZhLTFIeTgtaHhBTHdQRENrTnJjVkl0OWtnZExweDRjWGpST2dva2diNkJPRUlGX01LTWRlNm5TWXVJUnJjSkpqeXNrTk94bUNXTmFRWThmZHZvNlZ5Z3dRQlJ5TEVqN0V2UDRYU1FPd2ZQMU1NeHdxQmdHZlN1RnlrQ3ZxelJPTGJWdDN2UE1MSnMtX3VLWUFkZ3hYdzh6ajNfa2VQTFExYmhOWHVPYWlBUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOQzFMTi1VMU9peUlUOTFLdVliT1F1eUQ5S1RKV0F1QmROWGUyOG5RLTFTd3lyVkRHTVBFaml5SExuTElEdElDd2ZVaUdLWWFrdThJTXVPM2huejEwRFRydVJBM2tYZGN2dXNQRkJiMndCUEVQN3ZuQ3F4S1Q4Z2VxanhGZUNtTk1SYmRKaVEzQ0pGb1psVDdpdDJMdF9pTnVyTlpHNjJLWkpaVGRPMzNDd1lPOFZVYlFGSGo5cmdDbWpEVi1qY0FKQzRIUVAxS1l4UHFLQzhic1ZFZTFDcFRRM3VLdXpmZVIzVjFmYTEydW5YQlppY0NoNE9DUE9zYUUwODExU3I3QldnQWItc3pObklzU3lWa3Jtc3NHX2lUbzdQMlI5dWgwaXlsMVhyUk5iSUotMzgxaTUtcklMQnVFcFJ1dVJ0cGRQbUR2dTBKVQ?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Fri, 30 Oct 2026 12:05:12 GMT",
-      "local_url": "/article-2602c368dffa.html"
-    },
-    {
-      "category": "business",
-      "title": "رصيف الصحافة: مطالب بتوحيد تعريفة الفحص الطبي عند 150 درهما",
-      "description": "رصيف الصحافة: مطالب بتوحيد تعريفة الفحص الطبي عند 150 درهما Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNckRWcmxMY3FhQ3NxdXpQNENaalFlcU1sRDNLS2ZjeHlhZThtRS1odmhlUTFmT2RIZVVuSmotLVg1M0JmZnp4YlM2b3NUSUk1all1UnhnRnRvVVF2R1JYcURBekRKMUM0Njlvd3pNdGZqeEJuQkdIN1FlS2RWRkw4ZnNVbmc3eXI2TEQ3Q1JteFU2QjhNOHEtRE5qVmhHZVZESTJBMEZ6ZHNpejZFX1J2UFFuWVpIZl9LOUI4dm1vcVFhTUhfMUprNC1jdzNJVjRjVFVRX3pUUFp3dlFRTWVCSUcxallaWlhYRmpxaGhYWmZvZTBUYWJqV3hxMHhBVHhLN0hWRjFRZG5SNDkzNXNneGM0OHZnVUdFNkJPZTVDa1BNT0lhT0M5X01IbWtKTEpEcmxTUV9raVRZc0FRTFlLOEpUWnFDdGZ2dDNtMUNIT1RQY1p6YUE?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 29 Oct 2026 22:07:03 GMT",
-      "local_url": "/article-307f7e269bb8.html"
+      "date": "Fri, 30 Oct 2026 20:52:10 GMT",
+      "local_url": "/article-d0e1d80413b1.html"
     },
     {
       "category": "international",
@@ -456,28 +456,6 @@
       "source_url": "https://www.reuters.com",
       "date": "Thu, 29 Oct 2026 18:22:29 GMT",
       "local_url": "/article-1dd34548db6f.html"
-    },
-    {
-      "category": "international",
-      "title": "صندوق النقد الدولي يتوقع بدء محادثات مع أوكرانيا خلال أسابيع",
-      "description": "صندوق النقد الدولي يتوقع بدء محادثات مع أوكرانيا خلال أسابيع Reuters",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4NzlpdzlrMXhRZ3RZdEVvZkhnREJYaVVWTXktdWx6R0R2X1gxcXJoLU9fZ01lbXUzVlBPVjBhM0oyRzhSSTg3UzIzcU9nYlZoSXUxYWhkbk1Oc25jSHZaWHhLdzJ3RWcwQTdQUFdvMzF0azQ3VDhFM2ZmSm41Y00?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Thu, 29 Oct 2026 15:41:43 GMT",
-      "local_url": "/article-9c0ad52a1f67.html"
-    },
-    {
-      "category": "business",
-      "title": "المغرب يوسع البنيات المينائية لتعزيز التنافسية وتحقيق التنمية المجالية",
-      "description": "المغرب يوسع البنيات المينائية لتعزيز التنافسية وتحقيق التنمية المجالية Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNLUFYeFBjbExuU1pDZHU2UFA5VGdtRWdkX09UVjlYbWctRVdGYlo3TFFoWUtZVVdHaC1rY0hfVS1QSTJRQ1J6dWdUTEs5SWY4YjdmaFA3cmVtN3NZclJjTldoT3FRRC1LY290NG1vNU9RckdTdG5SbmtKWllacWdGWTVDZi1aaXMwbGhzOWs4Y1d5eVVycV96MkNZUDJ0MGdwdDVZdEJzczdVYXR1WUc4ZEo2Rld3WVJHVFh6V0F0QXpGaHBTaVo3MEdRbzJMbS1UTkJMbGNuZC1KUUNoNkNCdFlobEx4M2twaHdMOVRKUTFtZEZkXzBZU0JJRzFoMWd4ek1ZVWd0d25fekI1d3VyeVRkWnRZaWx5RVZDMHdKNnZWY1A0dGstMVNCY0VwbGVFNmZ6Mk5vaDBLQldldU9ETVpSUldrZ3ZzOW9Hc3d3?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 29 Oct 2026 14:03:14 GMT",
-      "local_url": "/article-432f1f1b2ef8.html"
     },
     {
       "category": "international",
@@ -502,15 +480,15 @@
       "local_url": "/article-ee15076422ec.html"
     },
     {
-      "category": "business",
-      "title": "\"لابروفان\" لصناعة الأدوية تتجه للبورصة",
-      "description": "\"لابروفان\" لصناعة الأدوية تتجه للبورصة Hespress",
+      "category": "international",
+      "title": "التحالف يعلن اعتراض مسيّرة في الرياض، والحكومة اليمنية تحذر من خطر دعم إيران للحوثيين على الملاحة",
+      "description": "التحالف يعلن اعتراض مسيّرة في الرياض، والحكومة اليمنية تحذر من خطر دعم إيران للحوثيين على الملاحة BBC",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZTlhUXVqSG1JWjFUZnctdC1zZEJqRXVpUHduQjV6bGlyNk1PelAyeWcyX3RBU1dFNEd1aGQwRTIxTnFfSU9HbTMtejBfLWdSNGxLZUtZYVcxbG5vYk1xM1kxUW5FNDh5N240b1FON3dTUUI5aWVPcGZicmtLTW5aWWpfeUIzSmV2czBRd2UyTTEzRG9icURNc0NWV0Y5MngzUDlhUjh5Y21FcVgzN1k1Ujg2QUVYS2JBNER0Z3kyN3o3dVQxYWlpc05jZWtxQlhUNl9UZEhuamJnaDFEbFE5N1Q2bVpxTVh3Vk5rVkFYbTVRTlNqZ3dTaFNwWVV4enFtVW9ydU1uM29YcEhuTTZXNDlwSl9uSDZfdElLR2VSUnBMc3V3Rk1JMXZlMGQtellnejdOeFlPUTJwbWIyN3Y0Vm9nWWwwT0ctaXo2ZUdn?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 29 Oct 2026 12:23:17 GMT",
-      "local_url": "/article-773318fa8577.html"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4za3ZpUlpvODFqV3lScXFuVHVtdnhwT2FFb0lVVzVMcEtaZVFwTTViOEl0TGdfMWsta252N3htQkZfOE14Y0xkWnhudWpMTFNob3hWVnlxbnZHLTlWSFHSAWNBVV95cUxNcTEzb3JDWGd6VkFCZ1pWQ1V4MlJQclRQcUlYLWFNNFNOYnZJRW9ZZXlrTUJZakpfamZlay1QcWN1aURKcnNta0hmNnVOMlpfYlA4RVlhTXNQMmJjdUxGbjZ4Z1U?oc=5",
+      "domain": "BBC",
+      "source_url": "https://www.bbc.com",
+      "date": "Sat, 31 Oct 2026 01:05:26 GMT",
+      "local_url": "/article-54db29e22654.html"
     },
     {
       "category": "business",
@@ -525,17 +503,6 @@
     },
     {
       "category": "business",
-      "title": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت!",
-      "description": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت! DW.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNOXJCNnd5cEpYS0FTQ2t0cXE3VGNWQkxyTkRpZ2tTaXpHa1V5VTJoeGp1MHl5WE82aHdWd1NUVkF1MFVHWGs4UXc3Wjh3YmlEWG9Oa3lDTC1HYWd2MGE1SWhKNUNXTjdYRm5Hb3NmT3MzYnp3LThLcVBkek5PNVBGQnJsaDhMWW5QT01Dc0twMnNZdGtBaHFRdTdueVVsT0ZXV1pSMm9DaTVObmVfcXYzbXVxcVR0WExoeFNpZ0lzV3FoZlBtVGd4OUg1bTRwRWlmVDFwU0tHcy1NcHVpOHhtMDF2cE1Dby16NDFGcnZWa0t3T0hVUFMwUmpkQUp0cWNPMEpkYjZKaHEyZnM5Tm9ySXdYQ2Q5RVZfYVgzRGVYV3RQRkxhUkplVmpaUTdZQzJ3eDEyY2gzV1RORFU0MWVZVFZ2b3h3Sy1fbllrc1BiNFRqUjdSSFkwREVBLXV5RnR5YmlpcExFaHphMUJFQWZuNk1KNTJQM0VPNFFneDZWcUZqOGY1RXpjWm9Pb2xTaXRCeGFFaTYtLWdveFZFaGJDTzVEWnNNMnlUVEtKREVrdw?oc=5",
-      "domain": "DW.com",
-      "source_url": "https://www.dw.com",
-      "date": "Fri, 30 Oct 2026 21:02:31 GMT",
-      "local_url": "/article-0fed6babe9b6.html"
-    },
-    {
-      "category": "business",
       "title": "روسيا وأمريكا تستخدمان الفيتو ضد قرارين بالأمم المتحدة بشأن الصحراء الغربية",
       "description": "روسيا وأمريكا تستخدمان الفيتو ضد قرارين بالأمم المتحدة بشأن الصحراء الغربية Reuters",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -544,6 +511,28 @@
       "source_url": "https://www.reuters.com",
       "date": "Fri, 30 Oct 2026 20:03:00 GMT",
       "local_url": "/article-7befdd7b41c2.html"
+    },
+    {
+      "category": "international",
+      "title": "Tunisie Telegraph قرارات مغربية لتنظيم واردات التمور تضع الصادرات التونسية أمام تحديات جديدة",
+      "description": "Tunisie Telegraph قرارات مغربية لتنظيم واردات التمور تضع الصادرات التونسية أمام تحديات جديدة Tunisie Telegraph",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQYkZ6QTZ6TTFGWWQ2VFZabWtfRUZRa3JXMHphbUhvZVRpcXRrbUhsY0hKcVVjRzUyRmQ2OVBZTkxzd2ZwVWZhWTJFaklrWXdoMG04WlZ6aDJoVkNQVjRXamlXbmkwSjZXN3d6ekFXWU5YWjdUOWxaYXRabmRXTjAwTlI3VXNTWXMwY1hrcXctTW1jYUhvam5WbENvamgyRUU2TGYxd2UtNnFwLWV0TWh2MU42dlpsY2JhaDlpT2lNSjlWblUwV1FrbmlLRHhiSHFsQWFVeTRuT3RiQ00xVzlNYlppNDNGYjlUSV81NWR4TWZHbUtuMThyUU1fQzFITTBnTFpvMXFNM1dTMHVsTVBSNFVyVVJ5TXZDVUdvam9nQ3VVZzRWQzRRanRPNmJlNzFucTBXbkdwMkJSMzdzS2hDVTgzZlJXV3dkZi1xbldxWDhidXQwN0pUYnhZQWZtcThRSGR6U1ZET2JBRUlKRURJdDVNVkdqT2ZWY1Y5ZW5nMjg1S2hNdDB0bDNR?oc=5",
+      "domain": "Tunisie Telegraph",
+      "source_url": "https://tunisie-telegraph.com",
+      "date": "Fri, 30 Oct 2026 11:52:30 GMT",
+      "local_url": "/article-c223ecf29a69.html"
+    },
+    {
+      "category": "international",
+      "title": "Tunisie Telegraph وجه عمره 315 ألف سنة… قد تصادفه اليوم في الشارع!",
+      "description": "Tunisie Telegraph وجه عمره 315 ألف سنة… قد تصادفه اليوم في الشارع! Tunisie Telegraph",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxORVc1TlNtR1pFT3JSR1BNQmZWMFBmUFV1ck9IYjFySTh2a2MwQ0oyOEpUMWs3UHNod3BSZjMyNWRzZ3JXR3Nva1lBMWJSQmJXOGozcTBGajBrVkdEMFMwVk9vZk9yYUtzc1VPaG5fc2hWUU9DVjIyMGg4WVdMTEprU011MzhzX1dUUDhvSGI5eUdld2VfVVlPQ1ZqYlNfWnJsZTgtdmM0dFhBanFyRE1fRGhRX3ZmVHNoS1pYZ1ZsT1Exd3lDZUhaZlRTMkp2aHdQeHBnczhfbWJzQklKR2JvdzA3NnJfYzZlSlZzWWRLX09iYmdvSy1mWFdzWmtUYXU2Qm5wRzEzZnNPbkVRSWp1bkk1amxJXzFWSE42dzNJSU1SS0dtTGx1SzNTOFVyMEh5OFNCOVQyU2tva1BNYW1xN1JRSzRkVTBNVVY3eklEbkNNMWxBNlRvWg?oc=5",
+      "domain": "Tunisie Telegraph",
+      "source_url": "https://tunisie-telegraph.com",
+      "date": "Fri, 30 Oct 2026 11:49:00 GMT",
+      "local_url": "/article-da1c1b518e27.html"
     },
     {
       "category": "business",
