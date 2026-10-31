@@ -1134,6 +1134,15 @@
     "date": "Reuters • Fri, 30 Oct 2026 20:03:00 GMT"
   },
   {
+    "category": "policy",
+    "title": "الفيتو يعرقل مشروعي قرار لروسيا وأمريكا بشأن الصحراء الغربية​",
+    "description": "الفيتو يعرقل مشروعي قرار لروسيا وأمريكا بشأن الصحراء الغربية​ Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-94b043d27c27.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Fri, 30 Oct 2026 20:03:00 GMT"
+  },
+  {
     "category": "general",
     "title": "المنظمون: رالي دكار 2027 سيقام في المغرب والبرتغال",
     "description": "المنظمون: رالي دكار 2027 سيقام في المغرب والبرتغال Reuters",
@@ -1603,15 +1612,6 @@
   },
   {
     "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 29 Oct 2026 22:49:28 GMT"
-  },
-  {
-    "category": "general",
     "title": "المغرب ثاني مورد للأفوكا في إسبانيا",
     "description": "المغرب ثاني مورد للأفوكا في إسبانيا Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1942,6 +1942,60 @@
     "url": "/article-c5aecd5aaa69.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sun, 18 Oct 2026 06:48:59 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "بن زهرة: جلسة الصحراء في مجلس الأمن تكشف ارتباك دبلوماسية الجزائر",
+    "description": "بن زهرة: جلسة الصحراء في مجلس الأمن تكشف ارتباك دبلوماسية الجزائر Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-951895e75c4b.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 31 Oct 2026 19:02:19 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"الغازوال\" يرتفع بدرهم والبنزين يتراجع وسط تفاوتات بين شركات التوزيع",
+    "description": "\"الغازوال\" يرتفع بدرهم والبنزين يتراجع وسط تفاوتات بين شركات التوزيع Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2c9892384516.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 31 Oct 2026 18:16:55 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"البام\" يهنئ الملك بمناسبة عيد الوحدة",
+    "description": "\"البام\" يهنئ الملك بمناسبة عيد الوحدة Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ee2e1982a78f.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 31 Oct 2026 15:40:14 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "قضية الصحراء تجمع مجلسي البرلمان",
+    "description": "قضية الصحراء تجمع مجلسي البرلمان Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-10026beea05c.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 31 Oct 2026 14:13:52 GMT"
+  },
+  {
+    "category": "business",
+    "title": "تضارب توقعات النمو الاقتصادي المغربي يختبر واقعية \"ميزانية 2027\"",
+    "description": "تضارب توقعات النمو الاقتصادي المغربي يختبر واقعية \"ميزانية 2027\" Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8f0b7deb5df3.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 31 Oct 2026 12:02:13 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c77f891b3dd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 31 Oct 2026 10:40:43 GMT"
   },
   {
     "category": "general",
@@ -2401,6 +2455,15 @@
     "url": "/article-d0e1d80413b1.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Fri, 30 Oct 2026 20:52:10 GMT"
+  },
+  {
+    "category": "general",
+    "title": "لقجع يكشف تفاصيل تخفيض الضريبة على الدخل لفائدة 5 ملايين أجير",
+    "description": "لقجع يكشف تفاصيل تخفيض الضريبة على الدخل لفائدة 5 ملايين أجير Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8d4a99e769d0.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 30 Oct 2026 19:08:11 GMT"
   },
   {
     "category": "general",
@@ -3015,6 +3078,15 @@
     "date": "France 24 • Wed, 21 Oct 2026 20:25:11 GMT"
   },
   {
+    "category": "policy",
+    "title": "الصحراء الغربية: فيتو روسي وآخر أمريكي يحولان دون تجديد ولاية بعثة الأمم المتحدة",
+    "description": "الصحراء الغربية: فيتو روسي وآخر أمريكي يحولان دون تجديد ولاية بعثة الأمم المتحدة France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-73aa7421fc5e.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Sat, 31 Oct 2026 02:38:48 GMT"
+  },
+  {
     "category": "business",
     "title": "الاقتصاد اليوم - لماذا يقلق ترامب على المصافي الروسية أكثر من منشآت الطاقة الأوكرانية؟",
     "description": "الاقتصاد اليوم - لماذا يقلق ترامب على المصافي الروسية أكثر من منشآت الطاقة الأوكرانية؟ France 24",
@@ -3304,6 +3376,15 @@
   },
   {
     "category": "general",
+    "title": "عاجل. - تحذير أمريكي من هجوم واسع في موسكو اليوم.. السفارة تحدد موقعاً وتنسق مع السلطات الروسية",
+    "description": "عاجل. - تحذير أمريكي من هجوم واسع في موسكو اليوم.. السفارة تحدد موقعاً وتنسق مع السلطات الروسية Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e553bbf40b4c.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Sat, 31 Oct 2026 15:35:38 GMT"
+  },
+  {
+    "category": "general",
     "title": "نفايات خالصة: مقطع \"أوديسة\" لإيلون ماسك المولد بالذكاء الاصطناعي يثير السخرية عبر الإنترنت",
     "description": "نفايات خالصة: مقطع \"أوديسة\" لإيلون ماسك المولد بالذكاء الاصطناعي يثير السخرية عبر الإنترنت Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3400,6 +3481,15 @@
     "url": "/article-9dfdd3c573fe.html",
     "domain": "NewsMorocco",
     "date": "DW.com • Tue, 20 Oct 2026 13:13:12 GMT"
+  },
+  {
+    "category": "business",
+    "title": "العراق اليوم: الزيدي يريد دولة يديرها الاقتصاد.. فماذا يعني؟",
+    "description": "العراق اليوم: الزيدي يريد دولة يديرها الاقتصاد.. فماذا يعني؟ DW.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f31c993e22e5.html",
+    "domain": "NewsMorocco",
+    "date": "DW.com • Sat, 31 Oct 2026 07:53:24 GMT"
   },
   {
     "category": "business",
@@ -4164,7 +4254,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-eac1cf004c3f.html",
     "domain": "NewsMorocco",
-    "date": "Assabah • Sat, 31 Oct 2026 06:00:30 GMT"
+    "date": "Assabah • Sat, 31 Oct 2026 05:50:35 GMT"
   },
   {
     "category": "general",
@@ -4408,6 +4498,15 @@
     "url": "/article-97f143425167.html",
     "domain": "NewsMorocco",
     "date": "AFP.com • Mon, 19 Oct 2026 13:36:08 GMT"
+  },
+  {
+    "category": "general",
+    "title": "شراكة وتعاون ما بين SambaNova وEmergys بغية تسريع نشر الذكاء الاصطناعي الوكيل للمؤسسات",
+    "description": "شراكة وتعاون ما بين SambaNova وEmergys بغية تسريع نشر الذكاء الاصطناعي الوكيل للمؤسسات AFP.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5df1066885ce.html",
+    "domain": "NewsMorocco",
+    "date": "AFP.com • Fri, 30 Oct 2026 20:50:00 GMT"
   },
   {
     "category": "general",
