@@ -47,14 +47,32 @@ jobs:
           print(f"Normalized canonical hostname in {changed} files.")
           PY
 
+      - name: Install Monetag ad tag
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          tag = "<script>(function(s){s.dataset.zone='12159035',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>"
+          changed = 0
+          for path in Path('.').rglob('*.html'):
+              if '.git' in path.parts:
+                  continue
+              text = path.read_text(encoding='utf-8', errors='ignore')
+              if tag in text:
+                  continue
+              if '</head>' in text:
+                  path.write_text(text.replace('</head>', tag + '\\n</head>', 1), encoding='utf-8')
+                  changed += 1
+          print(f"Installed Monetag tag in {changed} HTML files.")
+          PY
+
       - name: Save generated news feed, article pages, archive and sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json articles-index.json sitemap.xml article-*.html index.html
           if ! git diff --cached --quiet; then
-            git commit -m "Normalize canonical hostname to www domain"
+            git commit -m "Install Monetag ad tag"
             git push
           else
-            echo "No canonical or news feed changes."
+            echo "No canonical, news feed, or Monetag changes."
           fi
