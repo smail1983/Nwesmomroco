@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-01T14:55:00+00:00",
+  "updated_at": "2026-11-02T06:30:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "🇺🇳 دوجاريك: انتهاء المينورسو لا يعني نهاية جهود الأمم المتحدة في الصحراء",
+      "description": "المتحدث باسم الأمين العام للأمم المتحدة يؤكد استمرار الجهود السياسية بعد بدء إنهاء عمليات المينورسو.",
+      "image": "/guterres-western-sahara-2026.svg",
+      "url": "article-dujaric-minurso-november-1-2026.html",
+      "local_url": "/article-dujaric-minurso-november-1-2026.html",
+      "domain": "الأمم المتحدة / NewsMorocco",
+      "source_url": "https://www.un.org/en/node/249761",
+      "date": "1 نونبر 2026 · NewsMorocco"
+    },
     {
       "category": "policy",
       "title": "🇲🇦 بوريطة: ملف الصحراء المغربية دخل مرحلة جديدة بعد تطورات مجلس الأمن",
