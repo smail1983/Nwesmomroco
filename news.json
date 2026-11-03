@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-03T19:38:08.919622+00:00",
+  "updated_at": "2026-11-03T21:59:41.191Z",
   "articles": [
+    {
+      "category": "policy",
+      "title": "الأمم المتحدة: اجتماع لمناقشة تداعيات الفيتو بشأن الصحراء يوم 10 نوفمبر",
+      "description": "تتجه الأنظار إلى اجتماع الجمعية العامة للأمم المتحدة يوم 10 نوفمبر لمناقشة تداعيات استخدام حق النقض بشأن ملف الصحراء.",
+      "image": "un-veto-meeting-sahara-november-10-2026.svg",
+      "url": "article-un-veto-meeting-sahara-november-10-2026.html",
+      "domain": "NewsMorocco",
+      "date": "Tue, 03 Nov 2026 21:00:00 GMT",
+      "local_url": "/article-un-veto-meeting-sahara-november-10-2026.html"
+    },
     {
       "category": "technology",
       "title": "عاجل: ميتا تسعى لجمع 15 مليار دولار من شريحة الدولار الأمريكي ضمن طرح سنداتها",
