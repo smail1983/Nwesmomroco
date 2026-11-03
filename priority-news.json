@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-02T06:30:00+00:00",
+  "updated_at": "2026-11-03T14:20:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "🇲🇦 تطور جديد في الصحراء المغربية.. تقارير تتحدث عن ضربة بطائرة مسيّرة",
+      "description": "تقارير متداولة تتحدث عن استهداف عناصر من جبهة البوليساريو بطائرة مسيّرة شرق الجدار الأمني، مع التنبيه إلى أن أرقام الضحايا غير مؤكدة بشكل مستقل.",
+      "image": "/drone-sahara-report-2026.svg",
+      "url": "article-drone-sahara-november-3-2026.html",
+      "local_url": "/article-drone-sahara-november-3-2026.html",
+      "domain": "مصادر متداولة / NewsMorocco",
+      "date": "3 نونبر 2026 · NewsMorocco"
+    },
     {
       "category": "policy",
       "title": "🇺🇳 دوجاريك: انتهاء المينورسو لا يعني نهاية جهود الأمم المتحدة في الصحراء",
