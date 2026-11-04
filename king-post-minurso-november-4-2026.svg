@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#142b3a"/><stop offset="1" stop-color="#243e50"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d6b15e"/><stop offset="1" stop-color="#f4df9a"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#bg)"/><circle cx="1010" cy="115" r="190" fill="#fff" opacity=".04"/><circle cx="150" cy="590" r="260" fill="#fff" opacity=".035"/>
+<path d="M0 520 Q300 475 600 525 T1200 500 V675 H0Z" fill="#0c1d28" opacity=".8"/>
+<g transform="translate(770 210)" fill="none" stroke="url(#gold)" stroke-width="7" opacity=".95"><path d="M-170 185V65h340v120M-195 65h390M-155 65l155-90L155 65M-120 185V95h240v90M-35 185v-90h70v90"/><path d="M-210 185h420M-180 205h360"/></g>
+<path d="M85 120h1050" stroke="url(#gold)" stroke-width="3" opacity=".8"/>
+<text x="600" y="315" font-family="Tahoma,Arial,sans-serif" font-size="49" font-weight="bold" fill="#fff" text-anchor="middle" direction="rtl">الملك محمد السادس</text>
+<text x="600" y="385" font-family="Tahoma,Arial,sans-serif" font-size="36" fill="#f3d98d" text-anchor="middle" direction="rtl">يتابع مرحلة ما بعد المينورسو</text>
+<text x="600" y="590" font-family="Arial,sans-serif" font-size="28" fill="#fff" text-anchor="middle">NEWS MOROCCO  •  04 NOVEMBER 2026</text>
+</svg>
