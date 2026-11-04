@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-04T14:27:51.478592+00:00",
+  "updated_at": "2026-11-04T20:58:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "الملك محمد السادس يترأس جلسة عمل لمتابعة مرحلة ما بعد انتهاء مهام المينورسو",
+      "description": "بلاغ الديوان الملكي: تعليمات ملكية لمواكبة عملية تصفية وانسحاب بعثة المينورسو، مع التأكيد على حماية الوحدة الترابية ومواصلة التنمية بالأقاليم الجنوبية.",
+      "image": "king-post-minurso-november-4-2026.svg",
+      "url": "article-king-mohammed-vi-post-minurso-november-4-2026.html",
+      "local_url": "/article-king-mohammed-vi-post-minurso-november-4-2026.html",
+      "domain": "الديوان الملكي / وكالة المغرب العربي للأنباء / SNRT News / NewsMorocco",
+      "source_url": "https://snrtnews.com/article/161745",
+      "date": "Wed, 04 Nov 2026 15:13:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل: تراجع حاد لأسهم كوريا الجنوبية .. مؤشر كوسبي 200 يتراجع بأكثر من 3.72% إلى مستوى 852 نقطة",
