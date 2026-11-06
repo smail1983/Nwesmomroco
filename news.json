@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-06T07:19:55.015078+00:00",
+  "updated_at": "2026-11-06T19:20:57.195589+00:00",
   "articles": [
-    {
-      "category": "technology",
-      "title": "عاجل: أبرز 5 أسهم رابحة لشركات التكنولوجيا والذكاء الاصطناعي في وول ستريت بعد ارتدادة الصعود",
-      "description": "عاجل: أبرز 5 أسهم رابحة لشركات التكنولوجيا والذكاء الاصطناعي في وول ستريت بعد ارتدادة الصعود CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNVFlNNHVGSm5rVHhtcnRvNWZIZFdIYWlmczYzcGFxckE4OVNPSTdLN0t3Qy1DS1ZfbTV6UklHUWFaNUFRQUkyMEk3WFc1bmFuOTlwMjd4NDV3MTBVRkJFZmg4bU05OG52MWJQWjloZnVCZ2pNWEdYMmZ0b2MyUFlvbl9IcHRjZXZJOGFiWHlyQ3l0VzUyS1pnR3ZsTnFfeDZFT3JMM3Z5ZC1JWUVvblNOSW1EQklKa3o0NVNxczN1QlJMQWxNRGRncEt2SGx3OW5vcmY1TEprNElNT0hsMm9kOTJDZk9ua0RkQ1hMVFNhUzJwb0F6VHJLeDBpaWNrbm9CMWliWVUybFNibXZrRVBIWjgyMjNjWFliRHh5TmlTVEJjUUV0X1pWYXozeE93Yl9EUXBxcjZfQWVMSjIwaDV5OVFJUDMtZ3U4ZlpkTkNJV3VnSWdMT25pQXFBakc5NWlGcVFTTmp0dHBTTjZjZHV2ME1HQTBYYnZxbnJSQ2R4RzFZQTRGLXV3aDNSU0o1NWtmZW51TjBSdUhrYjhIUE9kckhtVTlKdXhsaE5qUkwtS3k1dWpQcnNyT1p1dk9acG1COVZuaFFHWlFYV08zUDFyWkFqUTBsY19kOVUzc21QU1ZzYWVySUFBTmJxUGItaVVKeVhCREJYcFljOXo0aU5aTEVaNnNtVERPQVBIalhsWEt0azk1dzRlWkxjLU1pcEVZQTJoZVhoR3VDdUpMc3REaVcwZmRtT3IxOU9PWjFUSkdob1VXME1fRnFTLXRLd0NFalBVYzBzU2tnTkJ2aDZSelJoamZ5a3k5NVFDUHZudUg2V1hocXYwTV9yTDN6RkphamRKRUhoWEVmQlU1bGU4TUhoTGRPRXpJcUh5Qm9rODNqQkJzb3BPVmEtMHoxQ2xRaXEwVWJ2VmIwMXV3cDM5RW5ZSUFJRzZEbjB5Q0trZi1FOXJqNFM1MA?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Wed, 04 Nov 2026 19:21:10 GMT",
-      "local_url": "/article-a4bbc3d80a04.html"
-    },
     {
       "category": "technology",
       "title": "عاجل: «فايننشال تايمز»: مؤشر «UBS» لأسهم الذكاء الاصطناعي يهبط 8% مسجلاً أكبر خسارة يومية في 2026",
@@ -20,19 +9,8 @@
       "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxOTkVZcmhVeG85bnNQTGJMR0o4eXFmUWVLanFXT3B0T19ldTdqSGdISFE2VXphZy1LcFducTZlYVBqa0Q2Wkl1Q21aY191TEJtTWhXNGg4NzZ1QUZnVW52YmplaVFlbHdGR1NGTDlWY0FSLWhjQjJFVEVwSGVidWVrcFMwOUl4bXR3RXU1a2U0bFRDYmc1d25kZWFMQ3FBaDM3ZTlBMjNJX2dxQlN2QzZaQmpkaGpvcmdFalJ5MEF1MlA0X2RicjBVbHo5cnY0QmtGTFlqUmEtVWtISU55LXlhbEx2Z0NCakIwbldBYVVCVXh5aU5Fa2xpSWJjRXVwczA2Qzc0TWF4RW50c3l6TG1OMDBXOHlyTzRLNWUwRFhxMEZWdUtEbFJsY3lPSkxfcmpadjBoVHVCVUt4ME1POURtRVdwMUZqeEM0eXA4RXFMQ2p4ZllfRmppQWZhUFNhd05WR2ppQktWZE5NOFpWUExTQU80Ylc4RmJyaXJGUWlCT2NqRk5LSUhqTmcxM2I4WFVoUG9XSzFNa19UQ09mYmhMazFDb0cyZGJoM3Z1VnlUaE10U0s4MDh4dVZ0VDYzNTV2eDRuOHFpLTJ1X25sV0YzZHNfc24xZkdRTEhpWXluNHAyejNtVTRaYkZXREktSm9qaWVOVjJXQmZOakdIOWtmTm4xWUJoWXpBVk1QRFp0bzJCZlhpVjZSZ3pJVUh6c1dRNHZnVkNZakZMd1hFRVFCSHhTNGRwaUZad0FYWHQ0TkNHSVRncmZlalE3b3d4eldtS2dhVmNoZGduVTVYVDIwN0tya1ZfTEozbXIya2JqNzB0b0s3NV9MdFItMy1ydzlwN1JhckNCOV93UUtfcXQxclNBaw?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 05 Nov 2026 20:34:18 GMT",
+      "date": "Thu, 05 Nov 2026 21:14:49 GMT",
       "local_url": "/article-a1a39b001ab8.html"
-    },
-    {
-      "category": "technology",
-      "title": "عاجل: سهم كوالكوم يتراجع بأكثر من 12%.. خسائر محتملة تتجاوز 17 مليار دولار",
-      "description": "عاجل: سهم كوالكوم يتراجع بأكثر من 12%.. خسائر محتملة تتجاوز 17 مليار دولار CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxQZTQwMDM4dW1fUVEwUl9MWVlVLTkxdGY4OFoyb1JJYUpvU2Raa1J0TkpDN1R2bS1tcDdmbjIzWGY3REhDWmI3cVdHaHVDMHJDLXVLTXV1cGpaMC1MbFpma1NEVkFPNjgxY1A5QS1FX2Q0cE50RUJmQ0owR09peXJ6eWFIR21pYmdqZXZPaW1PMXNISVVvYTE3ZEJtREQ2X1k4b0ItUWJNall0UHRtdVFqVmhYbGlUZG8zS1NtYVJ6ZTV1S1dOZzhQWlN3VnhqaFF4c3pWSjZ5VU0xRFk3dTlleG00VC0zaWdlTWdrU0pvY0NfV3FVSzluek1jczlJLWpaMDF2X04wT3BsbWt4azJ5aDlSZ0d4MTNqNWNUUnk5dGN3dmI3YXJqR1BMYXE0OEJaU2VLekFVaGV5emlJanlhSHRMUGd0VzdhUEZsMzRSZFRZY0xkM2NaRjNlWi1ic3RZSmlLdWJzWHpRRmxKbjRzOWxDX1NXdlgzWG1HcDNRRDNLMDZONTBJbGlSZHo3N2FfRmNxaDhOQ2h0X0FlcTZLYURhcVdBQ3JGQVpoeGV3ejdJb1NtcWY5QjlQNHNmRHFDNklzajlvZktxRE1zZVI1U1BlYnR5RDl0MjI2SDhIZDl0V0J2TnBIMXFnLXFvYkJFZlBzQmtYX3Z2Z0hzc29xd0pFTFZ2clFQYUk4QVVqdzAyaUNlU1BLUC1DNEtCUl9EUE5XWm83cHVlUQ?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 05 Nov 2026 16:12:54 GMT",
-      "local_url": "/article-cb6ffe80c28a.html"
     },
     {
       "category": "technology",
@@ -46,26 +24,37 @@
       "local_url": "/article-bf8e9c1a1dc8.html"
     },
     {
-      "category": "policy",
-      "title": "قيوح يكشف تفاصيل دعم جديد لمهنيي النقل بالمغرب بقيمة 400 مليون درهم",
-      "description": "قيوح يكشف تفاصيل دعم جديد لمهنيي النقل بالمغرب بقيمة 400 مليون درهم Hespress - هسبريس جريدة إلكترونية مغربية",
+      "category": "technology",
+      "title": "عاجل: ارتداد 5 أسهم من عمالقة التكنولوجيا الـ7 في وول ستريت بعد خسائر حادة",
+      "description": "عاجل: ارتداد 5 أسهم من عمالقة التكنولوجيا الـ7 في وول ستريت بعد خسائر حادة CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQldDRTFiWEdLNWM4em1LOXNZR25yNHRoQnBMTHZqc0tPY1ZMTkMtUmYyVU9FeGUtTTE5cUFvR3NoanhhSlBMYUxCWGZRWXBUVEo0QmZ4cXhiVzBCeTA5ck4zODJ4TnRVakFrQlRFOGNDbGcza2ItNGYxTWlYVTdoRHRsTmVra1p3RTlIci1xZFZDNkczaFlOWnVMQzMzelY2ODQzRFpCb0gySEl6Z25tdU1kdjExb3YzcG96ekZoNWxOajVpclFMazZ2TTZZVkhabEJheTNVWEVyMWJOTkNBV0tQSndwME5hOEl3LUFDVXFXTHBkTjRWQng1RnRVM0w5VGFGRmhOMUZmM29Hd0stQ3pGUzN4TlFZcHJNRzBXTjI2NXdSZkg4TndaWHkxME83NVZYZExqMWpYcG45Z1k1X1htUEFwRVp4MlhUZkZsRHRYTngyM21j?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 04 Nov 2026 18:13:32 GMT",
-      "local_url": "/article-89052aba4889.html"
+      "url": "https://news.google.com/rss/articles/CBMijwZBVV95cUxPMy1fblFRSm42VVh5YXhjWmI4SUcwcWNqU0JhaXB3WC01ZXpsTzVTRkFDbXN6OWFyN3RDdlBwbjM1VVYwNDRpTGpNcl9sNWJvRnF5VlM1ajBKemtzNC1zR2FpZkRlRFM2TndmQlNIdzRoSHF6cDRHakZLWUdVYlRxZVh2aHhsdl83VDZYbDgzaEZ2Nk5qNXk0MGpFNExEUjZJWV9ZSGRIRFBZUm5WZ0k0ekh2c0RRamFSbUxWTUhtMEQ1X1R3Z2tvb2lPTG1acUhfWTM0enVBOEFGeG04bUsweWZDZVFSaUtNUG9wSjNsTlIxallmaVA2MExaYjcwN2o1bU1DQUVrdWU1NXNkaU1zcmRscmt0SUNNQUVRdXV3V1NyZ2QydDVWNUR0ektGcVZjMGVXWG1oMUxITkV0c2RpZlA2bkM4MTYtMzdfZXRsVjRMcFJqR1BocHgtNW5nYl9xSHJIOTJqcU5HNzdlTFJSSnJYUURDWXA3OU9TY0hVWXQ3MXlxME03QmV0Wi1XV1d5eThsVG9KUTJJREgyZWdINVgxRk03Z1IxdjFidkZ4d1otOVJaVi1abnJhMk16SW1XVkFpd1U3dEJiM0h4YlYzcEIzNGxVS0t3aG84SVIzVy0yYUdfWWZPMUstQ3E4Wl95Vkc4UTZhS1hMc3VuZE5kdXJ4c19xa1VTV1BtY1VUXzdNdXVDdmx6RkRZeDlMSnZjdkt5LTMxVjJ2bk1XU0xDVm5OamstLXQ4dmJZVklrXzQ2QkhueGZTMmZlcEFXeGNQRDhwZk9kU09iOTJCNXVNa3JZRl9mcTBxYU11eFFHak9sRi15cWNCWC1YcUotWjA4cFUzaUFXNGxQMUtFQjhXV2s3UW9lcmxZVndDd1ZXbnFwNnRYVkFGeGhLaVRScmlzX213SGRhdDlwNEFIWE5VVTJuYlE5Y0xRNmo1TEZDUnpvMXZseXE5VkFXaUtpMDZCdFFVajltTlZHeW80WGcxQVhhbUdIeFlvUnRSSzRtWmdwU1E4NmJGaUNkaUdmSlU?oc=5",
+      "domain": "CNN الاقتصادية",
+      "source_url": "https://cnnbusinessarabic.com",
+      "date": "Fri, 06 Nov 2026 15:38:27 GMT",
+      "local_url": "/article-39da80f88e2f.html"
+    },
+    {
+      "category": "technology",
+      "title": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق",
+      "description": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق CNN الاقتصادية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxQdXdsc1AtVlU0VVpxaXdJRVloZzRieEVoVUtLbE1PcnRYZzV4U0NTNlZEd2dHdFdRQUNiQzBvNjdYTzhKaU5iM0F3UDdYTzlMMlpvVW00dHlwQ3VwRXZMM2JxeEFOSmJSTDdzN3hIT1RIZ2ZsTzUyMDVnTWlXc3BicDkzZzJpUVFfMnd0RTl6WVY5OU9zb1Fwa3EzYnpFMG5zdGg1S3F1SGFENnp0WkFuUEJZLTBONlJCTW1kM2N1aDF3VGVBOHdLN1duanFFRXliQ0RYLWV2ZmZoWk9JVjUwdWVIcG4tY1lrNG9qR2tCYzBFaGxnaFBXYTduZVU3QjBEdU5uMW5nWm1qSjgtODZNQ2FkbjVsMGlfNTNkYWxlVVBVSlhZc2dWMkhOdlZKLWtfdC1WZTgwcE8zVUtIN3cteUt4bTVmZzlUbnN0VHFoa2VhTndmRFFaV3BpYm9RSFpGNWlySTROVDB1aklhSHlRTTdxXzlpeXotZzBTeHpPd0NOV2NoT05WWnNzd0F5RVNNWkpVd3ZsYW5EUHRqdUZiRmZvNGUwcEJpUkswZGNjQjFGSDdkNzk3X0ZvTHJBUm5YSUVyNzRSQkoyUE5pT0NuUjRvWHlHVkI4LTBUQXdHcDJOY0ZPMXFKZUFSdFpLdTNzSldKZTNoTjJ1WDBxRTYxMlNmZ2hjSm9UdlRqaVlfLTNrX2dIM1lMS2VLNUlSRy1zZFRaQnhpMXhiSFU0Y2V0UldjSVcyeVFocHk0X2stOWxHbWZtVjdCVVlyVUE3MjE5bmgwU2plM2liTHZHSFJJQ0JRVXBIV09BTFVvS3lacjNUUjREU1FGM19rYXZxVTBid2lGdl9WMy1ubGVNR3FYbQ?oc=5",
+      "domain": "CNN الاقتصادية",
+      "source_url": "https://cnnbusinessarabic.com",
+      "date": "Fri, 06 Nov 2026 14:54:58 GMT",
+      "local_url": "/article-72f355bfb419.html"
     },
     {
       "category": "policy",
-      "title": "الملك محمد السادس يترأس جلسة عمل لمتابعة ما بعد انتهاء مهام \"المينورسو\"",
-      "description": "الملك محمد السادس يترأس جلسة عمل لمتابعة ما بعد انتهاء مهام \"المينورسو\" Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "نظرة فاحصة-5 طرق قد تتغير بها سياسة أمريكا الخارجية مع سيطرة الديمقراطيين على الكونجرس",
+      "description": "نظرة فاحصة-5 طرق قد تتغير بها سياسة أمريكا الخارجية مع سيطرة الديمقراطيين على الكونجرس Reuters",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTUYwN0RpbV9VREdMUUVYNHV2Y3lwY1FGSmlBNDR6bzdMeVNHNjR4UDVEUmZQSUMtVGY0U1Jpd2VkQlZmTVI2RWlkSE9WdWtESElyejY2ellOVGh0T1RvWmdmamFvSmZkSHR0dEFQZ1VwZG5JU1hEY0FobmlFRjFDNE5MSExtSVplemZzVTRpR2t0WTRsX29mbU9tN3RVUnU0dlpOalVvSndmNHJBTzZGZm5WSUxUVzFHNDNyc3FuYmM5bGlPZlpBSUNDLU1hQWJkNjdBWlpBU1N3QmVQZl92aGRMc1pTMXdIX2JGQkI0djZieE93Zmd2c3hvaDJFNHB4Rl9mQXFBMDV2UTYteFB6Uk9CRHowenljcUdWTXRzUFZEeVVmaTZraVBGMWpDOUZHb2FOYlJDRUFwRk1qSEc0MkdfSENxTWt6UEdGLVZ1RE5JSlh2eVE4?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 04 Nov 2026 14:56:07 GMT",
-      "local_url": "/article-f191b5bb0e0a.html"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94c0w4LXozaFhMckNDajlzTkM0X2ZyU0dfRmxyZTBLbzV2ZXdCTk1JSnlpM05VdVgyLWhaTERTLXRDakV3Q1loMW1XQXp2Y1E0RFZqQktDcUFVT1ZwOGxiOWFlS3c1XzI2RVJnWjkwWFNqcDBVeEUxcVJRcw?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Wed, 04 Nov 2026 21:25:44 GMT",
+      "local_url": "/article-9d824a56fd72.html"
     },
     {
       "category": "policy",
@@ -87,6 +76,17 @@
     },
     {
       "category": "policy",
+      "title": "مصدر حكومي يؤكد وقف صادرات الطماطم نحو إفريقيا لحماية السوق",
+      "description": "مصدر حكومي يؤكد وقف صادرات الطماطم نحو إفريقيا لحماية السوق Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUFVweTVtaUFHVFkwRmlCbUlLUXo0dGxHNUY0VWJIZFRrLUVQLVpGWDVGalVMN09Dc2twZ1RZTGpZaU9OMy1mQ3ZtWGRveVhFVmhEUnd3M1J5QkZsZEhNckp2eFJybkhjSUh3YmhKclE3d0daaVJwX1NpcFdrSU5kVDhTYXM2SUxqd3NQUkNVRXlHcHJEUy1vN2dZaW5PX2lrUkZaYnlvMlBQdkFJWHpjQ3Y3cC1DVFFaUGlJamFJTGFuOEh0eUdFZGhUV0wtTEt4Tk9Sa1M4UGd3ZFdJdmZjY0RWZm9HbWRGSFJ2Y3ZPVVU5S1F6cnZlZmNsbjNHOW0xaWF1OExKbDhCcUlYaHo5dXk5SG8yUWJhQ2lkVGpmSTJxYXdQUjhvdTcwb3Y1d1l2V0NHTnk4TExNLWdPWWpodGVWY3VXb1Y4c052Vm1xWEdtdlNEQnc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 05 Nov 2026 23:36:30 GMT",
+      "local_url": "/article-d43518fc0f32.html"
+    },
+    {
+      "category": "policy",
       "title": "لفتيت: خطر الإرهاب ما زال قائما.. والأمن المغربي يعتمد اليقظة والاستباق",
       "description": "لفتيت: خطر الإرهاب ما زال قائما.. والأمن المغربي يعتمد اليقظة والاستباق Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -98,36 +98,69 @@
     },
     {
       "category": "policy",
+      "title": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة",
+      "description": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQMDlRZEk0MU0ySTRBNjdfWkJIMl9LRnJCRUhMUFZranpTVFF4V1pXMTljU1dRbDR5RVZzRmRHYklLMll3MzVnanRsVFhyU1JzRTVYMlM2U2VFbTdPSkZyMkVObXNSbWRjcGU5OFl1MG9UZlVhZVdPSW5IN0xDaS1DVWNYU0lFcnl4WnV1MHIxeU40UnRDeHpBeExxcmRKN0Y3Wk8waUp0bTRhWjhjdDJ3UUxJVm02RDRCUjZOWVJJd2l4YVM1MU55YkxjWjd6YnhWXzdZOHBLSEd6dEdoWG1BZUpCSk5PSzRGWWhJVGtWbjhnSHpVM3hJa0lGUkJYZ2FJTU8wMzEyX1hVcXlXeVNwdjRYZVpLNE43UjJsT1dqQ2tUQXB2LU5JUUE1MGlrYjZ6VmF4bjZDcDZVeDF3OVNmMGN6MExfcFpIZHVaYTdveW5YcjM0?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 05 Nov 2026 14:07:45 GMT",
+      "local_url": "/article-2a008a6d7766.html"
+    },
+    {
+      "category": "policy",
       "title": "Head of Govt' Welcomes Morocco's Constant, Firm Position on Moroccan Sahara at Cabinet Meeting",
       "description": "Head of Govt' Welcomes Morocco's Constant, Firm Position on Moroccan Sahara at Cabinet Meeting 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1llNVo1MFVQVkc0V0RSYjJDbGtEN2U0NUNjSExQRTZfaGxDTDhpMHB4XzQ0Skc4Z09GYWF1RWt5YTZOSmY4dnQ0OXlnR1RkSnplVzd3dUdDeEc4UXpkNFY2bnRjclhOUGV4enI4WDJJSVJtcTJIRGFSMnpvWWd0M2tEQWp2cy1RUmdQeUd6SWpEVndVYTlJU1drN0VqQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNC11MExybmU3dGFoNzY0djlreGpZejh0dWVtQWNUTzZFRDBONFk1WUNSS2RIMWg1bUwxbVhyZEkxdHZDSFNDMWUzRWUtNFA1R2FXSUd2TDdoWHZPdXdUYkVxWDZnU1VLdHBkeWJQRmdvdzd4Vlg4RUtfanFTZkM4eVdieDljYWlPSVhvRlR5ZDFHbzUtbi1oVTA3OFVqUQ?oc=5",
       "domain": "2M",
       "source_url": "https://2m.ma",
-      "date": "Thu, 05 Nov 2026 15:37:37 GMT",
+      "date": "Thu, 05 Nov 2026 07:24:00 GMT",
       "local_url": "/article-0845f0f92ee1.html"
     },
     {
       "category": "policy",
-      "title": "مجلس الحكومة يصادق على تعيينات",
-      "description": "مجلس الحكومة يصادق على تعيينات Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "تحولات أممية وأولويات مغربية ترافق تخليد الذكرى 51 للمسيرة الخضراء",
+      "description": "تحولات أممية وأولويات مغربية ترافق تخليد الذكرى 51 للمسيرة الخضراء Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNY0JMRHo5YnRwR2YxOXpuZmh5TFFDNks0S3FPYUtKelgzWlUtc29lRnlHTVlYa1lqcVBlLXNfdXc2Zkx5czdwQ01sUmhZRUFUYTREZ181TUhQSDlYaDkwUkwzTi1FYURXNk9fSnFQdkNsNUhVZFF6MXZJWFYtVFFLSVFBbGZjVVlqdzBhRno5ZnRNZ05GM2Q5aEUwcmYtaFdKeGJPaHFPa2Vnbl92d09yVzBWTm91czdCRHdneHVvOFV2bE9LRUxRQXc0RUZXR1p0WU9rMjdrUlUtUWloSFdQNlljYmFHQTMtdWtDT2ZlTmkxVmdzV2Zyel9IR2hGM1J4d2NVTEtQbXpPc1dFQm5DOFpKWFhRSHNrZ3ZGWUM4MkFjT3NWUHlN?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQbVExZU53djg0UEZTd2dMOXhaLUtheFJQLUsxYVNnaDByd19EVmhyejlLOU9Jd3p2dmJlLVAxN1hBMU1yZnk5dlBEYjdzQjJZY3htYVZuYkN0RjRLZEh3TXpVdkluZmQ5UlczcjVVU0lQdms1N3dCdGw2LVBKVEtxTkM3MmkzZDl0U0kxc0NJZm9YdmI4LWtBcTM4R1NtVFBpeWZLaUUtaVJVQ00tc1Z0QnhYUUhUa3hhbmVubG1ucWY5VnBIalFzRmZqUWJ3ZHdEX1lUaG5zOXdFQlRTTmZKODJraTA5aEc5NS1jMFhwLUg1TnRMWFdMNUI3NUxmZUZ2S041VnpHUjluVHgtNk9sRjE1VnRpeVdQYlJIQ3BLWm42VXBWbFVGUE1UR19OQUFINTUyTENUNWQ4OW5nUVlFVkZfN0ZtX1Y4ckVuNHl3LVVUNTBtcVE?oc=5",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 15:35:16 GMT",
-      "local_url": "/article-e44dbd6befe0.html"
+      "date": "Fri, 06 Nov 2026 15:02:52 GMT",
+      "local_url": "/article-7a198b102a15.html"
     },
     {
       "category": "policy",
-      "title": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة",
-      "description": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "زيارات لمؤسسات التكوين والدفاع تعزز التعاون العسكري المغربي الموريتاني",
+      "description": "زيارات لمؤسسات التكوين والدفاع تعزز التعاون العسكري المغربي الموريتاني Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQMDlRZEk0MU0ySTRBNjdfWkJIMl9LRnJCRUhMUFZranpTVFF4V1pXMTljU1dRbDR5RVZzRmRHYklLMll3MzVnanRsVFhyU1JzRTVYMlM2U2VFbTdPSkZyMkVObXNSbWRjcGU5OFl1MG9UZlVhZVdPSW5IN0xDaS1DVWNYU0lFcnl4WnV1MHIxeU40UnRDeHpBeExxcmRKN0Y3Wk8waUp0bTRhWjhjdDJ3UUxJVm02RDRCUjZOWVJJd2l4YVM1MU55YkxjWjd6YnhWXzdZOHBLSEd6dEdoWG1BZUpCSk5PSzRGWWhJVGtWbjhnSHpVM3hJa0lGUkJYZ2FJTU8wMzEyX1hVcXlXeVNwdjRYZVpLNE43UjJsT1dqQ2tUQXB2LU5JUUE1MGlrYjZ6VmF4bjZDcDZVeDF3OVNmMGN6MExfcFpIZHVaYTdveW5YcjM0?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPQUg5Qmh1VVk4QUQtTXhkOXJyVVVlcHZabHJCZ3d6T0lFcnA5QUFWeGNrb203Yk9mLW92ZlhXTThqT2l1TWhTdmhqTzNPQmhHU0hpQXNCdzBIRFpScHBrYTdxSElVbWRjSWZhZHVvRmhkbGp0Z2dqM2VGdmxZeXFxV1d6ZWNPblFNN3BDbS1XNHlBeFlaN1pCbFlub09hdzZvUGZPTWlwT2RuZGhpanNSRVVkdUg3WVVJQzJsaUppeEVoeHA0clA1clpFVDQ0b1F3YlBNZC1qNXFIbVhZZy1KNElNWGRLVVlCelhxbmJQRWlYaHVmcFcwQlhsT2ZlMmNQMWtJVy14WmFwbEo0VTh1TVg5aVk3ODlzQ2YxdDVXdkdYTXYxcmtvM1ZrcEx6T2RKcktRUFdlLXc1SHdzaUJ4UHBYcnE2bTRwd0Q1clN6WWFJcXZTSEE?oc=5",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 14:07:45 GMT",
-      "local_url": "/article-2a008a6d7766.html"
+      "date": "Fri, 06 Nov 2026 14:05:01 GMT",
+      "local_url": "/article-d8d21dcee502.html"
+    },
+    {
+      "category": "policy",
+      "title": "البلعمشي: التدبير الوطني لقضية الصحراء يفرض تجاوز الآليات الأممية",
+      "description": "البلعمشي: التدبير الوطني لقضية الصحراء يفرض تجاوز الآليات الأممية Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNLXJtYUFLN2JtOWViQVprZXJUMGplSUd4SVprMFFqbGlrOU9GS3BoNlc1WjVYcDFxZUJiMzg2V1hyRnV1eG4tcjhrVEpxeUZQUXI5U3pnMFJHbmo3bE5wb2pBRzR2Yjc4TDZselZmanZmdWJrc245dWFpcWs4YXFWc2s5WmNTU28ydkI3c2RjcWw1QkpwUjFNLWJnZ0tuOUlWbUN4c1VxclZiVXNUeDdGUHk5X1pJYlVORkJQVU4taE1lVjBLQUtnT3dTOGhNbV9WWUxyOWdCY0dCTkhZM2dOUnVfbXRoWWE5NGlpZGpWS25NM0pDN3ZRdVBWSUg1cEdVT3J0SktCeVFDQU85RHBMc0Z4VnRIUndkZmVXRXpaMmh2S3ZWWGh4Z0lRc3R1RkhrNWJrSmFzc1ZFVU5TcVZHNFA4YkNlQ281VTlyeExPRDhDNjRl?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 06 Nov 2026 13:02:15 GMT",
+      "local_url": "/article-021944375eaf.html"
+    },
+    {
+      "category": "policy",
+      "title": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟",
+      "description": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟ DW.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQZDF1RzBQWG5qajJiNU5ZeEpDaTdUZUpYaEY0M2pkckpaMjdmaUM2OHhGMUlNektRa1A5Um9abHFwOEVUQVgxaEo4RmMtVGZhRFNyTlZQUEZPajRvejFkeTUyeHRMbHVpaHpOcXdKQUhFc2FnVGgyUzVjZ2tla0EzOG9HUVdaVW9ma3BnSHlrY2F2cVhYdXd5YWlDR25VbzFBZWNyM3J3TnlUbUhFang0ckwzRVFVZEVsNFF6NHZETWdZR2djQVZqdlFzUHNYbUVieURPQ2NtSGd0NnFwS1hTMEpuMGdXLTZwRHRodlVSY1FTWllHYVRqdjZBbFBmYWp1ZEVtbnFJT2k1RXVjcFA4SDFyUmhUdGpzZ3QwTFhPemhKdjNzajc5d3c4dTIwRmc4UEx0R1JkczVhcFFGN2xTTFUtMXNoR2dCMkVuLVBOajM0bEpMRm1NWVRGMmhZMXZWcHhLUmF6OGxQb3dBal9KNlJqbmxoLUFRalpfVDEzb3YtNlhObVozUGRoM2xlay1vR1ZETnRqQlo3QVpJdW9md3IxN2NtSEhfTkFZSHJ3LXNWSFJCS2JBckZFdXBHaUlGaVQxR0pJV0xOdHpWNkdYdmNva0p0OTlWWmctSFg0VHNFamJOUFJyVWN1Q3NTWGZ1N1RTUnh4Y1FzU25faGc?oc=5",
+      "domain": "DW.com",
+      "source_url": "https://www.dw.com",
+      "date": "Fri, 06 Nov 2026 00:58:57 GMT",
+      "local_url": "/article-6f02a9630309.html"
     },
     {
       "category": "sports",
@@ -142,50 +175,6 @@
     },
     {
       "category": "sports",
-      "title": "قمة مشتعلة بين الكوكب والوداد.. والرجاء يبحث عن تصحيح وضعه في الجولة السابعة من البطولة الاحترافية",
-      "description": "قمة مشتعلة بين الكوكب والوداد.. والرجاء يبحث عن تصحيح وضعه في الجولة السابعة من البطولة الاحترافية سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4aVIyNzhCWFN5MEEzdFh1dzJJV0tWbnFaYmQ5LWdoLUNYc2ZZbVlEM3BsNEhjbUZxSGxRTU5IOGE2RVdUSERxTHhoWkdDbW96enBVSDRtSmFGNDhaOTRhQUNLN1phaUNRQmM4Wk5pS0NtWVRRb3JlTg?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Wed, 04 Nov 2026 19:16:52 GMT",
-      "local_url": "/article-5b3e12c0e2e5.html"
-    },
-    {
-      "category": "sports",
-      "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-      "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQYjIyS2xBMk02Y0NyTEJfdXJsLWtfanVYY0VqMUFtc2tMSUhLWU9RS1JUaTNnN0dWRzNZRmtNWVd4SjRHVmxOd2FvcFNnYU9WcDVKVzNYZGVWOWlleElqRUM1M2NSLWpKdkV0SF9idWt6Nml1NWVqOFFqU21mbUk3UW8tdDdMamtjR3hqd2tYU01VZzdFWnFaVTRCS3hKWC1MU293SUsySW5BWC1sckwzYWl2ZjFqUHRaRlJRd2ttaFJjUC11WlNZODBrOGZSSHVmU1BuLUNYaEM3ZkZOM3RhTFNvRW5uQ3pRSUQ3aW9UVGVra2tHaU5OZHV2a053NURyX0NLakFWeWUyMHMtelF0YndObXlsVHljdGhCMXRFcEVDTnhPSFJObDFXU3lOV3o2MUE?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 04 Nov 2026 15:14:08 GMT",
-      "local_url": "/article-c77f891b3dd6.html"
-    },
-    {
-      "category": "sports",
-      "title": "وهبي يكشف مبررات عودة النصيري إلى المنتخب ويوضح موقفه من غياب التنافسية عن مزراوي",
-      "description": "وهبي يكشف مبررات عودة النصيري إلى المنتخب ويوضح موقفه من غياب التنافسية عن مزراوي سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0d3RxR1FZTzZHRFRpcjlPYV9fYWE3OW5RaFpUMnhUYk01em1DcENjRVhXcC1GWWpONnh2dk13T2pRS2FMckVzMFdXTHlMRlZGQUk4b3dVU3NXT0pITERwdzZuYTJzd3NySjk1TEZ1Q25WeGxLYjVMTHZKZVJEbVE?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Wed, 04 Nov 2026 12:35:53 GMT",
-      "local_url": "/article-5520e49ce55d.html"
-    },
-    {
-      "category": "sports",
-      "title": "وهبي يستدعي مهاجم لأول مرة ويعيد 4 لاعبين بارزين لصفوف المنتخب الوطني",
-      "description": "وهبي يستدعي مهاجم لأول مرة ويعيد 4 لاعبين بارزين لصفوف المنتخب الوطني سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1aW53Vmg5akZXeERvZ2p3eE1TZGptV0pQYThXZ1RlMmxDUl9MV0NobUpPOEdMWDFScG92SGgtV1ZvRGlCbGJ4N2haNXlJemM0Y1RWdUYwNWdTTXpYYmJIZVdFa1ZVazY2azVtQTZsclN6Tm84YmRpM04zY3Z1bGM?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Wed, 04 Nov 2026 11:35:46 GMT",
-      "local_url": "/article-ab05d5e7acf5.html"
-    },
-    {
-      "category": "sports",
       "title": "الدورة السابعة من البطولة برو بشعار مباريات قوية",
       "description": "الدورة السابعة من البطولة برو بشعار مباريات قوية سبورت Le360",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -197,14 +186,36 @@
     },
     {
       "category": "sports",
-      "title": "الجيناني يتحدث عن مستقبله مع الرجاء بعد الفوز في الكلاسيكو على الجيش الملكي",
-      "description": "الجيناني يتحدث عن مستقبله مع الرجاء بعد الفوز في الكلاسيكو على الجيش الملكي سبورت Le360",
+      "title": "\"الماص\" يتعاقد مع المدرب الكرمة",
+      "description": "\"الماص\" يتعاقد مع المدرب الكرمة Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeVJkZml4RG1kRUtCcmdvM0swUkxUajlKbG56V0hpOXRMakFHc0JCV2h5d185cEcxSGcxRFFTVTRJZFVoZFp3T2pGakhnWl9uT09VZVJhZzRDNVVfSkNlVXZJNEpaLUxrYl9rN2RPdw?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Thu, 05 Nov 2026 11:01:02 GMT",
-      "local_url": "/article-de857d74916f.html"
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcXFYVmdOTmk0OXp2YlBuZklUVjZvQktZemRUa2FrNC1qM2dGUHpwM1JNUGJUVGQzdkM5VXlva0VWSGJmYlFnUUlMOUIycW81bm1WY25LMkJ5VGtsRmlZRnBDN1Y3UUpra3NtbGZIYlRzX1dsRmZXZmN3Yi1OTHYxdUJhLTRRTVIwR3J2bHFsRVo3bjBfVVlNdTZMWW5OMF9tRHduZ3loVHJXY042MFN5bE4xYldyTUhNREZTSnpVb1F5VFJVYW55STRHSE9DdTk5ZnJwNGxHRjVJbDBGXzhDM0tTd1F3R3h3bTVyYldWSnN0QnY1VXY5V1gza2xhWWN5UzREaEw4bWEzclA1TGFGZll2enpxUFhwT1VjTg?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 05 Nov 2026 16:35:35 GMT",
+      "local_url": "/article-26e4ac89a3f8.html"
+    },
+    {
+      "category": "sports",
+      "title": "منتخب المغرب للكرة الشاطئية يهزم لبنان",
+      "description": "منتخب المغرب للكرة الشاطئية يهزم لبنان Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTUxnZ1hKREh1Q2Q4REJDWjZUWmJ6Z2JsQmNIcl9DMWxUeUZucTkyMU85dU9ZUHJ3T0U4aDhfYmVPcFVYTXdfUU5sUlpqVTJlRmZ5UjY3ZWhZSU1tMzZrbTF5X0NFbG1Ua082SHI5NkJPdm5vZWlqZ0VIcjNOZHFnVFhQWmEtaE1XN0xERUk2Z05ZMVBvLURvQmtjczNxbkVpM1pPVWh5RUUxakVKYWRfakpWZ0ZqWFo2N2gyWkdPRVlDRU0wTlpNd21tc3lZNmU2cW4wcUpNSWZUbl9qQVVHeEJqZkl3Y2VuV1d0dVNWcnNGanFHckh3bzNHejR4RkVBVklDT1h0NE4zNU81ZmxtLVZ6TUNWWFIzLU1IazlqVXZ3MnpNdTdRTWlCTndndGFMUFVUcVdLRUNxcjVDbkUyOUZYZFBXWFRjNFFBMlh2ODNLaWtJTGc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 05 Nov 2026 15:27:00 GMT",
+      "local_url": "/article-8b8919c41bad.html"
+    },
+    {
+      "category": "sports",
+      "title": "\"فوتسال المغرب\" يلاعب السعودية",
+      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 05 Nov 2026 13:17:53 GMT",
+      "local_url": "/article-1e6cc071b6e6.html"
     },
     {
       "category": "sports",
@@ -219,50 +230,6 @@
     },
     {
       "category": "sports",
-      "title": "نادي المغرب الفاسي لكرة القدم ينفصل عن مدربه",
-      "description": "نادي المغرب الفاسي لكرة القدم ينفصل عن مدربه Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xQnNYNTJWZTdzcjE5eFZ4TzBtYlFSbmVuNnJ3Ri1DenVLMm1vanNvUVRUaFB5ZmdwQnMyX2QwNWwyV3Zi?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Thu, 05 Nov 2026 09:50:36 GMT",
-      "local_url": "/article-cee28e429957.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"الماص\" يتعاقد مع المدرب الكرمة",
-      "description": "\"الماص\" يتعاقد مع المدرب الكرمة Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcXFYVmdOTmk0OXp2YlBuZklUVjZvQktZemRUa2FrNC1qM2dGUHpwM1JNUGJUVGQzdkM5VXlva0VWSGJmYlFnUUlMOUIycW81bm1WY25LMkJ5VGtsRmlZRnBDN1Y3UUpra3NtbGZIYlRzX1dsRmZXZmN3Yi1OTHYxdUJhLTRRTVIwR3J2bHFsRVo3bjBfVVlNdTZMWW5OMF9tRHduZ3loVHJXY042MFN5bE4xYldyTUhNREZTSnpVb1F5VFJVYW55STRHSE9DdTk5ZnJwNGxHRjVJbDBGXzhDM0tTd1F3R3h3bTVyYldWSnN0QnY1VXY5V1gza2xhWWN5UzREaEw4bWEzclA1TGFGZll2enpxUFhwT1VjTg?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 04:35:41 GMT",
-      "local_url": "/article-26e4ac89a3f8.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"فوتسال المغرب\" يلاعب السعودية",
-      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 03:41:13 GMT",
-      "local_url": "/article-1e6cc071b6e6.html"
-    },
-    {
-      "category": "sports",
-      "title": "منتخب المغرب للكرة الشاطئية يهزم لبنان",
-      "description": "منتخب المغرب للكرة الشاطئية يهزم لبنان Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTUxnZ1hKREh1Q2Q4REJDWjZUWmJ6Z2JsQmNIcl9DMWxUeUZucTkyMU85dU9ZUHJ3T0U4aDhfYmVPcFVYTXdfUU5sUlpqVTJlRmZ5UjY3ZWhZSU1tMzZrbTF5X0NFbG1Ua082SHI5NkJPdm5vZWlqZ0VIcjNOZHFnVFhQWmEtaE1XN0xERUk2Z05ZMVBvLURvQmtjczNxbkVpM1pPVWh5RUUxakVKYWRfakpWZ0ZqWFo2N2gyWkdPRVlDRU0wTlpNd21tc3lZNmU2cW4wcUpNSWZUbl9qQVVHeEJqZkl3Y2VuV1d0dVNWcnNGanFHckh3bzNHejR4RkVBVklDT1h0NE4zNU81ZmxtLVZ6TUNWWFIzLU1IazlqVXZ3MnpNdTdRTWlCTndndGFMUFVUcVdLRUNxcjVDbkUyOUZYZFBXWFRjNFFBMlh2ODNLaWtJTGc?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 03:22:05 GMT",
-      "local_url": "/article-8b8919c41bad.html"
-    },
-    {
-      "category": "sports",
       "title": "المنتخب المغربي يواجه النيجر في الدار البيضاء والرباط ضمن تصفيات كأس إفريقيا",
       "description": "المنتخب المغربي يواجه النيجر يومي 13 و17 نونبر 2026 في الدار البيضاء والرباط ضمن الجولتين الثالثة والرابعة من تصفيات كأس أمم إفريقيا 2027.",
       "image": "morocco-niger-afcon-qualifiers-november-2026.svg",
@@ -271,48 +238,81 @@
       "date": "Sun, 18 Oct 2026 13:13:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "الذهب يتراجع مع ترقب انتخابات التجديد النصفي الأميركية",
-      "description": "الذهب يتراجع مع ترقب انتخابات التجديد النصفي الأميركية CNN الاقتصادية",
+      "category": "sports",
+      "title": "مديرية التحكيم تعلن عن حكام الجولة 7 من البطولة",
+      "description": "مديرية التحكيم تعلن عن حكام الجولة 7 من البطولة Assabah",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPcGlBMXdsR1c4dDctN2ZOMWs4dHFEejJ4VWhoWmtNbWtYbFFPRFVSbDJEVEk0OGd6QndoYnJxVG1OVHJSTktZUXdHTjFrZWlZUmFaSktoSDhlMnhMcGN0V3F2ckhOZ1FmZ3NpRVRxeEVMQjhUbHdqaVZyc0NBTnlUSnJZX0o3eUV3cVVRQk81dF9sOUpTMkpfVWhOUkYwcklHY1Zyc1RRNjdKMmtXQnliV3lWbTVpajF2SU41dF9LSGppMFg1dUJmNlhuR2hmVDJhUkRkZ1JwdXJXajVETmN1VTMybFY4NHdHLXJya0J2QXFjSUZsREpKWnlIQXhKTC13YWhUT3UwNVppU1JVaTFOcVZFTFZXQWdLZEhSdWc3RzVFdWpXMG5QcGlwQzUyMjNiNFd5NXAxZE5yU0E5SUd5cXZ0WFpWeVlHMzVRSUlOR2ZLY3BzWmlzSGhKR0lubWx2ZmdDLU1udUlpRGNoeG8xN3RWRWlmVkEyclFsOHFydF8xSDhDbXQ3LXFBMzFfODNscHVlR2lvVzZvbGZUVVhKTE1aQlNMbWJGdnZZdFFYeUozQ0ZIZWpjY1lzVXlyS2FMUU1qdWVHRVpVMVU2U1gzRTViWTB4TTg3dkVwMnRHTVpyV0pHX3c?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Wed, 04 Nov 2026 15:32:31 GMT",
-      "local_url": "/article-c47b8ce8631f.html"
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkU2J2VjdMMWQxS3A2NGthaGNuaVItdkZPWDRJMDhHNTk1c3dCOWtRamZUR0dhYmg1dXYtMm90WkttaVBu?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Fri, 06 Nov 2026 13:26:58 GMT",
+      "local_url": "/article-7ce368a652c5.html"
     },
     {
-      "category": "technology",
-      "title": "إطلاق محفظة سامسونغ الرقمية بالمغرب",
-      "description": "إطلاق محفظة سامسونغ الرقمية بالمغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+      "category": "sports",
+      "title": "\"فوتسال المغرب\" ينتصر على اليابان",
+      "description": "\"فوتسال المغرب\" ينتصر على اليابان Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNaUxqZXQxakNDS2NoTEZFVXBUQzhwVHRlVGw0QUEtUElzUnc1QWd2NWJFOENaaGhENWV4VWVBZkJKS1hUUzc1VVoyRXRyT09Ed1ZRVFUtUmNRQl94dm9ieG9CNlh4R0NxVEVrcC1nVmZpN2dVSDZ3MlJENmk0ejBlRFZteVd0RlVzV1NHNUVWdGNCRjBxaVI4WXpoT2pzM1RvZUpIWURUa1diMjEtdENlVERhVkZKTFZrREtWdlZic0NSSlFnaE42RXBRQWRpODNpV2VyVUhqZzJoODFNZjg0RGJFMTJGNXJVQm9JTi1WS2lUZ042T3lrYlhhdTZjdHNzZFB4WGFSWXZjaTNYclEteFlvU0djQ3pNWlRuQ2VXX00tZTJQMFVvSXJ6R3NPRnlLcG9IZjBpN29mYUs3ZTQ2WE1GVWFSNVFQQUQ5Qw?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 04 Nov 2026 11:17:28 GMT",
-      "local_url": "/article-2b69d0694136.html"
-    },
-    {
-      "category": "general",
-      "title": "السفير الروسي يهنئ المغاربة بـ\"عيد الوحدة\" .. ويؤكد متانة العلاقات الثنائية",
-      "description": "السفير الروسي يهنئ المغاربة بـ\"عيد الوحدة\" .. ويؤكد متانة العلاقات الثنائية Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQTE40OFZ6d05RUWttU3dhVlYzMWNwU1dSelZvdDYxNjJUR1JMYWRhY0E5MW9COHVLeFlwNlBvZmJTSmpBZ3Nvelo1dnBmVWhBZ09lWm5PQjcyU05HeF91Z2N6dXZvMEJwczRWREVxVUhfOWd0LUVvQ1A2a1lWYy1vU2F1THlpalU2WGlkaHFDd1A4YTFRcXpjVXJBaEhXRnlqTFlsQThnMTdfb3h1dGVNZ3Q4RzVPcW9OVmRXRVhuVGs5UjhmU1NxZjRpY0xySHFPWDNzUjV1d3R1LUtxTTd0Z1gxa1h0SWo0bTQ5QmRWb1ltbHl6QVhCUzRMaHJlc2FiaVhpQ1Ftc2NNY1dwTEVPem1VMXVNTi10cXU2VloxTW42akxzOU1CZXRBcUkxNDhRYmJRWkR3QTJ3SDFUck1tanVMMnFCZEtXcHRBeDdZTDJKamNNakE?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 11:03:52 GMT",
-      "local_url": "/article-a3bf8b60d39c.html"
-    },
-    {
-      "category": "general",
-      "title": "توقعات طقس اليوم الخميس بالمغرب",
-      "description": "توقعات طقس اليوم الخميس بالمغرب Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWnBPYzNxRElJVC1RMGZ2QXNlUklYVHkwX2R2OHNUNjhBSmFVR0RjZGI5djNJRm1iYlNKcUFXMVVyYU1FX2Z2UjFZQ2pXODZ4aWg4T0FjQnNvQTZKOVpjZWpKaUhDT1duY0Fpb21oZm9lRjB1dTVQOVNnU01RQUVpMEpCWDgzM1VxaElVWEN0RXZnN1h6RVRwZFI4U2ZNNGVSLUN1S1pDNXhkUHA1VG9kc0p2RFNwNmJPSFBFenhuSUxPXzBFMU1fQ0FkalJRcE9wT2xGXzNpd3dZbjhOWlJCMkFFMTRjMDMyNVFwclZtZ1o5c2FGY3JhV3ZWRVJiZkt6S1pvSmFWR19xaEtKSDRwQ3l6dXZrQWJ6M2dNd2JKMlVpY21qMU1tdEUyWHVMU1RnV2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQSzR1Q01IdzJKMHVFUGVkclNqTWVrdXhxM2RnMUNmSzBvYUN5YVJBaUJqUWpzMXdDend4d2ZIWEFORkxBS1MxNl9OVzkwLUVDem5SZER1bWdJMTBmYlRqaDB1dXNZNFdNZDd3WlhudE85c0RoeDJ4U05kdEdIOXI5d2Q2VEhPM1loUkxETTIwYlpXRno2WTdkTlZpY2U0eURjc3pxckZZZnllRkpRS2RBWTF2bURpNVFlY3cxcmMxVmlLdlNkSjhMMXo1bnVMam9EVUxvbEE2Ykd5MnJxQlU1ZFZQRTkyNWpFai05R0loVXpueE9NX3lrdnNENXM4eVAxaHpZLWI2RHhxMk8xd2hqWWFodHItYUR3VzJpZFRxcDIwWmVVRHZMblFsSUE?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 07:17:18 GMT",
-      "local_url": "/article-5ce85794ef26.html"
+      "date": "Fri, 06 Nov 2026 11:38:35 GMT",
+      "local_url": "/article-02151b95f41a.html"
+    },
+    {
+      "category": "sports",
+      "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+      "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQYjIyS2xBMk02Y0NyTEJfdXJsLWtfanVYY0VqMUFtc2tMSUhLWU9RS1JUaTNnN0dWRzNZRmtNWVd4SjRHVmxOd2FvcFNnYU9WcDVKVzNYZGVWOWlleElqRUM1M2NSLWpKdkV0SF9idWt6Nml1NWVqOFFqU21mbUk3UW8tdDdMamtjR3hqd2tYU01VZzdFWnFaVTRCS3hKWC1MU293SUsySW5BWC1sckwzYWl2ZjFqUHRaRlJRd2ttaFJjUC11WlNZODBrOGZSSHVmU1BuLUNYaEM3ZkZOM3RhTFNvRW5uQ3pRSUQ3aW9UVGVra2tHaU5OZHV2a053NURyX0NLakFWeWUyMHMtelF0YndObXlsVHljdGhCMXRFcEVDTnhPSFJObDFXU3lOV3o2MUE?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 06 Nov 2026 08:52:53 GMT",
+      "local_url": "/article-c77f891b3dd6.html"
+    },
+    {
+      "category": "technology",
+      "title": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا»",
+      "description": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» CNN الاقتصادية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPbXpjQzU5R2dWaGNKTGZoRUFEOE1NakJZaVZqYzY4d0k2RFNacXJOcFBIWmhhSlpOQnduMHlKdXR1bldvMUxNVGlTcjE0ZThBWnllREFDWkdfMEdTUGJRejVQRjF6QU03S2RyTU5QY2stVWlOUWdiU0NFT3liOGcwOWVmN3pGUEVoZDBNalhSQ3dvcmo0ak5uT05xT3JYMXYzSmJGMzVKSjhhVXpjb2Z0cFBmSGY2X0FKY0J2dndpRVpUMWExdG9pODI4Y0pvTElUQW45SXN5RTNIZjJmb2hrUHVsWDYtNFdZdHVINHdNci1EZ3k5MDU0dl9MQ1FpVENwTkJ4TU5VT01ITmVJNUlDNjlSMDh5clk1ZHhjekd5SW43Y1lPSzk2aFFMT1B6czNYYTRFSzVuSjdQWFo2V1J6NUFnX1VDLTdnQkhycUpWMDFMaW5ZMUxwcTRtbl9rbERweUt1ZjJCek9DblRqX1pTVTNYVTE2YzVWWHdEQ3RoTmk4LVRTbGxaekZoQ0tMeGhselpIUXByM3NRdUZvcVFHYlNVekNlaXBpVGxoMmxMZHhic2wwMEx5QWdPNl9YWXpaUnZQcG8zYUtob18yeTEyc0doT0x6OVNadlNsQmZueE1EWWVrUV9tc2JEVkljSkZSaFoxazNYczIya3c5ZERlQzJkYWNySlNhN0Q1UVZGLUlKeFBlaElF?oc=5",
+      "domain": "CNN الاقتصادية",
+      "source_url": "https://cnnbusinessarabic.com",
+      "date": "Fri, 06 Nov 2026 15:03:59 GMT",
+      "local_url": "/article-e4fa25566f5a.html"
+    },
+    {
+      "category": "technology",
+      "title": "شركات الذكاء الاصطناعي المتضررة من نتائج انتخابات منتصف المدة الأمريكية",
+      "description": "شركات الذكاء الاصطناعي المتضررة من نتائج انتخابات منتصف المدة الأمريكية Euronews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQTloUkstcmFPVG5kZU44Xy1MX3AtMENmN0Mwb21lWGhXb0RKaFByZldBVHc5eUg3eHFCUWxKQ29CSG1wVmk4UVBHOHg4Zl9MZkI4X3ctVHpYcFJyQlFPTmVQbDR0NUFqenJJT0VpbmE0MVhVTzJHVGtnaVVSQjk1bUxBYXMyNV9rZWZZaFZLdmVPYXRiOEY1VlFNUmhwdjdqSnhxUmhMZDRaOTF4YzRXdjFnYUFXV3FEZ0R3?oc=5",
+      "domain": "Euronews.com",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Fri, 06 Nov 2026 14:45:19 GMT",
+      "local_url": "/article-3ffe8f7d959a.html"
+    },
+    {
+      "category": "general",
+      "title": "ترحيل مغاربة من العراق ينتظر التنفيذ",
+      "description": "ترحيل مغاربة من العراق ينتظر التنفيذ Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQLWRiZzhROFFWX3RWOEVwNXJ3UnppakVKYXR4ZDFnS2F3a28yc3RDY1d2SHJ0dTlwdEpWNnpPNlVrRWVkdkxRTjNCeFRWeFlvNzE1YkduUnBoY3dhejNzMmFZZjFqQ2QxeGtBS05HOEFLQ2VwMTVrU0phTHZlRHgwSDNSVzUtaVM5aUs2dU93QWZvYzVxSHRzYUo3MEJqUzJvSm8tV2hGR0lyRF9naWdEWm9FSVNOSzRjRE0tTVNuZUctV0dxSWdYdU5DdlpDRmlWNG94bld0Ykh1SV9LWDJKRlQwMTN6RkdBM0ZRRHNGQ3NMMloxRmItaThLX2NnNFFRampNR3dmS25VekdJZjBLRFlEUDk1TUJ3LTNMRDRHdmozaVJlVi04X2VsOFBMMVRrcERtag?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 05 Nov 2026 08:41:44 GMT",
+      "local_url": "/article-ef3625076ec3.html"
+    },
+    {
+      "category": "general",
+      "title": "تفاصيل تغيرات جوية مرتقبة بالمغرب",
+      "description": "تفاصيل تغيرات جوية مرتقبة بالمغرب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdjQwRlZObjIwNlNhYldIV05fYTVTeXVEbVZKRi03QnlLVTBZSWE2R2p4ZUFLLVE3b09LZ1I2dVptUmlKYXZFRWl6TmpvNlQ4eHBJdVYyZjROWGxBQnVzSGxxb21DbkdZa2ZBV0M3R1gydGhwcjFuNlVEX1ZoSHZyTjRvcmliejgtQm1WYlpPb3ZWamJYSk5UMm9XVWo1WXEteU9fM1B1eS1lOFQ5dVFzSmtCMFBiNG1fcFVOVUQ1MjdjblRfdXVDTmdwejI1MWdVY3JfRERJSVNXWXZQaHQyMW9MS2ZpaTV4eGVnQURQQVZSb1pfS1BlWjJTcU9jdl9HWTU1M3ZwazNIWlFYRER2U1VWY3h3ZVN1eGVJZWo2M0dCdUhQSWdXbWJqNncyUTJHbmJrWWU3aDhLOU1F?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 06 Nov 2026 14:34:13 GMT",
+      "local_url": "/article-2a2c877fea30.html"
     },
     {
       "category": "international",
@@ -360,91 +360,14 @@
     },
     {
       "category": "international",
-      "title": "فيديو: Andy Karl يكشف الجانب الإنساني وراء تجهّم Scrooge في A CHRISTMAS CAROL",
-      "description": "فيديو: Andy Karl يكشف الجانب الإنساني وراء تجهّم Scrooge في A CHRISTMAS CAROL BroadwayWorld",
+      "title": "فيديو: The Rockettes يقدمن «Ring»، أول رقصة تاب جديدة لهن منذ 20 عامًا",
+      "description": "فيديو: The Rockettes يقدمن «Ring»، أول رقصة تاب جديدة لهن منذ 20 عامًا BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZGJDVkVUY0E4MkdUdzRMUnRzeGdPb0hIUWZpemZKZXl4dzRQY04yRDNxdUJLY2JzOWpBOHpJeDd5TnBhMlo5SDVXUWxJb295Q1E3UzF0TXpHNy00dlBXSWZUN3Z2ZlYyQkVfcFY1NWJ1SzJOc2hHUlY4LTI3OVhDQzVfUkxLN0FUMDJLVjNCMnFRSzlmV2w2TTc2dG9TT1RmVnNXTS1qTEVzSGxKM3FPN08yQ2hnS3hJTWQ3X3Frb1g1Yzg4T0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVBGd1FCSUFQRVA0UmxvNmhYMFVSaHFvbndjSElHM1hoMWpOX2JxZG1SYjVPdFpFUUxmTUMwZzJVdEhaYUItcWlEMW95cEQybGNvY3VsQkhtT3RiZHFuSVVhRkVnS09CTjR0SnV0NW54cXkzY28tU0dIT3RaRE1PYnA5bWY4Yk0wRTFzc09tQklWQnJ6RktiYnBEMThvOUJGVUVFM1FjLVhlclo5bzdZZVZwa011QQ?oc=5",
       "domain": "BroadwayWorld",
       "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 04 Nov 2026 18:36:51 GMT",
-      "local_url": "/article-67257fd0d0d4.html"
-    },
-    {
-      "category": "international",
-      "title": "فيديو: اكتشف عالم المسرح الغنائي في WELCOME TO BROADWAY",
-      "description": "فيديو: اكتشف عالم المسرح الغنائي في WELCOME TO BROADWAY BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTRCU3lDMGRZVG81SjcyLUwwLTJCeEJDdnBDbGdxNHV6MU1RcHVYU3B4MjZ4WGVHRFA4MXg2NG1YN2FXR1cyNndJcFFuXzhvNW9GdmtmdzQ4VHFEUGxCZXMyM2tsZDh2Znpua09RU1VkN1FKbmVRMHdublVKcktWMVhBNHhZSDhrR2pqR00wcmhsZlkyYnhCTHVnUWxlaDIwNVBkTmZDTW4xN013cy0wcU1QRVZ2UjNjZ3RwZERlTkJZTU0?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 04 Nov 2026 17:43:33 GMT",
-      "local_url": "/article-29c762dd674d.html"
-    },
-    {
-      "category": "international",
-      "title": "ما يُعرض على Broadway خلال أسبوع عيد الشكر 2026",
-      "description": "ما يُعرض على Broadway خلال أسبوع عيد الشكر 2026 BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1QTndhSDBmMGhUaTZXcHNBM3BZV0hqTXJpdDV3R0ljVUJXS2Z1SWxzUEVsMGxKU2hjcndDY0NkOFpKS0plMjVIdllXUEZXN0lHRlN6OUhwQUE1Y05aX1hPTEhmSnRfUVpiWFlKOHBPOTlNMmI0V20xTWtkU3BDZmZ5Z0V0TjdhVUtmRjBJMHM5NUZzQ3FmcGtUTTBxckRKRFE?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 04 Nov 2026 17:30:48 GMT",
-      "local_url": "/article-8a3dfd409f31.html"
-    },
-    {
-      "category": "business",
-      "title": "منتدى الأعمال المغربي الإماراتي يستكشف آفاق توسيع الشراكة بين البلدين",
-      "description": "منتدى الأعمال المغربي الإماراتي يستكشف آفاق توسيع الشراكة بين البلدين Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPeU9lWFRKMllvaVNOMlJUa3BiS0NPZ0N4Z0NRdnhHWEUwVzVOaGhscVNONnRqQWMzM1pUbXl4YXFRM25LWm5CTkdqZDhtbWlkd1ZQdFRmMGlHUXhVb2QtaUtkY01EVnpNWUFEREdCOVo4RU9LMWwyeTlhYjhlSTJmVnN3QWtNSWxKRmUweG1EUE42QkJlblNGUE15X2FPLURXdVZsdHNjNkFTSVc5ZjBBbi14cjBEWlh2dEthdFd5cGlqOER0NlNURjlfSE1SVGFWLXd3Si0wRmE5Qjk3QlhiNkRHZkE3T252YkJVRVllSXRkMFptcDdxSnd6YjJlVjhGS01sR1NNQTN0MWdtSkdOWjJ0QkpRbTk5MklXLTdFdVU2OWF0TTFrUXNfcXFIeExiNUx3UzJnR1VndGdoT0FXaHhtWWRORENQcHp2d0pYT0pUTlBT?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 04 Nov 2026 14:02:34 GMT",
-      "local_url": "/article-c8155bca45d1.html"
-    },
-    {
-      "category": "business",
-      "title": "أزعور: صمود الاقتصاد المغربي يدعم آفاق النمو رغم التوترات الجيوسياسية",
-      "description": "أزعور: صمود الاقتصاد المغربي يدعم آفاق النمو رغم التوترات الجيوسياسية Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMUg0aXhmVmxIekcySHJVbl9IYUlTVXJWOXBNXzRpTVY0VFRCLTFLa0VWU1hHRVJNSlFzQmtVZkZrd1A5b0JxUG9maFpWNER5NHRNZnBYT1FsVjR0SVRuYWxxNWdKUV9UUjVXVjZGSGxJNGwtUFBPQ1dWcEVyVVVHV3NFNENQVmlwRzI1TUNxR2hBbVlLVFA2UFhNQndBeHV2cFZVQ0NILUg2U3MycU4zb2ZqVTl0c1VyaFUxVFFvUDZrSVZDdXJIR1MzQWR3bVliakVOeFlEbllucV9PZzQ0Y0gwTU84UUpEZnpOMXh5Q3k5dHVnYWRmRUdXMWx3bDZ6dXNhbE16dmZXU2UyVnFDdFdhU2s1Wm4ycUsxZUF5VWI0ZkFlbTVwbWdnX0hfQWlic3VPXzdGY2RKc3VNcHZGaUJlLXNvT3gybVF0VFFhVnF5YmhGNHc?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 04 Nov 2026 13:02:19 GMT",
-      "local_url": "/article-f73011b3a710.html"
-    },
-    {
-      "category": "international",
-      "title": "صور: Elizabeth Anderson وآخرون في THE HUNGER GAMES: ON STAGE",
-      "description": "صور: Elizabeth Anderson وآخرون في THE HUNGER GAMES: ON STAGE BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTY2Q1hSZ3VVTmJndlFlZTA1YjNHRm1jbktpc3lNWXVjaGZ5WFJxRWpYN09TQ2JGdUxrRDVPcDNCNFZOZEF1RGhQdi1sQURNOU5ROHQzdGo3czhIRGIzSldkTjlaYkp3US1RWTM2dGMzbmpZSFgyMGRjX1dYS1BoeVdmT2RuVEx4alV0QXRnRVcwQURoY2pGaXh5U3JXM0Z6ZE9QQnlGWHRnc1RmV0lTWDZwVC1xQQ?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 04 Nov 2026 12:12:30 GMT",
-      "local_url": "/article-e16d86712593.html"
-    },
-    {
-      "category": "international",
-      "title": "عرض Sirocco لـ Noël Coward في Finborough Theatre",
-      "description": "عرض Sirocco لـ Noël Coward في Finborough Theatre BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEFIRmJ6cE1mSHpyQ1FfLWVfR1lnM1UxdW1qUHl3ZEQ4dGY0WUkzMVFOUFQ5SDNNaUx1SzR5S0x6Zlp4clo4T0k5cFpRR2IwUnRhMTA4NThMVDFYNkVFY0hzLV80dnp5MlFLeWtaSHpRWV9SQVNBR29DQWJWMkxOZzhRMzVLUTEtVFE1YU55cXhjTmhzaE9veHFja1RKWENBY2VWV0VESzdoQ0k?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 04 Nov 2026 10:11:16 GMT",
-      "local_url": "/article-32ec371a68c6.html"
-    },
-    {
-      "category": "business",
-      "title": "مصدر حكومي يؤكد وقف صادرات الطماطم نحو إفريقيا لحماية السوق",
-      "description": "مصدر حكومي يؤكد وقف صادرات الطماطم نحو إفريقيا لحماية السوق Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUFVweTVtaUFHVFkwRmlCbUlLUXo0dGxHNUY0VWJIZFRrLUVQLVpGWDVGalVMN09Dc2twZ1RZTGpZaU9OMy1mQ3ZtWGRveVhFVmhEUnd3M1J5QkZsZEhNckp2eFJybkhjSUh3YmhKclE3d0daaVJwX1NpcFdrSU5kVDhTYXM2SUxqd3NQUkNVRXlHcHJEUy1vN2dZaW5PX2lrUkZaYnlvMlBQdkFJWHpjQ3Y3cC1DVFFaUGlJamFJTGFuOEh0eUdFZGhUV0wtTEt4Tk9Sa1M4UGd3ZFdJdmZjY0RWZm9HbWRGSFJ2Y3ZPVVU5S1F6cnZlZmNsbjNHOW0xaWF1OExKbDhCcUlYaHo5dXk5SG8yUWJhQ2lkVGpmSTJxYXdQUjhvdTcwb3Y1d1l2V0NHTnk4TExNLWdPWWpodGVWY3VXb1Y4c052Vm1xWEdtdlNEQnc?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 23:36:30 GMT",
-      "local_url": "/article-d43518fc0f32.html"
+      "date": "Wed, 04 Nov 2026 19:57:32 GMT",
+      "local_url": "/article-f25a0c4a3b0e.html"
     },
     {
       "category": "business",
@@ -459,25 +382,25 @@
     },
     {
       "category": "international",
-      "title": "رونالدو يتلقى رسالة من النصر السعودي بعد اعتزاله اللعب دولياً",
-      "description": "رونالدو يتلقى رسالة من النصر السعودي بعد اعتزاله اللعب دولياً CNN Arabic",
+      "title": "صورة: Elisabeth Moss تزور عرض A FEW GOOD MEN في برودواي",
+      "description": "صورة: Elisabeth Moss تزور عرض A FEW GOOD MEN في برودواي BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tWTEyNThFT3ZfdHd5VUJJS2E2WjZ2WkdqLVlqZ0ZVYzhoeU5WYU5FVVlEbHM0QXAzZkVLazdzZzJWYzZIeXgyZWxpdTl1REpuSGZmQ1RTNVVBMmlfV0F3OFhQNF8zMHcxeldIaDBDb2hqeDhaMHQzWl9NU2dXQQ?oc=5",
-      "domain": "CNN Arabic",
-      "source_url": "https://arabic.cnn.com",
-      "date": "Thu, 05 Nov 2026 19:53:17 GMT",
-      "local_url": "/article-198ee849ae85.html"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXhyT0dMYnA2Q253b084N1NWc1ZLczFHYXB3SmdDc1Y5WTFXV0UtUnF3N0lrWkMxY2FjS0tXUGprbFVlQXpONHBiNGY1V2o5WUZmRjYtcnNqMkZzNWFlMXJWS1U2aTNZTGRvc2ZtOTJ2Vlp1cVAxRjBfNTI5a2lyS2lkVEFiMnBTZ3RPdlR4MW5IakRBWEg3REItbm5CcmZ4eGlydmFabFZUZw?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Thu, 05 Nov 2026 17:20:45 GMT",
+      "local_url": "/article-db2f35e8cd0a.html"
     },
     {
       "category": "international",
-      "title": "David Yazbek يطرح الأسطوانة القصيرة الجديدة «Four Songs From Dead Outlaw»",
-      "description": "David Yazbek يطرح الأسطوانة القصيرة الجديدة «Four Songs From Dead Outlaw» BroadwayWorld",
+      "title": "فيديو: عرض تمهيدي لبانتومايم SLEEPING BEAUTY في Milton Keynes Theatre",
+      "description": "فيديو: عرض تمهيدي لبانتومايم SLEEPING BEAUTY في Milton Keynes Theatre BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWU8wRkR4aEFUdEJHQTFWcDBWcUFfVDVwWDNtYTlzRHoxcmpjOHJMdGJUTG9FdzNQbDZxZzN1V3FkaldkandjVFNrRGR3MEw5bEtIbFdfZHFNM29vMzl0dzlmYUtSNXBFT3p5MWx6NDFKeldhRFU0UWRvaDFMTExISmpXN2h2d1JwcUZtNXYxOERnR2hyaVhVUkdxazdRNjdXSGlSUFlDMWY1a0dmbEJSUkFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFhVdTZhNE5NUE1Bb3hSN0lWcEJocTFUX2xVM01BYjRIQURqMzBTa0pFQ3YtanFuaTlVeXVfUkRLeE9aR2lVQktBNlNVbHhIcDU2QzRDSXRQeEgteXhYTG9fXzBWVk16WFVwT2c3M2lLTVdJSXlmTDlJVkJCVUQ4a05feV9XRWlySEd1UVg0YnBodC0wVjdEckZTZUhyc2FIQVc2c0FPNHM3VEQxeGdpT1pfSGRwSnJETm9v?oc=5",
       "domain": "BroadwayWorld",
       "source_url": "https://www.broadwayworld.com",
-      "date": "Thu, 05 Nov 2026 15:08:02 GMT",
-      "local_url": "/article-db4cbc096871.html"
+      "date": "Thu, 05 Nov 2026 16:01:12 GMT",
+      "local_url": "/article-5b734efe691f.html"
     },
     {
       "category": "international",
@@ -491,15 +414,26 @@
       "local_url": "/article-920b918d6367.html"
     },
     {
-      "category": "international",
-      "title": "\"حان وقت إرجاع الرقم 7\".. رونالدو يعلن اعتزاله اللعب دوليًّا",
-      "description": "\"حان وقت إرجاع الرقم 7\".. رونالدو يعلن اعتزاله اللعب دوليًّا CNN Arabic",
+      "category": "business",
+      "title": "فيديو: الرباط تحتضن المنتدى الاقتصادي المغربي الإماراتي لتعزيز الشراكة والاستثمار",
+      "description": "فيديو: الرباط تحتضن المنتدى الاقتصادي المغربي الإماراتي لتعزيز الشراكة والاستثمار 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDR3Z1FKbzlOdUF6OGF5LW96NkZqU2d2amNMcXZrS2puRm5sX0JMUkdIUlRjYTVPSDQxMEtPNHhGelk3ZlJMcExXdDBxME9FZXNFdDRiLVpYRnlreC1pWnNFdmpHVk8zQlVHVXdaM1NnbW4wa2Z2TUJ6M19QZjVTaWhaN2VjX3hyX0w1NWhEUUhtd3N1eDFZXzZHOGFBVHdM?oc=5",
-      "domain": "CNN Arabic",
-      "source_url": "https://arabic.cnn.com",
-      "date": "Thu, 05 Nov 2026 10:58:47 GMT",
-      "local_url": "/article-0d61e158eef4.html"
+      "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxNZUQxOVBBb2Q5bFNlOGhjaXBQNW1tNENEVkhpQlZPekZFUUFzbzRtZmowZy1FWjJiVWp3QnFpbjRyUlBPaVliU2RKWTFHMTRQM0Y1M3JtYzhjU29XbkdwRWFGUExRSzloT1pKa3ZmdlB5a0JWSmZrMnVQTGVoLVJWZ3NDb1M5bGMxRGNKelUwaGxOOXVjN2YzQ1lkNjJMYjVPYnJhVHM0R1c0dGFYcU1Wai1ReHlNek5mRUo2ZVZtUUdvYjNuXzJmZmgyR0lWQVhjUXYzZThGVnVia0FFbVgtQmFMcWlPcHFPZFdFNVZXUEJaUkt2bEg2S1BOSFQwS3Q1V0ZaRlAybTVyTVlIOUZtdmVsOGROT1B4S0VQNDJUMUZLUUpwa2MzQVQ3STZqV0JoOS1vLVF2b05sdWdpdWRwSXI1T1ZxbVY5eW9PQk1HdWg3NWhCNXdqU08yZ0NVY0ZBOWNTR0l6VloySlduaEJKYlhtcWZNcUFjQ2RpbjJtX0gtQkUwTFg3WkdsYzlnQks1MU9hVE5aVVpQYkUwN3owR3d1U0s5LXpiN01fbXV6aEZzUTcyNy1xeTRVa19zZ2doOURzWXdmVlFfLV9nVnBaX0J1aWpZVUZ5bkNNUnpwbGJsR3VjNlNWUkZJZmRFSjNTSW5sdGxhOUtDRmp3c1RSY1I4bDFIR1V5elhYT0dZSlI1Ykk0dWlxT0l5YjRVZGVqNFQ2Tzc2V1hxZ3VMRTdmTnJuZ3FIcjkxT0xGZE1LVnVoaGRSYzdmdElxbm5STFNfSWRXSmlZc3F6SjVId29hY2xDNkpaT1oxeWRSdDhnT3dqQWlXX1lwSFpTbmVTTWtNREg0TElFVnhVUQ?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Thu, 05 Nov 2026 11:57:00 GMT",
+      "local_url": "/article-fc9a4aff6997.html"
+    },
+    {
+      "category": "international",
+      "title": "مصر: المؤسسة الدولية الإسلامية اعتمدت 1.3 مليار دولار في 2026 لشراء الحبوب",
+      "description": "مصر: المؤسسة الدولية الإسلامية اعتمدت 1.3 مليار دولار في 2026 لشراء الحبوب Reuters",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yaHg2UG41M3VreUJJY2Q0QWxEY3BtcGRwY3NBV3RIX0lhc3MyN2h6bzZILXc2d3FvMENwbm1QbEJJdmhyS0E1dG5mSVRiMTcxWHJwc0dTTVRybnpZal9mX0ZlZlRya1JIQVl2SWFnQ3lyaWM2SmlGOER2UXBqSlk?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Thu, 05 Nov 2026 11:02:40 GMT",
+      "local_url": "/article-ed8073926e38.html"
     },
     {
       "category": "international",
@@ -533,6 +467,17 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Thu, 05 Nov 2026 00:20:25 GMT",
       "local_url": "/article-b7557d4ac0db.html"
+    },
+    {
+      "category": "international",
+      "title": "عودة FESTIVAL OF LIGHT إلى Newbury بفوانيس يدوية وموسيقى السامبا الحية",
+      "description": "عودة FESTIVAL OF LIGHT إلى Newbury بفوانيس يدوية وموسيقى السامبا الحية BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPby1mVVI2MGQ2cDI5RjA5aXJMOFZIaWs0cTRzTWJMRExybnE5OHkwM09kbHc1QnhzcHVDc3hwbjRUZThFVmhPY3ZTQU1NMmlmU2ZWb205eDZ0RmpRVVF2UUVUOHo1a3lpeVhfamVtTVpYMF9WNWUzZnBldlEwZ2JxSXl3QnJCR0Vsa3A1c05vZ2tpZHR2NjBfRXVEYzE1Skc2Q2RHVko0S2NXY201NEF3RTFjTHJnRWNBbDFGS3FiRHhWTklT?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Fri, 06 Nov 2026 10:00:32 GMT",
+      "local_url": "/article-2c295727d8cb.html"
     },
     {
       "category": "business",

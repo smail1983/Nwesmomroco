@@ -928,6 +928,15 @@
   },
   {
     "category": "policy",
+    "title": "نظرة فاحصة-5 طرق قد تتغير بها سياسة أمريكا الخارجية مع سيطرة الديمقراطيين على الكونجرس",
+    "description": "نظرة فاحصة-5 طرق قد تتغير بها سياسة أمريكا الخارجية مع سيطرة الديمقراطيين على الكونجرس Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-9d824a56fd72.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Wed, 04 Nov 2026 21:25:44 GMT"
+  },
+  {
+    "category": "policy",
     "title": "المغرب يقول إنه سيلتزم بوقف إطلاق النار في الصحراء الغربية بعد انتهاء مهمة الأمم المتحدة",
     "description": "المغرب يقول إنه سيلتزم بوقف إطلاق النار في الصحراء الغربية بعد انتهاء مهمة الأمم المتحدة Reuters",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1213,6 +1222,15 @@
     "url": "/article-7688e90255a6.html",
     "domain": "NewsMorocco",
     "date": "Reuters • Thu, 05 Nov 2026 22:27:43 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مصر: المؤسسة الدولية الإسلامية اعتمدت 1.3 مليار دولار في 2026 لشراء الحبوب",
+    "description": "مصر: المؤسسة الدولية الإسلامية اعتمدت 1.3 مليار دولار في 2026 لشراء الحبوب Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ed8073926e38.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Thu, 05 Nov 2026 11:02:40 GMT"
   },
   {
     "category": "general",
@@ -2431,21 +2449,12 @@
   },
   {
     "category": "general",
-    "title": "توقعات طقس اليوم الخميس بالمغرب",
-    "description": "توقعات طقس اليوم الخميس بالمغرب Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-5ce85794ef26.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 05 Nov 2026 07:17:18 GMT"
-  },
-  {
-    "category": "general",
     "title": "\"الماص\" يتعاقد مع المدرب الكرمة",
     "description": "\"الماص\" يتعاقد مع المدرب الكرمة Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-26e4ac89a3f8.html",
     "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 05 Nov 2026 04:35:41 GMT"
+    "date": "Hespress • Thu, 05 Nov 2026 16:35:35 GMT"
   },
   {
     "category": "general",
@@ -2454,7 +2463,43 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-8b8919c41bad.html",
     "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 05 Nov 2026 03:22:05 GMT"
+    "date": "Hespress • Thu, 05 Nov 2026 15:27:00 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة",
+    "description": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2a008a6d7766.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 05 Nov 2026 14:07:45 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"فوتسال المغرب\" يلاعب السعودية",
+    "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1e6cc071b6e6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 05 Nov 2026 13:17:53 GMT"
+  },
+  {
+    "category": "general",
+    "title": "ترحيل مغاربة من العراق ينتظر التنفيذ",
+    "description": "ترحيل مغاربة من العراق ينتظر التنفيذ Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ef3625076ec3.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 05 Nov 2026 08:41:44 GMT"
+  },
+  {
+    "category": "general",
+    "title": "توقعات طقس اليوم الخميس بالمغرب",
+    "description": "توقعات طقس اليوم الخميس بالمغرب Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5ce85794ef26.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 05 Nov 2026 07:17:18 GMT"
   },
   {
     "category": "general",
@@ -3412,6 +3457,60 @@
   },
   {
     "category": "general",
+    "title": "تحولات أممية وأولويات مغربية ترافق تخليد الذكرى 51 للمسيرة الخضراء",
+    "description": "تحولات أممية وأولويات مغربية ترافق تخليد الذكرى 51 للمسيرة الخضراء Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7a198b102a15.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 15:02:52 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تفاصيل تغيرات جوية مرتقبة بالمغرب",
+    "description": "تفاصيل تغيرات جوية مرتقبة بالمغرب Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2a2c877fea30.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 14:34:13 GMT"
+  },
+  {
+    "category": "general",
+    "title": "زيارات لمؤسسات التكوين والدفاع تعزز التعاون العسكري المغربي الموريتاني",
+    "description": "زيارات لمؤسسات التكوين والدفاع تعزز التعاون العسكري المغربي الموريتاني Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d8d21dcee502.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 14:05:01 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "البلعمشي: التدبير الوطني لقضية الصحراء يفرض تجاوز الآليات الأممية",
+    "description": "البلعمشي: التدبير الوطني لقضية الصحراء يفرض تجاوز الآليات الأممية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-021944375eaf.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 13:02:15 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"فوتسال المغرب\" ينتصر على اليابان",
+    "description": "\"فوتسال المغرب\" ينتصر على اليابان Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-02151b95f41a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 11:38:35 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c77f891b3dd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 08:52:53 GMT"
+  },
+  {
+    "category": "general",
     "title": "تقرير دولي يحذر من ضغوط جديدة على أسعار المواد الغذائية في المغرب",
     "description": "تقرير دولي يحذر من ضغوط جديدة على أسعار المواد الغذائية في المغرب Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3454,15 +3553,6 @@
     "url": "/article-89052aba4889.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Wed, 04 Nov 2026 18:13:32 GMT"
-  },
-  {
-    "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Wed, 04 Nov 2026 15:14:08 GMT"
   },
   {
     "category": "general",
@@ -3591,15 +3681,6 @@
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 05 Nov 2026 15:35:16 GMT"
   },
   {
-    "category": "policy",
-    "title": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة",
-    "description": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-2a008a6d7766.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 05 Nov 2026 14:07:45 GMT"
-  },
-  {
     "category": "general",
     "title": "السفير الروسي يهنئ المغاربة بـ\"عيد الوحدة\" .. ويؤكد متانة العلاقات الثنائية",
     "description": "السفير الروسي يهنئ المغاربة بـ\"عيد الوحدة\" .. ويؤكد متانة العلاقات الثنائية Hespress - هسبريس جريدة إلكترونية مغربية",
@@ -3607,15 +3688,6 @@
     "url": "/article-a3bf8b60d39c.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 05 Nov 2026 11:03:52 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"فوتسال المغرب\" يلاعب السعودية",
-    "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-1e6cc071b6e6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 05 Nov 2026 03:41:13 GMT"
   },
   {
     "category": "general",
@@ -4582,6 +4654,15 @@
   },
   {
     "category": "general",
+    "title": "شركات الذكاء الاصطناعي المتضررة من نتائج انتخابات منتصف المدة الأمريكية",
+    "description": "شركات الذكاء الاصطناعي المتضررة من نتائج انتخابات منتصف المدة الأمريكية Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3ffe8f7d959a.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Fri, 06 Nov 2026 14:45:19 GMT"
+  },
+  {
+    "category": "general",
     "title": "عاجل. - عملية إطلاق نار في الضفة الغربية تسفر عن إصابة جنود إسرائيليين.. ومقتل المنفذَين",
     "description": "عاجل. - عملية إطلاق نار في الضفة الغربية تسفر عن إصابة جنود إسرائيليين.. ومقتل المنفذَين Euronews",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -4668,7 +4749,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-6f02a9630309.html",
     "domain": "NewsMorocco",
-    "date": "DW.com • Fri, 30 Oct 2026 10:23:52 GMT"
+    "date": "DW.com • Fri, 06 Nov 2026 00:58:57 GMT"
   },
   {
     "category": "general",
@@ -4992,7 +5073,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a1a39b001ab8.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Thu, 05 Nov 2026 20:34:18 GMT"
+    "date": "CNN الاقتصادية • Thu, 05 Nov 2026 21:14:49 GMT"
   },
   {
     "category": "business",
@@ -5236,6 +5317,33 @@
     "url": "/article-f26404dc67d8.html",
     "domain": "NewsMorocco",
     "date": "CNN الاقتصادية • Fri, 23 Oct 2026 14:26:07 GMT"
+  },
+  {
+    "category": "business",
+    "title": "عاجل: ارتداد 5 أسهم من عمالقة التكنولوجيا الـ7 في وول ستريت بعد خسائر حادة",
+    "description": "عاجل: ارتداد 5 أسهم من عمالقة التكنولوجيا الـ7 في وول ستريت بعد خسائر حادة CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-39da80f88e2f.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Fri, 06 Nov 2026 15:38:27 GMT"
+  },
+  {
+    "category": "business",
+    "title": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا»",
+    "description": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e4fa25566f5a.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Fri, 06 Nov 2026 15:03:59 GMT"
+  },
+  {
+    "category": "business",
+    "title": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق",
+    "description": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-72f355bfb419.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Fri, 06 Nov 2026 14:54:58 GMT"
   },
   {
     "category": "general",
@@ -5554,6 +5662,15 @@
   },
   {
     "category": "general",
+    "title": "فيديو: عرض تمهيدي لبانتومايم SLEEPING BEAUTY في Milton Keynes Theatre",
+    "description": "فيديو: عرض تمهيدي لبانتومايم SLEEPING BEAUTY في Milton Keynes Theatre BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5b734efe691f.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Thu, 05 Nov 2026 16:01:12 GMT"
+  },
+  {
+    "category": "general",
     "title": "David Yazbek يطرح الأسطوانة القصيرة الجديدة «Four Songs From Dead Outlaw»",
     "description": "David Yazbek يطرح الأسطوانة القصيرة الجديدة «Four Songs From Dead Outlaw» BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -5677,6 +5794,15 @@
     "url": "/article-4efc18baa979.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Mon, 02 Nov 2026 09:45:02 GMT"
+  },
+  {
+    "category": "general",
+    "title": "عودة FESTIVAL OF LIGHT إلى Newbury بفوانيس يدوية وموسيقى السامبا الحية",
+    "description": "عودة FESTIVAL OF LIGHT إلى Newbury بفوانيس يدوية وموسيقى السامبا الحية BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2c295727d8cb.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Fri, 06 Nov 2026 10:00:32 GMT"
   },
   {
     "category": "policy",
@@ -5983,6 +6109,15 @@
     "url": "/article-6e19f63cd890.html",
     "domain": "NewsMorocco",
     "date": "Assabah • Fri, 23 Oct 2026 00:59:23 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مديرية التحكيم تعلن عن حكام الجولة 7 من البطولة",
+    "description": "مديرية التحكيم تعلن عن حكام الجولة 7 من البطولة Assabah",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7ce368a652c5.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah • Fri, 06 Nov 2026 13:26:58 GMT"
   },
   {
     "category": "general",
@@ -7002,13 +7137,22 @@
     "date": "2M • Thu, 22 Oct 2026 14:20:00 GMT"
   },
   {
+    "category": "business",
+    "title": "فيديو: الرباط تحتضن المنتدى الاقتصادي المغربي الإماراتي لتعزيز الشراكة والاستثمار",
+    "description": "فيديو: الرباط تحتضن المنتدى الاقتصادي المغربي الإماراتي لتعزيز الشراكة والاستثمار 2M",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-fc9a4aff6997.html",
+    "domain": "NewsMorocco",
+    "date": "2M • Thu, 05 Nov 2026 11:57:00 GMT"
+  },
+  {
     "category": "general",
     "title": "Head of Govt' Welcomes Morocco's Constant, Firm Position on Moroccan Sahara at Cabinet Meeting",
     "description": "Head of Govt' Welcomes Morocco's Constant, Firm Position on Moroccan Sahara at Cabinet Meeting 2M",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-0845f0f92ee1.html",
     "domain": "NewsMorocco",
-    "date": "2M • Thu, 05 Nov 2026 15:37:37 GMT"
+    "date": "2M • Thu, 05 Nov 2026 07:24:00 GMT"
   },
   {
     "category": "general",
