@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-04T20:58:00+00:00",
+  "updated_at": "2026-11-06T07:12:00+00:00",
   "articles": [
+    {
+      "category": "business",
+      "title": "أنباء عن توقف حركة الشاحنات بمعبر الكركرات.. وما حقيقة الإغلاق؟",
+      "description": "تقارير إعلامية تتحدث عن توقف حركة الشاحنات منذ منتصف ليلة 4 نونبر، وسط غياب توضيح رسمي شامل وتداول تفسيرات مرتبطة بقيود تصدير بعض المنتجات الفلاحية.",
+      "image": "/karkarat-trucks-november-2026.svg",
+      "url": "article-karkarat-truck-movement-november-6-2026.html",
+      "local_url": "/article-karkarat-truck-movement-november-6-2026.html",
+      "domain": "هنا الصحراء / اليوم 24 / NewsMorocco",
+      "source_url": "https://alyaoum24.com/2055807.html",
+      "date": "Fri, 06 Nov 2026 07:12:00 GMT"
+    },
     {
       "category": "policy",
       "title": "الملك محمد السادس يترأس جلسة عمل لمتابعة مرحلة ما بعد انتهاء مهام المينورسو",
