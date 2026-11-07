@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:53:56.908212+00:00",
+  "updated_at": "2026-11-07T06:58:27.550448+00:00",
   "articles": [
     {
       "category": "technology",
@@ -44,17 +44,6 @@
       "source_url": "https://cnnbusinessarabic.com",
       "date": "Fri, 06 Nov 2026 15:38:28 GMT",
       "local_url": "/article-39da80f88e2f.html"
-    },
-    {
-      "category": "technology",
-      "title": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق",
-      "description": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxQdXdsc1AtVlU0VVpxaXdJRVloZzRieEVoVUtLbE1PcnRYZzV4U0NTNlZEd2dHdFdRQUNiQzBvNjdYTzhKaU5iM0F3UDdYTzlMMlpvVW00dHlwQ3VwRXZMM2JxeEFOSmJSTDdzN3hIT1RIZ2ZsTzUyMDVnTWlXc3BicDkzZzJpUVFfMnd0RTl6WVY5OU9zb1Fwa3EzYnpFMG5zdGg1S3F1SGFENnp0WkFuUEJZLTBONlJCTW1kM2N1aDF3VGVBOHdLN1duanFFRXliQ0RYLWV2ZmZoWk9JVjUwdWVIcG4tY1lrNG9qR2tCYzBFaGxnaFBXYTduZVU3QjBEdU5uMW5nWm1qSjgtODZNQ2FkbjVsMGlfNTNkYWxlVVBVSlhZc2dWMkhOdlZKLWtfdC1WZTgwcE8zVUtIN3cteUt4bTVmZzlUbnN0VHFoa2VhTndmRFFaV3BpYm9RSFpGNWlySTROVDB1aklhSHlRTTdxXzlpeXotZzBTeHpPd0NOV2NoT05WWnNzd0F5RVNNWkpVd3ZsYW5EUHRqdUZiRmZvNGUwcEJpUkswZGNjQjFGSDdkNzk3X0ZvTHJBUm5YSUVyNzRSQkoyUE5pT0NuUjRvWHlHVkI4LTBUQXdHcDJOY0ZPMXFKZUFSdFpLdTNzSldKZTNoTjJ1WDBxRTYxMlNmZ2hjSm9UdlRqaVlfLTNrX2dIM1lMS2VLNUlSRy1zZFRaQnhpMXhiSFU0Y2V0UldjSVcyeVFocHk0X2stOWxHbWZtVjdCVVlyVUE3MjE5bmgwU2plM2liTHZHSFJJQ0JRVXBIV09BTFVvS3lacjNUUjREU1FGM19rYXZxVTBid2lGdl9WMy1ubGVNR3FYbQ?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Fri, 06 Nov 2026 14:55:02 GMT",
-      "local_url": "/article-72f355bfb419.html"
     },
     {
       "category": "policy",
@@ -120,6 +109,17 @@
     },
     {
       "category": "policy",
+      "title": "موريتانيا تجدد موقفها من قضية الصحراء المغربية بالتزامن مع تعزيز التعاون العسكري مع المغرب",
+      "description": "نواكشوط تؤكد تمسكها بموقف الحياد الإيجابي في قضية الصحراء، فيما تتواصل الزيارات العسكرية المتبادلة بين المغرب وموريتانيا لتبادل الخبرات وتعزيز التعاون في التدريب.",
+      "image": "mauritania-morocco-neutrality-military-cooperation-2026.svg",
+      "url": "article-mauritania-positive-neutrality-morocco-military-cooperation-november-7-2026.html",
+      "local_url": "/article-mauritania-positive-neutrality-morocco-military-cooperation-november-7-2026.html",
+      "domain": "Hespress / Morocco World News / NewsMorocco",
+      "source_url": "https://en.hespress.com/148591-mauritania-says-it-seeks-to-be-part-of-solution-to-sahara-file.html",
+      "date": "Sat, 07 Nov 2026 06:45:00 GMT"
+    },
+    {
+      "category": "policy",
       "title": "تعيين إيفانكو رئيسا لتصفية المينورسو",
       "description": "تعيين إيفانكو رئيسا لتصفية المينورسو Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -172,6 +172,17 @@
       "source_url": "https://ar.sport.le360.ma",
       "date": "Thu, 05 Nov 2026 19:01:49 GMT",
       "local_url": "/article-b79aab1f6748.html"
+    },
+    {
+      "category": "sports",
+      "title": "الجيش الملكي يعوض خسارته بفوز",
+      "description": "الجيش الملكي يعوض خسارته بفوز سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xM3ZuV2dkMHZUTUtuWUQzV2FIekZqbmxhclRvU1BHUk40MktmT2NockNkWUtvUzU1NXBPX241UFNNcmJYMW9xdmJOckhOaEZCQ2tKR0RBRGlWbHhYdlhSVl9oWGRSeTk2ZGZGN1BFcw?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Thu, 05 Nov 2026 17:37:29 GMT",
+      "local_url": "/article-cc9f8fa008cd.html"
     },
     {
       "category": "sports",
@@ -390,17 +401,6 @@
       "source_url": "https://www.reuters.com",
       "date": "Thu, 05 Nov 2026 11:02:40 GMT",
       "local_url": "/article-ed8073926e38.html"
-    },
-    {
-      "category": "international",
-      "title": "صور وفيديو: ناجون من الهولوكوست يحضرون عرض HERE THERE ARE BLUEBERRIES",
-      "description": "صور وفيديو: ناجون من الهولوكوست يحضرون عرض HERE THERE ARE BLUEBERRIES BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2RYSVRreDgxTFI1eXZwMGFsdEszdUJwaW1OcTFVX1pIMjhBa2RMb09CM1VzdS1vOUtBamtyLVE0NW50bjJSX3ZSMnRXcnB3MHpJRjl2ZzFReTFrbF92cVVjNXJ5UG5RWlBxaUVWdTZsSkoxTUFyeWtxeHVyYXJBamZtTVptU1pKeU1lWkxvYl9QN2V1d2dBYlZXTUE4cENRWmVqVmNzazRlaFI3VHNrakJmejNlVW9HcmprVlp2SnoxYzVGV3BHMGpDRWc?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Fri, 06 Nov 2026 13:26:07 GMT",
-      "local_url": "/article-74ef37e227c8.html"
     },
     {
       "category": "international",
