@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:55:29.214714+00:00",
+  "updated_at": "2026-11-07T15:00:28.854689+00:00",
   "articles": [
     {
       "category": "technology",
@@ -84,17 +84,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Thu, 05 Nov 2026 15:35:16 GMT",
       "local_url": "/article-e44dbd6befe0.html"
-    },
-    {
-      "category": "policy",
-      "title": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة",
-      "description": "المنصوري تثمن مكاسب الصحراء المغربية .. وتنادي بتعبئة حكومية شاملة Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQMDlRZEk0MU0ySTRBNjdfWkJIMl9LRnJCRUhMUFZranpTVFF4V1pXMTljU1dRbDR5RVZzRmRHYklLMll3MzVnanRsVFhyU1JzRTVYMlM2U2VFbTdPSkZyMkVObXNSbWRjcGU5OFl1MG9UZlVhZVdPSW5IN0xDaS1DVWNYU0lFcnl4WnV1MHIxeU40UnRDeHpBeExxcmRKN0Y3Wk8waUp0bTRhWjhjdDJ3UUxJVm02RDRCUjZOWVJJd2l4YVM1MU55YkxjWjd6YnhWXzdZOHBLSEd6dEdoWG1BZUpCSk5PSzRGWWhJVGtWbjhnSHpVM3hJa0lGUkJYZ2FJTU8wMzEyX1hVcXlXeVNwdjRYZVpLNE43UjJsT1dqQ2tUQXB2LU5JUUE1MGlrYjZ6VmF4bjZDcDZVeDF3OVNmMGN6MExfcFpIZHVaYTdveW5YcjM0?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 05 Nov 2026 14:07:45 GMT",
-      "local_url": "/article-2a008a6d7766.html"
     },
     {
       "category": "policy",
@@ -192,6 +181,28 @@
       "url": "article-morocco-niger-afcon-qualifiers-november-2026.html",
       "domain": "Hespress / NewsMorocco",
       "date": "Sun, 18 Oct 2026 13:13:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "بعد الهزيمة أمام الرجاء.. الجيش الملكي « يتلقى ضربة » موجعة قبل مواجهة الدفاع الجديدي",
+      "description": "بعد الهزيمة أمام الرجاء.. الجيش الملكي « يتلقى ضربة » موجعة قبل مواجهة الدفاع الجديدي سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjc1I5b2pUaDh4VVRLVlBFMm4tT0VOQU45WXZ6cFVZaUxvX2tOcjZLUGV1UWpXbEk2TEpneTRfUkNZWGhqZHo1dDFCYjB6cTl6NHREdENPXzFSWDc5UmMwWVJndm5GcExDRmxxS3g3RmtqclpaQ0Excg?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Fri, 06 Nov 2026 21:06:13 GMT",
+      "local_url": "/article-1acc977b4189.html"
+    },
+    {
+      "category": "sports",
+      "title": "الكشف عن حكم قمة الرجاء أمام اتحاد طنجة",
+      "description": "الكشف عن حكم قمة الرجاء أمام اتحاد طنجة سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RRmUtZXJ6bGxXQ0h2ay1SRXQ5X1AzY0xNZjRzeXVwdzdPQTlfSWQ2RWVLRUhnTi0zUVpneGJhYVFZR05kT002SzJoVklhN0RXbUdzQlBMOGFHTEZQWXZGS3ZiTWlzT1A0VmlNTl9TaUlFME1iVG5FWA?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Fri, 06 Nov 2026 15:41:30 GMT",
+      "local_url": "/article-50ef9fcc884e.html"
     },
     {
       "category": "sports",
@@ -403,15 +414,15 @@
       "local_url": "/article-db4cbc096871.html"
     },
     {
-      "category": "international",
-      "title": "Derek Klena يؤدي دور 'Jay Gatsby' المقبل في THE GREAT GATSBY على برودواي",
-      "description": "Derek Klena يؤدي دور 'Jay Gatsby' المقبل في THE GREAT GATSBY على برودواي BroadwayWorld",
+      "category": "business",
+      "title": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع",
+      "description": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDdGQUtUdmhDZ1RvLXpDbUdHTDlab0tXZ1JIeDROTHcwRnozTlRNUXBLOXY1R2hNOG8zc0M2aDJlbVZxMTVKY0ppLTQ4V1owTVBHb2ZsMTFZRUh0eDZseXpMTmNMWC13VDhVWWZteUlGSDVsWUstNzB6S2xpNFpwRnMwc1ZfYmdQc1ZFTU5DQ1BiaW1lbnhobkVwYWNoeHdDLVpHUUU2Q25EdGk3SEQyWVE0eDViUzVCVGNOUDhfM0Y?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Thu, 05 Nov 2026 14:33:10 GMT",
-      "local_url": "/article-920b918d6367.html"
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQeWx0dmVVMzJlOTZjQVg3MzlUVUc1cENtLXowTk9BUHczYnd5S1dEV1h5a0pXN3JHWlZNMU1Gdkw1VXNIYVdCUnJyRWNVZHNidllGRzBWQTBQNkdrM0xYQnh2QW5XazFvU2xUZGpxWUJYZG9xTGVrcFFBVDdIdTd1bnB1aFZoekRvbDlXbDZySHlkem5KUXhhcDhpQTVuTWxteGVEOVlmc2ppVzJRVmQ3ZkN3ODUyU0dMYnJROVMwb2xTc1hJWGlzLU04aS1fQVVSRXZUSmJscGZ3YjFDZjlQbzF1alZJM3cwdWl1OUdoVG82eHlPeXl0Vk1XNE5RdnhCbzA2NWllN1ZkSjJINXBiM0VhRmNzSU9Vbmt3a1FEMXNUekJmQkNRdzAtRDc3amt2ZldGdVZzbUZOcVZRRTd2eE56S3ZqVExFVWp0U3VFWVdJNG5tLXpn?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 07 Nov 2026 14:02:27 GMT",
+      "local_url": "/article-297b09deb183.html"
     },
     {
       "category": "international",

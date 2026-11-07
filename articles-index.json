@@ -1,14 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "حزب جاكوب زوما يجدد دعمه لمقترح الحكم الذاتي المغربي في الصحراء",
-    "description": "حزب uMkhonto weSizwe بقيادة جاكوب زوما أعلن دعمه لمقترح الحكم الذاتي المغربي، معتبراً أنه يتيح تدبيراً محلياً لشؤون المنطقة في إطار السيادة المغربية.",
-    "image": "/zuma-mk-morocco-autonomy-2026.svg",
-    "url": "/article-zuma-mk-party-morocco-autonomy-november-7-2026.html",
-    "domain": "NewsMorocco",
-    "date": "نشر في 7 نونبر 2026 · NewsMorocco"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -493,6 +484,15 @@
     "url": "/article-4b09934854f3.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Fri, 23 Oct 2026 08:13:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "بعد الهزيمة أمام الرجاء.. الجيش الملكي « يتلقى ضربة » موجعة قبل مواجهة الدفاع الجديدي",
+    "description": "بعد الهزيمة أمام الرجاء.. الجيش الملكي « يتلقى ضربة » موجعة قبل مواجهة الدفاع الجديدي سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1acc977b4189.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Fri, 06 Nov 2026 21:06:13 GMT"
   },
   {
     "category": "general",
@@ -1526,6 +1526,15 @@
     "description": "نواكشوط تؤكد تمسكها بموقف الحياد الإيجابي في قضية الصحراء، فيما تتواصل الزيارات العسكرية المتبادلة بين المغرب وموريتانيا لتبادل الخبرات وتعزيز التعاون في التدريب.",
     "image": "/mauritania-morocco-neutrality-military-cooperation-2026.svg",
     "url": "/article-mauritania-positive-neutrality-morocco-military-cooperation-november-7-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • السبت 7 نونبر 2026"
+  },
+  {
+    "category": "policy",
+    "title": "حزب جاكوب زوما يجدد دعمه لمقترح الحكم الذاتي المغربي في الصحراء",
+    "description": "حزب uMkhonto weSizwe بقيادة جاكوب زوما أعلن دعمه لمقترح الحكم الذاتي المغربي، معتبراً أنه يتيح تدبيراً محلياً لشؤون المنطقة في إطار السيادة المغربية.",
+    "image": "/zuma-mk-morocco-autonomy-2026.svg",
+    "url": "/article-zuma-mk-party-morocco-autonomy-november-7-2026.html",
     "domain": "NewsMorocco",
     "date": "NewsMorocco • السبت 7 نونبر 2026"
   },
@@ -3058,6 +3067,15 @@
     "url": "/article-09f5d1f46b21.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sat, 17 Oct 2026 11:47:43 GMT"
+  },
+  {
+    "category": "general",
+    "title": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع",
+    "description": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-297b09deb183.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 14:02:27 GMT"
   },
   {
     "category": "general",
