@@ -1548,6 +1548,15 @@
     "date": "NewsMorocco • السبت 7 نونبر 2026"
   },
   {
+    "category": "business",
+    "title": "تزامن اقتصادي لافت.. المغرب يعلّق مؤقتاً صادرات الطماطم نحو إفريقيا والجزائر تقترب من تسليم منطقة تندوف الحرة",
+    "description": "تزامن تعليق المغرب مؤقتاً صادرات الطماطم إلى الأسواق الإفريقية لحماية التموين المحلي مع إعلان الجزائر قرب تسليم المنطقة التجارية الحرة بتندوف قبل نهاية 2026. قراءة في الأبعاد التجارية دون افتراض وجود ارتباط مباشر بين القرارين.",
+    "image": "/morocco-algeria-mauritania-trade-november-2026.svg",
+    "url": "/article-morocco-tomato-export-pause-algeria-tindouf-free-zone-november-7-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • السبت 7 نونبر 2026"
+  },
+  {
     "category": "general",
     "title": "«خط العودة».. مبادرة قانونية مجانية وسرية لمساعدة الراغبين في العودة من مخيمات تندوف",
     "description": "أعلن نادي المحامين بالمغرب إطلاق خدمة «خط العودة» لتقديم الإرشاد والتوجيه القانوني المجاني والسرّي لسكان مخيمات تندوف الراغبين في العودة إلى المغرب، على أن تدخل الخدمة حيز التنفيذ يوم 16 نونبر 2026.",
@@ -3070,12 +3079,39 @@
   },
   {
     "category": "general",
+    "title": "القنب الهندي المغربي يطرق أبواب الأسواق الأوروبية في \"معرض براغ\"",
+    "description": "القنب الهندي المغربي يطرق أبواب الأسواق الأوروبية في \"معرض براغ\" Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-85603c16acb3.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 20:04:45 GMT"
+  },
+  {
+    "category": "general",
     "title": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع",
     "description": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-297b09deb183.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sat, 07 Nov 2026 14:02:27 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يدخل أسبوعا من التقلبات الجوية تحت تأثير منخفضين أطلسيين",
+    "description": "المغرب يدخل أسبوعا من التقلبات الجوية تحت تأثير منخفضين أطلسيين Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-09a5651056fb.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 13:02:27 GMT"
+  },
+  {
+    "category": "general",
+    "title": "وزير الأوقاف يكشف تخصيص 294 مليار سنتيم لمكافآت القيمين الدينيين",
+    "description": "وزير الأوقاف يكشف تخصيص 294 مليار سنتيم لمكافآت القيمين الدينيين Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-317a3295128e.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 10:18:32 GMT"
   },
   {
     "category": "general",
@@ -3562,6 +3598,15 @@
     "url": "/article-afcbf1617af4.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Fri, 23 Oct 2026 11:13:17 GMT"
+  },
+  {
+    "category": "general",
+    "title": "التزامات وطنية تدفع لقجع إلى التخلي عن رئاسة اللجنة المالية لـ\"الكاف\"",
+    "description": "التزامات وطنية تدفع لقجع إلى التخلي عن رئاسة اللجنة المالية لـ\"الكاف\" Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-dc8feae3a7fb.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 06 Nov 2026 22:52:10 GMT"
   },
   {
     "category": "general",
@@ -5451,7 +5496,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-72f355bfb419.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Fri, 06 Nov 2026 14:55:02 GMT"
+    "date": "CNN الاقتصادية • Fri, 06 Nov 2026 14:54:57 GMT"
   },
   {
     "category": "general",
@@ -5950,6 +5995,24 @@
   },
   {
     "category": "general",
+    "title": "صور: Lena Dunham وRachel Zegler وآخرون في احتفال لمّ شمل Falsettos",
+    "description": "صور: Lena Dunham وRachel Zegler وآخرون في احتفال لمّ شمل Falsettos BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-b29d1076a43d.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Fri, 06 Nov 2026 17:55:28 GMT"
+  },
+  {
+    "category": "general",
+    "title": "ما يُعرض في Broadway خلال عيد الميلاد 2026",
+    "description": "ما يُعرض في Broadway خلال عيد الميلاد 2026 BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-59e6865df16d.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Fri, 06 Nov 2026 17:47:03 GMT"
+  },
+  {
+    "category": "general",
     "title": "صور وفيديو: ناجون من الهولوكوست يحضرون عرض HERE THERE ARE BLUEBERRIES",
     "description": "صور وفيديو: ناجون من الهولوكوست يحضرون عرض HERE THERE ARE BLUEBERRIES BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -6280,6 +6343,15 @@
     "url": "/article-6e19f63cd890.html",
     "domain": "NewsMorocco",
     "date": "Assabah • Fri, 23 Oct 2026 00:59:23 GMT"
+  },
+  {
+    "category": "general",
+    "title": "وداد تمارة يطعن في قرار لجنة التأديب ويهدد باللجوء إلى “طاس”",
+    "description": "وداد تمارة يطعن في قرار لجنة التأديب ويهدد باللجوء إلى “طاس” Assabah",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d42c7e60915a.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah • Fri, 06 Nov 2026 16:01:44 GMT"
   },
   {
     "category": "general",
