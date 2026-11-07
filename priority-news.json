@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06T07:12:00+00:00",
+  "updated_at": "2026-11-07T15:00:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "حزب جاكوب زوما يجدد دعمه لمقترح الحكم الذاتي المغربي في الصحراء",
+      "description": "حزب uMkhonto weSizwe بقيادة جاكوب زوما أعلن دعمه لمقترح الحكم الذاتي المغربي، معتبراً أنه يتيح تدبيراً محلياً لشؤون المنطقة في إطار السيادة المغربية.",
+      "image": "/zuma-mk-morocco-autonomy-2026.svg",
+      "url": "article-zuma-mk-party-morocco-autonomy-november-7-2026.html",
+      "local_url": "/article-zuma-mk-party-morocco-autonomy-november-7-2026.html",
+      "domain": "SNRT News / MAP / Eyewitness News / NewsMorocco",
+      "source_url": "https://snrtnews.com/fr/article/le-parti-mk-dafrique-du-sud-soutient-la-proposition-marocaine-dautonomie-et-estime-quelle",
+      "date": "Sat, 07 Nov 2026 15:00:00 GMT"
+    },
     {
       "category": "business",
       "title": "أنباء عن توقف حركة الشاحنات بمعبر الكركرات.. وما حقيقة الإغلاق؟",
