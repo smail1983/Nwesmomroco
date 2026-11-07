@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:21:29.557447+00:00",
+  "updated_at": "2026-11-07T21:46:13.009016+00:00",
   "articles": [
     {
       "category": "technology",
@@ -62,17 +62,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Sat, 07 Nov 2026 14:02:27 GMT",
       "local_url": "/article-297b09deb183.html"
-    },
-    {
-      "category": "policy",
-      "title": "وزير الأوقاف يكشف تخصيص 294 مليار سنتيم لمكافآت القيمين الدينيين",
-      "description": "وزير الأوقاف يكشف تخصيص 294 مليار سنتيم لمكافآت القيمين الدينيين Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNc3dRNVRQUm1LY2dwVHZTSDhsdHEtNmRoVnlLVktwdlgtSWdvdmVZS2FUVDNnLW9zWFNkWnB3Mlp3T3A5YmVqS2Z3MDJJVzhweGNfNEh0dkhuN0pqc19DWV9xcFl2dTVkYVNRdUpFWWxSMi1rNTB1ZDRtM3ZQSWtZYUtvUXpRWUlaTFlQLVd5UF9yc0hockw0OW4zRElVY1VraDcxbTNWQ09OTGdESlNyTklVWHlzazVBZHB1aGV1b2JVQ3FkLXI3SDVHR3dfSXhZdWd1RjVDMEFnZF96cWx5UC1WdURCcGRzb1UtcXlDTkdfbTd6Q0lHTmd6ekpwd2dYVzUyWEpYelBIejlVd1lqVndTLWpOM2NsZGt1UlBVOFZWWFdraFNjVXFBVEdWQ256aUF5djdYWjl3NkZURTBvLVZsRHktNWhsaHk5ZnhfS2ZMMjJs?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Sat, 07 Nov 2026 10:18:32 GMT",
-      "local_url": "/article-317a3295128e.html"
     },
     {
       "category": "policy",
@@ -216,6 +205,17 @@
       "local_url": "/article-3ffe8f7d959a.html"
     },
     {
+      "category": "technology",
+      "title": "هل نستفتي الآلة؟ جدل حول حدود الذكاء الاصطناعي في الفقه",
+      "description": "هل نستفتي الآلة؟ جدل حول حدود الذكاء الاصطناعي في الفقه BBC",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wZDRIVnVfa1hiV1lFSmZwUlhfcGVRRjJjTHRHbVBFTXJsR3Z0TkxjWUhMS1ZYSjhOMFl2TkNwVU10ZGlVUUtmUHFlUlpGN3BPbEU1dURNbm9LWGVraGfSAWNBVV95cUxNZUNaSXgtbzRqNFQyZUlONDMxSEVSZVFFTU1sVnhfd2NxOHVDamxIYmpMWjJBeTQ2NVYyT3lGUVpFM1ZCeEN5X0FCWmxIZGI4cUNHYTExaTVFOHU0WXRRWWhhb2c?oc=5",
+      "domain": "BBC",
+      "source_url": "https://www.bbc.com",
+      "date": "Fri, 06 Nov 2026 07:31:04 GMT",
+      "local_url": "/article-3062bc6be00f.html"
+    },
+    {
       "category": "general",
       "title": "المغرب يدخل أسبوعا من التقلبات الجوية تحت تأثير منخفضين أطلسيين",
       "description": "المغرب يدخل أسبوعا من التقلبات الجوية تحت تأثير منخفضين أطلسيين Hespress",
@@ -304,26 +304,15 @@
       "local_url": "/article-8c485a9b012b.html"
     },
     {
-      "category": "international",
-      "title": "صور: Lena Dunham وRachel Zegler وآخرون في احتفال لمّ شمل Falsettos",
-      "description": "صور: Lena Dunham وRachel Zegler وآخرون في احتفال لمّ شمل Falsettos BroadwayWorld",
+      "category": "business",
+      "title": "فيديو: الاقتصاد الاجتماعي والتضامني.. رافعة للتمكين الاقتصادي للمرأة بمناسبة يومها الوطني",
+      "description": "فيديو: الاقتصاد الاجتماعي والتضامني.. رافعة للتمكين الاقتصادي للمرأة بمناسبة يومها الوطني 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWRFYjdLamhLaGQxdG5PSndsal9jY25mWi1rbXdhMTVmUXRhQ2Z6ZUxYXzhXb0huMVdicFliWXdrbl9RZ2xZN3k0a0w4TTJJbmRDV3BnVzdicThxRV9WVWdkNUFWeHU5YzFCWjlsVEg2eGs5QnNCV0RfWnJRUkJiNUoxaUwzTUwzMk9sdHJITmNzbGc2cDNkOUwtdFRHVjVtdXVVNTZZYWZ0UG8tVUxhTU9obWVmaXVpcWlvcm5lOE5za2NqX01N?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Fri, 06 Nov 2026 17:55:28 GMT",
-      "local_url": "/article-b29d1076a43d.html"
-    },
-    {
-      "category": "international",
-      "title": "ما يُعرض في Broadway خلال عيد الميلاد 2026",
-      "description": "ما يُعرض في Broadway خلال عيد الميلاد 2026 BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1h5a2owcEZ3eVRoelpmZVc1clZqUVVYdlJXSGJoeUFRX3pkbmFxaG00VDZ0azR0aUlrTWd3QktjSWJNdDNoNHJYQUhfNDdfU2dqcnlrakh0NW8wLVdnbVNSQVJPSWFKNFJpSFNwelJhUmo5LVhFZlk0QlBkNk5fTGNBWTA5VWlsOHpLN215c1dQNVB0cjhN?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Fri, 06 Nov 2026 17:47:03 GMT",
-      "local_url": "/article-59e6865df16d.html"
+      "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxOSGdlQWt0U0JCd3A5U2ktclJNV0QweG8ydmMxX0FJWW5VQllIWlZ4cGh3SmFyUFB2UHQzU0pDSnVndnpUUWRFZzdEclgyOVdIdWNtT094TFlLWmJFMFlTNi04enZTUGVMeXFodm41RjZvNHRQdjJ2djdJbU1URmpXTU5PZ0VLMTM5dm0za1Z4SVFRcnZKOE05WHM0RzRDanVRRkY4M0t6MnlRd2xJVmk4T3dqOEplNG1SR3FwanNVdmZCQkg3eWY1QUZLTzhJajRWZDBYVm5JaGQ5QmpNM1J4VHpwSExtemJIVTlMcDBpeDlydzViQnY4dEJxb2piUEgyTW9DS1hSNUk3YUNPMF8xbXFnbmRBVG9yWE9tcUhfLTU3SW9JX0NrTTlZWkpRd3Vmb2xTMDg1MUtlMXRpdVItTzRGVkVlWWNfdUtMVm14RFk0UE1uY2E0ZjE3a2xKWDdESnZvdDF1akw0Qnc1Q2xqMjBLVDNHYUJCd1RNTzM1SC0xcDk4cGRKd0F3dWJFMHNOTXhjRlpHZ3NJMDc1M1p1ZzJIMnNRclhiTGM0NENXbmJ4emY5NzM1S3hOSUVfcnFCUFNVYkZUanREUU85dWNxanhKMk5tRVBoNURlYm5zUFBGV2ZoTTdjMGdYUGpSSlpoUW81bkZtLWR1R2RmSTQxZzN6TjNHb3o0X0s4dGFOWVZIRW1UVzQxZHBMWnotUzFlWUJfdFA4QnU5alMzQ1k2a21pdVR3eldFOE45TzByazZ3OHY2dlcwS2RTN2ZRcWpUZDdxcHlLbzhKa2lyZlRGU000alUta0dBUHJrNW9BY2ZJV1hLdjNwbWVFV3FMcE5XZERvSUVfNXJIZUxqZlpDVURJeHVobzBMaHhvZXh2R3hrbzlEbHBXVFJqNXNjNmRGWFh3?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Sat, 07 Nov 2026 08:48:02 GMT",
+      "local_url": "/article-e65321f09fdb.html"
     },
     {
       "category": "international",
