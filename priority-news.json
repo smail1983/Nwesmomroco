@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-07T15:00:00+00:00",
+  "updated_at": "2026-11-07T21:08:00+00:00",
   "articles": [
+    {
+      "category": "business",
+      "title": "تزامن اقتصادي لافت.. المغرب يعلّق مؤقتاً صادرات الطماطم نحو إفريقيا والجزائر تقترب من تسليم منطقة تندوف الحرة",
+      "description": "تزامن تعليق المغرب مؤقتاً صادرات الطماطم إلى الأسواق الإفريقية لحماية التموين المحلي مع إعلان الجزائر قرب تسليم المنطقة التجارية الحرة بتندوف قبل نهاية 2026. قراءة في الأبعاد التجارية دون افتراض وجود ارتباط مباشر بين القرارين.",
+      "image": "/morocco-algeria-mauritania-trade-november-2026.svg",
+      "url": "article-morocco-tomato-export-pause-algeria-tindouf-free-zone-november-7-2026.html",
+      "local_url": "/article-morocco-tomato-export-pause-algeria-tindouf-free-zone-november-7-2026.html",
+      "domain": "Reuters / وكالة الأنباء الجزائرية / التلفزيون الجزائري / NewsMorocco",
+      "source_url": "https://www.reuters.com/world/africa/morocco-pauses-tomato-exports-african-markets-amid-high-prices-home-2026-11-05/",
+      "date": "Sat, 07 Nov 2026 21:08:00 GMT"
+    },
     {
       "category": "policy",
       "title": "حزب جاكوب زوما يجدد دعمه لمقترح الحكم الذاتي المغربي في الصحراء",
