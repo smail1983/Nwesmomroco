@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-08T00:00:00+00:00",
+  "updated_at": "2026-11-08T00:23:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "جان بيير لاكروا يكشف تفاصيل انسحاب المينورسو من الصحراء المغربية",
+      "description": "المسؤول الأممي يؤكد أن البعثة أوقفت عملياتها منذ منتصف ليلة 31 أكتوبر ودخلت مرحلة التصفية، دون وجود آلية بديلة لمراقبة وقف إطلاق النار حالياً.",
+      "image": "/minurso-lacroix-liquidation-november-2026.svg",
+      "url": "article-jean-pierre-lacroix-minurso-liquidation-november-8-2026.html",
+      "local_url": "/article-jean-pierre-lacroix-minurso-liquidation-november-8-2026.html",
+      "domain": "الأمم المتحدة / Médias24 / NewsMorocco",
+      "source_url": "https://peacekeeping.un.org/en/news/un-peacekeeping-chief-warns-of-security-vacuum-as-blue-helmets-leave-lebanon-and",
+      "date": "Sun, 08 Nov 2026 00:20:00 GMT"
+    },
     {
       "category": "policy",
       "title": "انتهاء ولاية المينورسو دون تجديد.. والأمم المتحدة تبدأ تقليص وجود البعثة",
