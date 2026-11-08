@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-07T21:46:13.009016+00:00",
+  "updated_at": "2026-11-08T00:00:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "انتهاء ولاية المينورسو دون تجديد.. والأمم المتحدة تبدأ تقليص وجود البعثة",
+      "description": "فشل مجلس الأمن في اعتماد مشروعي قرار بشأن الصحراء يوم 30 أكتوبر 2026، لتنتهي ولاية المينورسو في 31 أكتوبر وتبدأ الأمم المتحدة تقليص وجود البعثة اعتباراً من 1 نونبر.",
+      "image": "/minurso-mandate-drawdown-november-2026.svg",
+      "url": "article-minurso-mandate-expiry-november-2026.html",
+      "local_url": "/article-minurso-mandate-expiry-november-2026.html",
+      "domain": "الأمم المتحدة / رويترز / NewsMorocco",
+      "source_url": "https://press.un.org/en/2026/sc16498",
+      "date": "Sun, 08 Nov 2026 00:00:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل: ارتداد 5 أسهم من عمالقة التكنولوجيا الـ7 في وول ستريت بعد خسائر حادة",
