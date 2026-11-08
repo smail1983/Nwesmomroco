@@ -1,16 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "انتهاء ولاية المينورسو دون تجديد.. والأمم المتحدة تبدأ تقليص وجود البعثة",
-    "description": "فشل مجلس الأمن في اعتماد مشروعي قرار بشأن الصحراء يوم 30 أكتوبر 2026، لتنتهي ولاية المينورسو في 31 أكتوبر وتبدأ الأمم المتحدة تقليص وجود البعثة اعتباراً من 1 نونبر.",
-    "image": "/minurso-mandate-drawdown-november-2026.svg",
-    "url": "article-minurso-mandate-expiry-november-2026.html",
-    "local_url": "/article-minurso-mandate-expiry-november-2026.html",
-    "domain": "الأمم المتحدة / رويترز / NewsMorocco",
-    "source_url": "https://press.un.org/en/2026/sc16498",
-    "date": "نشر في 8 نونبر 2026 · NewsMorocco · سياسة"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -372,6 +361,15 @@
   },
   {
     "category": "general",
+    "title": "النادي المكناسي يُضاعف معاناة المغرب التطواني في أسفل الترتيب ويُشدد الخناق على المتصدر الكوكب المراكشي",
+    "description": "النادي المكناسي يُضاعف معاناة المغرب التطواني في أسفل الترتيب ويُشدد الخناق على المتصدر الكوكب المراكشي سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-4d39e8d5294d.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Sat, 07 Nov 2026 22:03:13 GMT"
+  },
+  {
+    "category": "general",
     "title": "قطار المنتخب الوطني يدهس كوراساو بسباعية و يحقق فوزه الرابع تواليا في مونديال كرة القدم",
     "description": "قطار المنتخب الوطني يدهس كوراساو بسباعية و يحقق فوزه الرابع تواليا في مونديال كرة القدم سبورت Le360",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -711,6 +709,15 @@
     "url": "/article-khaled-haftar-morocco-2026.html",
     "domain": "NewsMorocco",
     "date": "الاثنين 12 أكتوبر 2026 · NewsMorocco"
+  },
+  {
+    "category": "policy",
+    "title": "انتهاء ولاية المينورسو دون تجديد.. والأمم المتحدة تبدأ تقليص وجود البعثة",
+    "description": "فشل مجلس الأمن في اعتماد مشروعي قرار بشأن الصحراء يوم 30 أكتوبر 2026، لتنتهي ولاية المينورسو في 31 أكتوبر وتبدأ الأمم المتحدة تقليص وجود البعثة اعتباراً من 1 نونبر.",
+    "image": "/minurso-mandate-drawdown-november-2026.svg",
+    "url": "/article-minurso-mandate-expiry-november-2026.html",
+    "domain": "NewsMorocco",
+    "date": "الأحد 8 نونبر 2026 · سياسة · NewsMorocco"
   },
   {
     "category": "policy",
@@ -3087,6 +3094,33 @@
     "url": "/article-09f5d1f46b21.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sat, 17 Oct 2026 11:47:43 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الثوم الأجنبي يغضب مهنيين مغاربة",
+    "description": "الثوم الأجنبي يغضب مهنيين مغاربة Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c722bc6ac931.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 23:15:47 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يروج للقنب الهندي ببراغ",
+    "description": "المغرب يروج للقنب الهندي ببراغ Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-09535b5e9afc.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 21:13:48 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "آيزنكوت يتولى تشكيل الحكومة الإسرائيلية",
+    "description": "آيزنكوت يتولى تشكيل الحكومة الإسرائيلية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-cc3c5d498380.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 07 Nov 2026 20:12:54 GMT"
   },
   {
     "category": "general",
