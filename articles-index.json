@@ -1,16 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "جان بيير لاكروا يكشف تفاصيل انسحاب المينورسو من الصحراء المغربية",
-    "description": "المسؤول الأممي يؤكد أن البعثة أوقفت عملياتها منذ منتصف ليلة 31 أكتوبر ودخلت مرحلة التصفية، دون وجود آلية بديلة لمراقبة وقف إطلاق النار حالياً.",
-    "image": "/minurso-lacroix-liquidation-november-2026.svg",
-    "url": "article-jean-pierre-lacroix-minurso-liquidation-november-8-2026.html",
-    "local_url": "/article-jean-pierre-lacroix-minurso-liquidation-november-8-2026.html",
-    "domain": "الأمم المتحدة / Médias24 / NewsMorocco",
-    "source_url": "https://peacekeeping.un.org/en/news/un-peacekeeping-chief-warns-of-security-vacuum-as-blue-helmets-leave-lebanon-and",
-    "date": "نشر في 8 نونبر 2026 · NewsMorocco · الصحراء المغربية"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -6588,6 +6577,15 @@
     "url": "/article-302518d4111d.html",
     "domain": "NewsMorocco",
     "date": "AFP.com • Fri, 23 Oct 2026 00:30:00 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "جان بيير لاكروا يكشف تفاصيل انسحاب المينورسو من الصحراء المغربية",
+    "description": "المسؤول الأممي يؤكد أن البعثة أوقفت عملياتها منذ منتصف ليلة 31 أكتوبر ودخلت مرحلة التصفية، دون وجود آلية بديلة لمراقبة وقف إطلاق النار حالياً.",
+    "image": "/minurso-lacroix-liquidation-november-2026.svg",
+    "url": "/article-jean-pierre-lacroix-minurso-liquidation-november-8-2026.html",
+    "domain": "NewsMorocco",
+    "date": "8 نونبر 2026 · الصحراء المغربية · NewsMorocco"
   },
   {
     "category": "policy",
