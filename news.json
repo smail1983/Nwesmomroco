@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T21:59:47.656009+00:00",
+  "updated_at": "2026-11-09T06:19:05.349251+00:00",
   "articles": [
     {
       "category": "technology",
@@ -54,17 +54,6 @@
     },
     {
       "category": "policy",
-      "title": "آيزنكوت يفتح باب الحكومة أمام نتنياهو",
-      "description": "آيزنكوت يفتح باب الحكومة أمام نتنياهو Hespress - هسبريس جريدة إلكترونية مغربية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPbUR1NEczRnZHX2Y4alJpMGlRdDdNUTJDRGx5dGhjUVB5QXY5bDBNRTAtNERxbTB5aHl5WWJWSVV0QUU4WkRoc3hpQ1U3QkUycGc3ZnpkTW4tbkp1cjd2SzNfNHUxazdCcUlkSDBvLVBpSUlfMmFmaHR5b2NWaDRuYVNLZERPdS1jMG05YVVNbWdfZWNCeVNhYVIyQlVMcjhyUGxwNVktYmRpUlJqZXJQT3F5anlGa1pIaEc5T2NBUHY2dGpwRTdjbkpaOWNfZ3ZvVF9rOHFoNlRieW9YQkF5aWdOTW9DTExabFpvNDhKb3RuQno4dTFDMXdiRGlsdG9kWGNCdVV3ZHhvSVlsaGZQWkhuOVg0V3lpcDZuV2hKa0h5b0Jsak8wUWM1bTFoNEJ4N3BsMTdqSl9jSkRDZFBwSVZ6SEh3OGktbXRFd0RVVExISUdObHc?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Sun, 08 Nov 2026 16:32:51 GMT",
-      "local_url": "/article-e212ae90a5ee.html"
-    },
-    {
-      "category": "policy",
       "title": "الحكومة تستعد لاستئناف تصدير الخضر والفواكه إلى إفريقيا بشروط جديدة",
       "description": "الحكومة تستعد لاستئناف تصدير الخضر والفواكه إلى إفريقيا بشروط جديدة Hespress - هسبريس جريدة إلكترونية مغربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -87,11 +76,33 @@
     },
     {
       "category": "policy",
+      "title": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟",
+      "description": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟ DW.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQZDF1RzBQWG5qajJiNU5ZeEpDaTdUZUpYaEY0M2pkckpaMjdmaUM2OHhGMUlNektRa1A5Um9abHFwOEVUQVgxaEo4RmMtVGZhRFNyTlZQUEZPajRvejFkeTUyeHRMbHVpaHpOcXdKQUhFc2FnVGgyUzVjZ2tla0EzOG9HUVdaVW9ma3BnSHlrY2F2cVhYdXd5YWlDR25VbzFBZWNyM3J3TnlUbUhFang0ckwzRVFVZEVsNFF6NHZETWdZR2djQVZqdlFzUHNYbUVieURPQ2NtSGd0NnFwS1hTMEpuMGdXLTZwRHRodlVSY1FTWllHYVRqdjZBbFBmYWp1ZEVtbnFJT2k1RXVjcFA4SDFyUmhUdGpzZ3QwTFhPemhKdjNzajc5d3c4dTIwRmc4UEx0R1JkczVhcFFGN2xTTFUtMXNoR2dCMkVuLVBOajM0bEpMRm1NWVRGMmhZMXZWcHhLUmF6OGxQb3dBal9KNlJqbmxoLUFRalpfVDEzb3YtNlhObVozUGRoM2xlay1vR1ZETnRqQlo3QVpJdW9md3IxN2NtSEhfTkFZSHJ3LXNWSFJCS2JBckZFdXBHaUlGaVQxR0pJV0xOdHpWNkdYdmNva0p0OTlWWmctSFg0VHNFamJOUFJyVWN1Q3NTWGZ1N1RTUnh4Y1FzU25faGc?oc=5",
+      "domain": "DW.com",
+      "source_url": "https://www.dw.com",
+      "date": "Sun, 08 Nov 2026 02:25:24 GMT",
+      "local_url": "/article-6f02a9630309.html"
+    },
+    {
+      "category": "international",
+      "title": "فيديو: عرض «See Amid the Winter's Snow» من A CHRISTMAS CAROL في The Old Vic",
+      "description": "فيديو: عرض «See Amid the Winter's Snow» من A CHRISTMAS CAROL في The Old Vic BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXFVNjJCaTJ4Q2staXFGSG5DNUZ5dWM0UDBxMElJS2hBbThSWjljWkY2ckh5eDFZVS15cEtUbXFTR0NuQ20zRzZpOHpuLWlaVWJaRGlmYlBYMmptSm1QUFlsS1dFa0lOMk43RlB1VVk1WkZlTzdDN0hFYmtadWJicFJkTmFYRnlKWHZnRkk0ckdaYng5MXZnX0NNZzlIRjZOeDlyUF9ZSXF2aXMxenNPeF9heHE0RmQ0emdmaFl2ZlRsYUE?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Sat, 07 Nov 2026 16:51:27 GMT",
+      "local_url": "/article-cb0c74600a81.html"
+    },
+    {
+      "category": "policy",
       "title": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع",
-      "description": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "بعد وقف التصدير نحو إفريقيا.. أسعار الطماطم تسجل أولى مؤشرات التراجع Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQeWx0dmVVMzJlOTZjQVg3MzlUVUc1cENtLXowTk9BUHczYnd5S1dEV1h5a0pXN3JHWlZNMU1Gdkw1VXNIYVdCUnJyRWNVZHNidllGRzBWQTBQNkdrM0xYQnh2QW5XazFvU2xUZGpxWUJYZG9xTGVrcFFBVDdIdTd1bnB1aFZoekRvbDlXbDZySHlkem5KUXhhcDhpQTVuTWxteGVEOVlmc2ppVzJRVmQ3ZkN3ODUyU0dMYnJROVMwb2xTc1hJWGlzLU04aS1fQVVSRXZUSmJscGZ3YjFDZjlQbzF1alZJM3cwdWl1OUdoVG82eHlPeXl0Vk1XNE5RdnhCbzA2NWllN1ZkSjJINXBiM0VhRmNzSU9Vbmt3a1FEMXNUekJmQkNRdzAtRDc3amt2ZldGdVZzbUZOcVZRRTd2eE56S3ZqVExFVWp0U3VFWVdJNG5tLXpn?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sat, 07 Nov 2026 14:02:27 GMT",
       "local_url": "/article-297b09deb183.html"
@@ -118,14 +129,47 @@
     },
     {
       "category": "sports",
-      "title": "\"فوتسال المغرب\" يلاعب السعودية",
-      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "نتائج القسم الثاني لكرة القدم بالمغرب",
+      "description": "نتائج القسم الثاني لكرة القدم بالمغرب Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPWk83NGc3OFNWaTN5bGRtdWwtRm5YaU1vbGdMX1E2RWxvcm80SDJfVGt6eEJ0b3UyUGpvdmp2c1Ayam1uR3VsNFFZMGFiNkxJdzRtYjBkWjROZTVBOFVkdXFKVFQ4SHJVcUZNRWhuZm4waDFtQTl2YjFxdzdiWkdocTdxVjMwcG1DNUhxS2JtZFd1RmVFYTRmMTBLUXFQeTJFb1dOWlRoSjJVMnQ5M3N4UTBYM2xpX3YwLVRKR3dIR2lySGhmLW9wRGF1TzhBQjUtUFp2NEh2YkVDU1ZPcDZ5SXZQY2J6UVJOOEJHRjJlNF9PZ1ByUDg0NE1mQVZCdTRsZXE0bXUzbkhxelVxd09sNFUtdlpJUWdyOW5LMkdLM1BDdENoMTJDQWh4cFRJQWVYS3ZuNGczeFM3Z3laNE1HRmxFT19iTzhUTUNwZ0h5TUl0V3VyVWRaTGNR?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 08 Nov 2026 05:56:18 GMT",
+      "local_url": "/article-c63472173d8a.html"
+    },
+    {
+      "category": "sports",
+      "title": "الرجاء يفوز على اتحاد طنجة بثنائية",
+      "description": "الرجاء يفوز على اتحاد طنجة بثنائية Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPWTV1eDNtdnUzNlpyRjVoUm0tRDN3eUhPQXVQQzFySHRhdDNxb2czeUZpU0l2WW9LRGlOb1dZMHBrVlBVakNVMzZhOVJldm8yTDlTR0dlSWIyRkFDSkJlSXhPaVpfME9SWVJOekE0UmpNZGdUSGxnTV9EUmRWbnJ0TEFKMHZwXzFjOWZFbjRkakt1Q2Y0R0JHRVVTcHZZaEFQaXY0VlZBOXpOaml5Rnl5OW1vQUdqa0MwbjBQWGhnZ3YzMWFkNno5M0dFaUJQalR5eVRSdWNOOF9MN1hTNnJMWmpfNU9ScUxNYXpoUDlNMDhRNURzYUpkelBULUh2NE41Z3FVUzFCSzMyOTFqWUJSbVZrSy11eHg2cUlla3NYMTBEWFhqZExZQnVGaGhRSUM3V2o5ZGhmSEl4US1oT2c?oc=5",
       "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
       "source_url": "https://www.hespress.com",
-      "date": "Sun, 08 Nov 2026 09:00:22 GMT",
+      "date": "Sun, 08 Nov 2026 05:45:55 GMT",
+      "local_url": "/article-3a9ee7e31afe.html"
+    },
+    {
+      "category": "sports",
+      "title": "\"فوتسال المغرب\" يلاعب السعودية",
+      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 08 Nov 2026 02:17:01 GMT",
       "local_url": "/article-1e6cc071b6e6.html"
+    },
+    {
+      "category": "sports",
+      "title": "\"لبؤات الأطلس\" يهزمن سيدات الجزائر في كأس إفريقيا \"المغرب 2026\"",
+      "description": "\"لبؤات الأطلس\" يهزمن سيدات الجزائر في كأس إفريقيا \"المغرب 2026\" Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPYW5OQnc5Q25feDByNjlwZ1NaQnFfakJ4SDVRU0xVVDJScXBKdDZDVUF2S1JHSzgxQ1BobUtHYnVyNEVuLVMwc3M2X1ZWZ1N5N0k3TGo3dFFnSDM5MWpLa3lQUDVtQXhiOFlaaUduR3lKZlBuT2RpRFczMmRza2xud0QzTFZTaWRiLTJ3dC00WG9lWmlibHFQajlHdWRjNW9ublFvOGlqNnZUVHh5eHFQY2hmSVIta3RjT0wybXhXdkYyNXY5N1FJSWd6SFQybVVYWmgtcGVzY1VrVjRTbmdxQjFlYVpabGJjMF9HSlgxT2lYNjZCbDBRVmdxQU9jclpLNmhwLUQtdy1EMzJac3Q2R0lMS0xuUm4zRUU5YVdlem9YaDFRRlFFbzg1TnVWaUlhSE9hZ09tMm9mS3c3QU9GWk5iejMtbWhOVDN4WG5INA?oc=5",
+      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 07 Nov 2026 21:53:29 GMT",
+      "local_url": "/article-73a6ec13cfbd.html"
     },
     {
       "category": "sports",
@@ -140,6 +184,28 @@
     },
     {
       "category": "technology",
+      "title": "المغرب يستثمر في الذكاء الاصطناعي",
+      "description": "المغرب يستثمر في الذكاء الاصطناعي Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4yLV9NTmhhbTJocG1lWkhfNGd1YnlKN2JOQWFIY3dabW85a0F1N3RkdDR5aVBZTzA4Q20tQUFmd2dFUlVC?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Sun, 08 Nov 2026 11:09:53 GMT",
+      "local_url": "/article-eac1cf004c3f.html"
+    },
+    {
+      "category": "technology",
+      "title": "الفائز بجائزة غونكور الأدبية يدافع عن استخدامه \"المرِح\" للذكاء الاصطناعي",
+      "description": "الفائز بجائزة غونكور الأدبية يدافع عن استخدامه \"المرِح\" للذكاء الاصطناعي 2M",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQOWFacHlnUmpNcC1qczlpSmRfcmliMlllR3NmNFV0WlB1b0lWa2x4TzhKTGlzVXdvS1o2VHdFS21VS3pHVVhVM3dQZGd6YjBBZnFjbmhLX0pkaDZQWks2cGRVWGNZWXdvWVpNT2NCYWtsaTAzVGFwUktpU0dsbjVkRjc0RTFNV2NCQU9VMmlVTjg1bWdmalV3SEF1VFhBNnNfdGJ4WTJvckRRQmZZVGRnNTVTZEFtc1BrT1pGZGh0dUFKakx3MUJkWWRLUHVSS1cxcmhtdDUwLW9KX0tVZmZmLTI2M3dwNDhTTDhQWWdhb2FzMFpQOUdpSDQ4eFVRM21PQTF1X2xvRGhYSWtuVWRiclkxRFcxZTQ3SXNRMk5Wa2dRUzhmZjlWN2UzdDd5dmdiZDJhQnhuYkFEOWZ0MXdrOC1NTDNfTzh0LWFOcS1wVlBWd2d6NnFXd3BMaUVOcHJXUGJkZkZya1g5aFFkN1p3WUxOeV9UXzdqRmJjS0tldEM1VGxmSWhOVzZJX3ZsdVBfa3l2NzJ5Yy0wNjc0OEFQNndpM1NiWWZRcjh3bTZIZk9CQTZ1S284OFhjbnRIU1cwN2ZhaXlMZjFrLVRtQWVMRzN0OFV0RE5qaEZxdEp3SXNKZXBqTXVuNWZ3?oc=5",
+      "domain": "2M",
+      "source_url": "https://2m.ma",
+      "date": "Sat, 07 Nov 2026 12:04:00 GMT",
+      "local_url": "/article-3474ff937951.html"
+    },
+    {
+      "category": "technology",
       "title": "بمشاركة مغربية.. قمة ماتيرا الإيطالية تبحث تحديات التكنولوجيا ومستقبل السينما المتوسطية",
       "description": "بمشاركة مغربية.. قمة ماتيرا الإيطالية تبحث تحديات التكنولوجيا ومستقبل السينما المتوسطية 2M",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -151,14 +217,36 @@
     },
     {
       "category": "general",
-      "title": "توقعات طقس اليوم الأحد في المغرب",
-      "description": "توقعات طقس اليوم الأحد في المغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "الليشمانيا\" تنتشر بالجنوب الشرقي وسط مخاوف من تفاقم الوضع الصحي",
+      "description": "الليشمانيا\" تنتشر بالجنوب الشرقي وسط مخاوف من تفاقم الوضع الصحي Hespress - هسبريس جريدة إلكترونية مغربية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPcWpUY255c0JxR3A4WXU3SHVVNUU4Snd0elJ6UEVzaEZnYVRhQUdvT2lHVHhxenhZQlRMZnM2SGxDRFJUQ2RnWEN2MnpZSk90Q09SbkJLaGF2TUhHUmswU3JiZ3NoU1VCYThwOEFzUzk4aTNxWjNHWDhFZ3FBQ0dfbV84NXVBOE9mdnUzMlhfX3o3b0psTW1GM1lWTjFNTUtuUXV0eEpjVWtKcXpWTFhtcmVxMHUtRWNiNjhfT1EyektpMkt4cURFUTQ0SktzWnZaRUMweHdVenZoaEJDc2xaZTdtQ2JnWmsxZTZ2Z2J4dnZ0QWNaTnpHMVB1OVNhQmczRjhvMmRWYWlSUEZTcktqU1o0a25IOGJaZjBHeTE3bkR3RFZ5R3c3RHhMQ2J2dGNH?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMUlTOHZ0Vm9GOFV5N1gwblZCYkNHbUFibUpIR1FZVFl3bHNKc1VfQWd6RVZLcExWenp2dlYzX0ZMMWpJQzhablFrZk1aRG9oSXBabXNCS2dRVUxDM0E2NUZnWld6MFlGdmt5Ml95eU4zcEMxeDNyeWdtRGh3blk0cllrV1o1clNoYVh5aWo3V2dKYmV2Rlo0UTRxZHBER2pVTHFOYVA3T2ljOTdCeVFwSkZEa2E2Q2R2QUdyeXRzdC0wSVdKTWVCTjE0MzdNdjJDVUVERG9YQ25DZGt1eEtSSHJUUFNrLUE3V2d3UGhHRmNiZDlWdEk2THJJbU9XNGtQdHU1eXlGck1yVEptaDRXWkw5ZlZIYUk3UXloQnNuM3doWW90ZUdDV3loNE5EWXBLc0pKU1RibS1CY2dBU0N3MmRJcjd4eDRTRFZJaFJmTXJGUHdYLWc?oc=5",
       "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
       "source_url": "https://www.hespress.com",
-      "date": "Sun, 08 Nov 2026 07:15:25 GMT",
-      "local_url": "/article-a7dfdb6a3942.html"
+      "date": "Sat, 07 Nov 2026 09:04:57 GMT",
+      "local_url": "/article-a47977b8bcb4.html"
+    },
+    {
+      "category": "business",
+      "title": "رصيف الصحافة: المهربون يضعون خضر المغرب على موائد الجزائريين",
+      "description": "رصيف الصحافة: المهربون يضعون خضر المغرب على موائد الجزائريين Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNSjA1NldqNTRRUGxVRlVlMTR3aGRLU202eG1HTVpibWtQWkpJZkxJUnFvSU1lY2E5aWNFUXo4NkQ1eURkNmtya1JacWtTVkxtdTZkZjhzeVBqWVJicko0Z004ZkxBcEMya0cwYW5UdHlpOWgtYWg4UzJwSWpOYXZZcEVmWFU2R2pyUkFVR203aUp1M1VDNEZDZlJaejZITVFQd3hrdm40WHFJd0Z0M0Zhb1NlQ3pKcDNnVnFqcUFSWXhxbzFqYlRWc3lOYnZkbWI5ajZBcUpuZGJJQzBmUFhjcHI0ZVpWQjQxZjZESXlrcVVHUEl2N0ZaeFZrTE1ZeEI0VDhiVjd0eE1wNEpMTHhtcVZwbzBXRUI2OHBUaVdVcjRUTERyTjlPbmdya2NfZFRiRHQwa19qTy03aDVXYnlUd2tnMVJDUy02QVI0a0FpNzdTa2J1dFE?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 08 Nov 2026 22:02:56 GMT",
+      "local_url": "/article-85f98c7fb41a.html"
+    },
+    {
+      "category": "business",
+      "title": "المغرب يراهن على \"مرونة تدبير الدين\" من أجل ضبط كلفة تمويل الخزينة",
+      "description": "المغرب يراهن على \"مرونة تدبير الدين\" من أجل ضبط كلفة تمويل الخزينة Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVXBzYmVIeFE3Nm1EMEJrOFFueS0wNnVWMklucXc1RU40SmlHMGZsTnVTcW5pWGRVMTRtQlFIaVRtM1ktUmg1U1JJMHcxeHZxamRXYkxOM19VcUVoQzF3bnE5ZUVqOTRaMlNRVWhXcXplODJ6Nkwyd081ZkZva05BWFlhallfYTIxYXBnWU45T3l0Uko1WTZmUnRiUG82SFBjcy1oRnJQckN4bXI5S0JxM2hyMDVBWmZGcDVjaDFPd1dmMVhBS3Q0YkZyNnRZUWVEaEhIN2dQRWJBSTVTU0N2a1gwRzA4ZkJHY2RxRERtVmxVNFlGby1QRTdWU0ZWb1VXblJyZ0hPNlA2REp6TjhRd3B4V3FSeWRteVk0MVJTOXlhc3lrSzNsVXhsZUw3a2FabEtjOFgyMm90ZHVUbl95bFJIVFBiODRpbkl6Nk05RQ?oc=5",
+      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 08 Nov 2026 21:02:33 GMT",
+      "local_url": "/article-2b54b932a063.html"
     },
     {
       "category": "business",
@@ -172,26 +260,26 @@
       "local_url": "/article-6008c6188f03.html"
     },
     {
-      "category": "business",
-      "title": "أسعار الخضر تلهب الأسواق الأسبوعية",
-      "description": "أسعار الخضر تلهب الأسواق الأسبوعية Hespress - هسبريس جريدة إلكترونية مغربية",
+      "category": "international",
+      "title": "مراجعة: THE TAMING: A FOLKTALE لدى Witches 3 Production عمل مسرحي باهر",
+      "description": "مراجعة: THE TAMING: A FOLKTALE لدى Witches 3 Production عمل مسرحي باهر BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxObWszV3pwdUNxOW9tUDkwWGJ1NkwzS3JOdHVkM1BRWTRaZ2gxYTdmanpZdW9OeFRJQkowWmExNWFpTnVUaW1lRVg5dThVOHdWcnExT2ZPTmYtQkpqY2xNWnBSbGJnUmVmLUI1YmhWbVE3WnI0ZzZJSnlFZTl6WXNZQ3hncjBmYjRzTUpvOEJVM2tRMXp1RHZYUHF5QjBDNTlTRk91cmZBTXdPX1BxdTR4NDR4bEtfTUUyaFFhVG1HellVNUtqUGxXZ3NLRFR4OU4xVEZIRHdZWGxzR0NpUUl6amJFRUYwNHhGZUZQdlk3U1IzenpjcEt5YWs2RTVPYmJBTDlnNnBOZFlzbnpMT05DMFNSUHQwdll1WjZJRDNZcGhLcnNBbFkxblhvckxlNVh3V05zSg?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Sun, 08 Nov 2026 13:55:26 GMT",
-      "local_url": "/article-f907a830de6b.html"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWh5cXp4ZVowaW1KcUVDU0ZkVkdlTmthYTZfdnY1alNGVG9UTGt1TzBWR3lQRkxnU09rWkdpSmwwVkVZNjZRQmRDRVBtNFU5RjVYVk5nOWJBaFlqV2dXMG03bzdwVXh0NkNGOGJGNk10cXFxTWRFS0NZaUl5OE1IU2FhamdaSjFUdVNIYlp6YWhRVzFZa2ttNzVmQXMxSGJtaGhXZXo4UU9TRUNuczV6WmhWck04NWJzWDc2RGRmMURaQmc?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Sun, 08 Nov 2026 14:56:18 GMT",
+      "local_url": "/article-490848ac8f15.html"
     },
     {
       "category": "business",
-      "title": "أزمة البطاطس في الجزائر تثير موجة سخرية وانتقادات على مواقع التواصل",
-      "description": "أزمة البطاطس في الجزائر تثير موجة سخرية وانتقادات على مواقع التواصل Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "أسعار الخضر تلهب الأسواق الأسبوعية",
+      "description": "أسعار الخضر تلهب الأسواق الأسبوعية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQVFMSHVXWkgxUUV6b1hFR09pWlVQN2VwUkZXR3R5bG1DbVpKUVNoZ3RiVlFrWkxLUU00Qmw5TkRZYnY2Wlk2STB1WG5vWjhramhadVlCNjd6TmtlMUR4dG5HMnExZER4TDk3Sk81TGZnS1N1Sm9vdzg1Yk9zMTJDZ3V3UmlQb1N6WGVXeFdZVlRxMDNnY1paazdZOXpmTG5oanV6SE80YV9SUHZmZmZZOVgzNkVvY1lJdmh1STFUV0U5U0tseU9xTXhEYjBMdGlVNmx6el9oM0xHUzE2aE1qNE5HRzdNRUJrQTBEaWdDdklDZWttUnRmb3NNTVVHSFV4ZVlNbnZCWlFfUndsZnBITlVUYkhyc0xCV3p4WmdtVk8zMGg1QzZJM1JmZV8wVERKdVp3bHA2NHhiQTd2dklxckQ3WmxIX0kyRWdHNm1oRWlXMkY2NjVV?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxObWszV3pwdUNxOW9tUDkwWGJ1NkwzS3JOdHVkM1BRWTRaZ2gxYTdmanpZdW9OeFRJQkowWmExNWFpTnVUaW1lRVg5dThVOHdWcnExT2ZPTmYtQkpqY2xNWnBSbGJnUmVmLUI1YmhWbVE3WnI0ZzZJSnlFZTl6WXNZQ3hncjBmYjRzTUpvOEJVM2tRMXp1RHZYUHF5QjBDNTlTRk91cmZBTXdPX1BxdTR4NDR4bEtfTUUyaFFhVG1HellVNUtqUGxXZ3NLRFR4OU4xVEZIRHdZWGxzR0NpUUl6amJFRUYwNHhGZUZQdlk3U1IzenpjcEt5YWs2RTVPYmJBTDlnNnBOZFlzbnpMT05DMFNSUHQwdll1WjZJRDNZcGhLcnNBbFkxblhvckxlNVh3V05zSg?oc=5",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Sun, 08 Nov 2026 13:02:52 GMT",
-      "local_url": "/article-ec7732dc5d35.html"
+      "date": "Sun, 08 Nov 2026 13:55:26 GMT",
+      "local_url": "/article-f907a830de6b.html"
     },
     {
       "category": "business",
@@ -207,10 +295,10 @@
     {
       "category": "business",
       "title": "القنب الهندي المغربي يطرق أبواب الأسواق الأوروبية في \"معرض براغ\"",
-      "description": "القنب الهندي المغربي يطرق أبواب الأسواق الأوروبية في \"معرض براغ\" Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "القنب الهندي المغربي يطرق أبواب الأسواق الأوروبية في \"معرض براغ\" Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOT0lfUmFrLWdwcFh6eVVmLS1zZlNfaG90MEVBSVdKRVFNV1FFUTVtb0kwOTFvZ3VQT0ZlYlo3akV5WE80RGFQeFBFU0hxbjZYelE5NF9MZUJjemlfVWxLZm41dWVSOGV3Wkt5RmZ5cU1iR3ptX1lwa1RjMEJKU01SRzBBdlVrVTIzcGNFOFBDb3lINFdlczd2NlFNZG5IcHVUZGtySUUtLXVDblVaRFl0dUlvU3VGYWpLaDNnR2wtbnZsQ21kRER1M2VacTVUNnYwbTQ0VnQwdlJIcDFhbEQ2bWFjMWlZVWdNVlh5cTJQVTdZODJFMTlsZzFZV3pwYnRoVks1cDZiMjlOR1FBSmhZTUNkbU54Nl9MSFphSXFxMmpXR1lqdXVkTzMwSWk2bkpVQTZuc1pHcGRkR2hwYnNfbHNUNEFXOXhfWkRrSFBXeFNtdFVJUkE?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sat, 07 Nov 2026 20:04:45 GMT",
       "local_url": "/article-85603c16acb3.html"
@@ -229,10 +317,10 @@
     {
       "category": "business",
       "title": "هل ينعكس تعليق تصدير الطماطم على الأسعار في الأسواق المغربية؟",
-      "description": "هل ينعكس تعليق تصدير الطماطم على الأسعار في الأسواق المغربية؟ Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "هل ينعكس تعليق تصدير الطماطم على الأسعار في الأسواق المغربية؟ Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdzlwTzNGeDkteHRnN2oxdWotVzNtWmViOHl4alRZeENPNFc5VWNkOWxxbkxBSFB5TmVIWXh6T1FOUmZvOGVxUnZlNFNNLUNaS1RYZlllcTBNNEtVM2V3bDU1TkpPX1psMXU1Z3RLQVR6aG95ZktBQmUydXdWdlVQTlBDc1pESVhEVjF1MkwtUlJRQTBMeFdrSHBmQXE2VURHQW9fVHVlbTAyQ09NZUpWQUZNSmVWV3JkbUlFQU5jX1k1cEFiUFRUTTQzaENxd3podDVFRVZyUFZfN1UtTHRvM293eDBCVmJNV1R6OWZZMmtFUWtMNFZtLV9IZzRQcWEwUmtXN2M5UGZBS0JaQ1lIcmU5dklsM0NCeW5JeW15RkFDQVhUcU9XNGQ1Mnp0cGpuWkxnTnR4ZlpVdzRSbHYwRjkzQm9tblVjWXZwb205QUF4WlpBWGJj?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Sat, 07 Nov 2026 10:07:11 GMT",
       "local_url": "/article-cb4296ee3dd3.html"
@@ -249,15 +337,26 @@
       "local_url": "/article-e65321f09fdb.html"
     },
     {
-      "category": "international",
-      "title": "تعيين Frank Wildhorn عضوًا فخريًا في مجلس أمناء RepresentAsian قبيل حفل West End",
-      "description": "تعيين Frank Wildhorn عضوًا فخريًا في مجلس أمناء RepresentAsian قبيل حفل West End BroadwayWorld",
+      "category": "business",
+      "title": "الفجوة بين الإنتاج والاستهلاك ترفع واردات المغرب من الكهرباء الإسبانية",
+      "description": "الفجوة بين الإنتاج والاستهلاك ترفع واردات المغرب من الكهرباء الإسبانية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTNETDFZS1Q2dFZFQjFQR2tXYVV6X0hTNmRQRkYzY2NvSE9QVlgyLVRBYU90end6V3hjVTZaLWlvbl9Jdnh0a19TcVZMdE5UdXJRaTJlNEQyLVJLRVFNMUZCdUdxbmFPQW1xWktSMDJjZnRELXlfNGdyLXpzWlBWUXZranc0SldPbWp6WWFzcE9sUTVGdTh2bXA2bVdsVU04ZkV4dGhsdFk3U1c3ZC1qYjFrdG9KTVpmT3RxbUhJcjg1SU5YU2h3ZHh3?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Sat, 07 Nov 2026 03:26:18 GMT",
-      "local_url": "/article-91b87d01b96d.html"
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMHh1dTgtcmtNYTFpQWE1RXBfcF91bnYzUWVjUEk0SHdTZDdseU9GNW9IMm9kZWp6UEFGb0FXU1NTMGt0NmowQ080aHF6MUEyei0tMmlXMERxSnBjWHF1SmZQa2pxaVc0cG11akxsUGFTUXJna3ZPWDUyMnh1QTFqVExKRzk1dWswNFVKc0ZrMEtpOHFPT19jVmxGNHRMOGJTdl93djU5a3NJaDBza1h6MHY1bEQ2NGtjNDk5MDMwTlJrWjdZWWxDMkNMaWFxTjZTd2dBRDZpM3dlVFVSdmUzZ21NOEppQVdMaHN4cWk5cXNQQjRCTk5idTVsLXRRcmV3TThTQ1o3VTFRRHh3dGVidWQ1Yk1pZHVPa0VzbHdYUmhzaWp5UnBKYm1aQTZKa0NDVV9vejRObExBRTdWSmpGbHc1WC13dU5vdERkNFQzVWtWT0ZoQXc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Mon, 09 Nov 2026 03:03:26 GMT",
+      "local_url": "/article-777a382a6c65.html"
+    },
+    {
+      "category": "business",
+      "title": "الوكالة الدولية للطاقة: البنيات التحتية تزيد \"هشاشة سوق الغاز\" في المغرب",
+      "description": "الوكالة الدولية للطاقة: البنيات التحتية تزيد \"هشاشة سوق الغاز\" في المغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMzhxd21MQlp0NDBNYWd1SkZub3hTdTQ1aHg5eDUwaVppbTdIYXM4YmM5enZJV3JrOVgzYXRMMTVCZGpmUFlSTmJDT1lNeWtXSUNEa1JmdFF0V1lvbllRSFZKRFpDcGNaYklZb3lfbGR6d3Z2ODJRVjFqY1g0dERQVHg3V05zUFJ2dy1ySU9mbDFuY2QwV2I4UllRajVSTHNuRWozTWl5REI4eDFYRkNsZl9BTXlLZFQ4SWlBX2hZUFhwdi1aRTVDRUhmd1NmVW8xR0hOczVHNVplNGpnbVNGLUJjRm5IYkU2OWIwM3Z0c2JyUU95cHlNZWJZQ2FJQ19iT0J6Zi1KYUY3M0FKWGpKekNtbWZ5TFhXRlUtM2NScGFINm5GSE5GenFaQnRIZEFsRHhmWVdKN2FqMzlfTjZsUURxNFBBLWVNZElVcEdob0Ewb2pV?oc=5",
+      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "source_url": "https://www.hespress.com",
+      "date": "Mon, 09 Nov 2026 01:01:37 GMT",
+      "local_url": "/article-d97b73f109f9.html"
     },
     {
       "category": "policy",
