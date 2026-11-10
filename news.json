@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-10T19:41:17.737485+00:00",
+  "updated_at": "2026-11-10T21:54:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "الدول الخليجية الست تجدد دعمها لمغربية الصحراء أمام الجمعية العامة للأمم المتحدة",
+      "description": "السعودية والإمارات وقطر والكويت وعُمان والبحرين تجدد دعمها لسيادة المغرب على الصحراء ولمبادرة الحكم الذاتي خلال مناقشات الجمعية العامة للأمم المتحدة يوم 10 نونبر 2026.",
+      "image": "gcc-states-morocco-sahara-un-2026.svg",
+      "url": "article-gcc-states-renew-moroccan-sahara-un-assembly-nov-10-2026.html",
+      "local_url": "/article-gcc-states-renew-moroccan-sahara-un-assembly-nov-10-2026.html",
+      "domain": "Hespress / Assahifa / NewsMorocco",
+      "source_url": "https://www.hespress.com/%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AA%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%85-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-1837533.html",
+      "date": "Tue, 10 Nov 2026 16:14:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل | أمازون تطلق كاميرا أمنية طائرة وروبوتاً ذاتي الحركة لحراسة المنشآت",
