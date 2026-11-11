@@ -1,16 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "اتهامات جزائرية للمغرب بشأن تلوث مياه وادي مويلح.. والملف يثير الجدل",
-    "description": "اتهمت السلطات الجزائرية المغرب بالتسبب في تلوث مجارٍ مائية قرب تلمسان، بينما تظل الاتهامات بحاجة إلى تحقق مستقل وموقف رسمي مغربي.",
-    "image": "algeria-morocco-water-pollution-2026.svg",
-    "url": "article-algeria-morocco-water-pollution-november-10-2026.html",
-    "local_url": "/article-algeria-morocco-water-pollution-november-10-2026.html",
-    "domain": "NewsMorocco · Euronews · APS",
-    "source_url": "https://arabic.euronews.com/2026/11/10/algeria-morocco-accuses-water-pollution",
-    "date": "10 نونبر 2026 · NewsMorocco"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -729,6 +718,15 @@
     "url": "/article-algeria-russia-libya-2026.html",
     "domain": "NewsMorocco",
     "date": "الثلاثاء 13 أكتوبر 2026 · NewsMorocco"
+  },
+  {
+    "category": "policy",
+    "title": "اتهامات جزائرية للمغرب بشأن تلوث مياه وادي مويلح.. والملف يثير الجدل",
+    "description": "اتهمت السلطات الجزائرية المغرب بالتسبب في تلوث مجارٍ مائية قرب تلمسان، بينما تظل الاتهامات بحاجة إلى تحقق مستقل وموقف رسمي مغربي.",
+    "image": "algeria-morocco-water-pollution-2026.svg",
+    "url": "/article-algeria-morocco-water-pollution-november-10-2026.html",
+    "domain": "NewsMorocco",
+    "date": "الثلاثاء 10 نونبر 2026 · سياسة وبيئة · NewsMorocco"
   },
   {
     "category": "business",
@@ -1515,6 +1513,24 @@
   },
   {
     "category": "general",
+    "title": "إيران: لا نعتزم إجراء محادثات مع واشنطن ما لم تلب 7 شروط",
+    "description": "إيران: لا نعتزم إجراء محادثات مع واشنطن ما لم تلب 7 شروط Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7ff146d5d1fe.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Mon, 09 Nov 2026 15:52:09 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الكرملين ينفي مشاركة الأوروبيين في محادثات أبوظبي بشأن أوكرانيا",
+    "description": "الكرملين ينفي مشاركة الأوروبيين في محادثات أبوظبي بشأن أوكرانيا Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ef1d3ecbd619.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Mon, 09 Nov 2026 10:06:09 GMT"
+  },
+  {
+    "category": "general",
     "title": "مسؤول: الهجوم الذي شنته أمريكا على جزيرة قشم لم يؤثر على أي بنية تحتية حيوية",
     "description": "مسؤول: الهجوم الذي شنته أمريكا على جزيرة قشم لم يؤثر على أي بنية تحتية حيوية Reuters",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1866,6 +1882,15 @@
   },
   {
     "category": "sports",
+    "title": "الجامعة الملكية المغربية لكرة القدم تحدد يوم 12 دجنبر المقبل موعدا لعقد جمعها العام الانتخابي",
+    "description": "الجامعة الملكية المغربية لكرة القدم تحدد يوم 12 دجنبر المقبل موعدا لعقد جمعها العام الانتخابي MAP SPORT",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-808370d57410.html",
+    "domain": "NewsMorocco",
+    "date": "MAP SPORT • Mon, 09 Nov 2026 20:23:31 GMT"
+  },
+  {
+    "category": "sports",
     "title": "لأول مرة في تاريخه .. المنتخب المغربي بطلا لكأس العرب لكرة القدم الشاطئية بفوزه على موريتانيا 6-5",
     "description": "لأول مرة في تاريخه .. المنتخب المغربي بطلا لكأس العرب لكرة القدم الشاطئية بفوزه على موريتانيا 6-5 MAP SPORT",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -1881,6 +1906,15 @@
     "url": "/article-670ca51e6f5c.html",
     "domain": "NewsMorocco",
     "date": "MAP SPORT • Mon, 09 Nov 2026 09:06:37 GMT"
+  },
+  {
+    "category": "sports",
+    "title": "البطولة الوطنية الاحترافية \"إنوي\" للقسم الأول لكرة القدم (الدورة السابعة).. النتائج",
+    "description": "البطولة الوطنية الاحترافية \"إنوي\" للقسم الأول لكرة القدم (الدورة السابعة).. النتائج MAP SPORT",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a825bdf934de.html",
+    "domain": "NewsMorocco",
+    "date": "MAP SPORT • Mon, 09 Nov 2026 09:03:59 GMT"
   },
   {
     "category": "sports",
@@ -2340,6 +2374,24 @@
     "url": "/article-6ae056c4384d.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Tue, 20 Oct 2026 09:05:33 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الجعايدي: كرة القدم المغربية نموذجية",
+    "description": "الجعايدي: كرة القدم المغربية نموذجية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-47de7e89f43a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 23:12:01 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الجزائر تدافع عن \"الفيتو الروسي\"",
+    "description": "الجزائر تدافع عن \"الفيتو الروسي\" Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e5a801257595.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 22:10:36 GMT"
   },
   {
     "category": "general",
@@ -4880,6 +4932,15 @@
     "date": "France 24 • Wed, 04 Nov 2026 12:46:13 GMT"
   },
   {
+    "category": "general",
+    "title": "وجها لوجه - المغرب - إسرائيل: تعزيز الشراكة الاستراتيجية بين التقارب العسكري والسباق الأمني",
+    "description": "وجها لوجه - المغرب - إسرائيل: تعزيز الشراكة الاستراتيجية بين التقارب العسكري والسباق الأمني France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-88933c2c3055.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Tue, 10 Nov 2026 23:05:00 GMT"
+  },
+  {
     "category": "business",
     "title": "ضيف الاقتصاد - ما تداعيات الاحتجاجات والإضرابات في فرنسا على اقتصاد البلاد؟ وهل تستجيب الحكومة لمطالب المحتجين؟",
     "description": "ضيف الاقتصاد - ما تداعيات الاحتجاجات والإضرابات في فرنسا على اقتصاد البلاد؟ وهل تستجيب الحكومة لمطالب المحتجين؟ France 24",
@@ -5417,7 +5478,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-d12302babf92.html",
     "domain": "NewsMorocco",
-    "date": "DW.com • Tue, 10 Nov 2026 18:44:57 GMT"
+    "date": "DW.com • Tue, 10 Nov 2026 18:23:10 GMT"
   },
   {
     "category": "general",
@@ -5655,12 +5716,21 @@
   },
   {
     "category": "business",
+    "title": "عاجل | أسهم التكنولوجيا تقود خسائر وول ستريت.. والقطاع يتراجع بأكثر من 1%",
+    "description": "عاجل | أسهم التكنولوجيا تقود خسائر وول ستريت.. والقطاع يتراجع بأكثر من 1% CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d9269a795d2a.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Tue, 10 Nov 2026 22:18:21 GMT"
+  },
+  {
+    "category": "business",
     "title": "عاجل| أميركا تؤجل البت في إطلاق سوق آجلة لأسعار تأجير رقائق الذكاء الاصطناعي",
     "description": "عاجل| أميركا تؤجل البت في إطلاق سوق آجلة لأسعار تأجير رقائق الذكاء الاصطناعي CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a1b80363c4ff.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Tue, 10 Nov 2026 20:23:32 GMT"
+    "date": "CNN الاقتصادية • Tue, 10 Nov 2026 20:49:23 GMT"
   },
   {
     "category": "business",
@@ -6357,6 +6427,15 @@
   },
   {
     "category": "general",
+    "title": "صور: Austin Colby يتصدر بطولة جولة THE GREAT GATSBY في أمريكا الشمالية",
+    "description": "صور: Austin Colby يتصدر بطولة جولة THE GREAT GATSBY في أمريكا الشمالية BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-fac0b49d8799.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Tue, 10 Nov 2026 15:10:13 GMT"
+  },
+  {
+    "category": "general",
     "title": "فيديو: فريق MAGIC MIKE LIVE يرقص في أنحاء نيويورك قبيل افتتاح العرض في 2027",
     "description": "فيديو: فريق MAGIC MIKE LIVE يرقص في أنحاء نيويورك قبيل افتتاح العرض في 2027 BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -6660,6 +6739,15 @@
     "url": "/article-e4705e95f8e1.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Mon, 09 Nov 2026 14:57:58 GMT"
+  },
+  {
+    "category": "general",
+    "title": "اكتمال فريق تمثيل إعادة تقديم AWAKE AND SING! لـ Clifford Odets على برودواي",
+    "description": "اكتمال فريق تمثيل إعادة تقديم AWAKE AND SING! لـ Clifford Odets على برودواي BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d58569846e08.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Mon, 09 Nov 2026 14:04:42 GMT"
   },
   {
     "category": "general",
