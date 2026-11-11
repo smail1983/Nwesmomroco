@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11T00:39:25.779166+00:00",
+  "updated_at": "2026-11-11T00:39:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "عمر هلال يوجه ستة أسئلة للجزائر أمام الجمعية العامة للأمم المتحدة",
+      "description": "مداخلة عمر هلال أمام الجمعية العامة للأمم المتحدة تثير ملف الصحراء المغربية، وتطرح ستة أسئلة على الجزائر بشأن الحكم الذاتي ومخيمات تندوف ومسار المفاوضات.",
+      "image": "omar-hilale-un-six-questions-2026.svg",
+      "url": "article-omar-hilale-six-questions-algeria-un-assembly-november-11-2026.html",
+      "local_url": "/article-omar-hilale-six-questions-algeria-un-assembly-november-11-2026.html",
+      "domain": "NewsMorocco / Hespress / Medi1News",
+      "source_url": "https://www.hespress.com/",
+      "date": "Wed, 11 Nov 2026 00:39:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل | أسهم التكنولوجيا تقود خسائر وول ستريت.. والقطاع يتراجع بأكثر من 1%",
