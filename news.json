@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-10T21:58:40.984947+00:00",
+  "updated_at": "2026-11-11T00:32:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "اتهامات جزائرية للمغرب بشأن تلوث مياه وادي مويلح.. والملف يثير الجدل",
+      "description": "اتهمت السلطات الجزائرية المغرب بالتسبب في تلوث مجارٍ مائية قرب تلمسان، بينما تظل الاتهامات بحاجة إلى تحقق مستقل وموقف رسمي مغربي.",
+      "image": "algeria-morocco-water-pollution-2026.svg",
+      "url": "article-algeria-morocco-water-pollution-november-10-2026.html",
+      "local_url": "/article-algeria-morocco-water-pollution-november-10-2026.html",
+      "domain": "NewsMorocco · Euronews · APS",
+      "source_url": "https://arabic.euronews.com/2026/11/10/algeria-morocco-accuses-water-pollution",
+      "date": "Tue, 10 Nov 2026 22:30:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل| أميركا تؤجل البت في إطلاق سوق آجلة لأسعار تأجير رقائق الذكاء الاصطناعي",
