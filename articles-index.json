@@ -1,15 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "المنصوري تضع الوزراء أمام اختبار أول 100 يوم.. 5 إلى 10 إجراءات لكل قطاع",
-    "description": "المنشور رقم 16/2026 يطلب من القطاعات الوزارية تحديد 5 إلى 10 تدابير قابلة للتنفيذ خلال أول 100 يوم، مع آجال ومسؤوليات ومؤشرات قياس وتتبع دوري.",
-    "image": "/mansouri-first-100-days-november-2026.svg",
-    "url": "/article-mansouri-first-100-days-november-11-2026.html",
-    "domain": "الصحراء المغربية / إفادة / 7نيوز المغرب / NewsMorocco",
-    "source_url": "https://assahraa.ma/web/2026/188499",
-    "date": "نشر في 11 نونبر 2026 · NewsMorocco"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -62,6 +52,15 @@
     "url": "/article-bourita-sahara-new-phase-november-1-2026.html",
     "domain": "NewsMorocco",
     "date": "نشر في 1 نونبر 2026 · NewsMorocco"
+  },
+  {
+    "category": "policy",
+    "title": "المنصوري تضع الوزراء أمام اختبار أول 100 يوم.. 5 إلى 10 إجراءات لكل قطاع",
+    "description": "المنشور رقم 16/2026 يطلب من القطاعات الوزارية تحديد 5 إلى 10 تدابير قابلة للتنفيذ خلال أول 100 يوم، مع آجال ومسؤوليات ومؤشرات قياس وتتبع دوري.",
+    "image": "/mansouri-first-100-days-november-2026.svg",
+    "url": "/article-mansouri-first-100-days-november-11-2026.html",
+    "domain": "NewsMorocco",
+    "date": "سياسة • 11 نونبر 2026 • NewsMorocco"
   },
   {
     "category": "general",
@@ -2224,6 +2223,24 @@
     "date": "Hespress • Wed, 21 Oct 2026 01:01:41 GMT"
   },
   {
+    "category": "policy",
+    "title": "ارتفاع أسعار السردين يحرك الحكومة لمواجهة المضاربة بأسواق السمك",
+    "description": "ارتفاع أسعار السردين يحرك الحكومة لمواجهة المضاربة بأسواق السمك Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6924b790eec2.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Wed, 11 Nov 2026 19:34:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "حاتيمي يحذر من أزمة إنتاج الطماطم",
+    "description": "حاتيمي يحذر من أزمة إنتاج الطماطم Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e4cc6afe9b01.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Wed, 11 Nov 2026 15:10:36 GMT"
+  },
+  {
     "category": "general",
     "title": "لقجع يكشف اختلالات استيراد اللحوم",
     "description": "لقجع يكشف اختلالات استيراد اللحوم Hespress",
@@ -2459,6 +2476,24 @@
   },
   {
     "category": "general",
+    "title": "الجعايدي: كرة القدم المغربية نموذجية",
+    "description": "الجعايدي: كرة القدم المغربية نموذجية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-47de7e89f43a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 23:12:01 GMT"
+  },
+  {
+    "category": "general",
+    "title": "وهبي: عبد النباوي يرفض استعانة القضاة بالذكاء الاصطناعي في المحاكم",
+    "description": "وهبي: عبد النباوي يرفض استعانة القضاة بالذكاء الاصطناعي في المحاكم Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-b29bf2b84eb9.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 23:06:02 GMT"
+  },
+  {
+    "category": "general",
     "title": "الجزائر تدافع عن \"الفيتو الروسي\"",
     "description": "الجزائر تدافع عن \"الفيتو الروسي\" Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -2494,6 +2529,15 @@
     "date": "Hespress • Tue, 10 Nov 2026 17:35:58 GMT"
   },
   {
+    "category": "general",
+    "title": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب",
+    "description": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-175c34ea4c5c.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 16:34:44 GMT"
+  },
+  {
     "category": "policy",
     "title": "دول الخليج تجدد دعم مغربية الصحراء",
     "description": "دول الخليج تجدد دعم مغربية الصحراء Hespress",
@@ -2519,6 +2563,15 @@
     "url": "/article-1e6cc071b6e6.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Tue, 10 Nov 2026 12:40:48 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الرجاء يفوز على اتحاد طنجة بثنائية",
+    "description": "الرجاء يفوز على اتحاد طنجة بثنائية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3a9ee7e31afe.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 12:18:23 GMT"
   },
   {
     "category": "general",
@@ -4268,15 +4321,6 @@
   },
   {
     "category": "general",
-    "title": "حاتيمي يحذر من أزمة إنتاج الطماطم",
-    "description": "حاتيمي يحذر من أزمة إنتاج الطماطم Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-e4cc6afe9b01.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Wed, 11 Nov 2026 15:10:36 GMT"
-  },
-  {
-    "category": "general",
     "title": "قيوح يكشف تفاصيل دعم جديد لمهنيي النقل بالمغرب بقيمة 400 مليون درهم",
     "description": "قيوح يكشف تفاصيل دعم جديد لمهنيي النقل بالمغرب بقيمة 400 مليون درهم Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -4340,39 +4384,12 @@
   },
   {
     "category": "general",
-    "title": "الجعايدي: كرة القدم المغربية نموذجية",
-    "description": "الجعايدي: كرة القدم المغربية نموذجية Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-47de7e89f43a.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 23:12:01 GMT"
-  },
-  {
-    "category": "general",
-    "title": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب",
-    "description": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-175c34ea4c5c.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 16:34:44 GMT"
-  },
-  {
-    "category": "general",
     "title": "المغرب يتجه نحو تقنين الذكاء الاصطناعي.. رحو يحذر من مخاطر المنع",
     "description": "المغرب يتجه نحو تقنين الذكاء الاصطناعي.. رحو يحذر من مخاطر المنع Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-412eeb9117ad.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 13:05:58 GMT"
-  },
-  {
-    "category": "general",
-    "title": "الرجاء يفوز على اتحاد طنجة بثنائية",
-    "description": "الرجاء يفوز على اتحاد طنجة بثنائية Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-3a9ee7e31afe.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 12:18:23 GMT"
   },
   {
     "category": "policy",
@@ -5627,6 +5644,15 @@
   },
   {
     "category": "general",
+    "title": "هل يتحول المغرب وتركيا إلى البديل الأميركي عن الخليج؟",
+    "description": "هل يتحول المغرب وتركيا إلى البديل الأميركي عن الخليج؟ DW.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a9c013c0a9c2.html",
+    "domain": "NewsMorocco",
+    "date": "DW.com • Wed, 11 Nov 2026 20:20:25 GMT"
+  },
+  {
+    "category": "general",
     "title": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟",
     "description": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟ DW.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -5795,6 +5821,15 @@
     "url": "/article-b2bbfa5d1390.html",
     "domain": "NewsMorocco",
     "date": "CNN الاقتصادية • Wed, 21 Oct 2026 19:33:07 GMT"
+  },
+  {
+    "category": "business",
+    "title": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد",
+    "description": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-461b309c293a.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Wed, 11 Nov 2026 18:39:35 GMT"
   },
   {
     "category": "business",
@@ -6506,6 +6541,78 @@
     "url": "/article-d7686f28dfcd.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Wed, 21 Oct 2026 10:15:43 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الأنظار على: Nicolas King",
+    "description": "الأنظار على: Nicolas King BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a6cc231a0f27.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 19:03:17 GMT"
+  },
+  {
+    "category": "general",
+    "title": "فيديو: فريق In the Heights من City Center يقدم عرضًا في TODAY Show",
+    "description": "فيديو: فريق In the Heights من City Center يقدم عرضًا في TODAY Show BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8b8acedea298.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 18:59:23 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تذاكر LES MISÉRABLES والمزيد من عروض المسرح الرائعة في لندن هذا الأسبوع",
+    "description": "تذاكر LES MISÉRABLES والمزيد من عروض المسرح الرائعة في لندن هذا الأسبوع BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-cfa073b6e530.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 18:55:14 GMT"
+  },
+  {
+    "category": "general",
+    "title": "فيديو: National Theatre يسلّط الضوء على الأدوار المسرحية لنجوم RIVALS",
+    "description": "فيديو: National Theatre يسلّط الضوء على الأدوار المسرحية لنجوم RIVALS BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f5d8c4e1dc68.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 18:03:35 GMT"
+  },
+  {
+    "category": "general",
+    "title": "فيديو: Nicholas Christopher ينضم إلى JUST IN TIME في برودواي",
+    "description": "فيديو: Nicholas Christopher ينضم إلى JUST IN TIME في برودواي BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ea72c1f6761d.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 17:24:59 GMT"
+  },
+  {
+    "category": "general",
+    "title": "Linus Roache ينسحب من OWAIN & HENRY في Wales Millennium Centre",
+    "description": "Linus Roache ينسحب من OWAIN & HENRY في Wales Millennium Centre BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-baee0429b914.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 15:00:26 GMT"
+  },
+  {
+    "category": "general",
+    "title": "Matt Smith يتصدر العرض العالمي الأول لمسرحية THE HUMANS في West End",
+    "description": "Matt Smith يتصدر العرض العالمي الأول لمسرحية THE HUMANS في West End BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c3a65cdfed27.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 10:31:32 GMT"
+  },
+  {
+    "category": "general",
+    "title": "وفاة Stacy Keach، الممثل المسرحي والسينمائي المرشح لجائزة Tony، عن 85 عاماً",
+    "description": "وفاة Stacy Keach، الممثل المسرحي والسينمائي المرشح لجائزة Tony، عن 85 عاماً BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-9debbc90e35e.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 04:21:41 GMT"
   },
   {
     "category": "general",
