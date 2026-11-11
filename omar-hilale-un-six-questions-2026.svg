@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081a36"/><stop offset="1" stop-color="#123e69"/></linearGradient><linearGradient id="gold" x2="1"><stop stop-color="#f4a900"/><stop offset="1" stop-color="#ffd84a"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#bg)"/><circle cx="965" cy="170" r="128" fill="none" stroke="#d9e8f5" stroke-width="8" opacity=".22"/><circle cx="965" cy="170" r="96" fill="none" stroke="#d9e8f5" stroke-width="4" opacity=".18"/>
+<path d="M0 510 Q250 420 470 530 T900 500 T1200 480 V675 H0Z" fill="#0a2545"/><path d="M0 570 L1200 570" stroke="#d5a42b" stroke-width="5"/>
+<rect x="48" y="42" width="330" height="58" rx="10" fill="#c51f2b"/><text x="213" y="81" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#fff">NewsMorocco</text>
+<text x="1145" y="82" text-anchor="end" font-family="Arial" font-size="30" font-weight="bold" fill="#fff">أخبار الأمم المتحدة</text>
+<text x="600" y="215" text-anchor="middle" font-family="Arial" font-size="54" font-weight="bold" fill="#fff">عمر هلال أمام الجمعية العامة</text>
+<rect x="90" y="270" width="1020" height="105" rx="18" fill="#c51f2b"/><text x="600" y="340" text-anchor="middle" font-family="Arial" font-size="52" font-weight="bold" fill="#fff">6 أسئلة مباشرة للجزائر</text>
+<rect x="120" y="405" width="960" height="82" rx="14" fill="url(#gold)"/><text x="600" y="460" text-anchor="middle" font-family="Arial" font-size="35" font-weight="bold" fill="#101b2d">الحكم الذاتي • تندوف • المفاوضات</text>
+<text x="600" y="555" text-anchor="middle" font-family="Arial" font-size="30" fill="#eaf2fa">مداخلة دبلوماسية تثير أسئلة حول مسار التسوية</text>
+<text x="600" y="625" text-anchor="middle" font-family="Arial" font-size="22" fill="#b9cce0">NewsMorocco</text>
+</svg>
