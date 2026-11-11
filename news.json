@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-11T00:39:00+00:00",
+  "updated_at": "2026-11-11T00:40:15.591967+00:00",
   "articles": [
-    {
-      "category": "policy",
-      "title": "عمر هلال يوجه ستة أسئلة للجزائر أمام الجمعية العامة للأمم المتحدة",
-      "description": "مداخلة عمر هلال أمام الجمعية العامة للأمم المتحدة تثير ملف الصحراء المغربية، وتطرح ستة أسئلة على الجزائر بشأن الحكم الذاتي ومخيمات تندوف ومسار المفاوضات.",
-      "image": "omar-hilale-un-six-questions-2026.svg",
-      "url": "article-omar-hilale-six-questions-algeria-un-assembly-november-11-2026.html",
-      "local_url": "/article-omar-hilale-six-questions-algeria-un-assembly-november-11-2026.html",
-      "domain": "NewsMorocco / Hespress / Medi1News",
-      "source_url": "https://www.hespress.com/",
-      "date": "Wed, 11 Nov 2026 00:39:00 GMT"
-    },
     {
       "category": "technology",
       "title": "عاجل | أسهم التكنولوجيا تقود خسائر وول ستريت.. والقطاع يتراجع بأكثر من 1%",
@@ -305,6 +294,17 @@
     },
     {
       "category": "technology",
+      "title": "المغرب يستثمر في الذكاء الاصطناعي",
+      "description": "المغرب يستثمر في الذكاء الاصطناعي Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4yLV9NTmhhbTJocG1lWkhfNGd1YnlKN2JOQWFIY3dabW85a0F1N3RkdDR5aVBZTzA4Q20tQUFmd2dFUlVC?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Tue, 10 Nov 2026 04:01:02 GMT",
+      "local_url": "/article-eac1cf004c3f.html"
+    },
+    {
+      "category": "technology",
       "title": "الذكاء الاصطناعي قد يساعد العلماء على فك شيفرات تواصل الحيوانات",
       "description": "الذكاء الاصطناعي قد يساعد العلماء على فك شيفرات تواصل الحيوانات Euronews.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -357,17 +357,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Tue, 10 Nov 2026 21:15:36 GMT",
       "local_url": "/article-1808245f9987.html"
-    },
-    {
-      "category": "international",
-      "title": "صور: Austin Colby يتصدر بطولة جولة THE GREAT GATSBY في أمريكا الشمالية",
-      "description": "صور: Austin Colby يتصدر بطولة جولة THE GREAT GATSBY في أمريكا الشمالية BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1NxN1BRenRDX1ZDQlpwemcxR1liZUlyajhvOVdLbEFtUVctOG1SRlI1RXJ5OUc1QzR2YmRmbWF0NFp3dHpRelV5eVl6Z2lNdUE3SHBmczlGUks0ak5pOW5SV0k2UjFPWXZySVdQRUNtcnF3eXdDWWtiNE1VSXBnY00wMnNjQzZxUDFjZGloX0tGNm0tYm5FcUlHUG9fMnpQb3VZMllrMnRCYkpMNU10OG1zUXpoZlN5?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Tue, 10 Nov 2026 15:10:13 GMT",
-      "local_url": "/article-fac0b49d8799.html"
     },
     {
       "category": "business",
