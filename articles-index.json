@@ -1,14 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "تقارير إعلامية تتحدث عن ضربة بمسيّرة قرب ميجك.. وتضارب بشأن الحصيلة",
-    "description": "تقارير مغربية وموريتانية تتحدث عن استهداف شاحنة موريتانية قرب منطقة ميجك يوم 10 نونبر، مع تضارب بشأن ملابسات الحادث والحصيلة وغياب تأكيد رسمي مستقل.",
-    "image": "/mejick-drone-incident-reports-november-2026.svg",
-    "url": "/article-reports-drone-mejick-november-11-2026.html",
-    "domain": "NewsMorocco",
-    "date": "نشر في 11 نونبر 2026 · NewsMorocco"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -169,6 +160,15 @@
     "url": "/article-8276279d337c.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Tue, 20 Oct 2026 10:54:32 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الجيناني يتلقى خبرا سارا بعد الفوز على الجيش الملكي واتحاد طنجة",
+    "description": "الجيناني يتلقى خبرا سارا بعد الفوز على الجيش الملكي واتحاد طنجة سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-28a40f13498f.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Tue, 10 Nov 2026 17:02:05 GMT"
   },
   {
     "category": "general",
@@ -754,6 +754,15 @@
     "url": "/article-khaled-haftar-morocco-2026.html",
     "domain": "NewsMorocco",
     "date": "الاثنين 12 أكتوبر 2026 · NewsMorocco"
+  },
+  {
+    "category": "policy",
+    "title": "تقارير إعلامية تتحدث عن ضربة بمسيّرة قرب ميجك.. وتضارب بشأن الحصيلة",
+    "description": "تقارير مغربية وموريتانية تتحدث عن استهداف شاحنة موريتانية قرب منطقة ميجك يوم 10 نونبر، مع تضارب بشأن ملابسات الحادث والحصيلة وغياب تأكيد رسمي مستقل.",
+    "image": "/mejick-drone-incident-reports-november-2026.svg",
+    "url": "/article-reports-drone-mejick-november-11-2026.html",
+    "domain": "NewsMorocco",
+    "date": "الأربعاء 11 نونبر 2026 · الصحراء المغربية · NewsMorocco"
   },
   {
     "category": "policy",
@@ -2205,6 +2214,24 @@
     "date": "Hespress • Wed, 21 Oct 2026 01:01:41 GMT"
   },
   {
+    "category": "general",
+    "title": "لقجع يكشف اختلالات استيراد اللحوم",
+    "description": "لقجع يكشف اختلالات استيراد اللحوم Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-0928504adc1f.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Wed, 11 Nov 2026 13:30:55 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الأرصاد تحذر من أمطار غزيرة ورياح قوية",
+    "description": "الأرصاد تحذر من أمطار غزيرة ورياح قوية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c29f9f111c21.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Wed, 11 Nov 2026 12:26:03 GMT"
+  },
+  {
     "category": "policy",
     "title": "واشنطن تتمسك بتسوية نزاع الصحراء",
     "description": "واشنطن تتمسك بتسوية نزاع الصحراء Hespress",
@@ -2221,6 +2248,15 @@
     "url": "/article-c77f891b3dd6.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Wed, 11 Nov 2026 10:07:27 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب والاستثمارات الآسيوية .. تدفق الرساميل يسائل القيمة المضافة المحلية",
+    "description": "المغرب والاستثمارات الآسيوية .. تدفق الرساميل يسائل القيمة المضافة المحلية Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7c3b7f2b4938.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Wed, 11 Nov 2026 10:07:09 GMT"
   },
   {
     "category": "general",
@@ -2413,15 +2449,6 @@
   },
   {
     "category": "general",
-    "title": "الجعايدي: كرة القدم المغربية نموذجية",
-    "description": "الجعايدي: كرة القدم المغربية نموذجية Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-47de7e89f43a.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Tue, 10 Nov 2026 23:12:01 GMT"
-  },
-  {
-    "category": "general",
     "title": "الجزائر تدافع عن \"الفيتو الروسي\"",
     "description": "الجزائر تدافع عن \"الفيتو الروسي\" Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -2457,15 +2484,6 @@
     "date": "Hespress • Tue, 10 Nov 2026 17:35:58 GMT"
   },
   {
-    "category": "general",
-    "title": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب",
-    "description": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-175c34ea4c5c.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Tue, 10 Nov 2026 16:34:44 GMT"
-  },
-  {
     "category": "policy",
     "title": "دول الخليج تجدد دعم مغربية الصحراء",
     "description": "دول الخليج تجدد دعم مغربية الصحراء Hespress",
@@ -2485,12 +2503,12 @@
   },
   {
     "category": "general",
-    "title": "المغرب يتجه نحو تقنين الذكاء الاصطناعي.. رحو يحذر من مخاطر المنع",
-    "description": "المغرب يتجه نحو تقنين الذكاء الاصطناعي.. رحو يحذر من مخاطر المنع Hespress",
+    "title": "\"فوتسال المغرب\" يلاعب السعودية",
+    "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-412eeb9117ad.html",
+    "url": "/article-1e6cc071b6e6.html",
     "domain": "NewsMorocco",
-    "date": "Hespress • Tue, 10 Nov 2026 13:05:58 GMT"
+    "date": "Hespress • Tue, 10 Nov 2026 12:40:48 GMT"
   },
   {
     "category": "general",
@@ -2500,6 +2518,15 @@
     "url": "/article-d9457e87b768.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Tue, 10 Nov 2026 10:17:14 GMT"
+  },
+  {
+    "category": "general",
+    "title": "ميطا 3 | هل سيغادر لقجع الجامعة؟",
+    "description": "ميطا 3 | هل سيغادر لقجع الجامعة؟ Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-803744cf824f.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 10 Nov 2026 08:32:46 GMT"
   },
   {
     "category": "general",
@@ -3013,15 +3040,6 @@
     "url": "/article-c63472173d8a.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sun, 08 Nov 2026 23:35:15 GMT"
-  },
-  {
-    "category": "general",
-    "title": "الرجاء يفوز على اتحاد طنجة بثنائية",
-    "description": "الرجاء يفوز على اتحاد طنجة بثنائية Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-3a9ee7e31afe.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Sun, 08 Nov 2026 22:16:27 GMT"
   },
   {
     "category": "general",
@@ -3727,6 +3745,15 @@
   },
   {
     "category": "general",
+    "title": "تعزيز التنسيق يجمع المغرب وفلسطين",
+    "description": "تعزيز التنسيق يجمع المغرب وفلسطين Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-caa5cdfc13a3.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 09 Nov 2026 21:16:28 GMT"
+  },
+  {
+    "category": "general",
     "title": "شهيد يعلن مراجعة برامج التشغيل السابقة .. ويدعو إلى مناظرة وطنية جديدة",
     "description": "شهيد يعلن مراجعة برامج التشغيل السابقة .. ويدعو إلى مناظرة وطنية جديدة Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3814,15 +3841,6 @@
     "url": "/article-32de682fc252.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Mon, 09 Nov 2026 07:20:50 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"فوتسال المغرب\" يلاعب السعودية",
-    "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-1e6cc071b6e6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Mon, 09 Nov 2026 06:02:40 GMT"
   },
   {
     "category": "general",
@@ -4240,6 +4258,15 @@
   },
   {
     "category": "general",
+    "title": "حاتيمي يحذر من أزمة إنتاج الطماطم",
+    "description": "حاتيمي يحذر من أزمة إنتاج الطماطم Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e4cc6afe9b01.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Wed, 11 Nov 2026 15:10:36 GMT"
+  },
+  {
+    "category": "general",
     "title": "قيوح يكشف تفاصيل دعم جديد لمهنيي النقل بالمغرب بقيمة 400 مليون درهم",
     "description": "قيوح يكشف تفاصيل دعم جديد لمهنيي النقل بالمغرب بقيمة 400 مليون درهم Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -4300,6 +4327,42 @@
     "url": "/article-c80d0e90af34.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 27 Oct 2026 03:26:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الجعايدي: كرة القدم المغربية نموذجية",
+    "description": "الجعايدي: كرة القدم المغربية نموذجية Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-47de7e89f43a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 23:12:01 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب",
+    "description": "مزور يحذر من مساعٍ أوروبية تهدد استثمارات صناعة السيارات بالمغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-175c34ea4c5c.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 16:34:44 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يتجه نحو تقنين الذكاء الاصطناعي.. رحو يحذر من مخاطر المنع",
+    "description": "المغرب يتجه نحو تقنين الذكاء الاصطناعي.. رحو يحذر من مخاطر المنع Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-412eeb9117ad.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 13:05:58 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الرجاء يفوز على اتحاد طنجة بثنائية",
+    "description": "الرجاء يفوز على اتحاد طنجة بثنائية Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3a9ee7e31afe.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Tue, 10 Nov 2026 12:18:23 GMT"
   },
   {
     "category": "policy",
@@ -4969,6 +5032,15 @@
   },
   {
     "category": "business",
+    "title": "الاقتصاد اليوم - قرصنة متاجر فرنسية: لماذا استهدفت وحدة سيبرانية إيرانية فرنسا التي لا تشارك في الحرب ضدها؟",
+    "description": "الاقتصاد اليوم - قرصنة متاجر فرنسية: لماذا استهدفت وحدة سيبرانية إيرانية فرنسا التي لا تشارك في الحرب ضدها؟ France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-54a3c5c49228.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Wed, 11 Nov 2026 08:33:42 GMT"
+  },
+  {
+    "category": "business",
     "title": "الاقتصاد اليوم - قرصنة متاجر فرنسية : لماذا استهدفت وحدة سيبرانية إيرانية فرنسا التي لا تشارك في الحرب ضدها؟",
     "description": "الاقتصاد اليوم - قرصنة متاجر فرنسية : لماذا استهدفت وحدة سيبرانية إيرانية فرنسا التي لا تشارك في الحرب ضدها؟ France 24",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -5221,6 +5293,15 @@
   },
   {
     "category": "general",
+    "title": "عاجل. - الحوثيون يعدّون لهجوم واسع على تعز وعدن.. ما علاقته بأي مفاوضات محتملة مع السعودية؟",
+    "description": "عاجل. - الحوثيون يعدّون لهجوم واسع على تعز وعدن.. ما علاقته بأي مفاوضات محتملة مع السعودية؟ Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-ae973545d2c8.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Wed, 11 Nov 2026 16:30:46 GMT"
+  },
+  {
+    "category": "general",
     "title": "نيك كيف يحذر من الأغاني المُنشأة بالذكاء الاصطناعي ويصفها بـ«الإهانة الأخيرة للروح»",
     "description": "نيك كيف يحذر من الأغاني المُنشأة بالذكاء الاصطناعي ويصفها بـ«الإهانة الأخيرة للروح» Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -5234,6 +5315,15 @@
     "description": "عاجل. رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود قنابل Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-e27a224c74b6.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Wed, 11 Nov 2026 11:03:39 GMT"
+  },
+  {
+    "category": "general",
+    "title": "عاجل. - إخلاء أكثر من 300 مدرسة في إيطاليا إثر تهديدات بوجود قنابل.. وميلوني تدعو إلى اجتماع أمني",
+    "description": "عاجل. - إخلاء أكثر من 300 مدرسة في إيطاليا إثر تهديدات بوجود قنابل.. وميلوني تدعو إلى اجتماع أمني Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8b03677f4570.html",
     "domain": "NewsMorocco",
     "date": "Euronews.com • Wed, 11 Nov 2026 11:03:39 GMT"
   },
@@ -5526,6 +5616,15 @@
     "date": "DW.com • Wed, 28 Oct 2026 17:11:13 GMT"
   },
   {
+    "category": "general",
+    "title": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟",
+    "description": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟ DW.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d12302babf92.html",
+    "domain": "NewsMorocco",
+    "date": "DW.com • Wed, 11 Nov 2026 11:56:52 GMT"
+  },
+  {
     "category": "business",
     "title": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت!",
     "description": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت! DW.com",
@@ -5578,15 +5677,6 @@
     "url": "/article-6f02a9630309.html",
     "domain": "NewsMorocco",
     "date": "DW.com • Tue, 10 Nov 2026 23:09:03 GMT"
-  },
-  {
-    "category": "general",
-    "title": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟",
-    "description": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟ DW.com",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-d12302babf92.html",
-    "domain": "NewsMorocco",
-    "date": "DW.com • Tue, 10 Nov 2026 18:23:10 GMT"
   },
   {
     "category": "general",
@@ -5695,6 +5785,15 @@
     "url": "/article-b2bbfa5d1390.html",
     "domain": "NewsMorocco",
     "date": "CNN الاقتصادية • Wed, 21 Oct 2026 19:33:07 GMT"
+  },
+  {
+    "category": "business",
+    "title": "عاجل | «بيرد» تخفض تصنيف «إنفيديا» وتقلص سعرها المستهدف 60% إلى 200 دولار",
+    "description": "عاجل | «بيرد» تخفض تصنيف «إنفيديا» وتقلص سعرها المستهدف 60% إلى 200 دولار CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3364178a1037.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Wed, 11 Nov 2026 16:04:08 GMT"
   },
   {
     "category": "business",
@@ -5838,7 +5937,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-2f1065341257.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Tue, 10 Nov 2026 19:27:55 GMT"
+    "date": "CNN الاقتصادية • Tue, 10 Nov 2026 19:23:06 GMT"
   },
   {
     "category": "business",
@@ -6580,6 +6679,15 @@
   },
   {
     "category": "general",
+    "title": "HENRY V وASSASSINS ضمن الموسم الأول لـ Rupert Goold في Old Vic",
+    "description": "HENRY V وASSASSINS ضمن الموسم الأول لـ Rupert Goold في Old Vic BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-fcc2e2881e15.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Tue, 10 Nov 2026 10:43:08 GMT"
+  },
+  {
+    "category": "general",
     "title": "فيديو: فريق MAGIC MIKE LIVE يرقص في أنحاء نيويورك قبيل افتتاح العرض في 2027",
     "description": "فيديو: فريق MAGIC MIKE LIVE يرقص في أنحاء نيويورك قبيل افتتاح العرض في 2027 BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -6814,12 +6922,39 @@
   },
   {
     "category": "general",
+    "title": "فيديو: DOLLY: A True Original Musical يفتتح شباك التذاكر في St. James Theatre",
+    "description": "فيديو: DOLLY: A True Original Musical يفتتح شباك التذاكر في St. James Theatre BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e41fa132559c.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Mon, 09 Nov 2026 20:39:21 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تصوير HEATED RIVALRY: THE UNAUTHORIZED MUSICAL PARODY لصالح NYPL",
+    "description": "تصوير HEATED RIVALRY: THE UNAUTHORIZED MUSICAL PARODY لصالح NYPL BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8506bbd2af63.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Mon, 09 Nov 2026 19:52:59 GMT"
+  },
+  {
+    "category": "general",
     "title": "Andrew Rannells ينتقد متفرجًا بسبب «التصوير أثناء العرض» بعد شكواه من عدم خروجه للقاء الجمهور",
     "description": "Andrew Rannells ينتقد متفرجًا بسبب «التصوير أثناء العرض» بعد شكواه من عدم خروجه للقاء الجمهور BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-601bd9fa1043.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Mon, 09 Nov 2026 19:43:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "صور: فريق Spring Awakening يزور عرض Memoirs of Amorous Gentlemen",
+    "description": "صور: فريق Spring Awakening يزور عرض Memoirs of Amorous Gentlemen BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-016b041bb209.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Mon, 09 Nov 2026 19:03:40 GMT"
   },
   {
     "category": "general",
@@ -7116,7 +7251,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-1139ccb1a4ad.html",
     "domain": "NewsMorocco",
-    "date": "Assabah • Wed, 11 Nov 2026 05:46:02 GMT"
+    "date": "Assabah • Wed, 11 Nov 2026 06:09:00 GMT"
   },
   {
     "category": "general",
@@ -8242,6 +8377,15 @@
     "url": "/article-00487c1d6895.html",
     "domain": "NewsMorocco",
     "date": "2M • Wed, 21 Oct 2026 08:17:00 GMT"
+  },
+  {
+    "category": "general",
+    "title": "COP31: Energy Minister Outlines Morocco's Pioneering Experience in Climate Change Adaptation",
+    "description": "COP31: Energy Minister Outlines Morocco's Pioneering Experience in Climate Change Adaptation 2M",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2cf794d47886.html",
+    "domain": "NewsMorocco",
+    "date": "2M • Wed, 11 Nov 2026 15:01:15 GMT"
   },
   {
     "category": "policy",
