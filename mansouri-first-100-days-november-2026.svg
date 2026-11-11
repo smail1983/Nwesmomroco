@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e35"/><stop offset="1" stop-color="#243c59"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d8b56a"/><stop offset="1" stop-color="#f2dda4"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#bg)"/><circle cx="1010" cy="120" r="210" fill="#fff" opacity=".035"/><circle cx="120" cy="590" r="250" fill="#fff" opacity=".035"/>
+<path d="M0 520 Q300 450 600 520 T1200 490 V675 H0Z" fill="#0b1527" opacity=".6"/>
+<rect x="70" y="68" width="1060" height="535" rx="28" fill="none" stroke="url(#gold)" stroke-width="3" opacity=".8"/>
+<text x="600" y="180" fill="#f3d995" font-size="44" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">NEWS MOROCCO</text>
+<text x="600" y="300" fill="#ffffff" font-size="62" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">المنصوري تضع الوزراء</text>
+<text x="600" y="385" fill="#ffffff" font-size="62" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">أمام اختبار أول 100 يوم</text>
+<rect x="420" y="440" width="360" height="76" rx="16" fill="url(#gold)"/>
+<text x="600" y="493" fill="#142238" font-size="36" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">5 إلى 10 إجراءات لكل قطاع</text>
+<text x="600" y="565" fill="#dbe5f1" font-size="25" text-anchor="middle" font-family="Arial,sans-serif">11 نونبر 2026</text>
+</svg>
