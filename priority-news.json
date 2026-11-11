@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-08T00:23:00+00:00",
+  "updated_at": "2026-11-11T18:55:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "تقارير إعلامية تتحدث عن ضربة بمسيّرة قرب ميجك.. وتضارب بشأن الحصيلة",
+      "description": "تقارير مغربية وموريتانية تتحدث عن استهداف شاحنة موريتانية قرب منطقة ميجك يوم 10 نونبر، مع تضارب بشأن ملابسات الحادث والحصيلة وغياب تأكيد رسمي مستقل.",
+      "image": "/mejick-drone-incident-reports-november-2026.svg",
+      "url": "article-reports-drone-mejick-november-11-2026.html",
+      "local_url": "/article-reports-drone-mejick-november-11-2026.html",
+      "domain": "هسبريس / الجريدة / Yabiladi / مصادر موريتانية / NewsMorocco",
+      "source_url": "https://www.hespress.com/",
+      "date": "Wed, 11 Nov 2026 18:55:00 GMT"
+    },
     {
       "category": "policy",
       "title": "جان بيير لاكروا يكشف تفاصيل انسحاب المينورسو من الصحراء المغربية",
