@@ -39,7 +39,7 @@ FEEDS = {
     ]
 }
 
-SITE_URL = "https://nwesmomroco.com"
+SITE_URL = "https://www.nwesmomroco.com"
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
 RECENT_DAYS = 2
 
@@ -155,34 +155,102 @@ def esc(value):
 
 def write_article_page(article):
     path = Path(article["local_url"].lstrip("/"))
-    title = article["title"]
-    description = article.get("description") or f"آخر المستجدات حول: {title}."
-    image = article.get("image") or FALLBACK_IMAGE
-    source = article.get("domain") or "المصدر الأصلي"
+    title = clean_text(article.get("title", ""))
+    description = clean_text(article.get("description") or "")
+    source = clean_text(article.get("domain") or "المصدر الأصلي")
     source_link = article.get("url") or "#"
-    date_value = article.get("date", "")
-    try:
-        published = parsedate_to_datetime(date_value).astimezone(timezone.utc).isoformat()
-    except Exception:
-        published = date_value
-    content = f'''<!DOCTYPE html>
-<html lang="ar" dir="rtl"><head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{esc(title)} | NewsMorocco</title>
-<meta name="description" content="{esc(description[:155])}"><meta name="robots" content="index, follow">
-<link rel="canonical" href="{SITE_URL}/{path.name}">
-<meta property="og:type" content="article"><meta property="og:site_name" content="NewsMorocco">
-<meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description[:200])}"><meta property="og:image" content="{esc(image)}">
-<script type="application/ld+json">{json.dumps({"@context":"https://schema.org","@type":"NewsArticle","headline":title,"description":description,"image":[image],"datePublished":published,"dateModified":published,"author":{"@type":"Organization","name":"NewsMorocco"},"publisher":{"@type":"Organization","name":"NewsMorocco","url":SITE_URL},"mainEntityOfPage":{"@type":"WebPage","@id":f"{SITE_URL}/{path.name}"}}, ensure_ascii=False)}</script>
-<style>body{{margin:0;background:#f5f7f9;color:#17212b;font-family:Arial,sans-serif;line-height:1.9}}header{{background:#17212b;padding:16px;text-align:center}}header a{{color:#fff;text-decoration:none;font-weight:700;font-size:22px}}main{{max-width:820px;margin:25px auto;padding:0 16px}}article{{background:#fff;border-radius:16px;padding:22px;box-shadow:0 3px 15px rgba(0,0,0,.07)}}h1{{font-size:30px;line-height:1.5;margin-top:0}}.meta{{color:#777;font-size:14px;margin-bottom:18px}}.hero{{width:100%;max-height:480px;object-fit:cover;border-radius:12px}}.summary{{font-size:19px;margin:22px 0}}.source{{display:inline-block;background:#17212b;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none}}.back{{display:inline-block;margin-top:18px;color:#1769aa;text-decoration:none}}@media(max-width:600px){{h1{{font-size:23px}}.summary{{font-size:17px}}}}</style>
-</head><body><header><a href="/">NewsMorocco</a></header><main><article>
-<h1>{esc(title)}</h1><div class="meta">{esc(source)}{(' • ' + esc(date_value)) if date_value else ''}</div>
-<img class="hero" src="{esc(image)}" alt="{esc(title)}" loading="eager"><p class="summary">{esc(description)}</p>
-<p>تقدم NewsMorocco هذا الملخص اعتماداً على المعلومات المتاحة في المصدر الأصلي، مع الحفاظ على رابط المصدر للرجوع إلى التفاصيل الكاملة.</p>
-<a class="source" href="{esc(source_link)}" target="_blank" rel="noopener noreferrer nofollow">قراءة التفاصيل من المصدر الأصلي</a><br><a class="back" href="/">← العودة إلى آخر الأخبار</a>
-</article></main></body></html>'''
-    path.write_text(content, encoding="utf-8")
+    image = article.get("image") or FALLBACK_IMAGE
 
+    # Remove a duplicated headline from RSS snippets before evaluating article quality.
+    if description.lower().startswith(title.lower()):
+        description = description[len(title):].strip(" .:-–—|")
+    if not description:
+        description = f"لا تتوفر في المقتطفات الحالية تفاصيل كافية حول: {title}."
+
+    raw_date = article.get("date", "")
+    try:
+        parsed = parsedate_to_datetime(raw_date)
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        published = parsed.astimezone(timezone.utc).isoformat()
+    except Exception:
+        published = datetime.now(timezone.utc).isoformat()
+
+    # Short RSS-only pages should remain discoverable through links, but not enter
+    # Google's index until an editor adds meaningful original reporting.
+    indexable = len(description) >= 180
+    robots = "index, follow, max-image-preview:large" if indexable else "noindex, follow"
+    modified = datetime.now(timezone.utc).isoformat()
+    page_url = f"{SITE_URL}/{path.name}"
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": title,
+        "description": description[:300],
+        "image": [image],
+        "datePublished": published,
+        "dateModified": modified,
+        "inLanguage": "ar",
+        "articleSection": article.get("category", "أخبار"),
+        "author": {"@type": "Organization", "name": "NewsMorocco", "url": SITE_URL},
+        "publisher": {"@type": "Organization", "name": "NewsMorocco", "url": SITE_URL},
+        "mainEntityOfPage": {"@type": "WebPage", "@id": page_url}
+    }
+    content = f'''<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{esc(title)} | NewsMorocco</title>
+<meta name="description" content="{esc(description[:155] or title)}">
+<meta name="robots" content="{robots}">
+<meta name="author" content="NewsMorocco">
+<link rel="canonical" href="{esc(page_url)}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="NewsMorocco">
+<meta property="og:url" content="{esc(page_url)}">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(description[:200] or title)}">
+<meta property="og:image" content="{esc(image)}">
+<meta property="article:published_time" content="{esc(published)}">
+<meta property="article:modified_time" content="{esc(modified)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title)}">
+<meta name="twitter:description" content="{esc(description[:200] or title)}">
+<meta name="twitter:image" content="{esc(image)}">
+<script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
+<style>
+*{{box-sizing:border-box}}
+body{{margin:0;background:#f5f7f9;color:#17212b;font-family:Arial,sans-serif;line-height:1.9}}
+header{{background:#17212b;padding:16px;text-align:center}}
+header a{{color:#fff;text-decoration:none;font-weight:700;font-size:22px}}
+main{{max-width:820px;margin:25px auto;padding:0 16px}}
+article{{background:#fff;border-radius:16px;padding:22px;box-shadow:0 3px 15px rgba(0,0,0,.07)}}
+h1{{font-size:30px;line-height:1.5;margin-top:0}}
+.meta{{color:#777;font-size:14px;margin-bottom:18px}}
+.hero{{width:100%;max-height:480px;object-fit:cover;border-radius:12px}}
+.summary{{font-size:19px;margin:22px 0;white-space:pre-line}}
+.source{{display:inline-block;background:#17212b;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none}}
+.notice{{background:#f4f6f8;border-right:4px solid #087f5b;padding:12px 15px;border-radius:8px;color:#475467}}
+.back{{display:inline-block;margin-top:18px;color:#1769aa;text-decoration:none}}
+@media(max-width:600px){{h1{{font-size:23px}}.summary{{font-size:17px}}}}
+</style>
+</head>
+<body>
+<header><a href="/">NewsMorocco</a></header>
+<main><article>
+<h1>{esc(title)}</h1>
+<div class="meta">{esc(source)}{(" • " + esc(raw_date)) if raw_date else ""}</div>
+<img class="hero" src="{esc(image)}" alt="{esc(title)}" loading="eager">
+<h2>ملخص الخبر</h2>
+<p class="summary">{esc(description)}</p>
+<p class="notice">للاطلاع على التفاصيل الكاملة والتصريحات الأصلية، يرجى الرجوع إلى المصدر المذكور أدناه. يعمل فريق NewsMorocco على إضافة التغطية والتحقق التحريري قبل اعتماد الأخبار الموسعة.</p>
+<a class="source" href="{esc(source_link)}" target="_blank" rel="noopener noreferrer nofollow">قراءة المصدر الأصلي: {esc(source)}</a>
+<br><a class="back" href="/">← العودة إلى آخر الأخبار</a>
+</article></main>
+</body>
+</html>'''
+    path.write_text(content, encoding="utf-8")
 
 articles_by_category = {category: [] for category in FEEDS}
 seen = set()
@@ -254,8 +322,12 @@ with open("news.json", "w", encoding="utf-8") as f:
 
 def build_sitemap():
     today = datetime.now(timezone.utc).date().isoformat()
-    urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/privacy.html", today), ("/terms.html", today), ("/disclaimer.html", today), ("/editorial-policy.html", today)]
+    # Keep utility/legal pages out of the editorial sitemap.
+    urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today)]
     for path in sorted(Path(".").glob("article-*.html")):
+        page = path.read_text(encoding="utf-8", errors="ignore")
+        if re.search(r'<meta\\s+name=["\\']robots["\\']\\s+content=["\\']noindex', page, re.IGNORECASE):
+            continue
         urls.append((f"/{path.name}", today))
     rows = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for path, lastmod in urls:
