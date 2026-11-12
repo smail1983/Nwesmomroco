@@ -101,7 +101,7 @@
   {
     "category": "general",
     "title": "الجيش الملكي يطمح لعبور البوابة الكاميرونية وانتزاع بطاقة التأهل إلى نهائي دوري الأبطال",
-    "description": "الجيش الملكي يطمح لعبور البوابة الكاميرونية وانتزاع بطاقة التأهل إلى نهائي دوري الأبطال سبورت Le360",
+    "description": "سبورت Le360",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-6d0b03d74fe9.html",
     "domain": "NewsMorocco",
@@ -182,7 +182,7 @@
   {
     "category": "general",
     "title": "الجيناني يكافئ لاعبي الرجاء بعد الفوز على اتحاد طنجة",
-    "description": "الجيناني يكافئ لاعبي الرجاء بعد الفوز على اتحاد طنجة سبورت Le360",
+    "description": "سبورت Le360",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a4cd7a8f9fb8.html",
     "domain": "NewsMorocco",
@@ -191,7 +191,7 @@
   {
     "category": "general",
     "title": "الجيناني يتلقى خبرا سارا بعد الفوز على الجيش الملكي واتحاد طنجة",
-    "description": "الجيناني يتلقى خبرا سارا بعد الفوز على الجيش الملكي واتحاد طنجة سبورت Le360",
+    "description": "سبورت Le360",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-28a40f13498f.html",
     "domain": "NewsMorocco",
@@ -1855,6 +1855,15 @@
   },
   {
     "category": "sports",
+    "title": "الألعاب الأولمبية للشباب \"دكار 2026\"/كرة القدم داخل القاعة: المغرب يحرز الميدالية البرونزية بفوزه على أفغانستان (2-1)",
+    "description": "MAP SPORT",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-70acab518060.html",
+    "domain": "NewsMorocco",
+    "date": "MAP SPORT • Thu, 12 Nov 2026 16:02:21 GMT"
+  },
+  {
+    "category": "sports",
     "title": "البطولة الوطنية الاحترافية \"إنوي\" لكرة القدم في قسمها الأول .. الترتيب عقب إجراء مؤجل الدورة الأولى",
     "description": "البطولة الوطنية الاحترافية \"إنوي\" لكرة القدم في قسمها الأول .. الترتيب عقب إجراء مؤجل الدورة الأولى MAP SPORT",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -2252,7 +2261,7 @@
   {
     "category": "policy",
     "title": "ارتفاع أسعار السردين يحرك الحكومة لمواجهة المضاربة بأسواق السمك",
-    "description": "ارتفاع أسعار السردين يحرك الحكومة لمواجهة المضاربة بأسواق السمك Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-6924b790eec2.html",
     "domain": "NewsMorocco",
@@ -2270,7 +2279,7 @@
   {
     "category": "general",
     "title": "لقجع يكشف اختلالات استيراد اللحوم",
-    "description": "لقجع يكشف اختلالات استيراد اللحوم Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-0928504adc1f.html",
     "domain": "NewsMorocco",
@@ -2297,7 +2306,7 @@
   {
     "category": "general",
     "title": "المغرب والاستثمارات الآسيوية .. تدفق الرساميل يسائل القيمة المضافة المحلية",
-    "description": "المغرب والاستثمارات الآسيوية .. تدفق الرساميل يسائل القيمة المضافة المحلية Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-7c3b7f2b4938.html",
     "domain": "NewsMorocco",
@@ -2306,7 +2315,7 @@
   {
     "category": "general",
     "title": "\"فوتسال المغرب\" يلاعب السعودية",
-    "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-1e6cc071b6e6.html",
     "domain": "NewsMorocco",
@@ -2324,7 +2333,7 @@
   {
     "category": "general",
     "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-c77f891b3dd6.html",
     "domain": "NewsMorocco",
@@ -2513,7 +2522,7 @@
   {
     "category": "general",
     "title": "نتائج القسم الثاني لكرة القدم بالمغرب",
-    "description": "نتائج القسم الثاني لكرة القدم بالمغرب Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-c63472173d8a.html",
     "domain": "NewsMorocco",
@@ -2522,7 +2531,7 @@
   {
     "category": "general",
     "title": "الجعايدي: كرة القدم المغربية نموذجية",
-    "description": "الجعايدي: كرة القدم المغربية نموذجية Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-47de7e89f43a.html",
     "domain": "NewsMorocco",
@@ -2531,7 +2540,7 @@
   {
     "category": "general",
     "title": "وهبي: عبد النباوي يرفض استعانة القضاة بالذكاء الاصطناعي في المحاكم",
-    "description": "وهبي: عبد النباوي يرفض استعانة القضاة بالذكاء الاصطناعي في المحاكم Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-b29bf2b84eb9.html",
     "domain": "NewsMorocco",
@@ -2943,9 +2952,18 @@
     "date": "Hespress • Thu, 22 Oct 2026 03:25:15 GMT"
   },
   {
+    "category": "policy",
+    "title": "الحكومة تدافع عن أداء رسوم \"التوقيت الميسر\" بالجامعات المغربية",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d74702db1f33.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 12 Nov 2026 16:01:47 GMT"
+  },
+  {
     "category": "general",
     "title": "شركة فرنسية تظفر بصفقة جديدة في مشروع الخط فائق السرعة بالمغرب",
-    "description": "شركة فرنسية تظفر بصفقة جديدة في مشروع الخط فائق السرعة بالمغرب Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-7d043b4c6830.html",
     "domain": "NewsMorocco",
@@ -2954,7 +2972,7 @@
   {
     "category": "general",
     "title": "لجنة المالية تقر الجزء الأول من الميزانية",
-    "description": "لجنة المالية تقر الجزء الأول من الميزانية Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-083a0d171fda.html",
     "domain": "NewsMorocco",
@@ -2963,7 +2981,7 @@
   {
     "category": "general",
     "title": "توقعات طقس اليوم الخميس بالمغرب",
-    "description": "توقعات طقس اليوم الخميس بالمغرب Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-5ce85794ef26.html",
     "domain": "NewsMorocco",
@@ -2972,7 +2990,7 @@
   {
     "category": "business",
     "title": "السياحة الساحلية تتصدر القطاعات المساهمة في \"الاقتصاد الأزرق\" بالمغرب",
-    "description": "السياحة الساحلية تتصدر القطاعات المساهمة في \"الاقتصاد الأزرق\" بالمغرب Hespress",
+    "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-e86d6db35d21.html",
     "domain": "NewsMorocco",
@@ -3926,7 +3944,7 @@
   {
     "category": "general",
     "title": "هزة أرضية تضرب أزيلال .. ومعهد الجيوفيزياء يؤكد تزايد النشاط الزلزالي",
-    "description": "هزة أرضية تضرب أزيلال .. ومعهد الجيوفيزياء يؤكد تزايد النشاط الزلزالي Hespress",
+    "description": "صفحة مقتطف إخباري من مصدر هسبريس. يرجى الرجوع إلى المصدر الأصلي للتفاصيل الكاملة.",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-0a5eb4756784.html",
     "domain": "NewsMorocco",
@@ -5393,7 +5411,7 @@
   {
     "category": "general",
     "title": "قائمة أفضل 500 بار في العالم تكشف عن وجود 13 من أفضل 25 في أوروبا",
-    "description": "قائمة أفضل 500 بار في العالم تكشف عن وجود 13 من أفضل 25 في أوروبا Euronews.com",
+    "description": "Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-386a40d98c5a.html",
     "domain": "NewsMorocco",
@@ -5402,7 +5420,7 @@
   {
     "category": "general",
     "title": "نيك كيف يحذر من الأغاني المُنشأة بالذكاء الاصطناعي ويصفها بـ«الإهانة الأخيرة للروح»",
-    "description": "نيك كيف يحذر من الأغاني المُنشأة بالذكاء الاصطناعي ويصفها بـ«الإهانة الأخيرة للروح» Euronews.com",
+    "description": "Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a96ae08c00ec.html",
     "domain": "NewsMorocco",
@@ -5420,7 +5438,7 @@
   {
     "category": "general",
     "title": "عاجل. - إخلاء أكثر من 300 مدرسة في إيطاليا إثر تهديدات بوجود قنابل.. وميلوني تدعو إلى اجتماع أمني",
-    "description": "عاجل. - إخلاء أكثر من 300 مدرسة في إيطاليا إثر تهديدات بوجود قنابل.. وميلوني تدعو إلى اجتماع أمني Euronews.com",
+    "description": "Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-8b03677f4570.html",
     "domain": "NewsMorocco",
@@ -5533,6 +5551,15 @@
     "url": "/article-6c6246b74bd2.html",
     "domain": "NewsMorocco",
     "date": "Euronews.com • Thu, 22 Oct 2026 06:50:38 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الجمعة 13 نوفمبر 2026.. التاريخ الذي حددته دراسة علمية لنهاية العالم قبل 66 عاماً",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c244e8300452.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Thu, 12 Nov 2026 10:55:09 GMT"
   },
   {
     "category": "general",
@@ -5789,7 +5816,7 @@
   {
     "category": "policy",
     "title": "ستوديو الحدث: سبتة تضع وحدة أوروبا وسياسة الهجرة على المحك",
-    "description": "ستوديو الحدث: سبتة تضع وحدة أوروبا وسياسة الهجرة على المحك DW.com",
+    "description": "DW.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-c1f2a5ce9895.html",
     "domain": "NewsMorocco",
@@ -5906,11 +5933,11 @@
   {
     "category": "business",
     "title": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد",
-    "description": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد CNN الاقتصادية",
+    "description": "CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-461b309c293a.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Wed, 11 Nov 2026 18:09:37 GMT"
+    "date": "CNN الاقتصادية • Wed, 11 Nov 2026 18:39:49 GMT"
   },
   {
     "category": "business",
@@ -6059,7 +6086,7 @@
   {
     "category": "business",
     "title": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي",
-    "description": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي CNN الاقتصادية",
+    "description": "CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-2f1065341257.html",
     "domain": "NewsMorocco",
@@ -6626,7 +6653,7 @@
   {
     "category": "general",
     "title": "تذاكر LES MISÉRABLES والمزيد من عروض المسرح الرائعة في لندن هذا الأسبوع",
-    "description": "تذاكر LES MISÉRABLES والمزيد من عروض المسرح الرائعة في لندن هذا الأسبوع BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-cfa073b6e530.html",
     "domain": "NewsMorocco",
@@ -6635,7 +6662,7 @@
   {
     "category": "general",
     "title": "صور: من ليلة افتتاح Here There Are Blueberries على برودواي",
-    "description": "صور: من ليلة افتتاح Here There Are Blueberries على برودواي BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a05fcae163e9.html",
     "domain": "NewsMorocco",
@@ -6653,7 +6680,7 @@
   {
     "category": "general",
     "title": "مراجعة: EVEREST: THE FIRST ASCENT، Eclipso London",
-    "description": "مراجعة: EVEREST: THE FIRST ASCENT، Eclipso London BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-aeaaa90053a9.html",
     "domain": "NewsMorocco",
@@ -6662,7 +6689,7 @@
   {
     "category": "general",
     "title": "Hannah Solow تقدم BROADWAY: STANDING BY في New Amsterdam Theatre",
-    "description": "Hannah Solow تقدم BROADWAY: STANDING BY في New Amsterdam Theatre BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-6df0326884bc.html",
     "domain": "NewsMorocco",
@@ -6680,7 +6707,7 @@
   {
     "category": "general",
     "title": "فيديو: فريق In the Heights من City Center يقدم عرضًا في TODAY Show",
-    "description": "فيديو: فريق In the Heights من City Center يقدم عرضًا في TODAY Show BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-8b8acedea298.html",
     "domain": "NewsMorocco",
@@ -6689,7 +6716,7 @@
   {
     "category": "general",
     "title": "فيديو: National Theatre يسلّط الضوء على الأدوار المسرحية لنجوم RIVALS",
-    "description": "فيديو: National Theatre يسلّط الضوء على الأدوار المسرحية لنجوم RIVALS BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-f5d8c4e1dc68.html",
     "domain": "NewsMorocco",
@@ -6698,7 +6725,7 @@
   {
     "category": "general",
     "title": "فيديو: Nicholas Christopher ينضم إلى JUST IN TIME في برودواي",
-    "description": "فيديو: Nicholas Christopher ينضم إلى JUST IN TIME في برودواي BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-ea72c1f6761d.html",
     "domain": "NewsMorocco",
@@ -6707,7 +6734,7 @@
   {
     "category": "general",
     "title": "Linus Roache ينسحب من OWAIN & HENRY في Wales Millennium Centre",
-    "description": "Linus Roache ينسحب من OWAIN & HENRY في Wales Millennium Centre BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-baee0429b914.html",
     "domain": "NewsMorocco",
@@ -6716,7 +6743,7 @@
   {
     "category": "general",
     "title": "Monét X Change تتصدر العرض الأول لمسرحية THE LEGEND OF GEORGIA MCBRIDE في West End",
-    "description": "Monét X Change تتصدر العرض الأول لمسرحية THE LEGEND OF GEORGIA MCBRIDE في West End BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-7ecb2e998bce.html",
     "domain": "NewsMorocco",
@@ -6724,8 +6751,17 @@
   },
   {
     "category": "general",
+    "title": "الإعلان عن كامل طاقم Three and a Bit لـ Caryl Churchill في Almeida Theatre",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-51635a886904.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 11:05:57 GMT"
+  },
+  {
+    "category": "general",
     "title": "Matt Smith يتصدر العرض العالمي الأول لمسرحية THE HUMANS في West End",
-    "description": "Matt Smith يتصدر العرض العالمي الأول لمسرحية THE HUMANS في West End BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-c3a65cdfed27.html",
     "domain": "NewsMorocco",
@@ -6734,7 +6770,7 @@
   {
     "category": "general",
     "title": "وفاة Stacy Keach، الممثل المسرحي والسينمائي المرشح لجائزة Tony، عن 85 عاماً",
-    "description": "وفاة Stacy Keach، الممثل المسرحي والسينمائي المرشح لجائزة Tony، عن 85 عاماً BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-9debbc90e35e.html",
     "domain": "NewsMorocco",
@@ -7031,7 +7067,7 @@
   {
     "category": "general",
     "title": "صور: BLITHE SPIRIT على خشبة New Theatre",
-    "description": "صور: BLITHE SPIRIT على خشبة New Theatre BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-368f1490cad8.html",
     "domain": "NewsMorocco",
@@ -7508,7 +7544,7 @@
   {
     "category": "general",
     "title": "ندوة بوعبيد تناقش الذكاء الاصطناعي والإعلام الرياضي",
-    "description": "ندوة بوعبيد تناقش الذكاء الاصطناعي والإعلام الرياضي Assabah",
+    "description": "Assabah",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-1139ccb1a4ad.html",
     "domain": "NewsMorocco",
@@ -7643,7 +7679,7 @@
   {
     "category": "general",
     "title": "منتخب U23 يفتتح مشواره في تصفيات “الكان” بمواجهة إثيوبيا",
-    "description": "منتخب U23 يفتتح مشواره في تصفيات “الكان” بمواجهة إثيوبيا Assabah",
+    "description": "Assabah",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-7d835bf81526.html",
     "domain": "NewsMorocco",
@@ -7913,7 +7949,7 @@
   {
     "category": "general",
     "title": "AI powers UK economic growth in third quarter",
-    "description": "AI powers UK economic growth in third quarter AFP.com",
+    "description": "AFP.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a12227abfe6f.html",
     "domain": "NewsMorocco",
@@ -8669,7 +8705,7 @@
   {
     "category": "general",
     "title": "COP31: Energy Minister Outlines Morocco's Pioneering Experience in Climate Change Adaptation",
-    "description": "COP31: Energy Minister Outlines Morocco's Pioneering Experience in Climate Change Adaptation 2M",
+    "description": "2M",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-2cf794d47886.html",
     "domain": "NewsMorocco",
@@ -8678,7 +8714,7 @@
   {
     "category": "general",
     "title": "UN General Assembly: Broad International Support for the Autonomy Initiative Under Moroccan Sovereignty",
-    "description": "UN General Assembly: Broad International Support for the Autonomy Initiative Under Moroccan Sovereignty 2M",
+    "description": "2M",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-4c2b0e8a1251.html",
     "domain": "NewsMorocco",
