@@ -326,7 +326,7 @@ def build_sitemap():
     urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today)]
     for path in sorted(Path(".").glob("article-*.html")):
         page = path.read_text(encoding="utf-8", errors="ignore")
-        if re.search(r'<meta\\s+name=["\\']robots["\\']\\s+content=["\\']noindex', page, re.IGNORECASE):
+        if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\']noindex', page, re.IGNORECASE):
             continue
         urls.append((f"/{path.name}", today))
     rows = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
