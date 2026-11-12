@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-12T18:40:00+00:00",
+  "updated_at": "2026-11-12T18:44:09.831964+00:00",
   "articles": [
-    {
-      "category": "policy",
-      "title": "الحكومة المغربية تعلق على اتهامات الجزائر بشأن تلوث وادي مويلح",
-      "description": "الناطق الرسمي باسم الحكومة سمير بلفقيه يقول إن الحكومة أخذت علماً بالاتهامات الجزائرية بشأن تلوث مجارٍ مائية حدودية وتتابع الموضوع عن قرب، دون إعلان نتائج تحقيق.",
-      "image": "algeria-morocco-water-pollution-2026.svg",
-      "url": "article-morocco-response-water-pollution-algeria-november-12-2026.html",
-      "local_url": "/article-morocco-response-water-pollution-algeria-november-12-2026.html",
-      "domain": "آشكاين / سفيركم / وكالة الأنباء الجزائرية",
-      "source_url": "https://www.achkayen.com/708820/.html",
-      "date": "Thu, 12 Nov 2026 18:40:00 GMT"
-    },
     {
       "category": "technology",
       "title": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد",
@@ -36,13 +25,24 @@
     },
     {
       "category": "technology",
+      "title": "عاجل. إطلاق نار يهزّ حيًّا في واشنطن قرب البيت الأبيض.. قتيل و4 جرحى على الأقل والشرطة تلاحق المشتبه به",
+      "description": "عاجل. إطلاق نار يهزّ حيًّا في واشنطن قرب البيت الأبيض.. قتيل و4 جرحى على الأقل والشرطة تلاحق المشتبه به Euronews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEFueWlXUHB5Szk3aVJkbUQtSm1JeDQ3LXNzaExjLXNlMm0tZEdEbS1jaV9MOExxUnZKZEZZVHZSVEpOUjBFWEVJMkFvUkFERmdLbWpuTUJyTXpnZDRxUU5MSE5YeFZEaUZoRW0wTlZiR0tEVV9aOV9zQVR5Z3p3WkVocjdDaGMtVXd2TUE3UHk3WFR6bW55SHdlR3BHYkhnZnJIeFZNMXRNWGhO?oc=5",
+      "domain": "Euronews.com",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Thu, 12 Nov 2026 14:20:03 GMT",
+      "local_url": "/article-d1c3c512971d.html"
+    },
+    {
+      "category": "technology",
       "title": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي",
       "description": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNdEp0eFJZTERIemVrc1RaTWJ4Mng5dm8tZ2g1alpOYjh5bjdGbTZOdlN3dGpOU24tN3EzRkt4d09CbFRCLXBtQ1Y5dVZtWURnQVRQWWVZTlRBQjlZcWs0MF95UWhuX3oybnltZW95RFlCU3dkNzZ4YzFFNlVfX1VydUt3WVlFb3U1aE5nWmplRDJMRUhDQWpGZVd3dlhjSjZFRXhCYXpJYmFvRmlVUTgxTnI5MEpmUUtrX3F6R2NJeXB3NVczekhoSnM2YV95RG55ZXZHTTJlTDFxQ29mamFTeE5uTUlOeHpxcFBsRVdSWjBaZnZ4aDJXNm85SmcxX0h6WnNLMlZNa1NQOVZWR2Y4QnIxcW1YbVNETkE4c0hMR3NCTXZWZFQ4TFJ6R1A5Q2hFelVpdW5hMjRvVS1TZ0xONkFxcHdiNVV3X2QxTnpDbkE5Smx5aE9LbUlRTEFlajgtVkZraG9ud01MSGs2X1hUTFp5TFlKYzJuT2ppczctMkFIa0JHcjdBTXlNVHViYlh5eVUyRmVtSVlMQ0JvVXNsQjFkeC1ZWl9LZllnOWxZMlBJOXJaaEZZS0hicE03YXNNSGNYT2RYUFVIa0dQNXRMZDdKWl9kcEI4S0hlczlwc19LeDJYSUpsZmF6eGpfbXd4b2ZlM05RWnlrUC0xal8wazRIX3Bmekh0eENpVGdOcFVxV3JraWVnNWpRazVZdWJNbkRyUWtVeDRNN2ctV0hEdFliTVo3c3RhNkhVVWVpeGt6Sy1LOFp4YzlSOFVfQ25BRHRTN1NLeXVvZFVEZFBDUUg3V2NSM1Q3bkxJ?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Tue, 10 Nov 2026 19:23:06 GMT",
+      "date": "Thu, 12 Nov 2026 11:40:09 GMT",
       "local_url": "/article-2f1065341257.html"
     },
     {
@@ -80,6 +80,17 @@
     },
     {
       "category": "policy",
+      "title": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟",
+      "description": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟ DW.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQRmlndUo5c0cxQ2FmLUVlazBPdHRQYWlGYkI1anI3UTRpaDdpVVhKRDNJaVpJVTAzQTU3UEdlTDRHeW56RjhuRWp0bm5wUW5vcDdDYXowUktBS3d2RzZXMXRfQ2lFdDdwUnZsMDFGR2RWbXp5cGxzdlo1TmZiSFRhUE45MVRNd2pXQmpFTmhaS1RxSWxvLXdlNl93bzcxRm5aamg1b0tDZDcycnlGTWxHSjhpbUdQMDZSa2dsY0hjLV8taUN0Q0YzRUxuTW92MHRFcWk1LVhaQThxSnRJanllTExGT0wxcTY0S3p6ZDkteXpmTURWdXQzYTc4S2Y2VmxMaVU4M29ZQ2c4aHJLUlBoTnlkRnAyY1pXWjBlZmt3Q0E0c3c2Ul9MbHFpUVJVUGh2ejhLSFdGU2hZUGNpYURiLTJpcjFnczRhYkdadWxST0dtTXpFOThmWDdua1gzcm9qbXdvS2xSREV1eHJLUjl5bW5LYmsxTzJjNFJVN1RSQ2lUTExPM2RSSlRVa3UxR1gzam01S2cxVnB5aTFuc2cwREE2LUJpOGE3V0RkbHQxR0JkS29ZRW80ZVQtY0s5ZVBJcVd4Rkhjdnc1TlJhcHVRTlR0UldjNHBFNmRFNDlvY2I1VlByblk1TA?oc=5",
+      "domain": "DW.com",
+      "source_url": "https://amp.dw.com",
+      "date": "Tue, 10 Nov 2026 18:45:43 GMT",
+      "local_url": "/article-d12302babf92.html"
+    },
+    {
+      "category": "policy",
       "title": "دي ميستورا: الحكم الذاتي المغربي أساس للمفاوضات المقبلة بشأن الصحراء",
       "description": "دعا ستافان دي ميستورا إلى جعل مقترح الحكم الذاتي المغربي أساساً للمفاوضات المقبلة، مع الإقرار باستمرار الجمود والحاجة إلى تفاوض جدي.",
       "image": "news-di-mistura-autonomy-sahara-2026.svg",
@@ -98,14 +109,14 @@
     },
     {
       "category": "policy",
-      "title": "الحكومة تدافع عن أداء رسوم \"التوقيت الميسر\" بالجامعات المغربية",
-      "description": "الحكومة تدافع عن أداء رسوم \"التوقيت الميسر\" بالجامعات المغربية Hespress",
+      "title": "المغرب يناقش الشراكة مع رومانيا",
+      "description": "المغرب يناقش الشراكة مع رومانيا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXpza3dWUFNpazRxNFlQUTlidEtxX1o2VEF5WlFfd3hFSXp1VU9MdnFheWh6SUt0M2Z5Yms4RVd3QXlzMVpra2E5QkN1MmJPa0czMU9VR3lEZGNGaW8xRUZnOVlLb0lya3JvVjlBNHplT08tNHhuckRFckV1a1Nra1I5cjFqZGIzdDBXWkNvS0RIMWUyME1BVkF4MEN5MFF5enVHZGF2RW5oamM2b2FXdm9ld21QUDdVYm90ZFNtZlR4MmVXbFUydk5KYkhqQjlsT2w3cXV1TW8yNGd4dDNySXFNTVc1NHI3LXpDVkhSOVZaM0R2NmtHRG81eExmakFwU1lGQnRhTUxTRl9DRmI1VEh0c0FuZXQxcnFUeFVrQkUyUjNxQmR1N0F2NzQzdFJhQTBwUGUwQmtKMHdRYTZaelFKWFVEd0JNR2hpR2YwNjFNcmZ6MEZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeXFKa3JRU1B5N1FfU1d2QkVIeHI5aHUwUGxobEttZnRIVmEyaGFNOHJYRU1wS1hBRmdqYnNIajdhcHRCeUw1T3ZXOWc3alVFc1dRV0xhWF9UQWZSQm8wc1RQR05RaGVZZ2FLOVoyNENfcnJReGdqdjRzc2pUYmVNa0tUQVIydEx4VTJhUUZWQmZkdTUxYzJXLUthNVg5dFZmV09WTUE3bmtGWHhMRDBjQmNiV0hORmFiWjVnWlhZcjdvUm9oVkRiekJ6Q0hpZHR1MVFxeGRNdV8walJVdGowZDNGcDg3MjlrZEtiTjlFaTQ2TU1VOWhFbEpsNDNDWjY1OFFMM1BmelEtZC1QMmZLVWJqWUJESHc2eFN3WFZQR0pPZlJBWkxXTzRLQ1g?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 12 Nov 2026 16:01:47 GMT",
-      "local_url": "/article-d74702db1f33.html"
+      "date": "Thu, 12 Nov 2026 17:11:17 GMT",
+      "local_url": "/article-b90580721c60.html"
     },
     {
       "category": "policy",
@@ -139,6 +150,17 @@
       "domain": "Hespress / Morocco World News / NewsMorocco",
       "source_url": "https://en.hespress.com/148591-mauritania-says-it-seeks-to-be-part-of-solution-to-sahara-file.html",
       "date": "Sat, 07 Nov 2026 06:45:00 GMT"
+    },
+    {
+      "category": "sports",
+      "title": "أشبال الأطلس يفتتحون مشوارهم في تصفيات «كان» بمواجهة قوية أمام الجزائر",
+      "description": "أشبال الأطلس يفتتحون مشوارهم في تصفيات «كان» بمواجهة قوية أمام الجزائر سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxcXpSaGxMc1hzQW8xQktOVEVISGhOcEVPS2RkcjRPUEljc3N1VUR5TzR2c3M0Rk44eTgwUmo2VmJuRXdfdk5JMmhzLWJrSEY3UXJ3dko2SnRyb2xYR3g5YzA0bUV4bVI2d0p4Q1U5Yw?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Wed, 11 Nov 2026 18:08:17 GMT",
+      "local_url": "/article-c101f0e3f566.html"
     },
     {
       "category": "sports",
@@ -208,17 +230,6 @@
     },
     {
       "category": "sports",
-      "title": "الجيناني يتلقى خبرا سارا بعد الفوز على الجيش الملكي واتحاد طنجة",
-      "description": "الجيناني يتلقى خبرا سارا بعد الفوز على الجيش الملكي واتحاد طنجة سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LaWpUWG5nUndWT1ZqaUduWWl3VlNTLWJnMVhjRHJCUkZqeTFvME9wTHJpU0Z6RkZ0Mmd1Uk1VMnRUYjZ0ZldINXN1ZkJienVCdlNHWkdNUjdMNkswNDVuTjNrcWpGTjNKdlF5TkJnSkd4eU05dEZhSg?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Tue, 10 Nov 2026 17:02:05 GMT",
-      "local_url": "/article-28a40f13498f.html"
-    },
-    {
-      "category": "sports",
       "title": "الألعاب الأولمبية للشباب \"دكار 2026\"/كرة القدم داخل القاعة: المغرب يحرز الميدالية البرونزية بفوزه على أفغانستان (2-1)",
       "description": "الألعاب الأولمبية للشباب \"دكار 2026\"/كرة القدم داخل القاعة: المغرب يحرز الميدالية البرونزية بفوزه على أفغانستان (2-1) MAP SPORT",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -250,6 +261,17 @@
     },
     {
       "category": "technology",
+      "title": "زراعة الكلى تثير أسئلة الجسد والكرامة والعدالة في لقاء مغربي فرنسي",
+      "description": "زراعة الكلى تثير أسئلة الجسد والكرامة والعدالة في لقاء مغربي فرنسي Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZ0ppNHpBVXNkVTVQalhSbnpWVC1pUXZQWWJrY0pUdVJoVWRiRGJyNVR2b2hPWjNjZXh3ZjlVSUJraXNkVjl3VFAxQ0o0TkV0WE9OcEpMbDFLd2hkZEdFcHFlaWJIU2RucXUyNXhZU2FJeWtueG0yeVdvSTVobUxFRkhHeDRrQUNsS2ppa3RSYURiTHhwQ0tKM0dTLU5MOUJDd0lNbmt2c2IyVFpuT0paQ1Nic200Q0VEQ2dRM0YtZlE1OWZiZWkxeHJmNF9XRG8ybTdtbk5SU3V3NzRhX0VBaE1rRERwTHZ6M25CQmRfbV8yVno3RlZ6Z3ZocVg5ZlJnUlNCMFdnQVYxVGd0SkQwSFhVV1BYU0JrVHlzb19pRDdqYjFoWTR5X05BRGZRdEUxak9Rd0ZzejFEbjdKQjBOS1JWaU5yMFBOSVV6RFZwUmpKaWstRkE?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 11 Nov 2026 21:03:47 GMT",
+      "local_url": "/article-8eeaa0ea7f78.html"
+    },
+    {
+      "category": "technology",
       "title": "نيك كيف يحذر من الأغاني المُنشأة بالذكاء الاصطناعي ويصفها بـ«الإهانة الأخيرة للروح»",
       "description": "نيك كيف يحذر من الأغاني المُنشأة بالذكاء الاصطناعي ويصفها بـ«الإهانة الأخيرة للروح» Euronews.com",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -269,28 +291,6 @@
       "source_url": "https://assabah.ma",
       "date": "Wed, 11 Nov 2026 06:09:00 GMT",
       "local_url": "/article-1139ccb1a4ad.html"
-    },
-    {
-      "category": "technology",
-      "title": "وهبي: عبد النباوي يرفض استعانة القضاة بالذكاء الاصطناعي في المحاكم",
-      "description": "وهبي: عبد النباوي يرفض استعانة القضاة بالذكاء الاصطناعي في المحاكم Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNMjdkZVBjTEpFTWhmSnNfRGxRRnpRRF9QTTRnNjl2dTZJNzc3SzBYVVYwWmJnV0RVR2FPNDMyTS0yN0twRGczX3ZLdVc0bWJFdjhHNkJGYVVlaGpqVGNNSlpoR24taVRwamF3aGRJU0Etd2g5WUxaYUFpMzJvVDVLb1hTQW9hdUxSYXB2NUgxTTNqbFZYcXhJbDFIUXBwZ1JCQlg4NEQwUHVJVEJvclVocVBYQmNqZ0VPLVhXTWZ0MmVSRm14d1JGVXVUMFl0NEs0eFhpQVE4SGd0VTVtalZsOXk0UXpaX2J1RmFCSmhSSzVaY2o4czM4WU5nUVRENExnZFBTNDVnRnEzQXJUTWlNcGZpNlFjUVlUdm93TjFBSXN6UUpnMmxoRGs2Q2xqY04yTTBrTXZoZkY2eFZZcFJyS3lEM3NMTGt6YTRqcnVJMTFXTnZkN004?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Tue, 10 Nov 2026 23:06:02 GMT",
-      "local_url": "/article-b29bf2b84eb9.html"
-    },
-    {
-      "category": "technology",
-      "title": "AI powers UK economic growth in third quarter",
-      "description": "AI powers UK economic growth in third quarter AFP.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZmNJV0NqdFhaNU5LZ0poTnY3ajBMdHZzTVBUcDFvQjM3UFZVTXFaS1gxUjJJcDltYjNPY0xUWW9zQTFFclJjMXlxaw?oc=5",
-      "domain": "AFP.com",
-      "source_url": "https://www.afp.com",
-      "date": "Thu, 12 Nov 2026 11:49:08 GMT",
-      "local_url": "/article-a12227abfe6f.html"
     },
     {
       "category": "general",
@@ -327,6 +327,17 @@
     },
     {
       "category": "international",
+      "title": "حصري: من ممثل بديل إلى دور رئيسي دائم، Derek Jordan Taylor يضفي بصمته على شخصيته في THE OUTSIDERS",
+      "description": "حصري: من ممثل بديل إلى دور رئيسي دائم، Derek Jordan Taylor يضفي بصمته على شخصيته في THE OUTSIDERS BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSF9GT1VGVHFsOHF0Q2FVa0JGVXlLdkdJTGdvcV9YQkpHZE9JeWhvWnpncHU2SjVRc0Zkd3Q4NmFKYnlnaGl5dE9peWZvOFZaOEFnRFF4Nm9VN2l1by1RQmIydGJTVzFmQ2gtbnNya1U3bWRfR0w3VUNneXFTREpPVGw3Smp3R0FzQ1ZWNDdpTHVzRHYwcXBOeVItR2hXVmxvUzFpaUs0OFJBSmpSRlFDak01ZzBJdGNrSHV6amtYSzRXMzJGMnhLNVJaZ0ZCYXkzWFUtUFdoaDIxc0s0aUp5VlV3?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 11 Nov 2026 21:26:37 GMT",
+      "local_url": "/article-9de6b9c36518.html"
+    },
+    {
+      "category": "international",
       "title": "مراجعة: EVEREST: THE FIRST ASCENT، Eclipso London",
       "description": "مراجعة: EVEREST: THE FIRST ASCENT، Eclipso London BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -357,6 +368,28 @@
       "source_url": "https://www.hespress.com",
       "date": "Wed, 11 Nov 2026 19:34:29 GMT",
       "local_url": "/article-6924b790eec2.html"
+    },
+    {
+      "category": "international",
+      "title": "صور: افتتاح JULIUS CAESAR بطاقم نسائي بالكامل في the Other Palace",
+      "description": "صور: افتتاح JULIUS CAESAR بطاقم نسائي بالكامل في the Other Palace BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0dkSkJINmZDblZIbDRTWjZuUTFPN3hyaU1yUHotN2pyeHlTUzNGV3JWTmhLTGxpUENIenFVVmVKNUc3U2hPUnN6aklYQS0tdzFDMUNFLW1IMGZkNm1QdDE0V1F5ZzRGeGpBcWZSWWdkaC1wLUtlc1dFOXM5ZTZrWkJaMzRLZE10TDdGdjVkdmdwWkx6QmxNU3Q3cXR6cERDUEswVFVfQmNvdXVkR0E?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 11 Nov 2026 19:06:31 GMT",
+      "local_url": "/article-0060a9fb7d5d.html"
+    },
+    {
+      "category": "international",
+      "title": "الأنظار على: Nicolas King",
+      "description": "الأنظار على: Nicolas King BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSDZCcWtZd3FoMFZPRjEza2pIYjdtMERnSEt2WUdVdjBXcjBPYWJDTmF1Ulpid293Ti1pTHBzYjhuVGh0bGVhbkZhRk11U3VVUUcyUkVEdjlraXdVNGxzWDk2X01lS01KTzlpWkdITWtwSTJwTWtVbXJRWEJqNjR0dlRR?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 11 Nov 2026 19:03:17 GMT",
+      "local_url": "/article-a6cc231a0f27.html"
     },
     {
       "category": "international",
@@ -467,6 +500,17 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Wed, 11 Nov 2026 04:21:41 GMT",
       "local_url": "/article-9debbc90e35e.html"
+    },
+    {
+      "category": "business",
+      "title": "حصيلة اليوم سلبية في بورصة البيضاء",
+      "description": "حصيلة اليوم سلبية في بورصة البيضاء Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOVlZ3WXpoMkRTZG9reFh1Y3ozLWlqbWJMMEJoc3pFZEEyczhHbzdSeGxnN0dtSDA5a3RzUEw4QWtUQXRSWE9pU0lxcDV3amY4TUJhUjZZbjg2TDBwWURHNlhtN0Z2Q2dnRWF6c0J0NVhtSmg1VFZCSGI4ZDNlUkxvcTRYMmV1ejBONmFRVmNhR1B4TFJ2WkVQejNIWHJGbmRXWldVS0hLX1pONTRCUkg2ZkRaV3BKYXAwZU9JT2ZHM1VzSXBhUDB1Z1FsYW92bDVuZHhwdDBYcTk5aVVmX2RyODBFTy0tWGt6Zm5fR2RUejBRREMycVliaWxMZEJyVF9MWVRtZDEtNUVSY2xGaGY3YktpVEgwQ09LZHc3LWRMY1B1bUF6Tnl6WjVPNS12MnpqYWU0T0owcV9BMGYzZXc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 12 Nov 2026 18:16:01 GMT",
+      "local_url": "/article-d5d93cc57a70.html"
     },
     {
       "category": "business",

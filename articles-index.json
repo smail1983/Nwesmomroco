@@ -63,6 +63,15 @@
     "date": "سياسة • 11 نونبر 2026 • NewsMorocco"
   },
   {
+    "category": "policy",
+    "title": "الحكومة المغربية تعلق على اتهامات الجزائر بشأن تلوث وادي مويلح",
+    "description": "الناطق الرسمي باسم الحكومة سمير بلفقيه يقول إن الحكومة أخذت علماً بالاتهامات الجزائرية بشأن تلوث مجارٍ مائية حدودية وتتابع الموضوع عن قرب، دون إعلان نتائج تحقيق.",
+    "image": "/algeria-morocco-water-pollution-2026.svg",
+    "url": "/article-morocco-response-water-pollution-algeria-november-12-2026.html",
+    "domain": "NewsMorocco",
+    "date": "سياسة وبيئة • الخميس 12 نونبر 2026 • NewsMorocco"
+  },
+  {
     "category": "general",
     "title": "العصبة تكشف برنامج الجولتين الثالثة والرابعة.. الجيش الملكي يدخل السباق وصراع مبكر على الصدارة",
     "description": "العصبة تكشف برنامج الجولتين الثالثة والرابعة.. الجيش الملكي يدخل السباق وصراع مبكر على الصدارة سبورت Le360",
@@ -97,6 +106,15 @@
     "url": "/article-2250a85ee010.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Wed, 28 Oct 2026 09:45:09 GMT"
+  },
+  {
+    "category": "general",
+    "title": "أشبال الأطلس يفتتحون مشوارهم في تصفيات «كان» بمواجهة قوية أمام الجزائر",
+    "description": "سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c101f0e3f566.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Wed, 11 Nov 2026 18:08:17 GMT"
   },
   {
     "category": "general",
@@ -2259,6 +2277,15 @@
     "date": "Hespress • Wed, 11 Nov 2026 23:04:40 GMT"
   },
   {
+    "category": "general",
+    "title": "زراعة الكلى تثير أسئلة الجسد والكرامة والعدالة في لقاء مغربي فرنسي",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8eeaa0ea7f78.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Wed, 11 Nov 2026 21:03:47 GMT"
+  },
+  {
     "category": "policy",
     "title": "ارتفاع أسعار السردين يحرك الحكومة لمواجهة المضاربة بأسواق السمك",
     "description": "Hespress",
@@ -2950,6 +2977,24 @@
     "url": "/article-f6bc496d619f.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Thu, 22 Oct 2026 03:25:15 GMT"
+  },
+  {
+    "category": "general",
+    "title": "حصيلة اليوم سلبية في بورصة البيضاء",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d5d93cc57a70.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 12 Nov 2026 18:16:01 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يناقش الشراكة مع رومانيا",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-b90580721c60.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 12 Nov 2026 17:11:17 GMT"
   },
   {
     "category": "policy",
@@ -5554,6 +5599,15 @@
   },
   {
     "category": "general",
+    "title": "عاجل. إطلاق نار يهزّ حيًّا في واشنطن قرب البيت الأبيض.. قتيل و4 جرحى على الأقل والشرطة تلاحق المشتبه به",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d1c3c512971d.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Thu, 12 Nov 2026 14:20:03 GMT"
+  },
+  {
+    "category": "general",
     "title": "الجمعة 13 نوفمبر 2026.. التاريخ الذي حددته دراسة علمية لنهاية العالم قبل 66 عاماً",
     "description": "Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -5751,15 +5805,6 @@
     "date": "DW.com • Wed, 11 Nov 2026 20:20:25 GMT"
   },
   {
-    "category": "general",
-    "title": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟",
-    "description": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟ DW.com",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-d12302babf92.html",
-    "domain": "NewsMorocco",
-    "date": "DW.com • Wed, 11 Nov 2026 11:56:52 GMT"
-  },
-  {
     "category": "business",
     "title": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت!",
     "description": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت! DW.com",
@@ -5812,6 +5857,15 @@
     "url": "/article-6f02a9630309.html",
     "domain": "NewsMorocco",
     "date": "DW.com • Tue, 10 Nov 2026 23:09:03 GMT"
+  },
+  {
+    "category": "general",
+    "title": "هل تمنح إسرائيل المغرب تفوقاً عسكرياً على الجزائر وإسبانيا؟",
+    "description": "DW.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d12302babf92.html",
+    "domain": "NewsMorocco",
+    "date": "DW.com • Tue, 10 Nov 2026 18:45:43 GMT"
   },
   {
     "category": "policy",
@@ -6085,15 +6139,6 @@
   },
   {
     "category": "business",
-    "title": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي",
-    "description": "CNN الاقتصادية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-2f1065341257.html",
-    "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Tue, 10 Nov 2026 19:23:06 GMT"
-  },
-  {
-    "category": "business",
     "title": "عاجل | أمازون تطلق كاميرا أمنية طائرة وروبوتاً ذاتي الحركة لحراسة المنشآت",
     "description": "عاجل | أمازون تطلق كاميرا أمنية طائرة وروبوتاً ذاتي الحركة لحراسة المنشآت CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -6217,6 +6262,15 @@
     "url": "/article-eaf068c54bb9.html",
     "domain": "NewsMorocco",
     "date": "CNN الاقتصادية • Thu, 22 Oct 2026 12:20:27 GMT"
+  },
+  {
+    "category": "business",
+    "title": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي",
+    "description": "CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2f1065341257.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Thu, 12 Nov 2026 11:40:09 GMT"
   },
   {
     "category": "business",
@@ -6671,7 +6725,7 @@
   {
     "category": "general",
     "title": "حصري: من ممثل بديل إلى دور رئيسي دائم، Derek Jordan Taylor يضفي بصمته على شخصيته في THE OUTSIDERS",
-    "description": "حصري: من ممثل بديل إلى دور رئيسي دائم، Derek Jordan Taylor يضفي بصمته على شخصيته في THE OUTSIDERS BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-9de6b9c36518.html",
     "domain": "NewsMorocco",
@@ -6697,8 +6751,17 @@
   },
   {
     "category": "general",
+    "title": "صور: افتتاح JULIUS CAESAR بطاقم نسائي بالكامل في the Other Palace",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-0060a9fb7d5d.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Wed, 11 Nov 2026 19:06:31 GMT"
+  },
+  {
+    "category": "general",
     "title": "الأنظار على: Nicolas King",
-    "description": "الأنظار على: Nicolas King BroadwayWorld",
+    "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-a6cc231a0f27.html",
     "domain": "NewsMorocco",
