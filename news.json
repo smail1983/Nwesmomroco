@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12T16:58:06.417605+00:00",
+  "updated_at": "2026-11-12T18:40:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "الحكومة المغربية تعلق على اتهامات الجزائر بشأن تلوث وادي مويلح",
+      "description": "الناطق الرسمي باسم الحكومة سمير بلفقيه يقول إن الحكومة أخذت علماً بالاتهامات الجزائرية بشأن تلوث مجارٍ مائية حدودية وتتابع الموضوع عن قرب، دون إعلان نتائج تحقيق.",
+      "image": "algeria-morocco-water-pollution-2026.svg",
+      "url": "article-morocco-response-water-pollution-algeria-november-12-2026.html",
+      "local_url": "/article-morocco-response-water-pollution-algeria-november-12-2026.html",
+      "domain": "آشكاين / سفيركم / وكالة الأنباء الجزائرية",
+      "source_url": "https://www.achkayen.com/708820/.html",
+      "date": "Thu, 12 Nov 2026 18:40:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد",
