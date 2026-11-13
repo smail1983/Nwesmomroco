@@ -1,14 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "قضية تلوث سد حمام بوغرارة.. تصريحات جزائرية تتحدث عن مصادر محلية",
-    "description": "تقارير تتحدث عن تصريحات لوزير الداخلية الجزائري بشأن مصادر محلية محتملة للتلوث، وسط استمرار الجدل حول اتهام المغرب ودون إعلان رسمي واضح بسحب الاتهامات.",
-    "image": "/morocco-algeria-border-water-2026.svg",
-    "url": "/article-algeria-water-pollution-shift-november-13-2026.html",
-    "domain": "NewsMorocco",
-    "date": "نشر في 13 نونبر 2026 · NewsMorocco"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -79,6 +70,15 @@
     "url": "/article-morocco-response-water-pollution-algeria-november-12-2026.html",
     "domain": "NewsMorocco",
     "date": "سياسة وبيئة • الخميس 12 نونبر 2026 • NewsMorocco"
+  },
+  {
+    "category": "policy",
+    "title": "قضية تلوث سد حمام بوغرارة.. تصريحات جزائرية تتحدث عن مصادر محلية",
+    "description": "تقارير تتحدث عن تصريحات لوزير الداخلية الجزائري بشأن مصادر محلية محتملة للتلوث، وسط استمرار الجدل حول اتهام المغرب ودون إعلان رسمي واضح بسحب الاتهامات.",
+    "image": "/morocco-algeria-border-water-2026.svg",
+    "url": "/article-algeria-water-pollution-shift-november-13-2026.html",
+    "domain": "NewsMorocco",
+    "date": "سياسة وبيئة • الجمعة 13 نونبر 2026 • NewsMorocco"
   },
   {
     "category": "general",
@@ -592,6 +592,15 @@
     "url": "/article-4b09934854f3.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Fri, 23 Oct 2026 08:13:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "« الكاف » يزف خبرا سارا للأندية المغربية قبل دور المجموعات في دوري الأبطال وكأس الكاف",
+    "description": "سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1a4e5b38ae30.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Fri, 13 Nov 2026 12:08:57 GMT"
   },
   {
     "category": "general",
@@ -1728,6 +1737,15 @@
     "date": "Reuters • Fri, 30 Oct 2026 00:10:00 GMT"
   },
   {
+    "category": "general",
+    "title": "قادة الاتحاد الأوروبي يناقشون تحديات الذكاء الاصطناعي في أول قمة من نوعها",
+    "description": "Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f7ea39157f33.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Fri, 13 Nov 2026 06:53:00 GMT"
+  },
+  {
     "category": "policy",
     "title": "موريتانيا تجدد موقفها من قضية الصحراء المغربية بالتزامن مع تعزيز التعاون العسكري مع المغرب",
     "description": "نواكشوط تؤكد تمسكها بموقف الحياد الإيجابي في قضية الصحراء، فيما تتواصل الزيارات العسكرية المتبادلة بين المغرب وموريتانيا لتبادل الخبرات وتعزيز التعاون في التدريب.",
@@ -2386,15 +2404,6 @@
   },
   {
     "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Wed, 11 Nov 2026 06:39:13 GMT"
-  },
-  {
-    "category": "general",
     "title": "جهة العيون تواصل تأهيل \"قرى الصيد\"",
     "description": "جهة العيون تواصل تأهيل \"قرى الصيد\" Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3015,24 +3024,6 @@
     "date": "Hespress • Thu, 12 Nov 2026 23:04:35 GMT"
   },
   {
-    "category": "general",
-    "title": "حصيلة اليوم سلبية في بورصة البيضاء",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-d5d93cc57a70.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 18:16:01 GMT"
-  },
-  {
-    "category": "general",
-    "title": "المغرب يناقش الشراكة مع رومانيا",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-b90580721c60.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 17:11:17 GMT"
-  },
-  {
     "category": "policy",
     "title": "الحكومة تدافع عن أداء رسوم \"التوقيت الميسر\" بالجامعات المغربية",
     "description": "Hespress",
@@ -3040,24 +3031,6 @@
     "url": "/article-d74702db1f33.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Thu, 12 Nov 2026 16:01:47 GMT"
-  },
-  {
-    "category": "general",
-    "title": "شركة فرنسية تظفر بصفقة جديدة في مشروع الخط فائق السرعة بالمغرب",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-7d043b4c6830.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 13:03:34 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"رومينغ\" لمواجهة ضعف \"الريزو\" بالقرى",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-31913733151f.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 12:11:25 GMT"
   },
   {
     "category": "general",
@@ -3076,15 +3049,6 @@
     "url": "/article-5ce85794ef26.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Thu, 12 Nov 2026 07:11:34 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"الجامعة\" تكرم لاعبين دوليين سابقين",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-3de32d4a8c16.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 05:12:55 GMT"
   },
   {
     "category": "business",
@@ -4419,6 +4383,15 @@
     "date": "Hespress • Fri, 23 Oct 2026 11:13:17 GMT"
   },
   {
+    "category": "policy",
+    "title": "باريس تجدد الدعم لمغربية الصحراء",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e497ae95ed92.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 13 Nov 2026 16:46:17 GMT"
+  },
+  {
     "category": "general",
     "title": "وزير خارجية فرنسا يزور الصويرة",
     "description": "Hespress",
@@ -4651,6 +4624,69 @@
     "url": "/article-6348af09a0b3.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 22 Oct 2026 05:04:45 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"الجامعة\" تكرم لاعبين دوليين سابقين",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3de32d4a8c16.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 21:42:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6730b46d2d04.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 21:02:03 GMT"
+  },
+  {
+    "category": "general",
+    "title": "حصيلة اليوم سلبية في بورصة البيضاء",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d5d93cc57a70.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 18:16:01 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يناقش الشراكة مع رومانيا",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-b90580721c60.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 17:11:17 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c77f891b3dd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 15:20:55 GMT"
+  },
+  {
+    "category": "general",
+    "title": "شركة فرنسية تظفر بصفقة جديدة في مشروع الخط فائق السرعة بالمغرب",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7d043b4c6830.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 13:03:34 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"رومينغ\" لمواجهة ضعف \"الريزو\" بالقرى",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-31913733151f.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 12:11:25 GMT"
   },
   {
     "category": "general",
@@ -5211,6 +5247,24 @@
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 02:02:07 GMT"
   },
   {
+    "category": "general",
+    "title": "المغرب وفرنسا يشيدان بتعاون البلدين",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-de4bcdade587.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 13 Nov 2026 16:10:41 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الرباط تستكمل تمويل المرونة المناخية",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-738c37417921.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 13 Nov 2026 14:36:41 GMT"
+  },
+  {
     "category": "business",
     "title": "الاقتصاد اليوم - اقتصاد إسرائيل: رغم كلفة الحروب، استقرار نسبي بفضل التكنولوجيا الفائقة والشركات الناشئة",
     "description": "الاقتصاد اليوم - اقتصاد إسرائيل: رغم كلفة الحروب، استقرار نسبي بفضل التكنولوجيا الفائقة والشركات الناشئة France 24",
@@ -5481,6 +5535,15 @@
     "date": "France 24 • Fri, 23 Oct 2026 15:18:06 GMT"
   },
   {
+    "category": "general",
+    "title": "قمة المناخ في تركيا \"كوب31\".. بين التحذيرات المناخية وتناقضات السياسات النفطية",
+    "description": "France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-627bf2b95618.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Fri, 13 Nov 2026 08:37:29 GMT"
+  },
+  {
     "category": "technology",
     "title": "أسهم التكنولوجيا ترتفع بقوة مع تعزيز إس كي هاينكس الثقة في الذكاء الاصطناعي",
     "description": "أسهم التكنولوجيا ترتفع بقوة مع تعزيز إس كي هاينكس الثقة في الذكاء الاصطناعي Euronews.com",
@@ -5689,6 +5752,15 @@
   },
   {
     "category": "general",
+    "title": "قمة الويب في لشبونة تناقش خروج هوانغ ومخاطر فقاعة الذكاء الاصطناعي وأزمة مالية محتملة",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6c875f42e554.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Thu, 12 Nov 2026 21:32:46 GMT"
+  },
+  {
+    "category": "general",
     "title": "ختام ويب ساميت يسلط الضوء على خروج هوانغ من نفيديا ومخاوف من فقاعة الذكاء الاصطناعي وأزمة مالية",
     "description": "Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -5884,6 +5956,24 @@
     "url": "/article-32578671d804.html",
     "domain": "NewsMorocco",
     "date": "Euronews.com • Fri, 30 Oct 2026 10:20:47 GMT"
+  },
+  {
+    "category": "general",
+    "title": "عاجل. - واشنطن تنفي استهداف رادار أميركي في البحرين وتعلن إسقاط مسيّرتين إيرانيتين",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5331abff9874.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Fri, 13 Nov 2026 15:34:20 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تراجع الأسهم الأوروبية والآسيوية مع استقالة رئيس إنفيديا ومخاوف على الذكاء الاصطناعي",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f44ee258c4bd.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Fri, 13 Nov 2026 08:22:59 GMT"
   },
   {
     "category": "general",
@@ -7273,6 +7363,24 @@
   },
   {
     "category": "general",
+    "title": "فيديو: شاهد أبرز مشاهد WANTED على Broadway",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a07c223b9c10.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Thu, 12 Nov 2026 17:35:25 GMT"
+  },
+  {
+    "category": "general",
+    "title": "PARANORMAL ACTIVITY ينظم قرعة حضورية لتذاكر بقيمة $13 يوم الجمعة الموافق 13",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-eef68d5556bf.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Thu, 12 Nov 2026 15:49:30 GMT"
+  },
+  {
+    "category": "general",
     "title": "Michelle Visage تقدم أول ظهور لها على Broadway في SCHMIGADOON!",
     "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -7288,6 +7396,24 @@
     "url": "/article-20b750fcb56c.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Thu, 12 Nov 2026 14:38:19 GMT"
+  },
+  {
+    "category": "general",
+    "title": "فيديو: Matt Copley يطرح نسخة بانك من أغنية «Burn» من Hamilton",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8c8477d48b38.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Thu, 12 Nov 2026 14:20:03 GMT"
+  },
+  {
+    "category": "general",
+    "title": "INALA يحتفل بعيده الأول في House of Sisters Grimm في ويست إند بلندن",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f2e773281730.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Thu, 12 Nov 2026 12:52:16 GMT"
   },
   {
     "category": "general",
