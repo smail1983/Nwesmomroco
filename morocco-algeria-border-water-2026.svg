@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">المغرب والجزائر وملف المياه الحدودية</title><desc id="d">العلمان المغربي والجزائري على جانبي سد وخزان مائي في منطقة جبلية.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#10243b"/><stop offset="1" stop-color="#4b7890"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#3ca4bd"/><stop offset="1" stop-color="#124b67"/></linearGradient><linearGradient id="land" x2="0" y2="1"><stop stop-color="#b9a06d"/><stop offset="1" stop-color="#554c3a"/></linearGradient><linearGradient id="panel" x2="0" y2="1"><stop stop-color="#071b30" stop-opacity=".05"/><stop offset="1" stop-color="#071b30" stop-opacity=".88"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#sky)"/><circle cx="1200" cy="160" r="90" fill="#f6d89a" opacity=".75"/>
+<path d="M0 420L180 260 360 370 560 230 760 390 980 250 1200 390 1420 250 1600 370V900H0Z" fill="#645b48"/><path d="M0 480L210 350 390 440 610 310 810 460 1050 340 1270 470 1480 350 1600 420V900H0Z" fill="url(#land)"/>
+<path d="M0 610Q250 540 430 590T820 580T1200 590T1600 560V900H0Z" fill="url(#water)"/>
+<path d="M560 460L1040 460 1000 640 600 640Z" fill="#b8c4c4" stroke="#e5e9e7" stroke-width="12"/><path d="M620 500L980 500 950 620 650 620Z" fill="#526a70"/><path d="M680 620Q800 710 920 620" fill="none" stroke="#e8f5f6" stroke-width="24" opacity=".9"/>
+<g transform="translate(100 100)"><path d="M0 0H360V220H0Z" fill="#c92332"/><path d="M180 40L196 95 254 95 207 128 225 184 180 150 135 184 153 128 106 95 164 95Z" fill="none" stroke="#087b48" stroke-width="12" stroke-linejoin="round"/></g>
+<g transform="translate(1140 100)"><path d="M0 0H360V220H0Z" fill="#fff"/><path d="M0 0H180V220H0Z" fill="#087b48"/><path d="M210 62a55 55 0 1 0 0 96a45 45 0 1 1 0-96" fill="#d32636"/><path d="M220 85l12 28 30 2-23 19 8 29-27-16-25 17 8-30-23-18 30-2z" fill="#d32636"/></g>
+<rect y="690" width="1600" height="210" fill="url(#panel)"/><text x="800" y="785" fill="#fff" font-family="Arial,sans-serif" font-size="48" font-weight="700" text-anchor="middle">المغرب والجزائر</text><text x="800" y="845" fill="#f4d99a" font-family="Arial,sans-serif" font-size="32" text-anchor="middle">ملف تلوث المياه الحدودية</text>
+</svg>
