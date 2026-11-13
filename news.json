@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13T06:37:25.466801+00:00",
+  "updated_at": "2026-11-13T18:56:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "قضية تلوث سد حمام بوغرارة.. تصريحات جزائرية تتحدث عن مصادر محلية",
+      "description": "تقارير تتحدث عن تصريحات لوزير الداخلية الجزائري بشأن مصادر محلية محتملة للتلوث، وسط استمرار الجدل حول اتهام المغرب ودون إعلان رسمي واضح بسحب الاتهامات.",
+      "image": "morocco-algeria-border-water-2026.svg",
+      "url": "article-algeria-water-pollution-shift-november-13-2026.html",
+      "local_url": "/article-algeria-water-pollution-shift-november-13-2026.html",
+      "domain": "NewsMorocco",
+      "source_url": "https://www.achkayen.com/708820/.html",
+      "date": "Fri, 13 Nov 2026 18:56:00 GMT"
+    },
     {
       "category": "technology",
       "title": "عاجل | فاندا : أنثروبيك قد تحطم الرقم القياسي لـ«سبيس إكس» في مشتريات الأفراد",
