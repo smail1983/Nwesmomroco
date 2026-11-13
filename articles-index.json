@@ -54,6 +54,15 @@
     "date": "نشر في 1 نونبر 2026 · NewsMorocco"
   },
   {
+    "category": "sports",
+    "title": "المنتخب المغربي يكتسح النيجر بخماسية مقابل هدف في تصفيات كأس إفريقيا 2027",
+    "description": "حقق المنتخب المغربي فوزاً كبيراً على النيجر بنتيجة 5-1 في الدار البيضاء، بأهداف ياسير الزابيري وأشرف حكيمي (ثنائية) ويوسف النصيري وأيوب أوفقير.",
+    "image": "morocco-niger-5-1-november-13-2026.svg",
+    "url": "/article-morocco-5-1-niger-november-13-2026.html",
+    "domain": "NewsMorocco",
+    "date": "قسم الرياضة • الجمعة 13 نونبر 2026 • الدار البيضاء"
+  },
+  {
     "category": "policy",
     "title": "المنصوري تضع الوزراء أمام اختبار أول 100 يوم.. 5 إلى 10 إجراءات لكل قطاع",
     "description": "المنشور رقم 16/2026 يطلب من القطاعات الوزارية تحديد 5 إلى 10 تدابير قابلة للتنفيذ خلال أول 100 يوم، مع آجال ومسؤوليات ومؤشرات قياس وتتبع دوري.",
@@ -592,6 +601,15 @@
     "url": "/article-4b09934854f3.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Fri, 23 Oct 2026 08:13:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تابع البث المباشر لمباراة المنتخب المغربي ضد النيجر في تصفيات « الكان »",
+    "description": "سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c5ac8f9192f3.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Fri, 13 Nov 2026 20:00:44 GMT"
   },
   {
     "category": "general",
@@ -1735,6 +1753,15 @@
     "url": "/article-126c5b90602d.html",
     "domain": "NewsMorocco",
     "date": "Reuters • Fri, 30 Oct 2026 00:10:00 GMT"
+  },
+  {
+    "category": "general",
+    "title": "قرض من بنك التنمية الأفريقي للمغرب لمواجهة صدمات المناخ والطاقة",
+    "description": "Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f14d8805a92c.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Fri, 13 Nov 2026 15:53:45 GMT"
   },
   {
     "category": "general",
@@ -3022,6 +3049,24 @@
     "url": "/article-33028a1c44aa.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Thu, 12 Nov 2026 23:04:35 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"الجامعة\" تكرم لاعبين دوليين سابقين",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3de32d4a8c16.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 12 Nov 2026 21:42:29 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يناقش الشراكة مع رومانيا",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-b90580721c60.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Thu, 12 Nov 2026 17:11:17 GMT"
   },
   {
     "category": "policy",
@@ -4392,6 +4437,15 @@
     "date": "Hespress • Fri, 23 Oct 2026 11:13:17 GMT"
   },
   {
+    "category": "general",
+    "title": "الدرهم يرتفع أمام الأورو ويتراجع بالدولار",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-298868c6fe72.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 13 Nov 2026 20:42:01 GMT"
+  },
+  {
     "category": "policy",
     "title": "باريس تجدد الدعم لمغربية الصحراء",
     "description": "Hespress",
@@ -4636,15 +4690,6 @@
   },
   {
     "category": "general",
-    "title": "\"الجامعة\" تكرم لاعبين دوليين سابقين",
-    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-3de32d4a8c16.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 21:42:29 GMT"
-  },
-  {
-    "category": "general",
     "title": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب",
     "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -4660,15 +4705,6 @@
     "url": "/article-d5d93cc57a70.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 18:16:01 GMT"
-  },
-  {
-    "category": "general",
-    "title": "المغرب يناقش الشراكة مع رومانيا",
-    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-b90580721c60.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 17:11:17 GMT"
   },
   {
     "category": "general",
@@ -5533,6 +5569,15 @@
     "url": "/article-ef76d199f3d4.html",
     "domain": "NewsMorocco",
     "date": "France 24 • Fri, 23 Oct 2026 15:18:06 GMT"
+  },
+  {
+    "category": "business",
+    "title": "الاقتصاد اليوم - هل \"تنهار المبادلات التجارية\" بين فرنسا والجزائر؟",
+    "description": "France 24",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d02afc1e286a.html",
+    "domain": "NewsMorocco",
+    "date": "France 24 • Fri, 13 Nov 2026 21:51:53 GMT"
   },
   {
     "category": "general",
@@ -6477,7 +6522,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-2ae1790154f0.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Thu, 12 Nov 2026 20:36:39 GMT"
+    "date": "CNN الاقتصادية • Thu, 12 Nov 2026 20:57:38 GMT"
   },
   {
     "category": "business",
@@ -7432,6 +7477,15 @@
     "url": "/article-368f1490cad8.html",
     "domain": "NewsMorocco",
     "date": "BroadwayWorld • Thu, 12 Nov 2026 00:56:58 GMT"
+  },
+  {
+    "category": "general",
+    "title": "صور: Christopher Fitzgerald يؤدي بطولة THE GOOD THIEF في Irish Repertory Theatre",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d42e17b15965.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Thu, 12 Nov 2026 00:52:06 GMT"
   },
   {
     "category": "general",
