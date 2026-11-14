@@ -1846,6 +1846,24 @@
   },
   {
     "category": "policy",
+    "title": "فرنسا تجدد دعمها لسيادة المغرب على الصحراء وتؤكد أن الحكم الذاتي أساس الحل",
+    "description": "جددت فرنسا في 13 نونبر 2026 موقفها بأن حاضر ومستقبل الصحراء يندرجان في إطار السيادة المغربية، واعتبرت مبادرة الحكم الذاتي الأساس الوحيد لحل سياسي عادل ودائم ومتفاوض بشأنه.",
+    "image": "/france-morocco-sahara-november-2026.svg",
+    "url": "/article-france-reaffirms-morocco-sahara-sovereignty-november-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • السبت 14 نونبر 2026"
+  },
+  {
+    "category": "general",
+    "title": "المغرب يتسلم طائرة نقل عسكري ثانية من طراز Airbus C295W بالقنيطرة",
+    "description": "تقارير متخصصة تؤكد وصول طائرة Airbus C295W ثانية إلى القاعدة الجوية بالقنيطرة يوم 3 نونبر 2026، بعد تسلم الطائرة الأولى في 29 شتنبر، دون إعلان رسمي عن تفاصيل الصفقة.",
+    "image": "/morocco-c295-second-aircraft-november-2026.svg",
+    "url": "/article-morocco-second-airbus-c295w-november-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • السبت 14 نونبر 2026"
+  },
+  {
+    "category": "policy",
     "title": "🚨 الديوان الملكي: عدم تمديد مهمة المينورسو يدخل ملف الصحراء مرحلة جديدة",
     "description": "الديوان الملكي يعلن أن مجلس الأمن لم يمدد مهمة المينورسو، ويعتبر التطور خطوة مهمة نحو طي صفحة الملف داخل أروقة الأمم المتحدة.",
     "image": "https://e2.hespress.com/wp-content/uploads/2026/10/majeste-le-roi.webp",
@@ -3097,15 +3115,6 @@
   },
   {
     "category": "general",
-    "title": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-6730b46d2d04.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 21:02:03 GMT"
-  },
-  {
-    "category": "general",
     "title": "حصيلة اليوم سلبية في بورصة البيضاء",
     "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -3139,15 +3148,6 @@
     "url": "/article-d74702db1f33.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Thu, 12 Nov 2026 16:01:47 GMT"
-  },
-  {
-    "category": "general",
-    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c77f891b3dd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 15:20:55 GMT"
   },
   {
     "category": "general",
@@ -3193,15 +3193,6 @@
     "url": "/article-3a970507410b.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Thu, 12 Nov 2026 03:09:28 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"فوتسال المغرب\" يلاعب السعودية",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-1e6cc071b6e6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Thu, 12 Nov 2026 01:20:03 GMT"
   },
   {
     "category": "general",
@@ -3814,6 +3805,15 @@
     "url": "/article-09f5d1f46b21.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sat, 17 Oct 2026 11:47:43 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مصدر حكومي يكشف موعد تراجع أسعار الخضر في الأسواق المغربية",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-4f47f065ead4.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Sat, 14 Nov 2026 13:02:37 GMT"
   },
   {
     "category": "general",
@@ -4545,6 +4545,24 @@
     "date": "Hespress • Fri, 13 Nov 2026 20:42:01 GMT"
   },
   {
+    "category": "general",
+    "title": "إسبانيا تعتبر استضافة نهائي مونديال 2030 مسألة غير قابلة للتفاوض",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-df068ae9311b.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 13 Nov 2026 19:16:20 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c77f891b3dd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 13 Nov 2026 16:57:32 GMT"
+  },
+  {
     "category": "policy",
     "title": "باريس تجدد الدعم لمغربية الصحراء",
     "description": "Hespress",
@@ -4552,6 +4570,24 @@
     "url": "/article-e497ae95ed92.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Fri, 13 Nov 2026 16:46:17 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المغرب وفرنسا يشيدان بتعاون البلدين",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-de4bcdade587.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 13 Nov 2026 16:10:41 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"فوتسال المغرب\" يلاعب السعودية",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1e6cc071b6e6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Fri, 13 Nov 2026 15:27:42 GMT"
   },
   {
     "category": "general",
@@ -4804,6 +4840,15 @@
     "url": "/article-6348af09a0b3.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 22 Oct 2026 05:04:45 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب",
+    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-6730b46d2d04.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Thu, 12 Nov 2026 21:02:03 GMT"
   },
   {
     "category": "general",
@@ -5371,15 +5416,6 @@
     "url": "/article-7b9adb167780.html",
     "domain": "NewsMorocco",
     "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 23 Oct 2026 02:02:07 GMT"
-  },
-  {
-    "category": "general",
-    "title": "المغرب وفرنسا يشيدان بتعاون البلدين",
-    "description": "Hespress - هسبريس جريدة إلكترونية مغربية",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-de4bcdade587.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress - هسبريس جريدة إلكترونية مغربية • Fri, 13 Nov 2026 16:10:41 GMT"
   },
   {
     "category": "general",
@@ -6112,6 +6148,15 @@
   },
   {
     "category": "general",
+    "title": "زعماء الاتحاد الأوروبي يعقدون قمة للذكاء الاصطناعي بدبلن وسط خلاف على التمثيل في محادثات أوكرانيا",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-9150c9a4d560.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Fri, 13 Nov 2026 08:01:41 GMT"
+  },
+  {
+    "category": "general",
     "title": "شركات الذكاء الاصطناعي المتضررة من نتائج انتخابات منتصف المدة الأمريكية",
     "description": "شركات الذكاء الاصطناعي المتضررة من نتائج انتخابات منتصف المدة الأمريكية Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -6661,6 +6706,33 @@
   },
   {
     "category": "business",
+    "title": "عاجل | إيلون ماسك: غياب جنسن هوانغ قد يُفقد إنفيديا بعض الصفقات الرئيسية",
+    "description": "CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-3a2fa74fc276.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Sat, 14 Nov 2026 17:05:09 GMT"
+  },
+  {
+    "category": "business",
+    "title": "إنفيديا تسجل أطول سلسلة خسائر أسبوعية منذ 2012 وسط اضطرابات القيادة",
+    "description": "CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a770c14c36fe.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Sat, 14 Nov 2026 14:35:31 GMT"
+  },
+  {
+    "category": "business",
+    "title": "بنك التنمية الأفريقي يمنح المغرب قرضاً بـ479 مليون دولار",
+    "description": "CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a73ab9e16b13.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Sat, 14 Nov 2026 07:35:27 GMT"
+  },
+  {
+    "category": "business",
     "title": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق",
     "description": "عاجل | بيانات الوظائف الأميركية تضغط على داو جونز.. وناسداك يرتفع 1.2% بدعم أسهم الرقائق CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -6922,6 +6994,15 @@
   },
   {
     "category": "business",
+    "title": "عاجل | مايكروسوفت عن انقطاع الخدمة: مشكلة تقنية لا صلة لها بهجوم إلكتروني أو بالذكاء الاصطناعي والوكلاء",
+    "description": "CNN الاقتصادية",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e4efc32b5f41.html",
+    "domain": "NewsMorocco",
+    "date": "CNN الاقتصادية • Fri, 13 Nov 2026 18:47:26 GMT"
+  },
+  {
+    "category": "business",
     "title": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا»",
     "description": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» CNN الاقتصادية",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -7012,6 +7093,15 @@
   },
   {
     "category": "general",
+    "title": "أمريكا.. وقف جميع الرحلات الجوية على مستوى البلاد بسبب \"ظروف استثنائية\"",
+    "description": "CNN Arabic",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-68364f1672e6.html",
+    "domain": "NewsMorocco",
+    "date": "CNN Arabic • Sat, 14 Nov 2026 18:21:42 GMT"
+  },
+  {
+    "category": "general",
     "title": "أحدثهم مودريتش.. لاعبون وجهوا رسائل وداع إلى رونالدو بعد اعتزاله دولياً",
     "description": "أحدثهم مودريتش.. لاعبون وجهوا رسائل وداع إلى رونالدو بعد اعتزاله دولياً CNN Arabic",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -7045,15 +7135,6 @@
     "url": "/article-905a294521ce.html",
     "domain": "NewsMorocco",
     "date": "CNN Arabic • Fri, 23 Oct 2026 13:49:40 GMT"
-  },
-  {
-    "category": "general",
-    "title": "أمريكا.. وقف جميع الرحلات الجوية على مستوى البلاد بسبب \"ظروف استثنائية\"",
-    "description": "CNN Arabic",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-68364f1672e6.html",
-    "domain": "NewsMorocco",
-    "date": "CNN Arabic • Fri, 13 Nov 2026 23:38:33 GMT"
   },
   {
     "category": "general",
@@ -7714,6 +7795,15 @@
   },
   {
     "category": "general",
+    "title": "Jessie Buckley وإعادة إحياء COMPANY ضمن موسم English Touring Theatre لعامي 2027/28",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8330a33082d5.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Sat, 14 Nov 2026 01:23:14 GMT"
+  },
+  {
+    "category": "general",
     "title": "فيديو: عرض «See Amid the Winter's Snow» من A CHRISTMAS CAROL في The Old Vic",
     "description": "فيديو: عرض «See Amid the Winter's Snow» من A CHRISTMAS CAROL في The Old Vic BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -7957,6 +8047,15 @@
   },
   {
     "category": "general",
+    "title": "هل يعود Bryan Cranston إلى Broadway هذا الموسم؟",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-57ece8d81da6.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Fri, 13 Nov 2026 16:10:56 GMT"
+  },
+  {
+    "category": "general",
     "title": "Megan Hilty وLeslie Odom Jr. وآخرون يشاركون في النسخة الـ100 من Macy's Thanksgiving Day Parade",
     "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -8044,6 +8143,15 @@
     "url": "/article-324188110033.html",
     "domain": "NewsMorocco",
     "date": "BBC • Sat, 24 Oct 2026 17:30:00 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الولايات المتحدة: إلغاء قرار وقف الرحلات الجوية في الولايات المتحدة، وترامب يستبعد الهجوم الإلكتروني",
+    "description": "BBC",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7410354066c3.html",
+    "domain": "NewsMorocco",
+    "date": "BBC • Sat, 14 Nov 2026 04:04:53 GMT"
   },
   {
     "category": "general",
