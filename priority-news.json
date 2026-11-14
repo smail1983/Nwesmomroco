@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-11T21:15:00+00:00",
+  "updated_at": "2026-11-14T19:00:00+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "فرنسا تجدد دعمها لسيادة المغرب على الصحراء وتؤكد أن الحكم الذاتي أساس الحل",
+      "description": "باريس أكدت في بيان رسمي عقب مباحثات الصويرة يوم 13 نونبر أن حاضر ومستقبل الصحراء يندرجان في إطار السيادة المغربية، وأن مبادرة الحكم الذاتي هي الأساس الوحيد لحل سياسي عادل ودائم ومتفاوض بشأنه.",
+      "image": "/france-morocco-sahara-november-2026.svg",
+      "url": "article-france-reaffirms-morocco-sahara-sovereignty-november-2026.html",
+      "local_url": "/article-france-reaffirms-morocco-sahara-sovereignty-november-2026.html",
+      "domain": "وزارة الخارجية الفرنسية / SNRT News / MAP / NewsMorocco",
+      "source_url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/entretien-du-ministre-avec-nasser-bourita-ministre-marocain-des-affaires-etrangeres-de-la",
+      "date": "Sat, 14 Nov 2026 19:00:00 GMT"
+    },
+    {
+      "category": "policy",
+      "title": "المغرب يتسلم طائرة نقل عسكري ثانية من طراز Airbus C295W بالقنيطرة",
+      "description": "تقارير متخصصة تؤكد وصول طائرة C295W ثانية إلى القاعدة الجوية بالقنيطرة يوم 3 نونبر 2026، بعد وصول الأولى في 29 شتنبر، دون إعلان رسمي عن تفاصيل الصفقة أو عدد الطائرات النهائي.",
+      "image": "/morocco-c295-second-aircraft-november-2026.svg",
+      "url": "article-morocco-second-airbus-c295w-november-2026.html",
+      "local_url": "/article-morocco-second-airbus-c295w-november-2026.html",
+      "domain": "Infodefensa / Barlamane / Morocco World News / NewsMorocco",
+      "source_url": "https://www.infodefensa.com/texto-diario/mostrar/6085483/marruecos-recibe-segundo-avion-transporte-militar-c295-fabricado-airbus-sevilla",
+      "date": "Sat, 14 Nov 2026 19:00:00 GMT"
+    },
     {
       "category": "policy",
       "title": "المنصوري تضع الوزراء أمام اختبار أول 100 يوم.. 5 إلى 10 إجراءات لكل قطاع",
