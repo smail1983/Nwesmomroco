@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-14T06:14:36.552308+00:00",
+  "updated_at": "2026-11-14T13:30:37.036665+00:00",
   "articles": [
-    {
-      "category": "technology",
-      "title": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي",
-      "description": "عاجل | إنفيديا تتجه لخسارة 470 مليار دولار في يومين مع تصاعد أزمة رئيسها التنفيذي CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNdEp0eFJZTERIemVrc1RaTWJ4Mng5dm8tZ2g1alpOYjh5bjdGbTZOdlN3dGpOU24tN3EzRkt4d09CbFRCLXBtQ1Y5dVZtWURnQVRQWWVZTlRBQjlZcWs0MF95UWhuX3oybnltZW95RFlCU3dkNzZ4YzFFNlVfX1VydUt3WVlFb3U1aE5nWmplRDJMRUhDQWpGZVd3dlhjSjZFRXhCYXpJYmFvRmlVUTgxTnI5MEpmUUtrX3F6R2NJeXB3NVczekhoSnM2YV95RG55ZXZHTTJlTDFxQ29mamFTeE5uTUlOeHpxcFBsRVdSWjBaZnZ4aDJXNm85SmcxX0h6WnNLMlZNa1NQOVZWR2Y4QnIxcW1YbVNETkE4c0hMR3NCTXZWZFQ4TFJ6R1A5Q2hFelVpdW5hMjRvVS1TZ0xONkFxcHdiNVV3X2QxTnpDbkE5Smx5aE9LbUlRTEFlajgtVkZraG9ud01MSGs2X1hUTFp5TFlKYzJuT2ppczctMkFIa0JHcjdBTXlNVHViYlh5eVUyRmVtSVlMQ0JvVXNsQjFkeC1ZWl9LZllnOWxZMlBJOXJaaEZZS0hicE03YXNNSGNYT2RYUFVIa0dQNXRMZDdKWl9kcEI4S0hlczlwc19LeDJYSUpsZmF6eGpfbXd4b2ZlM05RWnlrUC0xal8wazRIX3Bmekh0eENpVGdOcFVxV3JraWVnNWpRazVZdWJNbkRyUWtVeDRNN2ctV0hEdFliTVo3c3RhNkhVVWVpeGt6Sy1LOFp4YzlSOFVfQ25BRHRTN1NLeXVvZFVEZFBDUUg3V2NSM1Q3bkxJ?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 12 Nov 2026 11:40:09 GMT",
-      "local_url": "/article-2f1065341257.html"
-    },
     {
       "category": "policy",
       "title": "دي ميستورا: الحكم الذاتي المغربي أساس للمفاوضات المقبلة بشأن الصحراء",
@@ -40,6 +29,61 @@
       "source_url": "https://www.hespress.com",
       "date": "Thu, 12 Nov 2026 17:11:17 GMT",
       "local_url": "/article-b90580721c60.html"
+    },
+    {
+      "category": "policy",
+      "title": "الحكومة تدافع عن رسوم التوقيت الميسر بالجامعات وتؤكد مجانية التعليم",
+      "description": "الحكومة تدافع عن رسوم التوقيت الميسر بالجامعات وتؤكد مجانية التعليم Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXpza3dWUFNpazRxNFlQUTlidEtxX1o2VEF5WlFfd3hFSXp1VU9MdnFheWh6SUt0M2Z5Yms4RVd3QXlzMVpra2E5QkN1MmJPa0czMU9VR3lEZGNGaW8xRUZnOVlLb0lya3JvVjlBNHplT08tNHhuckRFckV1a1Nra1I5cjFqZGIzdDBXWkNvS0RIMWUyME1BVkF4MEN5MFF5enVHZGF2RW5oamM2b2FXdm9ld21QUDdVYm90ZFNtZlR4MmVXbFUydk5KYkhqQjlsT2w3cXV1TW8yNGd4dDNySXFNTVc1NHI3LXpDVkhSOVZaM0R2NmtHRG81eExmakFwU1lGQnRhTUxTRl9DRmI1VEh0c0FuZXQxcnFUeFVrQkUyUjNxQmR1N0F2NzQzdFJhQTBwUGUwQmtKMHdRYTZaelFKWFVEd0JNR2hpR2YwNjFNcmZ6MEZB?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 12 Nov 2026 16:01:47 GMT",
+      "local_url": "/article-734c1173d38a.html"
+    },
+    {
+      "category": "policy",
+      "title": "إعفاء استيراد المواشي يعيد جدل \"الفراقشية\" ومستقبل القطيع الوطني",
+      "description": "إعفاء استيراد المواشي يعيد جدل \"الفراقشية\" ومستقبل القطيع الوطني Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQc2NlVkhtbngtb0NieVFjbkJJZlRmQWdBdnk5M19NNXdKcERwd2c3bGpMREc4OUI1R0IzcU9Pa2k3WGN5ZGV0WTZoTGNZcjI4MGdnemNTVldBSnVaWWp5ZzJ5QzFISFVQTE4wU2lKWWdEWkF0M1pmRmpfYzctY3liUmNYb0JXR3FiLUFTNlhLUXdNT0QyS0wtazlsU1k5WGZZVUo0M0dmNUpNMmtVdW12Ujh0S3d0MzRzYU1BaWEtRGg5RDVxRUFZbjVOaUYtNGpZcTFqa3o4Q1B6bzRaclJFdXdfRWt3OHJvTHF4SjV5R1RzYXpIc2g5Z095b3FiUWFQRm9EbW00RWpVTEJhRURxTDY0M0tGcldXa3VLbFBUV3lzanBKVDlidThJUkVYdmw0T3drVllTSjV4V3hhVTQ0T0RRQ3dRLTJCMzlNb3FKeTYxV2RPSXc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 14 Nov 2026 12:06:01 GMT",
+      "local_url": "/article-f39257e3f664.html"
+    },
+    {
+      "category": "policy",
+      "title": "لقجع: مشروع قانون المالية وثيقة واضحة لتغيير اختلالات المسار السابق",
+      "description": "لقجع: مشروع قانون المالية وثيقة واضحة لتغيير اختلالات المسار السابق Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOS2MwS0ZWeHFSdlM0Mm9VbkZGcThkNm9DTkJhT2ljYnY3SGg1NFlYRVMxYW80cWJxdnR6Q3p3RzZyVVFoeU91emdQV21ERjVrMGxydUxoYVVfd0tXYUZ4OUpONmZuaU9IekJJSm1aaTRoeTUzSlF2UXhIczlBa2Ztanc3ckhka1B5UWtZTkU0cXlmTjZ6amlQUGtLaWN6cGpram1MV2hvXzJWYXk4TGM0djhSdk5ZNDRsMXQzS2V5NUJKVm9FRmRINGVmTmVld3Z3ZmZkYVdOaXZmSTJZSDBzN1hGd2M1S2dYRjA5T3EzdHp3TmJsZlZDRmNrVm1mWHNhdjltX1FQN1l1RDRMeXlRS0dYZVN6aVVuX0k3NHcyVllzTmNYWWFCQVNMZE9YbXllT1JVU2JlTUZlRDVxdTZLMGUxNDRnOGJJT2dYQ016OS1VNTdyejRj?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 14 Nov 2026 10:03:01 GMT",
+      "local_url": "/article-09266b019eb3.html"
+    },
+    {
+      "category": "policy",
+      "title": "المنصوري تشارك في قمة الفرنكوفونية",
+      "description": "المنصوري تشارك في قمة الفرنكوفونية Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc2RwMjdvQld6ZW85VlZoQVh2Y3JOemF3bVVMdUhGbUI0M2d1aG1LbXRVa3hOZjU0ZDN6Y3hwQWpmcWh6djFKQm1uWWY0Qi13RTNGU01pQjdLZzNPV3VuNGJuVVlkUFBpMmFLdUdYNm1mZnJzZ3NMYnluOGVTaGJCdnVFblA5N2liaHYzWHZDdnB1dkxEQ0NwbFljd0ZlLUljRFJkVkRlRHlWSHY3eWNyTzNqcjlaNmktQnBvNW5SRHo0cTZjN25ENmJjQV9VbjdPaHVrRHAtMzhRVDEwblVpUVp6NEF4UmloZUdsdmktSXFmZDIwYTRHUDVkSXRNYXMxQmxLbzU4YW1GVHJwNFNaVUdoMTIxdmtVRVI1OUJldmRhNVNTVWVCTEltbU1QLTM0NW9FTU9xWjRxaHFkZVJDYlk5OF8?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 14 Nov 2026 09:06:19 GMT",
+      "local_url": "/article-1e7c6c22048f.html"
+    },
+    {
+      "category": "policy",
+      "title": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟",
+      "description": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟ DW.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQZDF1RzBQWG5qajJiNU5ZeEpDaTdUZUpYaEY0M2pkckpaMjdmaUM2OHhGMUlNektRa1A5Um9abHFwOEVUQVgxaEo4RmMtVGZhRFNyTlZQUEZPajRvejFkeTUyeHRMbHVpaHpOcXdKQUhFc2FnVGgyUzVjZ2tla0EzOG9HUVdaVW9ma3BnSHlrY2F2cVhYdXd5YWlDR25VbzFBZWNyM3J3TnlUbUhFang0ckwzRVFVZEVsNFF6NHZETWdZR2djQVZqdlFzUHNYbUVieURPQ2NtSGd0NnFwS1hTMEpuMGdXLTZwRHRodlVSY1FTWllHYVRqdjZBbFBmYWp1ZEVtbnFJT2k1RXVjcFA4SDFyUmhUdGpzZ3QwTFhPemhKdjNzajc5d3c4dTIwRmc4UEx0R1JkczVhcFFGN2xTTFUtMXNoR2dCMkVuLVBOajM0bEpMRm1NWVRGMmhZMXZWcHhLUmF6OGxQb3dBal9KNlJqbmxoLUFRalpfVDEzb3YtNlhObVozUGRoM2xlay1vR1ZETnRqQlo3QVpJdW9md3IxN2NtSEhfTkFZSHJ3LXNWSFJCS2JBckZFdXBHaUlGaVQxR0pJV0xOdHpWNkdYdmNva0p0OTlWWmctSFg0VHNFamJOUFJyVWN1Q3NTWGZ1N1RTUnh4Y1FzU25faGc?oc=5",
+      "domain": "DW.com",
+      "source_url": "https://www.dw.com",
+      "date": "Sat, 14 Nov 2026 00:15:52 GMT",
+      "local_url": "/article-6f02a9630309.html"
     },
     {
       "category": "policy",
@@ -96,6 +140,17 @@
     },
     {
       "category": "sports",
+      "title": "فترة التوقف الدولية تبعد 5 لاعبين عن الجيش الملكي",
+      "description": "فترة التوقف الدولية تبعد 5 لاعبين عن الجيش الملكي سبورت Le360",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HSFcxM3hxTm1nb0lua2Q4THJkUm16QndBMjNfOWpkZkFDMS1vZExka3JDYUR2MExPY2t1bzN1Q2lfXy10TGxTUlFKalVrYXFSU1Y2ME5zUklCSU1HVW9URWlYOU4wTVFwVU1EVGs4VQ?oc=5",
+      "domain": "سبورت Le360",
+      "source_url": "https://ar.sport.le360.ma",
+      "date": "Sat, 14 Nov 2026 10:02:56 GMT",
+      "local_url": "/article-3bef9d6565b4.html"
+    },
+    {
+      "category": "sports",
       "title": "تابع البث المباشر لمباراة المنتخب المغربي ضد النيجر في تصفيات « الكان »",
       "description": "تابع البث المباشر لمباراة المنتخب المغربي ضد النيجر في تصفيات « الكان » سبورت Le360",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -104,6 +159,17 @@
       "source_url": "https://ar.sport.le360.ma",
       "date": "Fri, 13 Nov 2026 20:00:44 GMT",
       "local_url": "/article-c5ac8f9192f3.html"
+    },
+    {
+      "category": "sports",
+      "title": "\"أسود الأطلس\" يعودون إلى \"دونور\"",
+      "description": "\"أسود الأطلس\" يعودون إلى \"دونور\" Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSnJhN2VhNmZkX1RENDQ1VnJoZEZlb0pFWVZJVzBFUXAyaGRFdmJyc3llcUFocWZhTDliaXRUOHlFWkdYQjY5cVBLNUtjXzIzdUFrSE8wR0YwU29RS2s0VkhRdDJOWW5BaXpsbVpUQmVXVlpZNkVBdjE3OXM2c3RMOC0tN045OVZOdldSalJSR0lBYUtaemh1UU5LQXplaTY1enBWM0sxU3VEamZwNG5VaGo3WTJkc3UyR3Y4YTFtcHllWGVXcDVhM0owT2lWNVB5OC1vYU5OYW9IdDFjd2t0YVRKLUZNZzN1SmtqSFJ2WThUZnZTV2RDSjhNSlVnNk1ueWFNTnpxdmJZT3lHWk4tT2l5RTM?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 13 Nov 2026 13:21:41 GMT",
+      "local_url": "/article-d92d60a61c55.html"
     },
     {
       "category": "sports",
@@ -141,10 +207,10 @@
     {
       "category": "technology",
       "title": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب",
-      "description": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "الذكاء الاصطناعي يدخل منظومة الاستعلام المالي عبر منصة جديدة بالمغرب Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMGtMM1k3RUR0Y1l4WGdwZEpZeDE4RFhrME0zQzdDZVNUT0lFUEp4LTlleW9kNG9tLXNLTUtEYnAwNnRIcG5QaUlOU1FGbG50ajJPRzZZUmpxWVRLNDlPdU4ySHRkSmJfMWF6NmE5OTR4S2hvTjNfYUhpN3g0WHYyMjl1bm9uendudERmYUh1YVpaci1fNWdkMEtlbmNoRzBtazlubDZYNE9uYlc0WThrOW9VY09WeWdNREw3Tzd5SjI3MVVYTHRhMU9sUjRJZWYxTVdwQUlYZ2pjamQxR2lXOUlDMkxjcXh0ZzhpSVFRbVV2ZURaUWpqSGlaWXo5bjc4VWxNdU16Z0ViM3phV1lZTjg1NEVERS1taWRPeVZnX1hxNFptZEo0R296a2diVm9nb0N2N3N0SFpqQ3VVT0RIY21pbU50a2xXaHZTcTJZZmlacWRy?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Thu, 12 Nov 2026 21:02:03 GMT",
       "local_url": "/article-6730b46d2d04.html"
@@ -162,25 +228,14 @@
     },
     {
       "category": "technology",
-      "title": "\"رومينغ\" لمواجهة ضعف \"الريزو\" بالقرى",
-      "description": "\"رومينغ\" لمواجهة ضعف \"الريزو\" بالقرى Hespress - هسبريس جريدة إلكترونية مغربية",
+      "title": "حفل جوائز جديد يحتفي بموسيقى الذكاء الاصطناعي",
+      "description": "حفل جوائز جديد يحتفي بموسيقى الذكاء الاصطناعي Reuters",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQTTNfS3NuakxBcE1zbXk1RzJ2ZTdTc1ByeGZjRVVTYi01RTlJSHNDbi12ZGRjbHp6aHF5WUFNaDRGendlNklSUnN5U21FeXQ4Vk9QNkFNLXVCbUFqNmtraVNMQ0VJUGlGSnpoU3U3am53TFBsUGZ4Vm0zNTFfOGVEZ3VMS25JSlNnR2xqV0RnS3NwVXFhUjJsQ09JandVTVVCeDZCLUIxbU9yVnlURzRoZkZ3M3NVSWJ6bFJWbnVOWEU4c1pOSEIxRkpRRTZSOVVSWVYxMzhsa2lXNnA0QkFFenlfb2FTUENPZFVzT3RoYzM1VmJCcF9iZW42ZXZZekhOUzFhcGZiaHhKR0hmSEc0b2lfVUNlTGMzLUYtbC1ndFhGQ1FsOGd5clhOUzViWXQ1aG83Nw?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 12 Nov 2026 12:11:25 GMT",
-      "local_url": "/article-31913733151f.html"
-    },
-    {
-      "category": "technology",
-      "title": "AI powers UK economic growth in third quarter",
-      "description": "AI powers UK economic growth in third quarter AFP.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZmNJV0NqdFhaNU5LZ0poTnY3ajBMdHZzTVBUcDFvQjM3UFZVTXFaS1gxUjJJcDltYjNPY0xUWW9zQTFFclJjMXlxaw?oc=5",
-      "domain": "AFP.com",
-      "source_url": "https://www.afp.com",
-      "date": "Thu, 12 Nov 2026 11:49:08 GMT",
-      "local_url": "/article-a12227abfe6f.html"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmFCRnRiVTBNc183Yk92RnBDckh0RmlxVmZfVWNPendnWk9CeXBRQXJRelBiS3lxU3ZOWlJEMGZ0el8xN1E5Nk9QWFJ0SGZyV252QmhSN1F1Z2NiUFc1djhwV1lvYWVNR2xrRG1HZkhkcnhrREFoMFFHMzY3RnpBMDBB?oc=5",
+      "domain": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "date": "Sat, 14 Nov 2026 11:31:43 GMT",
+      "local_url": "/article-40a8cc3ba28d.html"
     },
     {
       "category": "technology",
@@ -205,12 +260,23 @@
       "local_url": "/article-f7ea39157f33.html"
     },
     {
+      "category": "general",
+      "title": "توقعات طقس اليوم السبت في المغرب",
+      "description": "توقعات طقس اليوم السبت في المغرب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPRTFPRTJadFlJMEdjSGRXaVBDSDEyYWVuOV9nM18tZTlNWS1JWkZjRlBaTy1EMzBvelJveDc5bmRrOHhtZ0VuS3BRSnZMc0pkRnBXU0x3RFVkNXVUMXc1MWZSN1ljQW5nVlJDazJwMkhMbzFDUnhHemp2ZXRKYWt4RTY4SlFGZkRNcHZZeGlvNncwSXhkblVYeWZpRnVLcmRhT1p0WFI3dEFmQTZTZklEblJpeUxNdExFTXZBNlBTWHRrdHA1WXRmdUJIdUxYWnM2WVNxcmF5akxNOTJFblh5elRGSVR1YjZrWm0zbTJGOWx2SEpJRlROck9JODhnQWpkMFpoV016ZWtwT0tfMV84bzBUZjBZZTU0Wktqb1E4SExPMGZYME9haGdIMFEweEpt?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 14 Nov 2026 07:15:27 GMT",
+      "local_url": "/article-17696827d8a8.html"
+    },
+    {
       "category": "business",
       "title": "حصيلة اليوم سلبية في بورصة البيضاء",
-      "description": "حصيلة اليوم سلبية في بورصة البيضاء Hespress - هسبريس جريدة إلكترونية مغربية",
+      "description": "حصيلة اليوم سلبية في بورصة البيضاء Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOVlZ3WXpoMkRTZG9reFh1Y3ozLWlqbWJMMEJoc3pFZEEyczhHbzdSeGxnN0dtSDA5a3RzUEw4QWtUQXRSWE9pU0lxcDV3amY4TUJhUjZZbjg2TDBwWURHNlhtN0Z2Q2dnRWF6c0J0NVhtSmg1VFZCSGI4ZDNlUkxvcTRYMmV1ejBONmFRVmNhR1B4TFJ2WkVQejNIWHJGbmRXWldVS0hLX1pONTRCUkg2ZkRaV3BKYXAwZU9JT2ZHM1VzSXBhUDB1Z1FsYW92bDVuZHhwdDBYcTk5aVVmX2RyODBFTy0tWGt6Zm5fR2RUejBRREMycVliaWxMZEJyVF9MWVRtZDEtNUVSY2xGaGY3YktpVEgwQ09LZHc3LWRMY1B1bUF6Tnl6WjVPNS12MnpqYWU0T0owcV9BMGYzZXc?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
+      "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Thu, 12 Nov 2026 18:16:01 GMT",
       "local_url": "/article-d5d93cc57a70.html"
@@ -225,17 +291,6 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Thu, 12 Nov 2026 17:35:25 GMT",
       "local_url": "/article-a07c223b9c10.html"
-    },
-    {
-      "category": "international",
-      "title": "Concord Theatricals تستحوذ على حقوق ترخيص THE FEAR OF 13",
-      "description": "Concord Theatricals تستحوذ على حقوق ترخيص THE FEAR OF 13 BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkJOWFhJVi1nVDdETU5oZ2g1ZUpvOGVkbmRGUlVicENiVWQ3X00tdjBQQm0weE54ZEFTUndMOURGU0N2M2o3ZVplREJxcGFSREdja3hrTFowLThnV0tPTjk1TDFlWEZ5eU1VY3hSVTFreGQxbG1tbjBPckg1OGx2UTl0Y2d3a1REbmxoTmt1M1didW4xSHZ3eVIxZjJZMmhCcE5GcG9tbWxkaWxMUG5LM3pjV2pYUQ?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Thu, 12 Nov 2026 16:38:19 GMT",
-      "local_url": "/article-c407d5e1e600.html"
     },
     {
       "category": "international",
@@ -283,36 +338,14 @@
     },
     {
       "category": "international",
-      "title": "INALA يحتفل بعيده الأول في House of Sisters Grimm في ويست إند بلندن",
-      "description": "INALA يحتفل بعيده الأول في House of Sisters Grimm في ويست إند بلندن BroadwayWorld",
+      "title": "Tunisie Telegraph المؤتمر التشاوري لحقوق الانسان بجينيف يمر وسط تجاهل دولي",
+      "description": "Tunisie Telegraph المؤتمر التشاوري لحقوق الانسان بجينيف يمر وسط تجاهل دولي Tunisie Telegraph",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQazJnOXQyY24ySGRILXZ0UjN1TFg1RmZhUDZNMDRCYnNENlNrNTBOT2VaWW90cFMyMXAzTW5TNmJlTExCUDRPS0NkdFZHQTFHSDgtQkJfZVNNUk1pZ2ttUDBLa1JWZ2ZPTWdVNE5EVVJwYm8xWHBhUFdCdWlMdTQzM1ROWnJQQjM1LWd3R09wemVDZTJuTm9hV2M5eG5mSGJEU3Z0V0puVXB4LVk3UlhYU2tNb1V0TjZGQ2dlVFlzS3ZHLUNkYzdFNFRUaXRqNjBJSWhv?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Thu, 12 Nov 2026 12:52:16 GMT",
-      "local_url": "/article-f2e773281730.html"
-    },
-    {
-      "category": "international",
-      "title": "الجمعة 13 نوفمبر 2026.. التاريخ الذي حددته دراسة علمية لنهاية العالم قبل 66 عاماً",
-      "description": "الجمعة 13 نوفمبر 2026.. التاريخ الذي حددته دراسة علمية لنهاية العالم قبل 66 عاماً Euronews.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXhpZmVnU0UxTUpNMTdxT0dwb2RDUFRrNzNYTmNJMmxLR2FpUi0yQ0hzX1BnTlNsU1YwQXk4dDdfc2RSNlZmMG45QTdtZVY4cENPYVpZa1JVUG15ZzA5cTMzeGFDU2NZbUgzVFk4MnpwXzNDMUJFMTNxQ0dzSGVlWjllcjN2dG1kbFdOcEUyLVNXazlpQlBYMUQySXc?oc=5",
-      "domain": "Euronews.com",
-      "source_url": "https://arabic.euronews.com",
-      "date": "Thu, 12 Nov 2026 10:55:09 GMT",
-      "local_url": "/article-c244e8300452.html"
-    },
-    {
-      "category": "international",
-      "title": "كرة القدم.. ياسين بونو يبلغ مباراته الدولية الـ100 مع أسود الأطلس",
-      "description": "كرة القدم.. ياسين بونو يبلغ مباراته الدولية الـ100 مع أسود الأطلس MAP SPORT",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQMTJqak1vcVFnS1Y4d0lXdnpvMVNqTG1XVjNwekpLYl9fTEstSWxyTUpvVzRHMlFxcTJtc1NzdTZvVW0yTnlCNDVkQWVfbjlwVmxIeGpBbU5ORmN5N2toNjA5V3U5TkZubFJhSlh5dUtPRFBrazd4OVpkTjBjdmdPdU0zdFl2TVAyVjFxd3N1MDY3N0lDY1RLd284d0lRR0pSYnQ1enNsSmxFWkVyZkFEV2RFRjZYTW03RzR3YzNEQnJBNVNHSEhVTDJXSU9hTVk5Z0NEMkd0NWppaDNwYWlERERaQUlxN0l1UWVnMkkwVFV5MjdIcnYzdGhoU0lkTUZwQkIxazlQRUY0bUc1YTlmVElhVHdQdklncjlIZFFuajNFZnZ0dzN6Z29MWjV1d2xEd19mX3dxYXpZX01BbEpaMTMzRnlWYW1sTUJHSUZjUWgxLUdybzFRZU5tN0w3YklJSm9DbGNjeEpzb0JRX3BZVkVfNjhFQU5ZbkxjWnFmeFlmc2xQZHlKS3ZpMEZCd2RnNEZVS0pVWkhnZFhtM2c?oc=5",
-      "domain": "MAP SPORT",
-      "source_url": "https://mapsport.ma",
-      "date": "Sat, 14 Nov 2026 00:17:51 GMT",
-      "local_url": "/article-85140d6b3744.html"
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOczRqTFp5emp6MVkteHN6cDkweVJhMlBiZWdHTDhvVXhMRTFBZWFMMld0VElESWE4ZXlZSEd3WXE5M21VUFoyZ2F2X0stOGlpU2N0MTVIYXczNjN5b2pKUVVoM3ppa1pIdW8yc3JZUl9vUkFzQVdUZ0ZyMU5WLVh1aXJCbGQwb1Rpc3N4Y29ieWcyOU9kbTgzbXNuY2UxTjZfaXBEVWFNeURQajRYcWNqaGd1a3NrVUIxRzJseFIzeUVqbGEtSlNiQjB6SUl6dlg0NHJvZXlrRXFKY284RWxxN183aTBJSS1udlNGM09UVjB2T3laRjlsNFFlbzNtWXNiTHJDSDhIMjhzTWVjU1JaNGJlVmFqRk5GRUdSeW5uNE1iX0IzYlVZZVRudEZfWEoyOU5zYmVNUFczcnQ0ZVFuN0ZhdDV1VHZ1RGZfWEVXQ05ySVNvVUY2YjBJb0hqWklacWdpZlVvbWFRSmh3Qmw3YVZmNWVQLVBhU0pWa0g1cXF1TWZuQ3lSd1NQUkNTVWF0Mnd0LTlKNnZiTzJWUG4xX1FWNWVDMG11bXc?oc=5",
+      "domain": "Tunisie Telegraph",
+      "source_url": "https://tunisie-telegraph.com",
+      "date": "Sat, 14 Nov 2026 13:05:57 GMT",
+      "local_url": "/article-dcbcac906ed7.html"
     },
     {
       "category": "international",
@@ -349,25 +382,47 @@
     },
     {
       "category": "business",
-      "title": "الرباط تستكمل تمويل المرونة المناخية",
-      "description": "الرباط تستكمل تمويل المرونة المناخية Hespress",
+      "title": "الدرهم يرتفع أمام الأورو ويتراجع بالدولار",
+      "description": "الدرهم يرتفع أمام الأورو ويتراجع بالدولار Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcGRRQkI3UGlwUHAtbmVUMklFT0dwWHZtM1NZcmt6RGFDQS1GREtxSHpEZVhaYkJMVUh2dXVweVRkc2ltSEFMSHZwRWZka2R6Z2taVVJWMlpkeVBsNXFCOWJTLVdYSkgtVkpQZlNsLXozRElBbVVaT1dhdFFMbS1pSGVQazNKUTVTdnNJanJMNjJIN3puT2xsM0M5clBhN2hXSUctU3E3Z1hjaUU0OG85eGgyRWtQQkJJdW4wXzh5dHNyZVA3cWhRNk8wMWQ5amJVMTljUHV0UloxVll0SjB0V1c2WlNYUnRzNm5BbWxYSlUwSDhvSDdLQ2FBdWR0Wmh3S0h2TzVNRXM2enpxZHc1dWQzbVpPblpuOXprYW1OTXdiUGZTOWZ0cy1EUEhEeHFWSGlXX3lLenRMS3lCWWlrX0lzaTJQLXRyOXhobng0VndRT2E3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQLUI2dHJEVFBDM1FVdFY2MlNwUjlHOXVTcWJwbGM2UHlHSzV6c2R1U05xQ2x6YjRDWkdrY2Q5M1JvTmlQVDdXN2l1ckdrckc5V1JmU2FuNG5KSGF1QTNZWXVHVGtPMHlRajVHRERsS0htWWpxSHRrOGJwWVBSTWJGVnl5SnlpZmthUzZkazlkcW9sRFFuYVMyZXRYWndCS3dKb0MzT1lnRnREcm1YcnNRZnFZUUQ0TDRQNHR6dmEtQ3hFbWVaS1VWeExjWGkyV2k0WkpOX1RXR0FITnBRRVdKc050WjRNZlkxbkdUSDVpRWRvM2RkbEFEMTdmNG9INDhwTkM2QmtEb1p1MlFkTWxXQnJzZVNuWGFNeGV5ZWRtbW9WWXQwWGJsbVZvUFdVNHQtSDVxMUU3OUtxUkZncFZ3clM4RnROTkdPYmQwUTV1MUY3QTEzdmc?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Fri, 13 Nov 2026 14:36:41 GMT",
-      "local_url": "/article-738c37417921.html"
+      "date": "Fri, 13 Nov 2026 20:42:01 GMT",
+      "local_url": "/article-298868c6fe72.html"
     },
     {
-      "category": "business",
-      "title": "ارتفاع الدين الخارجي يضع كلفة الاقتراض واستحقاقات الخزينة تحت المجهر",
-      "description": "ارتفاع الدين الخارجي يضع كلفة الاقتراض واستحقاقات الخزينة تحت المجهر Hespress - هسبريس جريدة إلكترونية مغربية",
+      "category": "international",
+      "title": "Megan Hilty وLeslie Odom Jr. وآخرون يشاركون في النسخة الـ100 من Macy's Thanksgiving Day Parade",
+      "description": "Megan Hilty وLeslie Odom Jr. وآخرون يشاركون في النسخة الـ100 من Macy's Thanksgiving Day Parade BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWVFzQWdOOTZMY1l3VGxNMFFnRHM2YWtsdnBQRlBLbXRaSWJmUklfd1djeE5CZ3JYN1lCeEEyOU5lWHczSjN0Y1lDT2d6Q2VtUGhoWUpaVmY1T3owdzlKVHBqS1NWYUJ0OUN2UnhUNDJJSjlEXzQ5bFdtSmpvTTV3V3ZBZWZPLUV6Vkh2enc5bC1TSG9MUk1WbzNwNmU1ZTlsVHZtaHdDZnBybm9KdzJNRHpZWktKd1h0ckNaR3BORGJqdnFQWVM2VVRIWDRodFFRZ0lGdlNJYnE3N3BJOGFrVW9jeVRmZjJhTmk2ZjM0QjV5eUFfanNzOTZjX3R2eXRpMHhFMVhfX0FGQmpIVEg2YVBNamo0dmxNSUxSQ2dPVjFXLWFzMDN1dXV2N215UFFoeDdqa1Z0Rl9XdjlqWUVsaV90R3dxWkluZ2UtWHRuTS03dkpQc2c?oc=5",
-      "domain": "Hespress - هسبريس جريدة إلكترونية مغربية",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 13 Nov 2026 04:02:48 GMT",
-      "local_url": "/article-69fb0098feb3.html"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMFI2OWIzRzVnSG5IQTNqcElEU1JWdkFjbDdDa3g2UU1RRmx0eV9KZXNGek9UWUdWZDFEMXppX3BZZldVMF9ZeURTN2Z2UDhHLWxSZE1sVnZodGhxVURXQWMtYlZvYm9aNHgwQ2RkUHBSdXVPNS1kcmJPNzFNZmlMd25vb1ZyVW95WHMtRFNMSkhSYmUtTk43RUM0NUgzSXYzc3ExQzVabkwtRWxjOTR6cl9zRHpJZzh2cTZfY1dHd29pQnZKSEx1blZpMGtiVFNfOGxzWnJB?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Fri, 13 Nov 2026 14:12:11 GMT",
+      "local_url": "/article-66952443e55b.html"
+    },
+    {
+      "category": "international",
+      "title": "Chris Colfer يتحدث عن العودة إلى النسخة الجديدة من GLEE بعد «محادثة لطيفة»",
+      "description": "Chris Colfer يتحدث عن العودة إلى النسخة الجديدة من GLEE بعد «محادثة لطيفة» BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjF3WmZDVllQVzRWVG5xTUxjWHFGb1JuSkpHN0x3SzJ5UjVNWXQ0UFhReUZCc1VKVkk5Z1ZsV1pRLWphdlh4Q1hCOVl4RXEwQy1Jd2FYa1dGQzhLdGpyMnNIZXRvRDctdkIxUEhaSDd3dHBSUTRFalRsVkdJbUNQNFZrOFAtR3QtcnNCSFFGcXI0OEwwZTVqTmduRjI0d3g5blZXbUpoNUNlSVJEZFkwaldtYW5HS1hwVXc?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Fri, 13 Nov 2026 11:28:14 GMT",
+      "local_url": "/article-c8e7a2d1442b.html"
+    },
+    {
+      "category": "international",
+      "title": "استمع: ألبوم فريق CATS: The Jellicle Ball يطرح أغنية «Mungojerrie and Rumpleteazer»",
+      "description": "استمع: ألبوم فريق CATS: The Jellicle Ball يطرح أغنية «Mungojerrie and Rumpleteazer» BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS0p3eXBYbTlWUUFxNDl4WVJPWktBTzQya19GR0M0TVdNc0ZxV2JKbm9udTJ2d2tvRVFsRXhrVlI5NEhQcUpIVldxR2pVQS1IaExjS21vSkd2bXlSLW1ITE5BdzZ1cEUxWG4yWExrd05oeGx5amFOR2QydEtlSFAtVlc4bzM3bjFUMXZ4cmRuYk5obEs5cXNLYjFIWFI2RjBGLWdsMjJNYThLdjZWM1FTTGV3UWMzT1dpSElBdkJscGJhM004a0o2bXBJcnRXY0szODk5R3Y1QXY?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Fri, 13 Nov 2026 05:00:25 GMT",
+      "local_url": "/article-f32bc57ac115.html"
     },
     {
       "category": "policy",
