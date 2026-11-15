@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T14:19:23.587019+00:00",
+  "updated_at": "2026-11-15T18:48:07.636388+00:00",
   "articles": [
     {
       "category": "policy",
@@ -18,6 +18,17 @@
       "url": "article-un-fourth-committee-sahara-152-votes-2026.html",
       "domain": "SNRT News / MAP",
       "date": "Thu, 15 Oct 2026 17:51:00 GMT"
+    },
+    {
+      "category": "policy",
+      "title": "أسعار المحروقات تسجل انخفاضا طفيفا بالمغرب ابتداء من منتصف الليل",
+      "description": "أسعار المحروقات تسجل انخفاضا طفيفا بالمغرب ابتداء من منتصف الليل Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSWRjMDI3Um1FcVpOQzJVLUxmRDFTejZEcG1raFFpdnRWM3gtNnhqeVpDNWc4bXk5VVM0dEJYQzJJTEhCZy15dWxyUWN6aXBtTWJoZnlXWUd4VXNZVzlFOUJGYTlIbjR3Q1Z1eVpVb2Fjc0h6QlJES1llUXB1VnZtb19fZFNVQWdoX2hhY242M0Qwc0NfdXhDenB6djBMWTNncFR4SGR2dlFfTHlCcXdHSi1hU2JHdGNmd2V2dFdiUllvNUpkTE90U01XWGc2LTg1dDQ2QXM1UzZIZUtZa2ZSdnFGNUY0bmJDQ3dhR3p2b1J2N0NtVHl5TmxTZlllSXlWMElHTWZudWRsUG9KMG9qQWVrZXZlQklkdDlnY2ZvVXBQMURHZEtFTDJ3TlJMcFNzeHR4S1FOUl9oaGJBMFlvYnpzR09ocl9VaGxJVC13TkNhWTgyQlE?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sun, 15 Nov 2026 18:07:29 GMT",
+      "local_url": "/article-f7b8e2bb1f70.html"
     },
     {
       "category": "policy",
@@ -96,17 +107,6 @@
     },
     {
       "category": "sports",
-      "title": "بعد خماسية « دنور ».. وهبي يبرمج مباراة إعدادية للأسود استعدادا لمواجهة النيجر",
-      "description": "بعد خماسية « دنور ».. وهبي يبرمج مباراة إعدادية للأسود استعدادا لمواجهة النيجر سبورت Le360",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRzhqaUs3ZEpaVDlNc1JadnFrY1puQmYtZzdlaGNoRmRVTlRpSzAwbFNDWTF5UVBIYjVvQ0w4QjlOd2E2Y2FLR1RWQjNsVEVfZkdUc0V0dkl6X0VzbnAxU3hsRk5ULXBjNl9uemM1TQ?oc=5",
-      "domain": "سبورت Le360",
-      "source_url": "https://ar.sport.le360.ma",
-      "date": "Sat, 14 Nov 2026 23:41:03 GMT",
-      "local_url": "/article-4313b856357d.html"
-    },
-    {
-      "category": "sports",
       "title": "تصنيف \"الفيفا\" يضع المغرب خامسا",
       "description": "تصنيف \"الفيفا\" يضع المغرب خامسا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -129,6 +129,17 @@
     },
     {
       "category": "sports",
+      "title": "\"فوتسال المغرب\" يلاعب السعودية",
+      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 14 Nov 2026 13:03:03 GMT",
+      "local_url": "/article-1e6cc071b6e6.html"
+    },
+    {
+      "category": "sports",
       "title": "فترة التوقف الدولية تبعد 5 لاعبين عن الجيش الملكي",
       "description": "فترة التوقف الدولية تبعد 5 لاعبين عن الجيش الملكي سبورت Le360",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -137,17 +148,6 @@
       "source_url": "https://ar.sport.le360.ma",
       "date": "Sat, 14 Nov 2026 10:02:56 GMT",
       "local_url": "/article-3bef9d6565b4.html"
-    },
-    {
-      "category": "sports",
-      "title": "لقجع يعيد أسود الأمس للواجهة",
-      "description": "لقجع يعيد أسود الأمس للواجهة Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91TlVfSzR0YTVUVl95QlVvcGdZQVkwVkMwbmNvdU5XM0wwaXpOZklHaHNsbU5HWnBCZGVWM09CWm9PSTVG?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Sat, 14 Nov 2026 06:12:49 GMT",
-      "local_url": "/article-901e7d274f18.html"
     },
     {
       "category": "sports",
@@ -161,28 +161,6 @@
       "local_url": "/article-e9f74b674079.html"
     },
     {
-      "category": "sports",
-      "title": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي",
-      "description": "كأس العالم لكرة القدم 2026.. وهبي يستدعي 28 لاعباً لمعسكر إعدادي Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQYjIyS2xBMk02Y0NyTEJfdXJsLWtfanVYY0VqMUFtc2tMSUhLWU9RS1JUaTNnN0dWRzNZRmtNWVd4SjRHVmxOd2FvcFNnYU9WcDVKVzNYZGVWOWlleElqRUM1M2NSLWpKdkV0SF9idWt6Nml1NWVqOFFqU21mbUk3UW8tdDdMamtjR3hqd2tYU01VZzdFWnFaVTRCS3hKWC1MU293SUsySW5BWC1sckwzYWl2ZjFqUHRaRlJRd2ttaFJjUC11WlNZODBrOGZSSHVmU1BuLUNYaEM3ZkZOM3RhTFNvRW5uQ3pRSUQ3aW9UVGVra2tHaU5OZHV2a053NURyX0NLakFWeWUyMHMtelF0YndObXlsVHljdGhCMXRFcEVDTnhPSFJObDFXU3lOV3o2MUE?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 13 Nov 2026 16:57:32 GMT",
-      "local_url": "/article-c77f891b3dd6.html"
-    },
-    {
-      "category": "sports",
-      "title": "\"فوتسال المغرب\" يلاعب السعودية",
-      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 13 Nov 2026 15:27:42 GMT",
-      "local_url": "/article-1e6cc071b6e6.html"
-    },
-    {
       "category": "technology",
       "title": "حفل جوائز جديد يحتفي بموسيقى الذكاء الاصطناعي",
       "description": "حفل جوائز جديد يحتفي بموسيقى الذكاء الاصطناعي Reuters",
@@ -192,28 +170,6 @@
       "source_url": "https://www.reuters.com",
       "date": "Sat, 14 Nov 2026 11:31:43 GMT",
       "local_url": "/article-40a8cc3ba28d.html"
-    },
-    {
-      "category": "technology",
-      "title": "المغرب يقود تحالفا دوليا للإطاحة بشبكات احتيال",
-      "description": "المغرب يقود تحالفا دوليا للإطاحة بشبكات احتيال Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBjcjBJQUN1VWRQRXN4VjFjTS1tU3NKeTZxdVJKZS1wbFdqZDRkS2ZIVy1lNnNxYmlOdWJFbGlabVBnNzhj?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Fri, 13 Nov 2026 17:48:20 GMT",
-      "local_url": "/article-2755ce219c08.html"
-    },
-    {
-      "category": "technology",
-      "title": "قادة الاتحاد الأوروبي يبحثون في قمة دبلن تعزيز صناعة الذكاء الاصطناعي ومخاطرها",
-      "description": "قادة الاتحاد الأوروبي يبحثون في قمة دبلن تعزيز صناعة الذكاء الاصطناعي ومخاطرها Euronews.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmNhOTJlXzBHLS1VQlItNHppNVdzM0RrbjJiWjlKQzQtN0M1TXB6Q3E4eHFVSVkwQ0NINmdDRTdIS2xKcmZJWGZadHh6TGFoZGhBLTdjTlRiZmVjZG1KNEM1X2xxclJ0czlHbkUwaklQdEF0cW9JLTMtRVcxeWJ4ZXlpanRfYVkzRlJKajRScUxiWklSMjFsVlJwYTBSUjhkZWNkVE55S3ZETnVIQUN0dTEwTDJBV2ZiLV9keWtSVUd4WmFSbWJz?oc=5",
-      "domain": "Euronews.com",
-      "source_url": "https://arabic.euronews.com",
-      "date": "Fri, 13 Nov 2026 14:25:25 GMT",
-      "local_url": "/article-ef9b8a22597f.html"
     },
     {
       "category": "general",
@@ -236,6 +192,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Sun, 15 Nov 2026 05:03:23 GMT",
       "local_url": "/article-129b670a4d3d.html"
+    },
+    {
+      "category": "general",
+      "title": "المغرب الفاسي يعلن التعاقد مع كتيبة",
+      "description": "المغرب الفاسي يعلن التعاقد مع كتيبة Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPVnRDX1oxWTAzcmdJUE5uTWRLcFo1ZzFKV2MzWHJVTEtLMGZlMGtmejhSa0luOTV1U2xnSWhKbG5HVlYxSkoyUGJKWjVfWlJUeld4QzJrdEZ2Umw3SXg1RXpTQm02MkZSMm1CUXlsUEtzT3dZdUhqRXI5Q0RtYl9GX2JMX0NROGZQWGpfV25NajNFOXlqWHRQQnBzTjdnLUFJR1Myc1JKSDhCOFYwWEpfcnhVMXhWbV9RTzhrZmdxV1o0TW1LR2NibWtyWDJDUUNocjdkcENSR0tCMHlZc09pblVsSnk1TFZrbGxZVWNzMGQ2UWdlby1hTjk1UklSYXcxQWpOQW5ILW11ZkdhVjRIN3BTM1VZOXdCZENsT19Ta3cxSmlfYl8xcDVOa1A5THlaWXJ1WGlaYUV5WUlEdk51bmgtVlFIQQ?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Sat, 14 Nov 2026 18:42:04 GMT",
+      "local_url": "/article-c9f147115c10.html"
     },
     {
       "category": "business",
@@ -261,25 +228,25 @@
     },
     {
       "category": "international",
-      "title": "فيديو: تعرّفوا إلى الدفعة الأولى من كتّاب HELEN GURLEY BROWN THEATER LAB في Lincoln Center Theater",
-      "description": "فيديو: تعرّفوا إلى الدفعة الأولى من كتّاب HELEN GURLEY BROWN THEATER LAB في Lincoln Center Theater BroadwayWorld",
+      "title": "68 أم 70؟.. الاتحاد المصري يكشف عدد أهداف محمد صلاح الدولية",
+      "description": "68 أم 70؟.. الاتحاد المصري يكشف عدد أهداف محمد صلاح الدولية CNN Arabic",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOekRYRDNldXAwcU9OSktPcWtqdC1FNUZDUGlGbU9xZVJXTDQxSVpCSllTbE85NFNVSmp1NWdKZUxmMEdJcFlGbTBvNVY0clZKU2lkOGVRUUdZU1h1NnJJN0ZmRUo0SEdzUjVxU3dlUXViZmVXdElFYW5TTXBqLXpGWXJ1LVMwbnEzVGIzNjlfWkd6b0JxeDVUQURkOFBldndXUEZhNk1Jb2JLWkJVdDNnTG9aUHZvSUppYXRDVUgycFNlanBlVGtXU21tQ2RSeGptMjFHbzZiYVgzQQ?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Sat, 14 Nov 2026 15:28:15 GMT",
-      "local_url": "/article-d0f8a8bca4a8.html"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmw3WWxjMUdQSkI3UVJMYlFkMHVsUjhYcXR0R2xNcGRTOFBvcjFsbndFSDV5QmF2ZDFhN3VKT3E2SExCNEctQ053Mkc2ZVpwWkNzQV9HY0h3NUNLeGVpSjEwWU5oNUw5VHRqN090bWJFNkpWck85TWdxd3hSZGg3Z0JkVURBdW44M3haS0lIS19wbmdJWDNJLWZiZDNBN3VpbXlzM08wVFVNMDlrV21zQlc1Y19qNk1BRWc?oc=5",
+      "domain": "CNN Arabic",
+      "source_url": "https://arabic.cnn.com",
+      "date": "Sat, 14 Nov 2026 15:47:02 GMT",
+      "local_url": "/article-8a68d5dbe528.html"
     },
     {
       "category": "international",
-      "title": "فيديو: خلف كواليس PARSIFAL في Royal Opera House مع Max، المتدرب في فريق الرفع المسرحي",
-      "description": "فيديو: خلف كواليس PARSIFAL في Royal Opera House مع Max، المتدرب في فريق الرفع المسرحي BroadwayWorld",
+      "title": "فيديو: MAMMA MIA! وMOULIN ROUGE! وغيرهما تقدم عروضاً في حفل إضاءة زينة عيد الميلاد في Covent Garden",
+      "description": "فيديو: MAMMA MIA! وMOULIN ROUGE! وغيرهما تقدم عروضاً في حفل إضاءة زينة عيد الميلاد في Covent Garden BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWM0UHdPblBmazA5Q2lHbktxcGRGV0ZXc0xBNW9CZ2F4SHpGM29pVnl5T3U3SzY4ZWZPRW84UHBjT1VFTkNTY3E1cktqTFAzNXRJOHN6elBXRWNWUzNaSTZHTXd0c3lBVWczaTl1TXpBQk1UcVh1LXZRaWJsOE9ORzVrdFQ3MjBMSy1pY2xEam1YRFBaRXVHdUEzRmh4NWM0RDREN3Z0T0c5b1lXcUJmMll2S3RaVnA0RktzVkc4emp4ZW1IUXFRSE15LXRIMGdMTG43bW11VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmY3Y2kyTkMzYU9BblRsTlkwcVdsWFVRZVRnaVp5cFNucTluaHBYakpOOWh5Uk80a2tZd25FWWZSUzlOdERUS2V3OHMzcFkxMWFRNlk4WjF4Q1FScEFTVHEwY3FXejhkdFRZZ0ZHdUQ0UkxNS0xUMnhnVTA0b0hXdTZaTk05TFhydjVDdmVuTVlyNmgweWxpSEZMMzFfZHBabVBjWjVkSk91STRkNU5KTS1UenVoYVB2Z0p0SG9tMEhwSWpYM2Q5cFBfSG03azliY3VB?oc=5",
       "domain": "BroadwayWorld",
       "source_url": "https://www.broadwayworld.com",
-      "date": "Sat, 14 Nov 2026 15:02:29 GMT",
-      "local_url": "/article-990a08c01b88.html"
+      "date": "Sat, 14 Nov 2026 13:58:14 GMT",
+      "local_url": "/article-dfa138b66823.html"
     },
     {
       "category": "international",
@@ -313,28 +280,6 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Fri, 13 Nov 2026 21:31:09 GMT",
       "local_url": "/article-03d930a5b523.html"
-    },
-    {
-      "category": "business",
-      "title": "قرض من بنك التنمية الأفريقي للمغرب لمواجهة صدمات المناخ والطاقة",
-      "description": "قرض من بنك التنمية الأفريقي للمغرب لمواجهة صدمات المناخ والطاقة Reuters",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQXFVRks0YmxPcC1aMEdUbkQwbnhGZzR1Wk8zRF82WHRQTURRV1RmYU14Smwybm5WbGxyelh3OWRfVkU3dXVaY0lESllNZ3VXdDFFYWtGaGZOdEZVaXBLRmhENHgtaFlsWlo1NzZGNXhoNm9kZTVTc1JPa0E0YjA?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Fri, 13 Nov 2026 15:53:45 GMT",
-      "local_url": "/article-f14d8805a92c.html"
-    },
-    {
-      "category": "business",
-      "title": "الرباط تستكمل تمويل المرونة المناخية",
-      "description": "الرباط تستكمل تمويل المرونة المناخية Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcGRRQkI3UGlwUHAtbmVUMklFT0dwWHZtM1NZcmt6RGFDQS1GREtxSHpEZVhaYkJMVUh2dXVweVRkc2ltSEFMSHZwRWZka2R6Z2taVVJWMlpkeVBsNXFCOWJTLVdYSkgtVkpQZlNsLXozRElBbVVaT1dhdFFMbS1pSGVQazNKUTVTdnNJanJMNjJIN3puT2xsM0M5clBhN2hXSUctU3E3Z1hjaUU0OG85eGgyRWtQQkJJdW4wXzh5dHNyZVA3cWhRNk8wMWQ5amJVMTljUHV0UloxVll0SjB0V1c2WlNYUnRzNm5BbWxYSlUwSDhvSDdLQ2FBdWR0Wmh3S0h2TzVNRXM2enpxZHc1dWQzbVpPblpuOXprYW1OTXdiUGZTOWZ0cy1EUEhEeHFWSGlXX3lLenRMS3lCWWlrX0lzaTJQLXRyOXhobng0VndRT2E3?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Fri, 13 Nov 2026 14:36:41 GMT",
-      "local_url": "/article-738c37417921.html"
     },
     {
       "category": "policy",
