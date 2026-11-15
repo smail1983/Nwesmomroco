@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-14T19:00:00+00:00",
+  "updated_at": "2026-11-15T13:00:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "المنتخب المغربي يعود إلى المركز الخامس عالمياً في تصنيف الفيفا المؤقت",
+      "description": "عاد المنتخب المغربي إلى المركز الخامس عالمياً في التصنيف المباشر والمؤقت للفيفا برصيد 1805.34 نقطة، بعد الفوز على النيجر وتعثر البرازيل والبرتغال.",
+      "image": "/morocco-fifa-ranking-november-2026.svg",
+      "url": "morocco-fifa-ranking-fifth-november-15-2026.html",
+      "local_url": "/morocco-fifa-ranking-fifth-november-15-2026.html",
+      "domain": "Le360 Sport / Morocco World News / UOL / NewsMorocco",
+      "source_url": "https://sport.le360.ma/football/lions-atlas/classement-fifa-le-maroc-retrouve-la-5e-place-mondiale-apres-la-defaite-du-portugal_YBH4Y4IRGJEHVF3RHXBCK2D5U4/",
+      "date": "Sun, 15 Nov 2026 13:00:00 GMT"
+    },
     {
       "category": "policy",
       "title": "فرنسا تجدد دعمها لسيادة المغرب على الصحراء وتؤكد أن الحكم الذاتي أساس الحل",
