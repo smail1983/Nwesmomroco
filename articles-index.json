@@ -1,14 +1,5 @@
 [
   {
-    "category": "policy",
-    "title": "🇲🇦 مايك والتز من الرباط: واشنطن تجدد دعمها لمغربية الصحراء وتدعو البوليساريو إلى احترام وقف إطلاق النار",
-    "description": "السفير الأمريكي لدى الأمم المتحدة مايك والتز يؤكد من الرباط استمرار اعتراف واشنطن بسيادة المغرب على الصحراء، ويدعو إلى التهدئة واحترام وقف إطلاق النار.",
-    "image": "/mike-waltz-bourita-rabat-sahara-2026.svg",
-    "url": "/article-mike-waltz-bourita-rabat-sahara-november-17-2026.html",
-    "domain": "NewsMorocco",
-    "date": "نشر في 17 نونبر 2026 · NewsMorocco · سياسة"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -970,6 +961,15 @@
     "url": "/article-d4c52afc68f7.html",
     "domain": "NewsMorocco",
     "date": "Tunisie Telegraph • Wed, 21 Oct 2026 21:40:56 GMT"
+  },
+  {
+    "category": "policy",
+    "title": "«إل باييس»: بعد تونس وليبيا والمغرب.. أوروبا تنقل سياسة ترحيل المهاجرين إلى رواندا",
+    "description": "Tunisie Telegraph",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-da9d8f44956d.html",
+    "domain": "NewsMorocco",
+    "date": "Tunisie Telegraph • Tue, 17 Nov 2026 20:49:36 GMT"
   },
   {
     "category": "general",
@@ -1945,6 +1945,15 @@
   },
   {
     "category": "policy",
+    "title": "مايك والتز من الرباط: واشنطن تجدد دعمها لمغربية الصحراء وتدعو البوليساريو إلى احترام وقف إطلاق النار",
+    "description": "السفير الأمريكي لدى الأمم المتحدة مايك والتز يؤكد من الرباط استمرار اعتراف واشنطن بسيادة المغرب على الصحراء، ويدعو إلى التهدئة واحترام وقف إطلاق النار.",
+    "image": "/mike-waltz-bourita-rabat-sahara-2026.svg",
+    "url": "/article-mike-waltz-bourita-rabat-sahara-november-17-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • الثلاثاء 17 نونبر 2026 • الرباط"
+  },
+  {
+    "category": "policy",
     "title": "الدول الخليجية الست تجدد دعمها لمغربية الصحراء أمام الجمعية العامة للأمم المتحدة",
     "description": "السعودية والإمارات وقطر والكويت وعُمان والبحرين تجدد دعمها لسيادة المغرب على الصحراء ولمبادرة الحكم الذاتي خلال مناقشات الجمعية العامة للأمم المتحدة يوم 10 نونبر 2026.",
     "image": "/gcc-states-morocco-sahara-un-2026.svg",
@@ -2797,6 +2806,15 @@
     "url": "/article-c77f891b3dd6.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Tue, 17 Nov 2026 11:51:47 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مزور يبدد مخاوف صناعة السيارات ويؤكد أهمية الشراكة المغربية الأوروبية",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7d6f1172d3ad.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 17 Nov 2026 09:03:55 GMT"
   },
   {
     "category": "general",
@@ -4348,6 +4366,15 @@
   },
   {
     "category": "general",
+    "title": "قيوح يبرز طموحات المغرب في الطيران",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-22f3376cfa2a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 16 Nov 2026 23:31:27 GMT"
+  },
+  {
+    "category": "general",
     "title": "شرف: السياحة الداخلية أولوية حكومية",
     "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -4366,12 +4393,12 @@
   },
   {
     "category": "general",
-    "title": "وثائق إسبانية تكشف التحذيرات الاستخباراتية قبل \"اقتحام سبتة المحتلة\"",
+    "title": "استحقاقات كبرى ترسم معالم أسبوع استثنائي في تداولات بورصة البيضاء",
     "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-1cc7471357ba.html",
+    "url": "/article-238ccdd3039a.html",
     "domain": "NewsMorocco",
-    "date": "Hespress • Mon, 16 Nov 2026 13:02:07 GMT"
+    "date": "Hespress • Mon, 16 Nov 2026 16:05:05 GMT"
   },
   {
     "category": "general",
@@ -4380,7 +4407,16 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-6a072b03e9b9.html",
     "domain": "NewsMorocco",
-    "date": "Hespress • Mon, 16 Nov 2026 06:13:17 GMT"
+    "date": "Hespress • Mon, 16 Nov 2026 14:40:55 GMT"
+  },
+  {
+    "category": "general",
+    "title": "وثائق إسبانية تكشف التحذيرات الاستخباراتية قبل \"اقتحام سبتة المحتلة\"",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1cc7471357ba.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 16 Nov 2026 13:02:07 GMT"
   },
   {
     "category": "general",
@@ -7804,6 +7840,15 @@
   },
   {
     "category": "general",
+    "title": "فيديو: فريق PRIDE THE MUSICAL يؤدي «I Miss Disco»",
+    "description": "BroadwayWorld",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-2886e8b8a1e1.html",
+    "domain": "NewsMorocco",
+    "date": "BroadwayWorld • Tue, 17 Nov 2026 19:18:21 GMT"
+  },
+  {
+    "category": "general",
     "title": "GAZILLION BUBBLE SHOW تطلق أول جولة في أمريكا الشمالية",
     "description": "BroadwayWorld",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -8731,6 +8776,15 @@
   },
   {
     "category": "general",
+    "title": "هل أصبح الذكاء الاصطناعي \"ذريعة\" للتسريحات الجماعية؟",
+    "description": "BBC",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a70cab2fd2f7.html",
+    "domain": "NewsMorocco",
+    "date": "BBC • Mon, 16 Nov 2026 10:05:13 GMT"
+  },
+  {
+    "category": "general",
     "title": "الذكاء الاصطناعي: كيف يمكنك حماية أسرارك؟",
     "description": "الذكاء الاصطناعي: كيف يمكنك حماية أسرارك؟ BBC",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -8809,6 +8863,15 @@
     "url": "/article-faa7921d6a45.html",
     "domain": "NewsMorocco",
     "date": "Assabah • Tue, 20 Oct 2026 10:19:15 GMT"
+  },
+  {
+    "category": "general",
+    "title": "المنصوري: تقوية الجبهة الداخلية والتنمية رافعتان لترسيخ الوحدة الوطنية",
+    "description": "Assabah",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-f750930f3a27.html",
+    "domain": "NewsMorocco",
+    "date": "Assabah • Tue, 17 Nov 2026 03:53:43 GMT"
   },
   {
     "category": "general",
@@ -8926,15 +8989,6 @@
     "url": "/article-cee28e429957.html",
     "domain": "NewsMorocco",
     "date": "Assabah • Thu, 05 Nov 2026 09:50:36 GMT"
-  },
-  {
-    "category": "general",
-    "title": "المنصوري: تقوية الجبهة الداخلية والتنمية رافعتان لترسيخ الوحدة الوطنية",
-    "description": "Assabah",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-f750930f3a27.html",
-    "domain": "NewsMorocco",
-    "date": "Assabah • Sun, 15 Nov 2026 11:43:48 GMT"
   },
   {
     "category": "policy",
