@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18T17:26:15.984132+00:00",
+  "updated_at": "2026-11-18T20:27:20.502882+00:00",
   "articles": [
+    {
+      "category": "technology",
+      "title": "عاجل: مجلس إنفيديا يفتش عن خليفة لجنسن هوانغ لدى ARM.. تفاصيل حول رينيه هاس",
+      "description": "عاجل: مجلس إنفيديا يفتش عن خليفة لجنسن هوانغ لدى ARM.. تفاصيل حول رينيه هاس CNN الاقتصادية",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPNlZWWFNYX3lORmFxWVBMMXIyY29vbnkwbFVhWmllQ1JiM0FWSENtWGhkYTVnSlhNUlk0MEdnRHdzbG5LTWEwUlpWVGwxWXp3engtclBQX1NaM3Fqb1lUQnltVUF6VExLVzNTalNlSnExTmp0VjI2OGpoTFY4RGNEaVZ3M1k3dUliLXNZWDZQcVRISDI5VVVMSlJrb2ZWNkEweXo4NHdhUEhHRnZBNnF6eWE2cm9EVFdmT2xoaDg1VnNKWmFKVFMxWXBpbk1wYzU2Y0kxeU5RRWJXOFowTkRWMk1tWlAySG5QSXVLRUtRN1JLaHFVR0VrV3JpM0c2engzVnZtVVF2ZEF0XzVjZUtzOUg2d001eTRNWlg5MlVQUjNRTkJQMVBCbVFVaUVzazZKMlZPOXptVWM0blJTbS1QNGVZbXNrQzZwYVpNQnVQSk9KdUtCc0hvbURQWFQwRVZGa1huZWd0NkhpeEwzaG05VjhId29PTGhwU0RfcG9uU2dfSGV4LWlRV3hZMGJIMUFuWUd3Y0p4OGJiQjhtR29QeU5qRHVHQjhJVEpZbEZGWVZsazJvNWh3NFEtN0tFbWpSLVQyd1FBU1VlU3hMY2hOMGhjZ3JrdlhZbTRSVVh1bmFTcU5WVWpoeW9icGhqU0FYQ1lmWlhBM1k0bEwydVFMY1Awd2JFaTFHZnRQU2w0dEh5UVV4RDdBUnJCQ3QzaEpOQXRwOENLcjFmZw?oc=5",
+      "domain": "CNN الاقتصادية",
+      "source_url": "https://cnnbusinessarabic.com",
+      "date": "Wed, 18 Nov 2026 19:24:54 GMT",
+      "local_url": "/article-7e2bb16748e9.html"
+    },
     {
       "category": "technology",
       "title": "قادة التكنولوجيا في أوروبا يدعون الاتحاد الأوروبي إلى تحرك عاجل في ثورة الذكاء الاصطناعي",
@@ -14,14 +25,25 @@
     },
     {
       "category": "technology",
-      "title": "عاجل. - الجيش الإسرائيلي يبدأ عملية عسكرية بمحيط \"الخط الأصفر\" وسط قطاع غزة",
-      "description": "عاجل. - الجيش الإسرائيلي يبدأ عملية عسكرية بمحيط \"الخط الأصفر\" وسط قطاع غزة Euronews.com",
+      "title": "عاجل| رئيس إنفيديا السابق يوافق على الإدلاء بشهادته أمام لجان بمجلس النواب الأميركي",
+      "description": "عاجل| رئيس إنفيديا السابق يوافق على الإدلاء بشهادته أمام لجان بمجلس النواب الأميركي CNN الاقتصادية",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDFkb1FzQ2VaV3pCUVpfbDdJUTJXMHJIcjVrbmZEMkRlTWJtZFgyaDY2em5JcEQxcXVTY1J1MGlaalR1UmFJT3k3SVl4OVUwc0l3X0JYYm94WmlsLUVlYm9HOUZKR0E5YXpVYndpRXZ1MGdUb25XSnp5ZFB1alNpZElqblg1YUxwbzE4a05qb1JtX0JNTlhJX2ppaGFyLUpRV2RrUUFFVGxfSkloZGIyd0Z5RlhDNXBpaEhvYzhUZw?oc=5",
-      "domain": "Euronews.com",
-      "source_url": "https://arabic.euronews.com",
-      "date": "Wed, 18 Nov 2026 11:41:42 GMT",
-      "local_url": "/article-409d1967c80f.html"
+      "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxQMTlDbnFwSFJSamoyN3dVQl93TVdEU25LeTlRSXVweTBjR0FTbHJKd1hxRUxhNmdkM3FzT2VJUm50THF1d2tEQ1hfQURPWmpsV1lXeEk5d2dHRFRZcVVwaVMyQzlUcXRPNWRRc2pWVnZ3S3ZtQ193eklVZ2hYbTdVNHlUdGxqTnlqSUEteGJUUktJTDlQSEZYeFdoVmE2a3dwTmdpMHVKSzhMSmxBdTJhUmZhdVIxSHBnRHFyTTM5NFk5Qm1FSlZxSzVxS0NCUE9ZTVFkaDlQZ19UOC1zTVVoaDlHWGx5MFVTcDQtTVhhWWIxOEtDWGYtdjhUam8xZWpqVmpPZmR3TkxheGpfMG9JbFhXRDc1NVMzRjc2UGkxXzNWTzlZNmtIa1VDbEY3aWpkY09Kd29TLWlZTE1VNTZaNTREWVZYNldwT3FSUG9TbnJFdjdlM3hMNVdhSFlNZXBqc194ZUZsalpEbm5qNHo2R1UtYmt3dS1TZ1pzNkk4NkdtS09uVFhDVllzS202YnBLSDRjZ1VOMFhWX3hjZzg5OHFGazMtUHlzanpZMTNZRmtOdjU5bHJpUHY2cF8yNkhwUW43ci1DVndrWmg2a2N0UmtCQV95YktnQ1M4b1o4ZEQ3S05sanRVRkdFZ2RmTmlmSG9ONklEc3pNRlNlbDdlOE9IUldBckY0TG1MQnZZWUhuQzd1SjhvemRVUWQ4SkZ2RHUzdkgtalhYeW9pMGRlN2Q0cnBsSFBzdEMzaUZaWjN5NmZ1MmNseTY0Y2Fua2ozc1RlVVpyYXR2Q2NfSTNTUEZIYUg1VS1OZjJSSE9IQkl4cFJUWTA5S3BvYWxsVDBWdDNkRmRQaFgwX2NyMkJrWXZKLUVvVW9KczhzRVZRUE02OVQ1?oc=5",
+      "domain": "CNN الاقتصادية",
+      "source_url": "https://cnnbusinessarabic.com",
+      "date": "Tue, 17 Nov 2026 15:49:58 GMT",
+      "local_url": "/article-d7345dfe0005.html"
+    },
+    {
+      "category": "policy",
+      "title": "رئيس غانا يشيد بالعلاقات مع المغرب",
+      "description": "رئيس غانا يشيد بالعلاقات مع المغرب Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOVHZQVWI0UEVfQVZKT29Hd2x3RTVwNUZLZ3p1MzZBZnZyQ0VoZ1VzVUNiZmdVclVWSElla0NJNlAyYzhjYU04ZmpOd1VCdWdmQm1Vdlhha290TnVlX2p5eUJLdEg5Q2U2YWpEazJtZnJhNEhfNjNBdEZvOUwzMGNtYW16clNEcVRkZUtvWm1QNkJmVmRxOFBqbkZzZDFVS2RQRUo5VjhkRHBYdzg3anRBTEZfeExud3lfRm91VXJ5Y2F6YXdRMXNpWEdBZElWSklVSkJ1M2wyVlpBeE9pcFQ1anV5LS1jU3Q3ZFphQzhRRU1mR2g5eHV5cm9fNE5sLXY2OW81VGJCajFlaG5yeFFkTS1mYWRnZ2x3d3dyZkNaekVlWHBsblRQNGVWLUxITERfdVZSRF9lSnA0VUlPaXc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 18 Nov 2026 18:21:31 GMT",
+      "local_url": "/article-e959ca8b280e.html"
     },
     {
       "category": "policy",
@@ -68,15 +90,15 @@
       "local_url": "/article-c295bb289c0e.html"
     },
     {
-      "category": "international",
-      "title": "فيديو: Kristin Chenoweth تجلب WICKED إلى قلعة TRAITORS في إعلان الموسم الخامس",
-      "description": "فيديو: Kristin Chenoweth تجلب WICKED إلى قلعة TRAITORS في إعلان الموسم الخامس BroadwayWorld",
+      "category": "policy",
+      "title": "فرنسا - الجزائر : حسابات التجارة في ميزان السياسة؟ - وجها لوجه",
+      "description": "فرنسا - الجزائر : حسابات التجارة في ميزان السياسة؟ - وجها لوجه France 24",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEF6am5FUWVwd1VnUFpjcWF4YXB2anRnck80VXpYNXVOSlc0UlYyTXhzZXpINnlFRFJnbHRKRFN2ajZ6ZXRLOFBxUThtTUIzaTFpaDM0YmxDSVFZbTR1ZFJXNVM1akdDbWVoVWdKZWY1c1JwajA2VGs0b1lDQmV2N3FfNDVqbmVCaFdKMnhrYWxxeHE0UHUwalI5QnlicjI0S0NIMnRXYnZTRjBCQkFlSWZmSTNvamVBRXlkRG1fYlpUS19xdGJjUzJNLTQ?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Tue, 17 Nov 2026 19:33:15 GMT",
-      "local_url": "/article-6c0b4d23508b.html"
+      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNZk1PM3dZdzBTNUR3cmNzOXE1ZDV3RFRVQ2JSRTdJWUdIc0Q0MnpyelRhNHFhM1JRdTl4NkIzQ1ZDMmdNMUVtUzhUeHk0WkFNbGl0UFlkUU1UTk5rNGdIMkcwbW5kRXVEWEY3dUxGRTczQnZRY3BxR3ZtUzF4dl9kdnViX0hvamYzSXpmWFpwNnY5NXhTcWM1VXVIa1VKM1o3c1VNSzY4cVJHQXpRc0s0Vl9JcnZscHEydjNqZ095cE5rdWVXaXI4bGdMdnBJZzVWVW9od2VDc0NlTTduSjJBNXhTRDJDOGRLOVFNTGNqOHZRMmd4bnVpQ244OXpHcC11QkJqTkJpeElaTkFjZEZZV09zblJXM2YwMldQRmF6Z3ctemx1bW52STE1T1RiRENXclNEdE9FRWFOX2Y0cjgzQ0lvOUpDcjFGR09IWDcza0JJQ1NpT2VpeFRjc0s1WUk4Sk5sUkNWX2c2SjRrYVFWbkRPWE9Cb0VuLWhIeWVxYXhUZHdtaDV5RlMyZ1k4TUE0SURKZWtvMTNacVFLTm5EN1NEb0luTm5YUF9kNzF4VGJ3Mzl6SmxlT3BPOHZEaHQwSE5YRUtBcWh0eGlKeWNjR3ItV2x1a0tmbUwyU2FVNzBWRnpBeFJyQmZLb2Q2ZExock1Pc1NYMGlqQQ?oc=5",
+      "domain": "France 24",
+      "source_url": "https://www.france24.com",
+      "date": "Tue, 17 Nov 2026 09:24:59 GMT",
+      "local_url": "/article-c0c7477777c4.html"
     },
     {
       "category": "policy",
@@ -120,14 +142,14 @@
     },
     {
       "category": "policy",
-      "title": "رصيف الصحافة: المغرب متهم بكل شيء في الجزائر .. حتى أزمة البطاطس",
-      "description": "رصيف الصحافة: المغرب متهم بكل شيء في الجزائر .. حتى أزمة البطاطس Hespress",
+      "title": "شرف: السياحة الداخلية أولوية حكومية",
+      "description": "شرف: السياحة الداخلية أولوية حكومية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNbTRRZWpOVlBlXzVMSHFBR0tfc3FKUTdwUHotbkdXTV80eFkxRzlOdEFlcDZYSy1LZDJnU3g1WjFQN1VCbDdGeHNyOFVuOENMUm1XYmVhaFVkdzNZZTB4NHBpTmRmM2lHV0ZSNFBaeWFoQlBjTTNHSlBQVVp0RVJWX3kwNnFKSkFodWxzWFU4ckU2cmt5WW9JYlAyTEd4bmdCQVhBakktS05ZNDZqMHhGcmdLN2s3YnV5MDBUWnpXRzhReTFLWXd1UDkxby1VT0pwdnNyMk9XbGVzSk15QUpicWxXMHdDdlJqc3lBRnZFUHR5WVdpLW1NQTZ0M2tXem9KbkJSbzBoSjBieW1DVWVBX0NfczZMZGNNZENqb3FfalhjQjYzRVdQbFFEWnJhZ2tZNFAxM3ZCNi1ueFR3a3lVclpXTmRaWUlWQVVra3NmLUtHV283c1Q3ZQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPanhQYkVnZmFlVEYxa0dfTy1NdkRZYW0xY1hJZVZ3dmpfSno3QWRtSjZGandMaC1qSVN3TVdxYnlpSWVvT1pWazNJWHhDSm9VcjB1WUppRzk5OUxOSE95eUg2S21EWWlpXzFSS2FmSkc5Zkp2bmh0RVVjQVlrM3lxMEViVFhPbWZPekR1VEM5OHh3M3hHUm9qa2xuenI4Z1B3SWRVa0hhQVNfbTQyRUNEOE5vZ2RydU1UVUEzVWZDUGhnSGxUMTUydlpiVk5sS1pvaXJKNFBsNkRYUW1rM2w0a0R1TEZIaFhGVTFrNmVZZXNrZUZLa1VzQ05Fam5wUDV5YUN0bmprd0l1cEZMY3F1UlVnZXladkVnS1pkVWx0V09nNks2V3l0NGRwNENkaDZuQWxLOW9UYjlNeDN4WEg5WkJzN2s?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Mon, 16 Nov 2026 22:12:07 GMT",
-      "local_url": "/article-cd353d76e09b.html"
+      "date": "Mon, 16 Nov 2026 22:16:27 GMT",
+      "local_url": "/article-0065ffe84a7b.html"
     },
     {
       "category": "sports",
@@ -183,17 +205,6 @@
       "local_url": "/article-7ce368a652c5.html"
     },
     {
-      "category": "sports",
-      "title": "وهبي يعلن الأربعاء قائمة المنتخب المغربي لمواجهة النيجر",
-      "description": "وهبي يعلن الأربعاء قائمة المنتخب المغربي لمواجهة النيجر Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE15bEpKZER6LThNbTdEQjdmVDNWQVRlZGJGbGZFaklFaVlRT01VVkotSzM4bDVNRExxdmlDcERmVFUySURt?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Mon, 16 Nov 2026 17:28:00 GMT",
-      "local_url": "/article-8ddd49b93ca5.html"
-    },
-    {
       "category": "technology",
       "title": "الاتحاد الأوروبي يقترح قرضاً بـ45 مليار يورو لأوكرانيا وقمة في الصين تجمع ترامب وشي وبوتين",
       "description": "الاتحاد الأوروبي يقترح قرضاً بـ45 مليار يورو لأوكرانيا وقمة في الصين تجمع ترامب وشي وبوتين Euronews.com",
@@ -203,17 +214,6 @@
       "source_url": "https://arabic.euronews.com",
       "date": "Wed, 18 Nov 2026 17:02:21 GMT",
       "local_url": "/article-740b7bfb0aab.html"
-    },
-    {
-      "category": "technology",
-      "title": "«يو بي إس»: الأسهم الأميركية مرشحة للارتفاع 12% بحلول نهاية 2027",
-      "description": "«يو بي إس»: الأسهم الأميركية مرشحة للارتفاع 12% بحلول نهاية 2027 CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOMGpyUHRFRlJwdlV6OWVsTy1oS1UyMTVOcHY4eDNiOENoYzhtSXhRU2ducUZYOFJ5eHlhS21ic3FHXy1NOEc4SElobzJYcGQ1SUN1VFhKMU1WZE1ReERnMkpFai10Wmd0ZGQtMFlFSUJnZFRTQUZRMWhFTS1id1NTTldfUzZ1SHdlMUROVHdPY2RKMW1yWVBjcklram9XUW9zOW01Z2FZYnYtQUdKeGRSMS1VUDVWZDFfdnhmUWVZM01fbjZidnlpVlRCVnFrbENvYjVtUWhYbVBCSUFwdUw4YS14R3E2VVdJYTkzR1lVejdKM09LUEE1bVVkeHMtMG5EZno5bFpRdW1laFZmeWVBS3JVSnBWYVYtZV9Ya1V5N0UzZzhQWUZFOE1rR2thbTdnS2hoLVA5VWhJZFpPMWJGd2ZYdzVhZ3Znamtqb2NlRjJvNUJIWmkxTXpFeGk3M1MzV0Vxa1cxMGJFX0VCUlh4UjFSbUpNdjl5RUkyOEZmb1BrZjZPUmdVaXZFTHNkNm9DcFZNNVlJa0FueDZ1QVZVZDMwY3VoLU1ZTEVpcUVUanNxSG5KZXVtUXVHU0lYLUU0Nk9xSE9OUUpDMVFWU25hZHlZXzBlVTBoSkE?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Wed, 18 Nov 2026 13:00:12 GMT",
-      "local_url": "/article-5900d0ee9011.html"
     },
     {
       "category": "technology",
@@ -260,6 +260,39 @@
       "local_url": "/article-506997719399.html"
     },
     {
+      "category": "international",
+      "title": "Tunisie Telegraph بحضور ممثل عن السيسي ونجل الراحل جمال: الكونغرس الأميركي يمنح الميدالية الذهبية للسادات",
+      "description": "Tunisie Telegraph بحضور ممثل عن السيسي ونجل الراحل جمال: الكونغرس الأميركي يمنح الميدالية الذهبية للسادات Tunisie Telegraph",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQU1RTaVlYbFdxMGtxNWVITi1zaUdSb05GVmVsVkhuYWQxdnpKNWJRR3NDUWR3T0VURjFoUjhWQ002QktBVDRFSmZMYzd4a3NLRXJ4akRXWXF3YjRWSklNbTZidXdIQ01KM2JyQnVQdHJ1cFdrSm56Tmo0c0Q2enN0SlZVSmhsTEVHZUlGWVljcXh1MUFrampBY2tFd2pwTE1nYktJanliTkRnYkZLRUtLZ3hIU2dDZlF1MDVxeXJONXA5OFpod1ZPN2dmWWRSU1NSSm0tYUNGem5IbTkxUWxvMDVZN1d4VkZnZktSdXN5VVktSUotRDZoV214Y2xDRG9RQTlac085eEhCd3Ewa1M5SUFoSmc0RGw2TFZwM3VzWl9fLWhTU3NDbGhFUlFGWW5yZ2dlNEZKTzVUcGxZNkVpZlJKTlo3X0FvNW5wNG13RzdCeXZ3WFdhOXBNRXg5U1czMlprWHlxcXhPOFJ6SHJyam9HczZlLThKNmx1eXpDWFd3c3pHMkgxNGpMSmRIX0Q5UUJrZ2ZsU214eXVaakM0TlVCbFllM0VqZTBSUDd3?oc=5",
+      "domain": "Tunisie Telegraph",
+      "source_url": "https://tunisie-telegraph.com",
+      "date": "Wed, 18 Nov 2026 19:58:29 GMT",
+      "local_url": "/article-5cb0cab7d763.html"
+    },
+    {
+      "category": "international",
+      "title": "Tunisie Telegraph ندوة دولية في مونتريال تحت عنوان: أي مستقبل لتونس",
+      "description": "Tunisie Telegraph ندوة دولية في مونتريال تحت عنوان: أي مستقبل لتونس Tunisie Telegraph",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQVkhHdDQ3X1lSUWw4LTJzak5jdENBQWdtOXBGSWpBQUNnTlI0M1VjSW5mOVlYQU40M2Q0V3lLMlpSUHBNbXVSVjZ4d0tsRjdJZV9CQ19oNHNVOGFrbUUzMTQ1ckZsSGFoZWM1RW1YOTlteUExVjl5X1pFaXhHejFsTVdVS3NIcFFaTjBjV2tQam0yeURSUWE2RWtyVUVRb3RJTTdLTzFVLUI3b1Q0dzhxWEFfOE9pMW5sWno5dmxyd2owcUhDdmNGX2F1UlpwdmF2NEZjUm1iNDhyM0tDd0pCcEVXR0dyZ1AwNGNRTUpuSUdKbG1lQkZ1WVlsYlZLR3ZtZi0zaUVRdXk1ZjdxWWdJM1EzZWdzMkpZMERISDNBTTU2d1RzNXIyazZxVHhicXhCaFc1REtfVVVvczFqYXMxRDJoV1QyTDFfUzFaa3dQTEc0NTNXU3ZsTHJKdzlKODJ3RzJLNUt6VEQ4cFE1eWxjM1RsV0lyRWFIM0hHek1WNGU1OTBYYmVmLUthY3B2SFVMMjZ2VW42LVM5MExnZGxMQUVVLU5rMlI1OU54VzJn?oc=5",
+      "domain": "Tunisie Telegraph",
+      "source_url": "https://tunisie-telegraph.com",
+      "date": "Wed, 18 Nov 2026 19:47:11 GMT",
+      "local_url": "/article-e3da8d357374.html"
+    },
+    {
+      "category": "business",
+      "title": "الصناعة الدفاعية المغربية.. خارطة طريق ملكية لإحداث 50 ألف منصب شغل",
+      "description": "الصناعة الدفاعية المغربية.. خارطة طريق ملكية لإحداث 50 ألف منصب شغل Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZHRFV3VZc2ZJcEhUblFFQVlicTFRNHg2ZWhtNzZiYzlSWDBZWGFRdXJEOGhwd3dXOTFXdlBMZEhveUhDY2xjQk8tNmJwMGE1Zm8wZTQ5X3dRdmx6OTFscFpUWXRVeFJQa21nLVNDNGQwTmdVYXNGcE8yUHVJZnlRYXpaU3JNcXM5d3o5YWNiaWI4WldEYlV1RnRyOE81WUN0YTN6LUR6QjQxSDZhbXd1dGlvSVI2QVNmYjN0SzVFZWgxVS1Rd0l6Y09HUkU0Y1FlRGxnRXNLMjJwNFh3Q3pGYWlFNDlzSlYzQzVucDFZcnR5dHhNUG1MaW5XdWRDbGxNVkc1a3MzZTVjaTVUOFU0d1hnM2FJN0dQcDQtaGxOY3NPcnhfNU9GTnN3Ykl2Y09ZcjRLc0FGdUJaTkpKeEF2TjM1UkdsZ0R4T0x4TmY1MEVNaGM0?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 18 Nov 2026 18:03:56 GMT",
+      "local_url": "/article-0cb6469da611.html"
+    },
+    {
       "category": "business",
       "title": "صندوق النقد: الناتج الداخلي الخام يتجاوز 5000 دولار لأول مرة بالمغرب",
       "description": "صندوق النقد: الناتج الداخلي الخام يتجاوز 5000 دولار لأول مرة بالمغرب Hespress",
@@ -269,6 +302,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Wed, 18 Nov 2026 17:03:34 GMT",
       "local_url": "/article-b3edc4b47d01.html"
+    },
+    {
+      "category": "international",
+      "title": "Abigail Barlow وEmily Bear تقدمان سلسلة موسيقية جديدة على TikTok بعنوان TO DIE FOR LOVE",
+      "description": "Abigail Barlow وEmily Bear تقدمان سلسلة موسيقية جديدة على TikTok بعنوان TO DIE FOR LOVE BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbGpNd3RNMkFIWF9UNWs5YXdTVEY4cmgzWFBTeEo3cUxYaXBoTDhzSWtWSzZ0aWY4dWJGWk1IS25GWDJCT0w3MXlBT2Y4N2tnVUh3S3ZTVWpuSng0RXdaUkdFVGRvUU9TQ2J1ZDZTbXBDUjVtX2c4OXNFMERHWTNEMm03NndVOGNTM0Rfb2g0SnJ6YkdoOFdDZ20zM19zQ2RkOEk4NkY0dF90dWNHT0dXWVhNZUw5bHl5TXZZb050YjZMeXNUUGtmTHRiWi1ndlYx?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 18 Nov 2026 13:59:32 GMT",
+      "local_url": "/article-ce40ce78fe50.html"
     },
     {
       "category": "business",
@@ -327,6 +371,17 @@
     },
     {
       "category": "international",
+      "title": "NEWSREVUE يعود إلى Canal Café Theatre في لندن لموسم عيد الميلاد 2026",
+      "description": "NEWSREVUE يعود إلى Canal Café Theatre في لندن لموسم عيد الميلاد 2026 BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLVI4VWVXSXd3VXd3U1V2cURGX1lHR1RPb05IbFYyR3NoTUM0bDVGSks1WmRyYzZBdDhvM0dIbEQ4OUl2eEE3RTM4VWhSOWI0dnNEbkZDc0FjQ0JNMGhZZjBNNTBQVDhISVJjb2NWYzZTcFNuaUVKWHF2VHNQUGtLU1M2TDFMMnZVTktaRXFRNzhJTFhJekZSdWE4dlR3RjdDRDJ3SlVfTXhqRDFnSDNiNFp2TGVFaGVCbE5Md2t3?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 18 Nov 2026 00:11:16 GMT",
+      "local_url": "/article-43a12e76f566.html"
+    },
+    {
+      "category": "international",
       "title": "THE CONVERSATION يطرح تذاكر بسعر $39 عبر سحب رقمي",
       "description": "THE CONVERSATION يطرح تذاكر بسعر $39 عبر سحب رقمي BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -335,6 +390,17 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Tue, 17 Nov 2026 22:31:35 GMT",
       "local_url": "/article-15a5e0e3aafa.html"
+    },
+    {
+      "category": "international",
+      "title": "حصرياً: شاهد Lauren Ambrose في مشهد من THE UNBELIEVERS",
+      "description": "حصرياً: شاهد Lauren Ambrose في مشهد من THE UNBELIEVERS BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUpLcjI1ZnROYXdhWHNZTkxZNVBoLXdGWmgzbWhhcUlOdmM2VVNmdUFaeWY0cWNoRXBQTFNuY0p1ZE5jWmJTVndUQ21aY18xTjRzTnVNNjF4RVk4ajZkYVZkLVVacllIallqd2ktWnJWLTFZSzVlWXZnVU9aT3pSeFFIUnNVTzRlMEJla3hMenlacFlFNnJZdEhlYjBxZkFaRUkwWldpOVFnV2t4SUEtQmJ4YWk?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Tue, 17 Nov 2026 21:47:43 GMT",
+      "local_url": "/article-af41be456973.html"
     },
     {
       "category": "international",
@@ -360,17 +426,6 @@
     },
     {
       "category": "international",
-      "title": "صور: من احتفال CHICAGO بالذكرى الثلاثين",
-      "description": "صور: من احتفال CHICAGO بالذكرى الثلاثين BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3p4X1VwWF9EVFVZWnJhdG1aRkk3NGtwNXVHYXlKWmVTc0VoNnZZY3VBRkZYRlZ6anp6dWt0LUl0X0V0bFIxdUstWllfM2xoQkJJRkNmdzZ4NmtuMU8wTkFBYXU1TEtLc0JpcUc5Tlp1ZkxlbHpmRHR1TzltMWVxN1dObDZLNGVGS25udDBYb1l6U0VlQ1Q2bmZ4QUMzal95R25NTVFR?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Tue, 17 Nov 2026 18:52:22 GMT",
-      "local_url": "/article-0ba5f3ddf755.html"
-    },
-    {
-      "category": "international",
       "title": "GAZILLION BUBBLE SHOW تطلق أول جولة في أمريكا الشمالية",
       "description": "GAZILLION BUBBLE SHOW تطلق أول جولة في أمريكا الشمالية BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -390,28 +445,6 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Tue, 17 Nov 2026 16:06:04 GMT",
       "local_url": "/article-3f0514d4c428.html"
-    },
-    {
-      "category": "international",
-      "title": "فيديو: منتج The Lost Boys، Patrick Wilson، يحتفي بترشيح العرض لجائزة GRAMMY",
-      "description": "فيديو: منتج The Lost Boys، Patrick Wilson، يحتفي بترشيح العرض لجائزة GRAMMY BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWktnSk1ScHdpRjg3WlRzelNWLUNYaVFUbU9NVUFJZldsb0JPdEhFNHFfT1dxbUtleTJJVFo2dHRmU25QWEY2bWNsMnJvSnJydElDa1NaR1M3cUxPS1dKd00zUUVSX1JocTlFLW0zaUQwM3RubXZXZUdmTGw1eVlLeVpGLXRPWkRjV0t3VnF2MkxCTEpDRGVsMzdILXI2eEVFb1hvaTFFYmdBMzVWWmZTNGNLTWpDclNCMGVEM3NGSGdCekpzZ3kxQllqSThvaTQ?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Mon, 16 Nov 2026 20:31:54 GMT",
-      "local_url": "/article-886e78d83d4a.html"
-    },
-    {
-      "category": "international",
-      "title": "صور: Tichina Arnold وAly Michalka وCyrus Veyssi ينضمون إلى & JULIET على برودواي",
-      "description": "صور: Tichina Arnold وAly Michalka وCyrus Veyssi ينضمون إلى & JULIET على برودواي BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR0ZIRGlzOXV6NzhUS0ViNUlfLUg5Mk1nTnRVbTF0YnVzVjZsUE1rbFBLZG1nc0J0aWE5SDl6TjNwRkpaQnBPbHpIZFNHRXVFMVZNM1BlSm5LNzVkc0RpU09ERWp6MG16UWVXN2QyWElCcTZ3V0RwU1BBYXpzbUxkVWhrWEpFWHMwZkRvX2RSWVcxTDlCYWRoZXRXbGlYQTQ1R1ZBREFfVUlHVmVid0pCRzRRcU1EWWhQZGpkOGdSaEw1Yl9WaFE?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Mon, 16 Nov 2026 18:42:28 GMT",
-      "local_url": "/article-d23368dcee08.html"
     },
     {
       "category": "policy",
