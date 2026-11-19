@@ -32,7 +32,7 @@ jobs:
               print("::warning title=NewsMorocco OG image missing::Missing social image; news update will continue without image validation.")
           else:
               data = p.read_bytes()
-              if len(data) < 24 or data[:8].hex() != "89504e470d0a1a0a"
+              if len(data) < 24 or data[:8].hex() != "89504e470d0a1a0a":
                   print("::warning title=NewsMorocco OG image invalid::The homepage social image is not a valid PNG; news update continues.")
               else:
                   width, height = struct.unpack(">II", data[16:24])
@@ -90,14 +90,19 @@ jobs:
           print(f"Installed Monetag Light tag in {changed} HTML files.")
           PY
 
-      - name: Save generated news feed, article pages, archive and sitemap
+      - name: Save generated news feed, article pages, archive and sitemap (main only)
+        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- '*.html' news.json articles-index.json sitemap.xml
           if ! git diff --cached --quiet; then
-            git commit -m "Use Monetag Light tag"
-            git push
+            git commit -m "Update NewsMorocco generated content"
+            git push origin main
           else
             echo "No canonical, news feed, or Monetag changes."
           fi
+
+      - name: Branch safety notice (no commit, push, or deploy)
+        if: github.ref != 'refs/heads/main'
+        run: echo "Non-main manual run: generated changes are not committed, pushed, or published."
