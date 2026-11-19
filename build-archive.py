@@ -80,7 +80,7 @@ for path in sorted(Path(".").glob("article-*.html")):
     meta = clean(meta_match.group(1)) if meta_match else ""
 
     archive.append({
-        "category": category_from(meta + " " + title),
+        "category": category_from(meta + " " + title + " " + description),
         "title": title,
         "description": description,
         "image": image,
