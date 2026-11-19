@@ -32,7 +32,7 @@ jobs:
               print("::warning title=NewsMorocco OG image missing::Missing social image; news update will continue without image validation.")
           else:
               data = p.read_bytes()
-              if len(data) < 24 or data[:8] != b"\\x89PNG\\r\\n\\x1a\\n":
+              if len(data) < 24 or data[:8].hex() != "89504e470d0a1a0a"
                   print("::warning title=NewsMorocco OG image invalid::The homepage social image is not a valid PNG; news update continues.")
               else:
                   width, height = struct.unpack(">II", data[16:24])
