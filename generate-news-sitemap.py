@@ -63,8 +63,7 @@ def build():
     articles = data.get("articles", []) if isinstance(data, dict) else []
     now = datetime.now(timezone.utc)
     cutoff = now - WINDOW
-    eligible = []
-    seen = set()
+    eligible_by_url = {}
 
     for article in articles:
         if not isinstance(article, dict):
@@ -76,11 +75,11 @@ def build():
             continue
         if published < cutoff or published > now + timedelta(minutes=5):
             continue
-        if url in seen:
-            continue
-        seen.add(url)
-        eligible.append((published, title, url))
+        existing = eligible_by_url.get(url)
+        if existing is None or published > existing[0]:
+            eligible_by_url[url] = (published, title, url)
 
+    eligible = list(eligible_by_url.values())
     eligible.sort(key=lambda row: row[0], reverse=True)
     eligible = eligible[:MAX_URLS]
 
