@@ -30,10 +30,35 @@
 <script>
 const labels={morocco:'المغرب',world:'العالم',economy:'الاقتصاد',technology:'التكنولوجيا',sports:'الرياضة'};
 const legacy={policy:'morocco',general:'morocco',business:'economy',international:'world'};
+const validCategories=['morocco','world','economy','technology','sports'];
 const box=document.getElementById('articles');let all=[];
 function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function urlFor(s){if(!s)return '#';if(/^https?:\/\//i.test(s))return s;if(s.startsWith('/'))return s;return '/'+s;}
-function categoryOf(article){const value=String(article.category||'').toLowerCase();return legacy[value]||(['morocco','world','economy','technology','sports'].includes(value)?value:'morocco');}
+function categoryOf(article){
+  const value=String(article.category||'').toLowerCase().trim();
+  if(legacy[value])return legacy[value];
+  if(validCategories.includes(value))return value;
+  const text=(String(article.title||'')+' '+String(article.description||'')).toLowerCase();
+  if(/رياض|كرة|الوداد|الرجاء|المنتخب|كأس|مباراة|لاعب|فيفا|كاف|botafogo|futsal|sport|football/.test(text))return 'sports';
+  if(/اقتصاد|اقتصادي|بنك|استثمار|أسعار|الأسواق|النمو|الدرهم|مالية|ميزانية|business|economy/.test(text))return 'economy';
+  if(/تكنولوجيا|تقنية|ذكاء اصطناعي|رقمي|معلوميات|هاتف|برمج|technology|artificial intelligence/.test(text))return 'technology';
+  if(/المغرب|مغربي|مغربية|morocco|moroccan|ملك|الحكومة|حكومة|وزير|برلمان|انتخابات|حزب|سياسة|سياسي|الصحراء|policy/.test(text))return 'morocco';
+  if(/دولي|العالم|international|world|global/.test(text))return 'world';
+  return 'morocco';
+}
+function normalizedUrl(s){
+  const url=urlFor(s||'').trim();
+  if(url==='#')return url;
+  try{const parsed=new URL(url,window.location.origin);return parsed.pathname.replace(/\/$/,'')||'/';}catch(e){return url;}
+}
+function dedupeByUrl(items){
+  const seen=new Set();
+  return items.filter(item=>{
+    const key=normalizedUrl(item.url||item.local_url);
+    if(!key||key==='#'||seen.has(key))return false;
+    seen.add(key);return true;
+  });
+}
 function render(cat='all'){
   const items=cat==='all'?all:all.filter(a=>categoryOf(a)===cat);
   if(!items.length){box.innerHTML='<div class="status">لا توجد مقالات في هذا التصنيف.</div>';return;}
@@ -42,13 +67,13 @@ function render(cat='all'){
 async function load(){
   try{
     const [archiveResponse,priorityResponse]=await Promise.all([
-      fetch('/articles-index.json?v=20261119',{cache:'no-store'}),
-      fetch('/priority-news.json?v=20261119',{cache:'no-store'})
+      fetch('/articles-index.json',{cache:'no-store'}),
+      fetch('/priority-news.json',{cache:'no-store'})
     ]);
     if(!archiveResponse.ok)throw new Error('archive unavailable');
     const archive=await archiveResponse.json();
     const priority=priorityResponse.ok?await priorityResponse.json():{articles:[]};
-    all=[...(Array.isArray(priority.articles)?priority.articles:[]),...(Array.isArray(archive)?archive:[])];
+    all=dedupeByUrl([...(Array.isArray(priority.articles)?priority.articles:[]),...(Array.isArray(archive)?archive:[])]);
     render();
   }catch(error){box.innerHTML='<div class="status">تعذر تحميل أرشيف المقالات.</div>';}
 }
