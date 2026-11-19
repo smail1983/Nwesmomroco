@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19T07:05:49.146277+00:00",
+  "updated_at": "2026-11-19T07:19:01.851643+00:00",
   "articles": [
+    {
+      "category": "technology",
+      "title": "قادة التكنولوجيا في أوروبا يدعون الاتحاد الأوروبي إلى تحرك عاجل في ثورة الذكاء الاصطناعي",
+      "description": "قادة التكنولوجيا في أوروبا يدعون الاتحاد الأوروبي إلى تحرك عاجل في ثورة الذكاء الاصطناعي Euronews.com",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0F2OHcwbHVJU1lraVlFekNIaXQ3VDZjUlpDTlFCVjNDQU55RlJzV2JQWTVvUUNTQTEwMmZQa09sMGZpSmlESTQ3SzY2VjNRaXEtTy1Sd2JUNkNjamhTcHNfRDBoTEtYRHowY3RDZzBWWk81N2FTZlVXN0hBYllROHJqTXkxaXZNWFpPOXprUFFXVlE3am5ZenpPdDVEQXhXZkY5M0JTWVJ5ZTJvdnI4TWwwbGprd3NaMzdCczktbVdPZw?oc=5",
+      "domain": "Euronews.com",
+      "source_url": "https://arabic.euronews.com",
+      "date": "Wed, 18 Nov 2026 12:51:37 GMT",
+      "local_url": "/article-2172a7cb7b37.html"
+    },
     {
       "category": "policy",
       "title": "رئيس غانا يشيد بالعلاقات مع المغرب",
@@ -195,14 +206,14 @@
     },
     {
       "category": "general",
-      "title": "من حماية الحدود إلى صناعة السلاح.. المغرب يعيد رسم مفهوم السيادة",
-      "description": "من حماية الحدود إلى صناعة السلاح.. المغرب يعيد رسم مفهوم السيادة Hespress",
+      "title": "من حماية الحدود إلى صناعة السلاح .. المغرب يعيد رسم مفهوم السيادة",
+      "description": "من حماية الحدود إلى صناعة السلاح .. المغرب يعيد رسم مفهوم السيادة Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPLTFqcU1Jb2hXaDlfa2Zzb3p5UTd2NDdMYWdXZlZpMDgySjNKQl9jZ0ZEMnpzNTRkYmk3RFNVR18yUHZBVGcyLTFicUhlUWNxN210ZWl1cmJGOUE4aWIyZnA3cmozeTM1XzY2Y1JBU0N3WDUxOTJiQTFVSG5LZzB5dVFRWXNlZjZzcFQ0eEtQMDdzRWczOFFlcHZTWm9wSFZzTFVHMl9md0ZhT3VyUGp0VWtTZ3VUQTVrRVFfbFhoT3FJSnRJUW1NLVRYYUdYX0h0bHpjbkxrTUtDY0lQMl9pVElEdW41aUNCU1RBb1lfZWhiMEtVOEtGWDBmcGhMdlFPZG9aWHk0dFkxRFlvTkxxWlk2eUEwVjlFT1M4QWFWc2pVQUo3OEwtTnhjQ2NmaDhJV2R6Ri1GWVNlVzNaZlpJRmhmV1hQbjc2QjNzRFFHcEpkLWJ4UU1F?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
       "date": "Thu, 19 Nov 2026 01:03:29 GMT",
-      "local_url": "/article-659f7ce9f040.html"
+      "local_url": "/article-49ba32898aac.html"
     },
     {
       "category": "international",
@@ -214,17 +225,6 @@
       "source_url": "https://www.broadwayworld.com",
       "date": "Wed, 18 Nov 2026 21:24:11 GMT",
       "local_url": "/article-91f693cf838b.html"
-    },
-    {
-      "category": "business",
-      "title": "الصناعة الدفاعية المغربية.. خارطة طريق ملكية لإحداث 50 ألف منصب شغل",
-      "description": "الصناعة الدفاعية المغربية.. خارطة طريق ملكية لإحداث 50 ألف منصب شغل Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZHRFV3VZc2ZJcEhUblFFQVlicTFRNHg2ZWhtNzZiYzlSWDBZWGFRdXJEOGhwd3dXOTFXdlBMZEhveUhDY2xjQk8tNmJwMGE1Zm8wZTQ5X3dRdmx6OTFscFpUWXRVeFJQa21nLVNDNGQwTmdVYXNGcE8yUHVJZnlRYXpaU3JNcXM5d3o5YWNiaWI4WldEYlV1RnRyOE81WUN0YTN6LUR6QjQxSDZhbXd1dGlvSVI2QVNmYjN0SzVFZWgxVS1Rd0l6Y09HUkU0Y1FlRGxnRXNLMjJwNFh3Q3pGYWlFNDlzSlYzQzVucDFZcnR5dHhNUG1MaW5XdWRDbGxNVkc1a3MzZTVjaTVUOFU0d1hnM2FJN0dQcDQtaGxOY3NPcnhfNU9GTnN3Ykl2Y09ZcjRLc0FGdUJaTkpKeEF2TjM1UkdsZ0R4T0x4TmY1MEVNaGM0?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 18 Nov 2026 18:03:56 GMT",
-      "local_url": "/article-0cb6469da611.html"
     },
     {
       "category": "business",
@@ -291,17 +291,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Wed, 18 Nov 2026 06:03:35 GMT",
       "local_url": "/article-3db94e91183e.html"
-    },
-    {
-      "category": "international",
-      "title": "فيديو: Jennifer Lopez تستعيد بدايات مسيرتها في حوار مع Rachel Zegler في 92NY",
-      "description": "فيديو: Jennifer Lopez تستعيد بدايات مسيرتها في حوار مع Rachel Zegler في 92NY BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeThNVm5vYVpaUUZ3VHJ5M3NoOWxwdWM4RGhSazY1Z1pMaXNSRlUyeTl0Q3B0LWpaeXpUcUh2ZDNiZ2pBUFNzMm5xZTB1MndDQXY4b2R0dHJPT3lpUnFWTXVkZHk0ZXdnNlNNWkNvRnFuU193VkM0NmRIY01TS0s5Q3hMSVNYY0J4Z2RPTDlZU3pfTTQ4UVFFUmtpTzFqTGVNd1N5akJPOENzdDlYelhYZzhRY3lyWDU5RU9fbXo1b3BNVUk?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 18 Nov 2026 01:33:42 GMT",
-      "local_url": "/article-d6950c8a4a7e.html"
     },
     {
       "category": "international",
@@ -412,17 +401,6 @@
       "source_url": "https://tunisie-telegraph.com",
       "date": "Thu, 19 Nov 2026 06:58:15 GMT",
       "local_url": "/article-39d2bd06694c.html"
-    },
-    {
-      "category": "international",
-      "title": "Tunisie Telegraph تونس-من إستوديوهات التلفزة إلى قفص الإتهام.. عراف صنع الإعلام شهرته",
-      "description": "Tunisie Telegraph تونس-من إستوديوهات التلفزة إلى قفص الإتهام.. عراف صنع الإعلام شهرته Tunisie Telegraph",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOeFVVSFdna2E2d2FJUXNBRV9zOEVGWWo5cXhhdGZMV0NWcS1GQi11UWdVbXZSbmlqM1RJUjUwRmZxUHVjQXBaMFdQdmxIaTdwMG5yUk9NN0hieTdBM1VOM1BISGRnV0NaYjRYUGJ0cWhwalFTV2cxc25yV1NwTDJnYWk0VVZTZVlBWmd3QTNPQTZ6SFJPcm9fX0VVTFhQd04yZDd3NFBodHFoZHlLLXBULWxjNXd2X1dPRnVTb1h5RDBZUFNzcmM4NnQ5MWg5M1pRbXQxQnBkYWwzMFRPbWVJSFp0c0d5cVF1U3R0ZlVFdW5wN2VyTXBjdUFNeHlkMU5fbzNyd3dvb2N6OXRoN1BJLXBYRFdiSWZjRUs2RXJjWWtrM1dmbUNCSUVkNlo3Rm93SUIyRTV6dmxFc0lCT3k0NXM3R1V2M0xldzl5cnJpUW5KMUkxbUFwYXAtVl94OHR1TjVKRWNVdV9FZm1KYTE0UlA2cTJBTjZYWXBXcUdrZEVlZzc0ODNYbDJPWlh2SHRYYUdhSmVHczRNR1lQbjlacF84ZFkyWU9UMUpuMw?oc=5",
-      "domain": "Tunisie Telegraph",
-      "source_url": "https://tunisie-telegraph.com",
-      "date": "Thu, 19 Nov 2026 06:24:37 GMT",
-      "local_url": "/article-e278982448c0.html"
     },
     {
       "category": "business",
