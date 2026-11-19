@@ -1,73 +1,112 @@
+import hashlib
 import html
 import json
 import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-import hashlib
 
-# NewsMorocco priorities: Moroccan breaking/politics first, Moroccan sports,
-# technology/AI, then important international news.
+# Canonical category keys used by news.json and every generated article page.
 FEEDS = {
-    "policy": [
+    "morocco": [
         "عاجل المغرب سياسة حكومة ملك", "أخبار المغرب اليوم سياسة", "البرلمان المغربي اليوم",
-        "الحكومة المغربية اليوم", "Morocco politics breaking news", "Morocco government news"
-    ],
-    "sports": [
-        "عاجل الرياضة المغرب", "المنتخب المغربي اليوم", "كرة القدم المغربية اليوم",
-        "الرجاء الوداد الجيش الملكي المغرب", "Morocco football breaking", "Morocco sports today"
-    ],
-    "general": [
+        "الحكومة المغربية اليوم", "Morocco politics breaking news", "Morocco government news",
         "عاجل المغرب", "آخر أخبار المغرب اليوم", "أخبار المغرب اليوم عاجل",
-        "Morocco breaking news today", "Morocco latest news"
+        "Morocco breaking news today", "Morocco latest news",
+    ],
+    "world": [
+        "عاجل العالم اليوم", "أهم الأخبار الدولية اليوم", "international breaking news today",
+        "world breaking news today", "Reuters world breaking news",
+    ],
+    "economy": [
+        "عاجل اقتصاد المغرب اليوم", "اقتصاد المغرب اليوم", "الأسواق المغرب اليوم",
+        "Morocco economy breaking news", "Morocco business today",
     ],
     "technology": [
         "عاجل الذكاء الاصطناعي اليوم", "أخبار الذكاء الاصطناعي AI اليوم", "تكنولوجيا اليوم",
         "الذكاء الاصطناعي المغرب", "AI breaking news", "artificial intelligence latest news",
-        "technology breaking news"
+        "technology breaking news",
     ],
-    "business": [
-        "عاجل اقتصاد المغرب اليوم", "اقتصاد المغرب اليوم", "الأسواق المغرب اليوم",
-        "Morocco economy breaking news", "Morocco business today"
+    "sports": [
+        "عاجل الرياضة المغرب", "المنتخب المغربي اليوم", "كرة القدم المغربية اليوم",
+        "الرجاء الوداد الجيش الملكي المغرب", "Morocco football breaking", "Morocco sports today",
     ],
-    "international": [
-        "عاجل العالم اليوم", "أهم الأخبار الدولية اليوم", "international breaking news today",
-        "world breaking news today", "Reuters world breaking news"
-    ]
+}
+NORMALIZED_CATEGORIES = set(FEEDS)
+LEGACY_CATEGORY_MAP = {
+    "policy": "morocco",
+    "general": "morocco",
+    "business": "economy",
+    "international": "world",
 }
 
 SITE_URL = "https://www.nwesmomroco.com"
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
 RECENT_DAYS = 2
-
-# Prefer established news agencies and reputable Moroccan/international outlets.
 TRUSTED_SOURCES = {
     "reuters", "associated press", "ap", "afp", "bbc", "al jazeera", "france 24",
     "snrt", "map", "maghress", "hespress", "le360", "telquel", "medias24",
     "2m", "alyaoum24", "h24info", "le matin", "assabah", "l economiste",
     "morocco world news", "the guardian", "financial times", "bloomberg", "cnn",
-    "dw", "euronews", "politico", "the associated press"
+    "dw", "euronews", "politico", "the associated press",
 }
-
-# Headlines containing these terms are treated cautiously and heavily penalized.
 RUMOR_TERMS = re.compile(
     r"شائعة|إشاعة|غير مؤكد|لم يتأكد|قد يكون|يُعتقد|يعتقد|ربما|أنباء غير مؤكدة|مصدر مجهول|"
     r"rumou?r|unconfirmed|alleged|allegedly|speculation|possibly|may have",
-    re.IGNORECASE
+    re.IGNORECASE,
 )
-
 URGENT_TERMS = re.compile(r"عاجل|آخر الأخبار|breaking|urgent|latest|now|today", re.IGNORECASE)
+MOROCCO_TERMS = re.compile(
+    r"المغرب|مغربي|مغربية|المغربية|morocco|moroccan|سياسة|سياسي|حكومة|الملك|ملك|"
+    r"البرلمان|وزير|الصحراء|policy",
+    re.IGNORECASE,
+)
+SPORTS_TERMS = re.compile(r"رياضة|كرة|الوداد|الرجاء|المنتخب|كأس|مباراة|لاعب|فيفا|كاف|sport|football|futsal", re.I)
+ECONOMY_TERMS = re.compile(r"اقتصاد|اقتصادي|business|economy|أسعار|الأسواق|استثمار|ميزانية", re.I)
+TECH_TERMS = re.compile(r"تكنولوجيا|تقنية|technology|ذكاء اصطناعي|artificial intelligence", re.I)
+WORLD_TERMS = re.compile(r"دولي|العالم|international|world news|global|world", re.I)
+
+
+def normalize_category(category, title="", description=""):
+    """Return a canonical key; Moroccan stories outrank international references."""
+    legacy = str(category or "").strip().lower()
+    if legacy in LEGACY_CATEGORY_MAP:
+        category = LEGACY_CATEGORY_MAP[legacy]
+    elif legacy in NORMALIZED_CATEGORIES:
+        category = legacy
+    else:
+        category = ""
+
+    text = f"{title or ''} {description or ''}"
+    if category == "world" and MOROCCO_TERMS.search(text):
+        return "morocco"
+    if category:
+        return category
+
+    if SPORTS_TERMS.search(text):
+        return "sports"
+    if ECONOMY_TERMS.search(text):
+        return "economy"
+    if TECH_TERMS.search(text):
+        return "technology"
+    if MOROCCO_TERMS.search(text):
+        return "morocco"
+    if WORLD_TERMS.search(text):
+        return "world"
+    return "morocco"
 
 
 def fetch_feed(query):
     query = f"{query} when:{RECENT_DAYS}d"
     params = urllib.parse.urlencode({"q": query, "hl": "ar", "gl": "MA", "ceid": "MA:ar"})
-    url = "https://news.google.com/rss/search?" + params
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 NewsMorocco/5.0"})
-    with urllib.request.urlopen(req, timeout=25) as response:
+    request = urllib.request.Request(
+        "https://news.google.com/rss/search?" + params,
+        headers={"User-Agent": "Mozilla/5.0 NewsMorocco/5.0"},
+    )
+    with urllib.request.urlopen(request, timeout=25) as response:
         return response.read()
 
 
@@ -122,25 +161,20 @@ def is_recent(pub_date):
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt >= datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)
-    except Exception:
+    except (TypeError, ValueError, OverflowError):
         return False
 
 
 def article_score(article):
+    score = 12 if source_is_trusted(article.get("domain", "")) else -6
     title = article.get("title", "")
-    source = article.get("domain", "")
-    score = 0
-    if source_is_trusted(source):
-        score += 12
-    else:
-        score -= 6
     if URGENT_TERMS.search(title):
         score += 5
     if RUMOR_TERMS.search(title):
         score -= 30
-    category = article.get("category")
-    # Keep the site's main editorial priorities visible in the feed.
-    score += {"policy": 10, "sports": 9, "technology": 8, "general": 7, "business": 5, "international": 5}.get(category, 0)
+    score += {"morocco": 10, "sports": 9, "technology": 8, "economy": 5, "world": 5}.get(
+        normalize_category(article.get("category"), title, article.get("description", "")), 0
+    )
     return score
 
 
@@ -160,8 +194,9 @@ def write_article_page(article):
     source = clean_text(article.get("domain") or "المصدر الأصلي")
     source_link = article.get("url") or "#"
     image = article.get("image") or FALLBACK_IMAGE
+    category = normalize_category(article.get("category"), title, description)
+    article["category"] = category
 
-    # Remove a duplicated headline from RSS snippets before evaluating article quality.
     if description.lower().startswith(title.lower()):
         description = description[len(title):].strip(" .:-–—|")
     if not description:
@@ -173,28 +208,20 @@ def write_article_page(article):
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
         published = parsed.astimezone(timezone.utc).isoformat()
-    except Exception:
+    except (TypeError, ValueError, OverflowError):
         published = datetime.now(timezone.utc).isoformat()
 
-    # Short RSS-only pages should remain discoverable through links, but not enter
-    # Google's index until an editor adds meaningful original reporting.
     indexable = len(description) >= 180
     robots = "index, follow, max-image-preview:large" if indexable else "noindex, follow"
     modified = datetime.now(timezone.utc).isoformat()
     page_url = f"{SITE_URL}/{path.name}"
     schema = {
-        "@context": "https://schema.org",
-        "@type": "NewsArticle",
-        "headline": title,
-        "description": description[:300],
-        "image": [image],
-        "datePublished": published,
-        "dateModified": modified,
-        "inLanguage": "ar",
-        "articleSection": article.get("category", "أخبار"),
+        "@context": "https://schema.org", "@type": "NewsArticle", "headline": title,
+        "description": description[:300], "image": [image], "datePublished": published,
+        "dateModified": modified, "inLanguage": "ar", "articleSection": category,
         "author": {"@type": "Organization", "name": "NewsMorocco", "url": SITE_URL},
         "publisher": {"@type": "Organization", "name": "NewsMorocco", "url": SITE_URL},
-        "mainEntityOfPage": {"@type": "WebPage", "@id": page_url}
+        "mainEntityOfPage": {"@type": "WebPage", "@id": page_url},
     }
     content = f'''<!DOCTYPE html>
 <html lang="ar" dir="rtl">
@@ -220,41 +247,29 @@ def write_article_page(article):
 <meta name="twitter:image" content="{esc(image)}">
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
 <style>
-*{{box-sizing:border-box}}
-body{{margin:0;background:#f5f7f9;color:#17212b;font-family:Arial,sans-serif;line-height:1.9}}
-header{{background:#17212b;padding:16px;text-align:center}}
-header a{{color:#fff;text-decoration:none;font-weight:700;font-size:22px}}
-main{{max-width:820px;margin:25px auto;padding:0 16px}}
-article{{background:#fff;border-radius:16px;padding:22px;box-shadow:0 3px 15px rgba(0,0,0,.07)}}
-h1{{font-size:30px;line-height:1.5;margin-top:0}}
-.meta{{color:#777;font-size:14px;margin-bottom:18px}}
-.hero{{width:100%;max-height:480px;object-fit:cover;border-radius:12px}}
-.summary{{font-size:19px;margin:22px 0;white-space:pre-line}}
+*{{box-sizing:border-box}}body{{margin:0;background:#f5f7f9;color:#17212b;font-family:Arial,sans-serif;line-height:1.9}}
+header{{background:#17212b;padding:16px;text-align:center}}header a{{color:#fff;text-decoration:none;font-weight:700;font-size:22px}}
+main{{max-width:820px;margin:25px auto;padding:0 16px}}article{{background:#fff;border-radius:16px;padding:22px;box-shadow:0 3px 15px rgba(0,0,0,.07)}}
+h1{{font-size:30px;line-height:1.5;margin-top:0}}.meta{{color:#777;font-size:14px;margin-bottom:18px}}
+.hero{{width:100%;max-height:480px;object-fit:cover;border-radius:12px}}.summary{{font-size:19px;margin:22px 0;white-space:pre-line}}
 .source{{display:inline-block;background:#17212b;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none}}
 .notice{{background:#f4f6f8;border-right:4px solid #087f5b;padding:12px 15px;border-radius:8px;color:#475467}}
-.back{{display:inline-block;margin-top:18px;color:#1769aa;text-decoration:none}}
-@media(max-width:600px){{h1{{font-size:23px}}.summary{{font-size:17px}}}}
+.back{{display:inline-block;margin-top:18px;color:#1769aa;text-decoration:none}}@media(max-width:600px){{h1{{font-size:23px}}.summary{{font-size:17px}}}}
 </style>
 </head>
-<body>
-<header><a href="/">NewsMorocco</a></header>
-<main><article>
-<h1>{esc(title)}</h1>
-<div class="meta">{esc(source)}{(" • " + esc(raw_date)) if raw_date else ""}</div>
-<img class="hero" src="{esc(image)}" alt="{esc(title)}" loading="eager">
-<h2>ملخص الخبر</h2>
+<body><header><a href="/">NewsMorocco</a></header><main><article>
+<h1>{esc(title)}</h1><div class="meta">{esc(source)}{(" • " + esc(raw_date)) if raw_date else ""}</div>
+<img class="hero" src="{esc(image)}" alt="{esc(title)}" loading="eager"><h2>ملخص الخبر</h2>
 <p class="summary">{esc(description)}</p>
-<p class="notice">للاطلاع على التفاصيل الكاملة والتصريحات الأصلية، يرجى الرجوع إلى المصدر المذكور أدناه. يعمل فريق NewsMorocco على إضافة التغطية والتحقق التحريري قبل اعتماد الأخبار الموسعة.</p>
+<p class="notice">للاطلاع على التفاصيل الكاملة والتصريحات الأصلية، يرجى الرجوع إلى المصدر المذكور أدناه.</p>
 <a class="source" href="{esc(source_link)}" target="_blank" rel="noopener noreferrer nofollow">قراءة المصدر الأصلي: {esc(source)}</a>
 <br><a class="back" href="/">← العودة إلى آخر الأخبار</a>
-</article></main>
-</body>
-</html>'''
+</article></main></body></html>'''
     path.write_text(content, encoding="utf-8")
+
 
 articles_by_category = {category: [] for category in FEEDS}
 seen = set()
-
 for category, queries in FEEDS.items():
     category_seen = set()
     for query in queries:
@@ -270,20 +285,18 @@ for category, queries in FEEDS.items():
                 title = clean_title(raw_title, source)
                 if not title or not url or not pub_date or len(title.strip()) < 25 or title.strip() == clean_text(source).strip():
                     continue
-                if RUMOR_TERMS.search(title):
+                if RUMOR_TERMS.search(title) or not is_recent(pub_date) or url in seen or url in category_seen:
                     continue
-                if not is_recent(pub_date) or url in seen or url in category_seen:
-                    continue
-                # Skip low-confidence sources for the automatic feed.
                 if not source_is_trusted(source):
                     continue
+                description = item_description(item, title, source)
+                normalized_category = normalize_category(category, title, description)
                 category_seen.add(url)
                 seen.add(url)
-                articles_by_category[category].append({
-                    "category": category, "title": title,
-                    "description": item_description(item, title, source),
+                articles_by_category[normalized_category].append({
+                    "category": normalized_category, "title": title, "description": description,
                     "image": item_image(item), "url": url, "domain": source,
-                    "source_url": source_url, "date": pub_date
+                    "source_url": source_url, "date": pub_date,
                 })
         except Exception as exc:
             print("Warning:", category, query, exc)
@@ -293,7 +306,11 @@ try:
     with open("manual-news.json", "r", encoding="utf-8") as f:
         loaded_manual = json.load(f)
         if isinstance(loaded_manual, list):
-            manual_articles = [item for item in loaded_manual if isinstance(item, dict) and item.get("title") and item.get("url")]
+            manual_articles = [
+                {**item, "category": normalize_category(item.get("category"), item.get("title", ""), item.get("description", ""))}
+                for item in loaded_manual
+                if isinstance(item, dict) and item.get("title") and item.get("url")
+            ]
 except FileNotFoundError:
     pass
 
@@ -306,6 +323,8 @@ for category in FEEDS:
 
 generated_articles = [item for item in articles if item.get("url") not in manual_urls]
 articles = manual_articles + generated_articles[:max(0, 80 - len(manual_articles))]
+for article in articles:
+    article["category"] = normalize_category(article.get("category"), article.get("title", ""), article.get("description", ""))
 articles.sort(key=lambda x: (article_score(x), x.get("date", "")), reverse=True)
 
 if not articles:
@@ -322,7 +341,6 @@ with open("news.json", "w", encoding="utf-8") as f:
 
 def build_sitemap():
     today = datetime.now(timezone.utc).date().isoformat()
-    # Keep utility/legal pages out of the editorial sitemap.
     urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today)]
     for path in sorted(Path(".").glob("article-*.html")):
         page = path.read_text(encoding="utf-8", errors="ignore")
@@ -335,7 +353,8 @@ def build_sitemap():
     rows.append("</urlset>")
     Path("sitemap.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
+
 build_sitemap()
 print("Fetched", len(articles), "trusted articles and generated first-party pages.")
-print("By category:", {k: len(v) for k, v in articles_by_category.items()})
+print("By category:", {key: len(value) for key, value in articles_by_category.items()})
 print("Sitemap refreshed.")
