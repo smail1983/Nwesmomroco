@@ -29,17 +29,17 @@ jobs:
           import struct
           p = Path("news-morocco-og-1200x630.png")
           if not p.is_file():
-              print("::warning title=NewsMorocco OG image missing::Missing fallback image; news update continues.The required file news-morocco-og-1200x630.png is missing. Upload it to the repository root before the news update can continue.")
-              pass  # warning only; continue news update
-          data = p.read_bytes()
-          if len(data) < 24 or data[:8] != b"\x89PNG\r\n\x1a\n":
-              print("::warning title=NewsMorocco OG image invalid::Invalid PNG; news update continues.The homepage social image is not a valid PNG file.")
-              pass  # warning only; continue news update
-          width, height = struct.unpack(">II", data[16:24])
-          if (width, height) != (1200, 630):
-              print(f"::warning title=NewsMorocco OG image dimensions invalid::Wrong dimensions; news update continues.Expected 1200x630, found {width}x{height}.")
-              pass  # warning only; continue news update
-          print(f"OG image asset verified: {width}x{height}, {len(data)} bytes.")
+              print("::warning title=NewsMorocco OG image missing::Missing social image; news update will continue without image validation.")
+          else:
+              data = p.read_bytes()
+              if len(data) < 24 or data[:8] != b"\\x89PNG\\r\\n\\x1a\\n":
+                  print("::warning title=NewsMorocco OG image invalid::The homepage social image is not a valid PNG; news update continues.")
+              else:
+                  width, height = struct.unpack(">II", data[16:24])
+                  if (width, height) != (1200, 630):
+                      print(f"::warning title=NewsMorocco OG image dimensions invalid::Expected 1200x630, found {width}x{height}; news update continues.")
+                  else:
+                      print(f"OG image verified: {width}x{height}, {len(data)} bytes.")
           PY
 
       - name: Fetch latest Moroccan breaking news
