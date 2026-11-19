@@ -31,7 +31,7 @@ jobs:
           if not p.is_file():
               raise SystemExit("Missing homepage OG image: news-morocco-og-1200x630.png")
           data = p.read_bytes()
-          if len(data) < 24 or if len(data) < 24 or data[:8] != b"\x89PNG\r\n\x1a\n":
+          if len(data) < 24 or data[:8] != b"\x89PNG\r\n\x1a\n":
               raise SystemExit("OG image is not a valid PNG file")
           width, height = struct.unpack(">II", data[16:24])
           if (width, height) != (1200, 630):
