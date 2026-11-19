@@ -41,6 +41,7 @@ FEEDS = {
 
 SITE_URL = "https://www.nwesmomroco.com"
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
+OG_FALLBACK_IMAGE = f"{SITE_URL}/news-morocco-og-1200x630.png"
 RECENT_DAYS = 2
 
 # Prefer established news agencies and reputable Moroccan/international outlets.
@@ -105,7 +106,7 @@ def item_image(item):
                 return url
     description = text_of(item, "description")
     match = re.search(r'<img[^>]+(?:src|url)=["\']([^"\']+)', description, flags=re.I)
-    return match.group(1) if match else FALLBACK_IMAGE
+    return match.group(1) if match else OG_FALLBACK_IMAGE
 
 
 def item_description(item, title, source):
@@ -159,7 +160,8 @@ def write_article_page(article):
     description = clean_text(article.get("description") or "")
     source = clean_text(article.get("domain") or "المصدر الأصلي")
     source_link = article.get("url") or "#"
-    image = article.get("image") or FALLBACK_IMAGE
+    image = article.get("image") or OG_FALLBACK_IMAGE
+    social_image = image if not re.search(r"\.svg(?:[?#]|$)", image, re.IGNORECASE) else OG_FALLBACK_IMAGE
 
     # Remove a duplicated headline from RSS snippets before evaluating article quality.
     if description.lower().startswith(title.lower()):
@@ -187,7 +189,7 @@ def write_article_page(article):
         "@type": "NewsArticle",
         "headline": title,
         "description": description[:300],
-        "image": [image],
+        "image": [social_image],
         "datePublished": published,
         "dateModified": modified,
         "inLanguage": "ar",
@@ -211,13 +213,15 @@ def write_article_page(article):
 <meta property="og:url" content="{esc(page_url)}">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description[:200] or title)}">
-<meta property="og:image" content="{esc(image)}">
+<meta property="og:image" content="{esc(social_image)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="article:published_time" content="{esc(published)}">
 <meta property="article:modified_time" content="{esc(modified)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(description[:200] or title)}">
-<meta name="twitter:image" content="{esc(image)}">
+<meta name="twitter:image" content="{esc(social_image)}">
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
 <style>
 *{{box-sizing:border-box}}
@@ -241,7 +245,7 @@ h1{{font-size:30px;line-height:1.5;margin-top:0}}
 <main><article>
 <h1>{esc(title)}</h1>
 <div class="meta">{esc(source)}{(" • " + esc(raw_date)) if raw_date else ""}</div>
-<img class="hero" src="{esc(image)}" alt="{esc(title)}" loading="eager">
+<img class="hero" src="{esc(image)}" alt="{esc(title)}" loading="eager" width="1200" height="630">
 <h2>ملخص الخبر</h2>
 <p class="summary">{esc(description)}</p>
 <p class="notice">للاطلاع على التفاصيل الكاملة والتصريحات الأصلية، يرجى الرجوع إلى المصدر المذكور أدناه. يعمل فريق NewsMorocco على إضافة التغطية والتحقق التحريري قبل اعتماد الأخبار الموسعة.</p>
