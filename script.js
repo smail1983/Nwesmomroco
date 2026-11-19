@@ -3,15 +3,23 @@ const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
 const sectionTitle = document.getElementById("sectionTitle");
 
+const CATEGORIES = new Set(["morocco", "world", "economy", "technology", "sports"]);
+const LEGACY_CATEGORIES = {
+  policy: "morocco",
+  general: "morocco",
+  business: "economy",
+  international: "world"
+};
+
 let allNews = [];
-let currentCategory = "general";
+let currentCategory = "morocco";
 
 const categoryLabels = {
-  general: "أحدث الأخبار المغربية",
-  policy: "أخبار السياسة المغربية",
-  business: "أخبار الاقتصاد المغربي",
-  technology: "أخبار التكنولوجيا في المغرب",
-  sports: "أبرز أخبار الرياضة المغربية"
+  morocco: "أخبار المغرب",
+  world: "أخبار العالم",
+  economy: "أخبار الاقتصاد",
+  technology: "أخبار التكنولوجيا",
+  sports: "أخبار الرياضة"
 };
 
 const featuredNews = {
@@ -26,11 +34,11 @@ const featuredNews = {
 
 const genericNewsImage = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80";
 const categoryImages = {
-  sports: ["https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=900&q=80"],
-  business: ["https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&q=80"],
-  technology: ["https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80"],
-  general: [genericNewsImage, "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1504711331083-9c895941bf81?auto=format&fit=crop&w=900&q=80"],
-  policy: ["https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1555848962-6e79363ec58f?auto=format&fit=crop&w=900&q=80"]
+  sports: ["https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=900&q=80"],
+  economy: ["https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=900&q=80"],
+  technology: ["https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80", "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=900&q=80"],
+  morocco: [genericNewsImage, "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=900&q=80"],
+  world: [genericNewsImage, "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=900&q=80"]
 };
 
 function sortByDate(articles) {
@@ -38,14 +46,18 @@ function sortByDate(articles) {
 }
 
 function normalizeCategory(article) {
-  if (!article) return "general";
-  if (["sports", "business", "technology", "policy"].includes(article.category)) return article.category;
+  if (!article) return "morocco";
+  const storedCategory = String(article.category || "").toLowerCase();
+  if (LEGACY_CATEGORIES[storedCategory]) return LEGACY_CATEGORIES[storedCategory];
+  if (CATEGORIES.has(storedCategory)) return storedCategory;
+
   const text = `${article.title || ""} ${article.description || ""}`.toLowerCase();
-  if (/رياض|كرة|الوداد|الرجاء|المنتخب|كأس|مباراة|لاعب|فيفا|كاف|botafogo|futsal/.test(text)) return "sports";
-  if (/اقتصاد|اقتصادي|بنك|استثمار|أسعار|الأسواق|النمو|الدرهم|مالية|ميزانية/.test(text)) return "business";
-  if (/تكنولوجيا|تقنية|ذكاء اصطناعي|رقمي|معلوميات|هاتف|برمج|tech|ai /.test(text)) return "technology";
-  if (/ملك|الملك|الحكومة|حكومة|وزير|برلمان|انتخابات|حزب|سياسة|سياسي|العثماني|بنكيران|الصحراء|الأمم المتحدة|إسبانيا|مشاورات|الدورة التشريعية/.test(text)) return "policy";
-  return "general";
+  if (/رياض|كرة|الوداد|الرجاء|المنتخب|كأس|مباراة|لاعب|فيفا|كاف|botafogo|futsal|sport|football/.test(text)) return "sports";
+  if (/اقتصاد|اقتصادي|بنك|استثمار|أسعار|الأسواق|النمو|الدرهم|مالية|ميزانية|business|economy/.test(text)) return "economy";
+  if (/تكنولوجيا|تقنية|ذكاء اصطناعي|رقمي|معلوميات|هاتف|برمج|technology|artificial intelligence/.test(text)) return "technology";
+  if (/المغرب|مغربي|مغربية|morocco|moroccan|ملك|الحكومة|حكومة|وزير|برلمان|انتخابات|حزب|سياسة|سياسي|العثماني|بنكيران|الصحراء|policy/.test(text)) return "morocco";
+  if (/دولي|العالم|international|world|global/.test(text)) return "world";
+  return "morocco";
 }
 
 function prepareArticles(articles) {
@@ -55,7 +67,7 @@ function prepareArticles(articles) {
 function getNewsImage(article, index) {
   const image = article.image || "";
   if (image && image !== genericNewsImage) return image;
-  const images = categoryImages[normalizeCategory(article)] || categoryImages.general;
+  const images = categoryImages[normalizeCategory(article)] || categoryImages.morocco;
   return images[index % images.length];
 }
 
@@ -66,7 +78,7 @@ function showLoading(message) {
 function displayNews(articles) {
   if (!newsContainer) return;
   newsContainer.innerHTML = "";
-  const valid = articles.filter(a => a && a.title && a.url);
+  const valid = articles.filter(article => article && article.title && article.url);
   if (!valid.length) {
     newsContainer.innerHTML = '<div class="empty">لا توجد أخبار متاحة حاليًا في هذا القسم.</div>';
     return;
@@ -83,17 +95,15 @@ function displayNews(articles) {
     content.className = "news-content";
     const badge = document.createElement("div");
     badge.className = "news-category";
-    badge.textContent = categoryLabels[normalizeCategory(article)] || "أخبار المغرب";
-    const h3 = document.createElement("h3");
-    h3.textContent = article.title;
-    const p = document.createElement("p");
-    p.textContent = article.description || ("المصدر: " + (article.domain || ""));
-    const a = document.createElement("a");
-    a.href = article.url;
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
-    a.textContent = "اقرأ الخبر كاملًا ←";
-    content.append(badge, h3, p, a);
+    badge.textContent = categoryLabels[normalizeCategory(article)];
+    const heading = document.createElement("h3");
+    heading.textContent = article.title;
+    const summary = document.createElement("p");
+    summary.textContent = article.description || ("المصدر: " + (article.domain || ""));
+    const link = document.createElement("a");
+    link.href = article.local_url || article.url;
+    link.textContent = "اقرأ الخبر كاملًا ←";
+    content.append(badge, heading, summary, link);
     card.append(img, content);
     newsContainer.appendChild(card);
   });
@@ -116,38 +126,23 @@ async function fetchJsonWithTimeout(url, timeoutMs = 8000) {
 
 function moveLatestNewsToTop() {
   if (!newsContainer) return;
-  const main = document.querySelector("main");
-  const title = main?.querySelector(".section-title");
-  if (title && title.nextElementSibling !== newsContainer) {
-    title.insertAdjacentElement("afterend", newsContainer);
-  }
+  const title = document.querySelector("main")?.querySelector(".section-title");
+  if (title && title.nextElementSibling !== newsContainer) title.insertAdjacentElement("afterend", newsContainer);
 }
 
 function toggleFeaturedSections(category) {
   document.querySelectorAll("main > section:not(#newsContainer)").forEach(section => {
-    section.style.display = category === "general" ? "" : "none";
+    section.style.display = category === "morocco" ? "" : "none";
   });
 }
 
 function renderCategory(category) {
-  currentCategory = category;
-  sectionTitle.textContent = categoryLabels[category] || categoryLabels.general;
-  toggleFeaturedSections(category);
-  const filtered = category === "general"
-    ? sortByDate(allNews)
-    : sortByDate(allNews.filter(article => normalizeCategory(article) === category));
+  currentCategory = CATEGORIES.has(category) ? category : "morocco";
+  sectionTitle.textContent = categoryLabels[currentCategory];
+  toggleFeaturedSections(currentCategory);
+  const filtered = sortByDate(allNews.filter(article => normalizeCategory(article) === currentCategory));
   displayNews(filtered);
   window.scrollTo({ top: document.querySelector("main")?.offsetTop || 0, behavior: "smooth" });
-}
-
-function addPolicyNav() {
-  const nav = document.querySelector("nav");
-  if (!nav || nav.querySelector('[data-category="policy"]')) return;
-  const link = document.createElement("a");
-  link.href = "#";
-  link.dataset.category = "policy";
-  link.textContent = "سياسة";
-  nav.insertBefore(link, nav.querySelector('[data-category="business"]') || null);
 }
 
 async function loadNews() {
@@ -156,8 +151,8 @@ async function loadNews() {
     let data;
     try {
       data = await fetchJsonWithTimeout("news.json");
-    } catch (primaryError) {
-      console.warn("news.json failed", primaryError);
+    } catch (error) {
+      console.warn("news.json failed", error);
       data = { articles: [] };
     }
 
@@ -166,17 +161,16 @@ async function loadNews() {
     try {
       const manualData = await fetchJsonWithTimeout("manual-news.json");
       manualArticles = Array.isArray(manualData) ? manualData : (Array.isArray(manualData.articles) ? manualData.articles : []);
-    } catch (manualError) {
-      console.warn("manual-news.json unavailable", manualError);
+    } catch (error) {
+      console.warn("manual-news.json unavailable", error);
     }
-
     const combined = [...manualArticles, ...articles];
-    allNews = prepareArticles([featuredNews, ...combined.filter(a => a && a.url !== featuredNews.url)]);
-    renderCategory("general");
+    allNews = prepareArticles([featuredNews, ...combined.filter(article => article && article.url !== featuredNews.url)]);
+    renderCategory("morocco");
   } catch (error) {
     console.error("News loading error:", error);
-    allNews = [featuredNews];
-    renderCategory("general");
+    allNews = prepareArticles([featuredNews]);
+    renderCategory("morocco");
   }
 }
 
@@ -189,9 +183,9 @@ function searchNews() {
   }
   sectionTitle.textContent = "نتائج البحث عن: " + searchInput.value.trim();
   toggleFeaturedSections("search");
-  const results = allNews.filter(a => {
-    const text = `${a.title || ""} ${a.description || ""}`.toLowerCase();
-    return text.includes(query) && (currentCategory === "general" || normalizeCategory(a) === currentCategory);
+  const results = allNews.filter(article => {
+    const text = `${article.title || ""} ${article.description || ""}`.toLowerCase();
+    return text.includes(query) && normalizeCategory(article) === currentCategory;
   });
   displayNews(sortByDate(results));
 }
@@ -201,22 +195,18 @@ function initNewsApp() {
     console.error("NewsMorocco: required HTML elements are missing.");
     return;
   }
-
-  addPolicyNav();
   moveLatestNewsToTop();
-
-  document.querySelectorAll("nav a").forEach(link => {
-    link.addEventListener("click", e => {
-      if (link.dataset.category) {
-        e.preventDefault();
-        renderCategory(link.dataset.category);
+  document.querySelectorAll("nav a[data-category]").forEach(link => {
+    link.addEventListener("click", event => {
+      const category = link.dataset.category;
+      if (CATEGORIES.has(category)) {
+        event.preventDefault();
+        renderCategory(category);
       }
     });
   });
-
   if (searchButton) searchButton.addEventListener("click", searchNews);
-  if (searchInput) searchInput.addEventListener("keydown", e => { if (e.key === "Enter") searchNews(); });
-
+  if (searchInput) searchInput.addEventListener("keydown", event => { if (event.key === "Enter") searchNews(); });
   loadNews();
 }
 
