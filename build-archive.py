@@ -5,6 +5,12 @@ from pathlib import Path
 
 FALLBACK_IMAGE = "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80"
 CATEGORIES = {"morocco", "world", "economy", "technology", "sports"}
+LEGACY_CATEGORIES = {
+    "policy": "morocco",
+    "general": "morocco",
+    "business": "economy",
+    "international": "world",
+}
 
 
 def clean(value):
@@ -12,20 +18,41 @@ def clean(value):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", value)).strip()
 
 
-def category_from(text):
-    """Normalize legacy and current article text to the site's five categories."""
-    text = text.lower()
-    if "رياضة" in text or "sport" in text:
+def category_from(text, legacy_category=""):
+    """Normalize legacy categories and classify article text into the five sections.
+
+    Category-specific sections (sports, economy, technology) are recognized first.
+    Moroccan policy and general-news signals then take precedence over international
+    references, since Moroccan stories often mention foreign governments or bodies.
+    """
+    legacy = (legacy_category or "").strip().lower()
+    if legacy in LEGACY_CATEGORIES:
+        return LEGACY_CATEGORIES[legacy]
+    if legacy in CATEGORIES and legacy != "world":
+        return legacy
+
+    text = clean(text).lower()
+
+    if any(term in text for term in ("رياضة", "كرة", "sport", "football", "futsal")):
         return "sports"
-    if "اقتصاد" in text or "business" in text or "economy" in text:
+    if any(term in text for term in ("اقتصاد", "اقتصادي", "business", "economy", "أسعار", "الأسواق")):
         return "economy"
-    if "تكنولوجيا" in text or "تقنية" in text or "technology" in text:
+    if any(term in text for term in ("تكنولوجيا", "تقنية", "technology", "ذكاء اصطناعي", "artificial intelligence")):
         return "technology"
-    # Policy is a Moroccan-news topic, not a separate top-level category.
-    if any(term in text for term in ("دولي", "العالم", "international", "world news", "global")):
-        return "world"
-    if any(term in text for term in ("المغرب", "مغربي", "morocco", "سياسة", "حكومة", "صحراء", "policy")):
+
+    morocco_terms = (
+        "المغرب", "مغربي", "المغربية", "مغربية", "morocco", "moroccan",
+        "سياسة", "سياسي", "حكومة", "الملك", "ملك", "البرلمان", "وزير",
+        "الصحراء", "policy",
+    )
+    if any(term in text for term in morocco_terms):
         return "morocco"
+
+    world_terms = ("دولي", "العالم", "international", "world news", "global", "world")
+    if any(term in text for term in world_terms):
+        return "world"
+
+    # Unspecified/general legacy stories belong to the site's Moroccan section.
     return "morocco"
 
 
