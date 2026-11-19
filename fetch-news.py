@@ -219,6 +219,7 @@ def write_article_page(article):
         "@context": "https://schema.org", "@type": "NewsArticle", "headline": title,
         "description": description[:300], "image": [image], "datePublished": published,
         "dateModified": modified, "inLanguage": "ar", "articleSection": category,
+        "isAccessibleForFree": True,
         "author": {"@type": "Organization", "name": "NewsMorocco", "url": SITE_URL},
         "publisher": {"@type": "Organization", "name": "NewsMorocco", "url": SITE_URL},
         "mainEntityOfPage": {"@type": "WebPage", "@id": page_url},
