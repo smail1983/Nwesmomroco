@@ -28,9 +28,6 @@ jobs:
       - name: Build permanent article archive
         run: python build-archive.py
 
-      - name: Build Google News sitemap (recent 48 hours)
-        run: python generate-news-sitemap.py
-
       - name: Normalize canonical hostname
         run: |
           python - <<'PY'
@@ -49,6 +46,9 @@ jobs:
                   changed += 1
           print(f"Normalized canonical hostname in {changed} files.")
           PY
+
+      - name: Build Google News sitemap (recent 48 hours)
+        run: python generate-news-sitemap.py
 
       - name: Install Monetag Light tag
         run: |
