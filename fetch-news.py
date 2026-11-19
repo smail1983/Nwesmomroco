@@ -160,7 +160,8 @@ def is_recent(pub_date):
         dt = parsedate_to_datetime(pub_date)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
-        return dt >= datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)
+        now = datetime.now(timezone.utc)
+        return now - timedelta(days=RECENT_DAYS) <= dt <= now + timedelta(minutes=5)
     except (TypeError, ValueError, OverflowError):
         return False
 
