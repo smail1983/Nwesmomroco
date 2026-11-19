@@ -327,7 +327,7 @@ with open("news.json", "w", encoding="utf-8") as f:
 def build_sitemap():
     today = datetime.now(timezone.utc).date().isoformat()
     # Keep utility/legal pages out of the editorial sitemap.
-    urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today)]
+    urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today), ("/category/politics/", today), ("/category/morocco/", today), ("/category/business/", today), ("/category/technology/", today), ("/category/sports/", today)]
     for path in sorted(Path(".").glob("article-*.html")):
         page = path.read_text(encoding="utf-8", errors="ignore")
         if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\']noindex', page, re.IGNORECASE):

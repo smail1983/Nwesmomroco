@@ -48,6 +48,9 @@ jobs:
       - name: Build permanent article archive
         run: python build-archive.py
 
+      - name: Generate SEO category pages
+        run: python build-category-pages.py
+
       - name: Normalize canonical hostname
         run: |
           python - <<'PY'
