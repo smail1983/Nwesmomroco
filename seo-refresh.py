@@ -49,6 +49,24 @@ def add_related(raw,c,current):
  block='<section class="related-articles"><h2>مقالات ذات صلة</h2><ul>'+''.join('<li><a href="/'+p.name+'">'+html.escape(t)+'</a></li>' for p,t in related)+'</ul></section>'
  if 'related-articles' in raw:return re.sub(r'<section class="related-articles">.*?</section>',block,raw,flags=re.I|re.S)
  return raw.replace("</article>",block+"</article>",1)
+def add_related(raw,c,current):
+ related=[]
+ for p in paths:
+  if p==current:continue
+  r=p.read_text(encoding="utf-8",errors="ignore"); h=re.search(r"<h1[^>]*>(.*?)</h1>",r,re.I|re.S)
+  t=clean(h.group(1)) if h else ""
+  if t and cat(r,t)==c:related.append((p,t))
+  if len(related)==3:break
+ if len(related)<3:
+  for p in paths:
+   if p==current or any(x[0]==p for x in related):continue
+   r=p.read_text(encoding="utf-8",errors="ignore");h=re.search(r"<h1[^>]*>(.*?)</h1>",r,re.I|re.S)
+   t=clean(h.group(1)) if h else ""
+   if t:related.append((p,t))
+   if len(related)==3:break
+ block='<section class="related-articles"><h2>مقالات ذات صلة</h2><ul>'+''.join('<li><a href="/'+mapping.get(p.name,p.name)+'">'+html.escape(t)+'</a></li>' for p,t in related)+'</ul></section>'
+ if 'related-articles' in raw:return re.sub(r'<section class="related-articles">.*?</section>',block,raw,flags=re.I|re.S)
+ return raw.replace("</article>",block+"</article>",1)
 mapping={}
 for p in paths:
  r=p.read_text(encoding="utf-8",errors="ignore");t=title(r,p)
