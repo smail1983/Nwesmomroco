@@ -60,8 +60,29 @@ function normalizeCategory(article) {
   return "morocco";
 }
 
+function normalizeArticleUrl(article) {
+  const raw = article?.local_url || article?.url || "";
+  if (!raw) return "";
+  try {
+    const parsed = new URL(raw, window.location.origin);
+    return parsed.pathname.replace(/\\/+$/, "") || "/";
+  } catch {
+    return String(raw).trim();
+  }
+}
+
+function dedupeArticles(articles) {
+  const seen = new Set();
+  return articles.filter(article => {
+    const key = normalizeArticleUrl(article);
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
 function prepareArticles(articles) {
-  return articles.map(article => ({ ...article, category: normalizeCategory(article) }));
+  return dedupeArticles(articles).map(article => ({ ...article, category: normalizeCategory(article) }));
 }
 
 function getNewsImage(article, index) {
