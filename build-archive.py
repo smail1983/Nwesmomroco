@@ -79,8 +79,11 @@ for path in sorted(Path(".").glob("article-*.html")):
     )
     meta = clean(meta_match.group(1)) if meta_match else ""
 
+    schema_category_match = re.search(r'"articleSection"\s*:\s*"([^"]+)"', raw, re.I)
+    schema_category = schema_category_match.group(1).strip() if schema_category_match else ""
+
     archive.append({
-        "category": category_from(meta + " " + title + " " + description),
+        "category": category_from(meta + " " + title + " " + description, schema_category),
         "title": title,
         "description": description,
         "image": image,
