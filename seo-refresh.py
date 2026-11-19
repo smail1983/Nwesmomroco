@@ -2,7 +2,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 import html, json, re, unicodedata
 SITE="https://www.nwesmomroco.com"; TODAY=datetime.now(timezone.utc).date().isoformat()
-FALLBACK=SITE+"/news-og-1200x630.jpg"
+FALLBACK="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&h=630&q=85"
 paths=sorted(Path(".").glob("article-*.html"))
 def clean(s): return re.sub(r"\s+"," ",html.unescape(re.sub(r"<[^>]*>"," ",s or ""))).strip()
 def title(raw,path):
@@ -35,14 +35,14 @@ def add_related(raw,c,current):
  related=[]
  for p in paths:
   if p==current:continue
-  r=p.read_text(encoding="utf-8",errors="ignore"); h=re.search(r"<h1[^>]*>(.*?)</h1>",r,re.I|re.S)
+  target=Path(mapping.get(p.name,p.name)); r=(target if target.exists() else p).read_text(encoding="utf-8",errors="ignore"); h=re.search(r"<h1[^>]*>(.*?)</h1>",r,re.I|re.S)
   t=clean(h.group(1)) if h else ""
   if t and cat(r,t)==c:related.append((p,t))
   if len(related)==3:break
  if len(related)<3:
   for p in paths:
    if p==current or any(x[0]==p for x in related):continue
-   r=p.read_text(encoding="utf-8",errors="ignore");h=re.search(r"<h1[^>]*>(.*?)</h1>",r,re.I|re.S)
+   target=Path(mapping.get(p.name,p.name)); r=(target if target.exists() else p).read_text(encoding="utf-8",errors="ignore");h=re.search(r"<h1[^>]*>(.*?)</h1>",r,re.I|re.S)
    t=clean(h.group(1)) if h else ""
    if t:related.append((p,t))
    if len(related)==3:break
