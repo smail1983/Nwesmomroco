@@ -213,7 +213,7 @@ def write_article_page(article):
 
     indexable = len(description) >= 180
     robots = "index, follow, max-image-preview:large" if indexable else "noindex, follow"
-    modified = datetime.now(timezone.utc).isoformat()
+    modified = published  # Keep dateModified stable unless article content is actually revised.
     page_url = f"{SITE_URL}/{path.name}"
     schema = {
         "@context": "https://schema.org", "@type": "NewsArticle", "headline": title,
@@ -340,19 +340,19 @@ with open("news.json", "w", encoding="utf-8") as f:
 
 
 def build_sitemap():
-    today = datetime.now(timezone.utc).date().isoformat()
-    urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today)]
+    # Do not stamp every unchanged page with today's date; omit lastmod until
+    # reliable per-page modification tracking is available.
+    urls = ["/", "/articles/", "/about.html", "/contact.html", "/editorial-policy.html"]
     for path in sorted(Path(".").glob("article-*.html")):
         page = path.read_text(encoding="utf-8", errors="ignore")
         if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\']noindex', page, re.IGNORECASE):
             continue
-        urls.append((f"/{path.name}", today))
+        urls.append(f"/{path.name}")
     rows = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for path, lastmod in urls:
-        rows.append(f"  <url><loc>{SITE_URL}{path}</loc><lastmod>{lastmod}</lastmod></url>")
+    for path in urls:
+        rows.append(f"  <url><loc>{SITE_URL}{path}</loc></url>")
     rows.append("</urlset>")
     Path("sitemap.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
-
 
 build_sitemap()
 print("Fetched", len(articles), "trusted articles and generated first-party pages.")
