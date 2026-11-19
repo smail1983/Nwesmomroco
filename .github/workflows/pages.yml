@@ -105,4 +105,4 @@ jobs:
 
       - name: Branch safety notice (no commit, push, or deploy)
         if: github.ref != 'refs/heads/main'
-        run: echo "Non-main manual run: generated changes are not committed, pushed, or published."
+        run: 'echo "Non-main manual run: generated changes are not committed, pushed, or published."'
