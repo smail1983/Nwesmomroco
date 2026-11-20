@@ -404,12 +404,12 @@ def generate_homepage_static_news(items):
             f'<h2>{escape(article.get("title"))}</h2><p>{escape(article.get("description") or "آخر المستجدات والأخبار.")}</p>'
             f'<div class="news-meta">{escape(article.get("domain") or "NewsMorocco")}</div></div></a></article>'
         )
-    grid_html = "\\n".join(cards) if cards else '<div class="empty">لا توجد أخبار متاحة حالياً.</div>'
+    grid_html = "\n".join(cards) if cards else '<div class="empty">لا توجد أخبار متاحة حالياً.</div>'
 
     def replace_between(text, begin, end, replacement):
         left = text.index(begin) + len(begin)
         right = text.index(end, left)
-        return text[:left] + "\\n" + replacement + "\\n" + text[right:]
+        return text[:left] + "\n" + replacement + "\n" + text[right:]
 
     page = replace_between(page, start_featured, end_featured, feature_html)
     page = replace_between(page, start_grid, end_grid, grid_html)
