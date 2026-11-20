@@ -335,6 +335,88 @@ def build_sitemap():
     rows.append("</urlset>")
     Path("sitemap.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
+def generate_homepage_static_news(items):
+    """Render featured + news cards into index.html for non-JS visitors."""
+    path = Path("index.html")
+    if not path.exists():
+        print("Warning: index.html missing; static homepage generation skipped.")
+        return
+    page = path.read_text(encoding="utf-8")
+    start_featured = "<!-- NEWSMOROCO_STATIC_FEATURED_START -->"
+    end_featured = "<!-- NEWSMOROCO_STATIC_FEATURED_END -->"
+    start_grid = "<!-- NEWSMOROCO_STATIC_GRID_START -->"
+    end_grid = "<!-- NEWSMOROCO_STATIC_GRID_END -->"
+    if not all(marker in page for marker in (start_featured, end_featured, start_grid, end_grid)):
+        raise SystemExit("Homepage static-news markers missing; refusing to overwrite index.html.")
+
+    def timestamp(article):
+        try:
+            value = parsedate_to_datetime(article.get("date", ""))
+            if value.tzinfo is None:
+                value = value.replace(tzinfo=timezone.utc)
+            return value.timestamp()
+        except Exception:
+            return 0
+
+    def escape(value):
+        return html.escape(str(value or ""), quote=True)
+
+    def href(article):
+        return article.get("local_url") or article.get("url") or "#"
+
+    category_labels = {
+        "policy": "🇲🇦 سياسة", "sports": "⚽ الرياضة المغربية",
+        "business": "💰 الاقتصاد", "technology": "🤖 التكنولوجيا",
+        "general": "📰 أخبار المغرب", "international": "🌍 العالم"
+    }
+    ordered = sorted(
+        [a for a in items if a.get("title") and timestamp(a) > 0],
+        key=timestamp, reverse=True
+    )
+    deduped = {}
+    for article in ordered:
+        key = article.get("local_url") or article.get("url") or article.get("title")
+        if key not in deduped:
+            deduped[key] = article
+    ordered = list(deduped.values())
+    featured = ordered[0] if ordered else None
+
+    if featured:
+        feature_html = (
+            f'<article id="featured" class="featured"><a href="{escape(href(featured))}">'
+            f'<img src="{escape(featured.get("image") or FALLBACK_IMAGE)}" alt="{escape(featured.get("title"))}" loading="eager">'
+            f'<div class="featured-body"><h2>{escape(featured.get("title"))}</h2>'
+            f'<p>{escape(featured.get("description") or "آخر المستجدات والأخبار.")}</p>'
+            f'<span class="read-btn">اقرأ التفاصيل ←</span></div></a></article>'
+        )
+    else:
+        feature_html = '<article id="featured" class="featured"><div class="empty">لا توجد أخبار متاحة حالياً.</div></article>'
+
+    cards = []
+    for article in ordered[1:13]:
+        link = href(article)
+        external = link.startswith("http://") or link.startswith("https://")
+        target = ' target="_blank" rel="noopener noreferrer"' if external else ""
+        cards.append(
+            f'<article class="news-card"><a href="{escape(link)}"{target}>'
+            f'<img src="{escape(article.get("image") or FALLBACK_IMAGE)}" alt="{escape(article.get("title"))}" loading="lazy">'
+            f'<div class="news-body"><div class="news-category">{escape(category_labels.get(article.get("category"), "📰 أخبار المغرب"))}</div>'
+            f'<h2>{escape(article.get("title"))}</h2><p>{escape(article.get("description") or "آخر المستجدات والأخبار.")}</p>'
+            f'<div class="news-meta">{escape(article.get("domain") or "NewsMorocco")}</div></div></a></article>'
+        )
+    grid_html = "\\n".join(cards) if cards else '<div class="empty">لا توجد أخبار متاحة حالياً.</div>'
+
+    def replace_between(text, begin, end, replacement):
+        left = text.index(begin) + len(begin)
+        right = text.index(end, left)
+        return text[:left] + "\\n" + replacement + "\\n" + text[right:]
+
+    page = replace_between(page, start_featured, end_featured, feature_html)
+    page = replace_between(page, start_grid, end_grid, grid_html)
+    path.write_text(page, encoding="utf-8")
+    print(f"Generated homepage static cards: featured=1, cards={len(cards)}.")
+
+generate_homepage_static_news(articles)
 build_sitemap()
 print("Fetched", len(articles), "trusted articles and generated first-party pages.")
 print("By category:", {k: len(v) for k, v in articles_by_category.items()})
