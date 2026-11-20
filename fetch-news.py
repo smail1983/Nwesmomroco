@@ -347,7 +347,8 @@ def generate_homepage_static_news(items):
     start_grid = "<!-- NEWSMOROCO_STATIC_GRID_START -->"
     end_grid = "<!-- NEWSMOROCO_STATIC_GRID_END -->"
     if not all(marker in page for marker in (start_featured, end_featured, start_grid, end_grid)):
-        raise SystemExit("Homepage static-news markers missing; refusing to overwrite index.html.")
+        print("::warning::Homepage static-news markers missing; skipping index.html generation.")
+        return
 
     def timestamp(article):
         try:
