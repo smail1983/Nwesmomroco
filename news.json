@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-20T07:08:19.701652+00:00",
+  "updated_at": "2026-11-20T14:52:09.822055+00:00",
   "articles": [
-    {
-      "category": "technology",
-      "title": "قادة التكنولوجيا الأوروبيون يدعون الاتحاد الأوروبي إلى تحرك عاجل في ثورة الذكاء الاصطناعي",
-      "description": "قادة التكنولوجيا الأوروبيون يدعون الاتحاد الأوروبي إلى تحرك عاجل في ثورة الذكاء الاصطناعي Euronews.com",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0F2OHcwbHVJU1lraVlFekNIaXQ3VDZjUlpDTlFCVjNDQU55RlJzV2JQWTVvUUNTQTEwMmZQa09sMGZpSmlESTQ3SzY2VjNRaXEtTy1Sd2JUNkNjamhTcHNfRDBoTEtYRHowY3RDZzBWWk81N2FTZlVXN0hBYllROHJqTXkxaXZNWFpPOXprUFFXVlE3am5ZenpPdDVEQXhXZkY5M0JTWVJ5ZTJvdnI4TWwwbGprd3NaMzdCczktbVdPZw?oc=5",
-      "domain": "Euronews.com",
-      "source_url": "https://arabic.euronews.com",
-      "date": "Wed, 18 Nov 2026 12:51:37 GMT",
-      "local_url": "/article-67693b2f0dc0.html"
-    },
     {
       "category": "technology",
       "title": "عاجل: المفوضية الأوروبية تؤكد تعرضها لهجوم إلكتروني مدعوم بالذكاء الاصطناعي",
@@ -31,7 +20,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgpBVV95cUxOTDFrUkcyY215SGpmTGVSdk9vYXZJajFRUlZBR2trQ09KOUcwLTlhamE1X0JiSFZjVzdfM3p5M1ZQQjQ5Ums5VzVBUFkwb21iR0dTNmx6YVB4dFI5QVFyZVhRTHBQLWthT0o4THRWMEdDUUR3eHZvZFNmMVlodFZEQnljMlQ0TGwzWnJvUFhBU1E1d0NpNm1HT3ltQzBPbFl0ZHJtZlByQlhrZkN1UVNFMEFMNVFfNzJMb1BGaDJoSEU5c1V5dHJwWkR5YU1sSzlQMElFU2VUNFVxUVE3NU14dUFSNkdUeklfR3RxRHdJTllIZGdsaTVhSFBNUFBBX1hCV1NLaWpBZkliR1dWaElvT3ZTek5LWFZzdHljRWpSbDFiczViYTdxZkxHMWFKaFJCY3pfaUw2WWVIazdoU3hVRlRhQVRzZXhaaFB3TDR6bW1YaGRKVzQ4MkJuam1YUFhScDVoZlZ4WmRXLWNSa1V3VGFkTGdiZ3ZOZ2xoQ1JJZW1uUENTTFVTVnAxZzdfYXN1VUdRYVgxU2k0am9GR0dJUHI3NGhONTdsU1k3YXdIWTRTS0NkUkw5dTFaeHROOEJMZVlNZllmbm9RTURJUS1WTGxUYlJUd2g1eEJOd19VX3BMWU5tTzJ3cG5hUVFsU3UtV1dlVkhkbWJqeE13U2NMVXdRMkRnazlYZXVFLUdTejRqR1hjU2xmOWxRVXhSRDhWazZpQnQ4bmpjWGRxTVFSUDVqS2ZYSlNLMXFMWjNwLXNyUjNReFQ5d2Y4WmVKMXJVTHAxaG1VXzZNbVZxNzAtTWlpN1ZtZXJ4a3h1TTA3TVRXOU81aGdVUzZXNm92dTJHMlJLUGZfQ2Yzbm9xMEVjblUxRnJxSFFwT3V4TVFnNG1RMlJBX2t6Q2Yxc2JxeVB4ZnZNc3FmV2VwZURrNUR5cEJBcm1jR3VDUDRZR0Jlclg5V0J6RzM5RG1BeW1GRlR0VzZDTEFIRnhHaldBZTZyb294eEJBdi01c2ZLLVhxZTEzSWkxbnBldF9JZzBMa0ltaVFuY3lCSkc1YnRTQzNOemwxcnhvRUpjZTJkTWVWYVBYVGJZcC1mMWsxdXF6NVZnZGJwejFYU3hEbXFyb25TOTh1aHcwUGU1TEdPME1fTEZmdUMtM0NnZ1VoVGVoaF9wV29jTjAzYThFamVaajlRSFY3akIyRkR3WjVqMGF4NVhhck9nNEZKaUQ0THcxVVVPZHNKRUpRRVVXNEstdUljS0lRRWpOR3ZlN0ZGYVRqXzlNQV9Kam5RYTlVbkMzYWpaVHk2WUpNVVZkTXVMX0pjT0dWS1J5MnhVVExhTHBpYmdvd1hkaTFVb1RvZmJhMTVkcmhkc29DdXFpbkg3b2w3OUhfS0N2YWFya3FDVF9MZENmWkh2UWxGNWgxUDNSQXpGOUdEQUcwbVhiSk5WaEZDcEJRZUhaR09RMDdneTZ3TjYzS2I0TUNMNkNjM3VaeTZIVjJVeWdENFRhUjZsdVdoamI3LWFJbVE5RkdNeWZRUzZsOXRDUnVuVzdVYXkzaTFMTlBEa0VCbTZkMXhYeVR3blBwSDNNUi1ZamdwWTAxMk5oek9MZmI0cG5VUFk1M3ktc0JzcUZud2pMT2tkcFcwS3RlYllpTWlNSHBLVUNWQ3ZlZXlQYzVKc3RPZGtYUlNyYnNsUjd1VVJSQ3psX0ZBTDFUMTVLUFQwNUs5S0d3Nlpld1c2ZmRaWE5iMVExNHZ4R1dBNWh6cWlHbXM3dFk3eHNQQXFQeHBnckpsSkRGeU9HS0RnVlE?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Fri, 20 Nov 2026 03:33:29 GMT",
+      "date": "Fri, 20 Nov 2026 04:03:30 GMT",
       "local_url": "/article-b9a9564db223.html"
     },
     {
@@ -42,19 +31,30 @@
       "url": "https://news.google.com/rss/articles/CBMiiAZBVV95cUxPQzdLVUtueWVLcV9nRFNFZHpTRzJiRnc5bWhNbENsc3dsbVVGM2NMOU5lVkpwT1lYS3VyOGhOMHhrVDVQdmdvMV91X0s5clJrN2ZaZ1RzZlJjUktKaTMyUk5jdFBrZ3lJNDRiaHZIZTNDLWUyanlCQ1R2NWRZVkhoZUhlOERDQkZXNVoxcnJxNWkwalJ3WF8tbHIxRU5pZXpIQzBuRHJSVjRObUJ0a3pkLWVMOThMUWNkOU91dldnUDZvUC1YLTYyR19oalFxdXZER1pIdFp2TXV0dU1zV2xDWUpVN0ZhNWJMVGdKYzk1QU4tVW1OLTNkTGNtRDhZMVZjUk1WbGprcTFBZXJGeUtHLWsxZVJRaEVaWjEyWF9SZ0FCdmV6T0tyQ1dKc3Q2RlBVWjlOck1jUXFQanJTY2stZmlXamx5VDhDcDRwQzhJVDlYNDlmNWJYdmhOdDNUY1R2ZUFwTXBwSlN2Wk82MWJoR3h5NUh6ejk0XzhpYlRHUl80MXZvMy1jT01zdWFRSEFUYmJaZzF2aW9oSGVWT292SklVZjhVaGVTZTZXMmNhdmprdkowNjJjMHhrbWFfOThjc3dObXFfU085R2IxM2JnbDZVWElIcDVCb1U4d1l5bGllM09xZ3llMnRhc3I5dW5kVWlsLTlIejNkejdKZ0xqUHVqVmxGLXVaQjAtT0xWbm5MMEMzYXg0VjhCRHN1RDIzXzJ6akk5R1FJU3lZdnRISmRSVjQwWjBsNEZYcHRSYXFkN19aMWVjWnhKVHZ4OUg0aUtlUVo3RTl3YUlZLTNXNmE3ZWFYOEg2dUU3QUtZc1lsSC1Tekh6OHZZblpoNVQxOHcwb1RTVzl0V2E2MjJYTzNIb2lhY3FadzJvakRkSzZLeTY2X2ZORlBpU3ZQWVRaRUJKWUJnOGVxaDNKTm4xUFVTcGZ4RFViX3NMUEdZU1V2cFo4eGlnUzFOSWlNbE9PcDRxOUJsYXVSOV9Mc1RKYVJvQ0RNcmw1Njk3VTF1R3duZjhNQTNraQ?oc=5",
       "domain": "CNN الاقتصادية",
       "source_url": "https://cnnbusinessarabic.com",
-      "date": "Fri, 20 Nov 2026 03:20:12 GMT",
+      "date": "Fri, 20 Nov 2026 03:22:10 GMT",
       "local_url": "/article-9389d72ae0f9.html"
     },
     {
       "category": "policy",
-      "title": "مجلس النواب في طليعة المؤسسات التشريعية في مجال التحول الرقمي (الاتحاد البرلماني الدولي)",
-      "description": "مجلس النواب في طليعة المؤسسات التشريعية في مجال التحول الرقمي (الاتحاد البرلماني الدولي) | MapNews",
+      "title": "تارودانت.. إطلاق مشاريع تنموية تخليدا للذكرى الـ71 لعيد الاستقلال",
+      "description": "تارودانت.. إطلاق مشاريع تنموية تخليدا للذكرى الـ71 لعيد الاستقلال | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxPTFBIWDRncTZ3dlBZRGZmWVl5ZVNrMHRMMTA1UW1GTml3aktLMFVQWmp5d05XZ2FzWkQ1WlJQeDRicTcyOG8xMkVTeFRLR0RPaHA2aEZSWkgyUldIT0JzWnZHVXFyOW16a0dqZzJSODZfSHRqOGdSbVg3ZEVyeGpWWGsyLVlvSWQ3OVBpTjNpck1vTnpKMmZVOElsT0JjSFNOanVaUDBYN20wSlA4SGQ1R1FVN2FYWDkzQXAzd3l4enR2ZGkxcVc0aUg5cVlMRHlRVWZHaWNMS0dKR0tYel8wVFVuemdRemJOMzgzLUFLSVlNaVM2TFdUVnZ2WDh3UGtKeDZIeGpSaGZqSWZVd0FwNUlZUEh1WXI0M3hPZlR0M01pbEttQkpzNXZSa2NKQjRsLVZlWUowRnpxbEoyMjhnaTFRTjFrSTZfZWFRcFFOcGRYbVFTVmRhSTh2THJsdHlNaFkxcVY1SW5RcjJyTEZHSXBQdkctQ1VncGJVRTlzYnhLRHpJY3hOQ1BpOXRzcFQyamM1WVpfWGtqd0tBSVpjN2l0R0lJVkVBeVg5eU5sbVIyeHZwZVBfTEhEVFNXWXNlblBPTDBvbWNhcGRPQjVWbTRqa01YSm1STWdxNUljT282RFNIdmd5OFdnOVF0SFVQV09zdkF0VC1VN3BYTjFVczRlb1paNjdCbHpaYUtGVnZHcWMxTzU2Z2c0M3pCZDJScVNreHJJZm9zSTdTYURuSTduam9mcmEyU204RTBxZi12TXd6dGg5V2c2UzZFdWNueFlUX01LSXU2Nk9UUDJFcFhySmI5dXh3ZG55eEN6RW54M2lUTk5rVXlZNFR0MmlsWFNYR3J0LVFTS3JtZ2VvMFFnZ3dmdExCSW1qWEJKUVhpWXdwbGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOMWgwYXRfejQ5eG81VFRnMVJlYW1tQmtZMlVwelZoRkl4SkItZTNvV0RVSWhjNUZpZ0x0dkRVSXM2eFEtZlU5eDVMdWJSQkNfbk4tQnhTbWIwMzJKM2pQUXV3MVBoRzYzS01Ob1QyTWhJdGUzQ2Z0alFWQ1VYSG11Tmtqb1BhTGpVc3lYeEdiVWpueHlpUTJjbXB4aHpETnBOT0Y5cHNzbGJwRG8tZnR6WGtfRENqcnhfN3NxUG95aG5yRWQ3Z19hQ3FCckpfRl9pbzZoZnB5MkRzMzFBMkFvYTJDSHhpYUFGWW1qTGdqV3BfVk1TVlJfcWZiQlVjdGF1X2NRNkJFZTBET0NHVVFhcEdJbEtPYWVZLXh0b0g1X0xPOVpkWUZfWl9ZNHJvRHJ3Z054OTYzY0U2Q0hWY3RJRXNoTDZLUDE2QVJLYWNMemVrYWV3UG4zSGpEUE5FYXpydkZkN2VEUFFNWTBDM1RnWW45VTJMVjYxTWxaVExnRThXTi1ycWZlU244bFZ6TDR6TTJHVjJ2QWRSdGVfQzZvQko3UDBuVl9BR3EzMFFKeFZKZWFicFlhWDVLQ3h0eGx4MHVfdzQyQ1NWRTVEVGdoM1JvX1lEc3J2OVZuTXJFdVM3RFE0V3IxZm5CRkxmWl9Ydk1vcXdidTZHcE5IdkRUejhkSHpocnFtN2VlZmpZUGhwOFlROGw1SktfeUFNQklLd2JzQQ?oc=5",
       "domain": "| MapNews",
       "source_url": "https://www.mapnews.ma",
-      "date": "Wed, 18 Nov 2026 11:06:59 GMT",
-      "local_url": "/article-bc9eb7cda10c.html"
+      "date": "Wed, 18 Nov 2026 19:38:29 GMT",
+      "local_url": "/article-2da00dfe8027.html"
+    },
+    {
+      "category": "policy",
+      "title": "المغرب وكوت ديفوار يعززان التعاون",
+      "description": "المغرب وكوت ديفوار يعززان التعاون Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQRHhuWnI5V0lIYlg2THMwSzF5dzVSTnRRSFNzMlpNaHVJR21HLWNPLTNVcXNBSlU4RzhmV2xSb0dwb3NXV0pKQ1dpT0pIVVJubmVlVHZmaVZCTjJPc0lxUHQxMGI0N0dNVTRzM0swNE5YWDN3UFRRVXdUVEtWRGxHTE1oMmMzVEJIdXVLaldTRTlnSnAzSE92WW1sZUJDU2dMQzg1UzhmUDNHXzRyRlRBV212ZVJPYktlMlVLV0FUaWNrWjUyaEU3ZTJlLU53RUpfTDdNUDgtQTM4QjdicEphT1pJZmRoUFpZY0ZNRnFZelZBTXN2LU9kZzhMWlNCTUNMWUdHUzM4T25TaHFaU2NzbU1nYjhCQ1FaeHpPejFuUkNpTjkxcllUNVZ4eHlMdFU2MnE1dFJPMkxyUWox?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Thu, 19 Nov 2026 20:56:02 GMT",
+      "local_url": "/article-1d473b7ce9b1.html"
     },
     {
       "category": "policy",
@@ -69,47 +69,80 @@
     },
     {
       "category": "policy",
-      "title": "السيد بلفقيه: مرسوم المراكز الجهوية للاستثمار يكرس البعد الترابي ويعزز حكامة الاستثمار الجهوي",
-      "description": "السيد بلفقيه: مرسوم المراكز الجهوية للاستثمار يكرس البعد الترابي ويعزز حكامة الاستثمار الجهوي | MapNews",
+      "title": "سويسرا.. الدورة الـ 41 للمهرجان الدولي للفيلم بفريبورغ تحتفي بالسينما المغربية",
+      "description": "سويسرا.. الدورة الـ 41 للمهرجان الدولي للفيلم بفريبورغ تحتفي بالسينما المغربية | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxNVnlOVTdrVURmMy16UTdmTi1janFxaXl1UWJpcEk4aVVNSGJPSThmM1hQY1IzZFZBcmFPNEZ0UkhGeGgzVUFWU1kyVm90cGVnQjNYazV2RXRKOWlzeVdTa0NjdnJvZXIzUENOSXpzM2F6R2FOZGFIbmhZZmxSV0Z6UENuTlNBUWxZcjhFMG5Gem95d0JGdkJhMV9ZcUowZXlJUzhKbHZjMjRGUXpBR2oxekRITjhwc2FQNDZadlhSOENIZERGZmlkWVRLNXdzWU04UjlQRHk1WXo3Z2p5Nmg1WGJIbG9MS090eFY3VW9HOVY2RkdibFNLTmFfd2Q2SmlBTnlYNktSRTM3VEx3OTJSWjU5d2RKQ3hibFVyWlhzWEV3TDM4RmhQN3VKSE1XRHNyN3JicEdRMEtKdlF1X2lET1NzbXdSeWVZaWdJN29HbzNoM3Y1UVh6Q2JwS2lfNldTamE5OFRud1dzM2JMWjFPYnZoU1pDTUkzNUh0cTdjZ1pQYjJqWW9oMHZEVEtLWjB0TzFpZ19tdlVkM2xiZFUxUExDVGVtaHVYcWV4U19WeVpYZE1yN25UeXhRSjFCOGE0VlRNVnpUdlJHMVFiaEpXVFZCaGlYaFpZMmJOZ0RyY2Vseks0a0d5ZmdqNlpUMlZaeHJscGR4Z0JwZnFlVUk5T1NSSHl2SndFQUlKWmxOd0ExRllCa29pQnNiWkpBZzJLRXhYYmNGNktxd2RHbXQzRllHbDFFcnpWOVlYeW1pejlhOTduRlh5ZzM2eExwU0R2MDNBdDZwRDItWHk2RjJBam9SYVlNM2RCR2RGS0hlN0FvMjZBcGxuZHNhYkhRQ2pkSmdfaWZGTmNXeGh2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQZHV4enhsd0tOVE00eG9IM2kwWGVVS1d2UU5kNTVVa3E1bzJHTkwzRmdKU1NkSWJYUjFBRkpqU2tUYXNoQk92cVd5bWtQMjJ2MDBnUmpzdHV4SUtpaHhab3I1bGhjc2M5SVNzWDd2bXp6aWNHYThnR2h4WlpTNmtTMFBnRHZYR1QxU1hDekVpYWJRZ2ZUc095MlFtck1GWkpzbktJWnNoZjNNM0VoYWZKcDY3b1I4LURiMkx6d05nNlhFR3o5a1JwX0p0VjJhbGF4WU1qRnhzM18tbXQtSzg5d0tEOWM3NTlTdmRxN1lpSjdleHdCZ1RoUW5BUDluU3VWQzlpVGs2Qlh0MEw4QlQwWjVHTXhaUjd6cDdGV0dCMktpdGZOek1fdFh3Qmp3Wk0yTl8yT2tCbHB0Z1AxYjAzclFiT01ZUDBvYVNkQ0RWMHFhWGlCNVZ5LWlyZTVkU3lRX1BXX2tndk41MTZuaWhtcHF3RjBqTTFmUnFQSzlMWVV2Y1N0RlJFaFdmWDBFSWh0UXEtUVdZWHktMlFRWkdHMUxQSktnVlZ2VHVuN0pOQWljSzlNVjdfWlFrZTh3eGZzNXo3RWowOE5Xc1JZYm13V0U2bTBScVlOVFlYUEpaWWNnNDB3TDU3UW1YRWdQdi1TLTNaclZuUkdjc2c4V3p6YUI0dGRSaFBteE92UEFENk5wV094UmEwZkFubnkydllfQTZFLWg5czhaaHNxc3hqYVJKc1dvVkJveXl5UDJTVEZrQlpLUE4tR1U3aTBIMXdQLUliR3N5WFpKR29VMnBxaVF0WUZYVlphTmNFQjJDWjN4aXpnODBkWGxlNDZRYjQ?oc=5",
       "domain": "| MapNews",
       "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 19 Nov 2026 17:25:08 GMT",
-      "local_url": "/article-bdc2e940aea6.html"
+      "date": "Thu, 19 Nov 2026 17:45:15 GMT",
+      "local_url": "/article-ec4aae46e600.html"
     },
     {
       "category": "policy",
-      "title": "السيد المداوي: ملاءمة كفايات الخريجين لسوق الشغل مقياس نجاح أي إصلاح بيداغوجي",
-      "description": "السيد المداوي: ملاءمة كفايات الخريجين لسوق الشغل مقياس نجاح أي إصلاح بيداغوجي | MapNews",
+      "title": "واشنطن.. أمام أكاديميين أمريكيين، السيد العمراني يستعرض آخر تطورات قضية الصحراء المغربية",
+      "description": "واشنطن.. أمام أكاديميين أمريكيين، السيد العمراني يستعرض آخر تطورات قضية الصحراء المغربية | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNVy1zSWJLYjV1NXZXQ3p1aHZqM1FnRlRfdFJfV1lpa3hVeFh5d2dFY0pvMF9hT0c1NlU5UEVELS1zTnZlaGR6cm0yREdKYVYxOUZfNjBHZ2tNMnE5a2NnQV9jdTBxb3RzbjIta05BdTljNnFoSDd3SlBDcWdWcmRUMF9mRUgwM0hhT3FWcjF6YXhQMnRZRGREeTR2bmZDS1ZzXzdaZ0VuUXVMR1ZtLUVnMFVkY3hXdkNrdEZ0UGVvWXF5aFJrRHJ4NEFsSTEtOVlMT3dTd1BBTE9GNHVCakZCU1JmX1RXQXk5TkZhV2lXWXlJbTRpRUFJaGs1R2htVkc1ZUZ6dTFYMmllMm9STmptWnFHWTdKWWtBMG9KSkM3ZGpkN3NjUHV0RXJiQnB4aHZMamNNQU01VjVPbUJyeWVRMndyU0gxdzI2SldmZjkydlZTb3RwMjNsSHlTRUNpci1uUHhwNEUyb2QzcERSMnpEQUhnMEJ6YXZXYWFVdXRiOFZRa2MtMlU5RGtLaFpqcHpKRGs2enRFOGxBRWltdzdyeWtvX2tZSmMyR0o1eGg5NnNjVHhUdlZzRWpRZmJaLWZTSk5rV3VLSjltZmlyZS1OWXc4UVRpOFJqNFdNeFp2NTZWelVSNTBldVhsY3VYSnY0TEZybmQ1WExHYmc5cHpYUFR5Y1pDQzdMeGd6cXduSzZfd0YwcHI0bVJMODc4LXlQaVJ2dmxYcEtwUWYtR05pNHBwMDVEbVlwMUk2eGdJV3JkNmI0UFhrdGR4dUtqcVBOZFFsMURVcDZ5TUJZblQwLUVrWXJrV3N2WWJ1VV9jcTNXWlZ3S1BDcGs1VWdEY3hOV25KMmotRkQ5YmY5YlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxQZkdkMkxVZkV2ODZHV0YteklxbGxHa3FUYjFtUmV3WWxadllseml4dllYOUgtR2ctVjNma3IwRjA5aHFtUUJKYUVQc0tXWC1QZ0Z6RHFzN19xWDJjZ1lXSEJ5ZUJ5MEdjQVRpODVsMmhDZUVhWHp5QjZrNkNWUDY4QkhiVlA1cjhaLUY4YzNHclk0OGJjWW9veEFVM3haNElqX1QxY2R0U1lTcF9EMGt3MUVkVDlXUFZRT0k0SXNMYVFDa01ZWXo1anRkLUVPRVVCdXFOejF5RUdlMUV0d2c3UWpmZVZFNTFTeWEyT1RPcUtXcGpxTUlQaEZJdTNPa1l0dEFGVEQ3MzJZNUtnR0VBYzhycjlUcUFMV1JrVXY3OTJubU5oVFJGa01aeVVFWEU2MlBuZ3lrSG5LTmFoOHh0SHZuUnp5dHZnWHJjZmNQOW9SN3Y4cGNaRFRtcDRHelljU3I1MlNvcVhnVUxabXFZVzFUZnVXcXBXVEVzMXFpQUpZUThPYUxkMVd4WEI1WXA3MGJKc3NKeWQxWTZha3BhMTY2aVlYVlBlMHk5Q0h3aGlWMWc0SjhFbkFTNFY1bkJHejItLUZmNWdmSEpVQ2NtZG9Ic1ppazJvZS1BYkxoa1UtdVpKX1JVSnAwU0F3RTU4eC1yMEZuX25fcGRsMHBjd2hsSXlPV1dfMTc3b3ZteXBxNE12ZjhFZm55NWNwYS1Ra2NfNkJRWjhHWjM1bHd5Z01saUNFOUlVa3UwSFYzUGJxUndUSkptSHpDVjJJRW5RcG1RNmV5Nzk3SXBDQS1RajcyZ3R2Ry1va2Q1dmVDeXBUY1A4YnRZTHJ0ZmZNbG9FS2pTZ2pMT1RsQlZVQ2dhY2lnTk0?oc=5",
       "domain": "| MapNews",
       "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 19 Nov 2026 16:59:33 GMT",
-      "local_url": "/article-c37ea5192ea9.html"
+      "date": "Thu, 19 Nov 2026 17:41:01 GMT",
+      "local_url": "/article-2ec038c01355.html"
     },
     {
       "category": "policy",
-      "title": "الحكومة تقرّ مراسيم لهيكلة التعليم العالي",
-      "description": "الحكومة تقرّ مراسيم لهيكلة التعليم العالي Hespress",
+      "title": "الدوحة.. الجالية المغربية بقطر تحتفل بالأعياد الوطنية المجيدة للوحدة والمسيرة الخضراء وعيد الاستقلال",
+      "description": "الدوحة.. الجالية المغربية بقطر تحتفل بالأعياد الوطنية المجيدة للوحدة والمسيرة الخضراء وعيد الاستقلال | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQVdtNi10RzFpam1LN2R6ZHZYczB5bXpPVF8zekJOQjlFeV83MHlaU1REYnJkWUhHc3ZlZmxzN1JraUNWZ185dTJQdGE4d25BNjdhT1NjSUtNM1lqUGlhdjFrT0lrdzJKb19iVS1lX2k2UTZLaG8yUFRXRVNSUjV3dXVnTUx5aUc0R2U3a1R4d3BmUk1ONlBrZFMwVThhR3VaVTZjVG1NaEkzcTlwY1ZlM0RDQ1l0TVFOeXRDVnU1czZMZHQ0cGJ0bVV0eE5LdTdvVkg1amQ2M1JXOVJSeDE0bmNCRGRESEduTjBQcEF1Nm92WXNWNGctOXVuSzdmV3k2U2lsSzRSVUY1TVFBaHRhZGwzRUdjTWRqa0hIcDlZZkNVeERCNERBZmlpLTY3VE5ncl9Ib1dZdm9GbXI1TEZyY0NfRlB4ZnI4V1RadnF4eU9ONE1Sc1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAVBVV95cUxNZ2c5WUZPM0JmSW1ZWF91VVdrWWlyM0RnX2xkX3Z1SUpkbE1Ib19NSXdkeVZ4d1MzclVldzAyZGxPc3E1MnhDVTlqdExrVGl6RnB0U0I2am9xUjNwNEpJNHZTRjRDd3QxR3F2OUZNLWFVc3ZKVGJZNDR1NU5GdGNfRk5UVjhmUDFPOUtaeVVCcWFoMzVSXzJKU25fNXJiSWRrSHhhSVJUYV9hQVdZNVlldGNxOVUzcTMzd2dhZk4wNUZLNFM3dmhHOXk0UTdlVzd6WUVtRGFKeHg0U1BtMkw5TDZpZ1RZTmoyTnZkNGpHM1g2RzBjWHRBX2NJeU9UTWE5b29ZTHZhdGFpVXBpczZoSHNNamFLS2pEM3AyalRFODloTEUtUnU0a3ZlTGo3b2IwQ0JaT2FBeEdtMUhiLUVEcWE2REk4Rnd1ZWl3MHZtWFZqWG85MUlBYTZxRHExZkFGNl9oNjByZVpBUGQ4MzFHeHJ6YV9sYll3d2lPclotaWtZWlc4NUZyR0Q4UzBHdU55VENpQWRfTWhyX2JsaktuV0E3eUxfZVNPY2NMWE0yd2dWWTRYcEtUVDJnUm83SW4zeV9qLTlZRjJQWDBITFJKZXBaZHBJYjBpVkRPT1BfWWdZWGhOSTJSOHdDSU8tWS16eTNvcS1XMHFWU1pIaDZTN2otSGI1YzdFSVFuR2V3MXFPMUVzUFZPRnN0R09QdDVGeHhwWVE1bUZCTWt3LUJCam5Oc0NKZlpybDhuMzJWR2Npdy1rV1NsT2FQTmg4Sy1ZSUpiQWYyQnFFQlZtcDRsWHIzWDBJT2MzTC1Cd1hzaHp1Z2VhSEdPMkRfZS05NFl5aUVLV3pPODdPYXVvbkRoWHJRQ1ptaFp3WDJnODFCMHY4bGxSZlotMWgxY01nQ1hwUk84V0RGYVM0NS1BVzZ3YnVpUjc?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Thu, 19 Nov 2026 13:58:01 GMT",
+      "local_url": "/article-34ed987c69f4.html"
+    },
+    {
+      "category": "policy",
+      "title": "انطلاق فعاليات الدورة الثانية لمهرجان زاكورة الدولي للسينما",
+      "description": "انطلاق فعاليات الدورة الثانية لمهرجان زاكورة الدولي للسينما | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxOQ3ZlNnhGSWFKSWo1OFVyVDQ4XzNCdjN6N0lwWmIwOFpRLU5OUk9wamU5X3N4RS10SW5EQVNibDZvUlBqdkN6VUJwNWZnaE1uLTFDS3pDcW1DUHlzdDJRUFc1ZFM4cFhwd0Y5S001VDJTMmQ3UUdwZjgwcEt5YkpNaXJ0QzFJZHcyQy1MNUhZQV9VaVVJTVZwOW5fVVI0VlE1Z0Nid3pyQUlkbjhZRXhUcmhnQkJRdWs2ZTJjcTZUd3RnTWVDTE1aS0NqYTNaZ1d6clRhY2ZsUE9ScG9CcXUtcDkyQ1NndEV4MlJoeWtEZEhqbzhGckp0cXpVODF1LU9qaEt4Y2FmV1ZDOUQ2SmVqM1BNOTdVUmRIMXBfR1VTTE1wZGhZRVhjWFpnUmowZWxIS1kzSGlUM1JMdlNFY012QzB1YXdvY01XbFk2dFBJbDBYZEY5aU5nZ3JRRGQ5bFg2VEtWRUR0ajg1NnZzbzloQ3pRZzFzQkh1blg2c29SWnNfVGhCajlzd1F1Yk1PQXJWYlUxYzlSbVNCM3ZZSlQ0LVU5T3cwS0tvb1pLNUp3Q3JvZkVydzNtNVpKOUhMRXJxMUhnN0Q3RERrR0xQUmNOSW85S3Fxd3VVYXhaVGxKM0drcmhPek93QWM0T0Ztd05BWGt0VVZNN0EtZy00d01kLXc3czVBTVFNRFR4Nl9HclB4VnZYWEN1dEZPZHZBRkl3?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Thu, 19 Nov 2026 13:06:23 GMT",
+      "local_url": "/article-2979d1d359f7.html"
+    },
+    {
+      "category": "policy",
+      "title": "لقاء بوجدة حول موضوع \"من ذاكرة التحرير إلى ملحمة الوحدة\"",
+      "description": "لقاء بوجدة حول موضوع \"من ذاكرة التحرير إلى ملحمة الوحدة\" | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOenJNdkhVRUt2RWcwUGJrV1ltbHZTTnFpc2JNWWpNLXNLaFZtTGtfX1d1TG9RaEQzZTU1dGNBSjZSV3VDZGdpdlZnU1l2N0FZRFFWbEtXZHBMUkRZWTlwM0gtMXhPMWpmSWxkN09zN0dWVFFEcHJOWVpEQU00NTh3U1dtTjhfUkhlZjBUemYtcmdPYnY2R3A3MTJyZGhFaXg1OFo2T1NITmg3VnIxZU1LYU5pX1FzZlZwSUxOWGVDTW56TkpqNUczSVFaQ2RRV3NqOFlqbnJtYXkwcFh5anpXWWpYZno5MFBqbjlhYVFYczU2Nmd0LVF3RXM3X2FtbGgzT2Q1T0JPLUdlbklyUmJwQnprbDhVYVdrSFZ2VVVjYzdaU0FsdGtER1VYMWdzcm1HaVdrc0tPdHQ5OGc1UWJXbmRnNlBqaldDTFFKRlVFMmZZdTRhbG81enlXakdMRjVudUZVWEthN0pJaDhkVEtnZGNzT3VUaEh2S2YyRTVnYzRlTGZhdlVyMml3M1dZallsdU44Wkg3UnFpdWgxUXZidmFFT0QtcE1JWUFURTBQcjMxZVVSUldha1lPenQ4UVZ4Z29PbU9QVnEzZlNoUUdGaVVrSC16UDExVGg1NUJhME1vajg?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Thu, 19 Nov 2026 12:57:02 GMT",
+      "local_url": "/article-3f316ec87f69.html"
+    },
+    {
+      "category": "policy",
+      "title": "الرباط .. انطلاق فعاليات الدورة الـ13 لمهرجان \"فيزا فور ميوزيك\"",
+      "description": "الرباط .. انطلاق فعاليات الدورة الـ13 لمهرجان \"فيزا فور ميوزيك\" | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOeHppUUlaOWdoUmtibzl5VjhPTDNBbFN4cG96Y0cwaFZ4SjdrNGN1ZTJyUlBoQ3dsQXpBakEzV2dJMnNlRnhCN2tTWTQwY3Z4Qzdfd3VCbFlBbWs4RE5peXhBaUU1dTBndjlwNFJ3cTRuUnMtQ3JKOG9QOWotOUtBMC1JM09lRktxbi1MQnFzYlJkQ2MwVUhMYjMtaWdXTWVVb2tpWFpDYmdYR1BsRE4tbHZsaU1FTWRMWXJZZVhwaFRSYjNLZ3I2N3NKdU5EcllYQVdPd0VqdDVranNhMkJDa2pkSlZNU0VzY0dLTWJFN08yWkdEaEw0R2tfOElOdTROVk9TdG15eS1tRDFaeHVhMTczbmduWXd0bmZudjA4di13ZXAtZk15OWctczdSX2hIY0xhTWtFOVFGTGE4eDBSRVYxVUFNemZfU0tETVh1VThXVFBtUGRvbnNGV1NnbXZYbTdaSUdmRVEyWmktVnNYSnJMRXpZQkdYSWx6UEZEakV0eGNKdkxUaWVjdi1zN0FDRUlGem5Jck4xMk0wdEpGaC1IamlRLUNXZ2tHQVlfemJyWWwzVGNabjRESnl6MDhMNG16X09SNXMzNEhYQjlZLXlMQV9VNHpJQXN4TUNqSFVhemRYa3RmS28yT3JjVjVObTBlaTZXQjJ6T0d6Q1l2aGpMNFQ?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Thu, 19 Nov 2026 11:47:44 GMT",
+      "local_url": "/article-e10d4a1f71c6.html"
+    },
+    {
+      "category": "policy",
+      "title": "وليد كبير: خطابات \"العداء مع المغرب\" لم تخدم مصالح الشعب الجزائري",
+      "description": "وليد كبير: خطابات \"العداء مع المغرب\" لم تخدم مصالح الشعب الجزائري Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQalRESW1mQjZvMmpfOU8teXJPaE5FSmNIUmV2VGQ1TDdWOG1rbzVNTTlIUnpmRlpSSlhKdkNjU3FyT0VKeDBYX0k1QnNSa0x1NUxyWmhiVExDbGRSTUZISW95MHRCbWJGLXZta05OWmdJSnVaV1I1MVlEQzc5LVhRNkkwaWpxcVJ0Tm53aTZ6SC1aNW13VDVzSDJ2VEZWYlh6VjlIdzhtVi1lQ2xaeDBpN2lESkxsdm1iWlBrcUppczZOUnlzVURjVmpPdndWZi1lRmoyVEpvdEViTUxrRjE2T24wTEFJXzJlMTZBZkp0MG5zbGpUNnNMZkVPWDc0TmUzLVZCajE3R3duam1Qc0xHb3ZUYzZ5N3Y0ZlV0ZkFneFVqSkNmTEp5UjVpNkl6ekdjVHM4ejBtS3VHMTdvRV8xZUNLY3g1Y05mcUg2Z3QwVm8?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 19 Nov 2026 14:28:57 GMT",
-      "local_url": "/article-16c232276a51.html"
-    },
-    {
-      "category": "policy",
-      "title": "توقعات أحوال الطقس لليوم الخميس",
-      "description": "توقعات أحوال الطقس لليوم الخميس | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNb2QySUxKX1VnZjZqbnRodjdwMjAtSTdCYkFqRnUtSTUtMlU0WGVQUm45YmV5WHdiZktZNGNhNFpqSG1CZGNGYVQ4NURLMnNwNGdaV0ZaMlhRQmxOUGI1VThPMlBLM19FSVFUNC1YQ29kTS1tZk1sbnEtM2tNOHRUT29ZZ19xSEhtXzBuX2J0VlYyR0RERWJialQzLTJQSmtIXzJRWFNOMUtQQW9OVC1YQmRibjQxNkt4LWVjaU5ZZEtzOE1MWXBrTzBKb052eXBhcS1VOFpZM1dxdlltUmFnbEhFRXl3NXhXRm41cTlwdXZJZUdTVDJudzlaZzJOdFZDckVpU24zeXgzTERkeTU4R2Iyd2tldV80NW53MUFGeXVYSWJqbGp0M2hmVEpBdXhiRFhBU1F5eUtPejhxZ0RjU1BlTUQ3N19McjVzSXdfcXFPS2F6bEoyM1gxSVVTODJYaXJXZ0N0Rzc0YnNVQlo1TFc4VFpRLUdmMWdz?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 19 Nov 2026 09:00:57 GMT",
-      "local_url": "/article-4dcfd263b75b.html"
+      "date": "Thu, 19 Nov 2026 10:02:22 GMT",
+      "local_url": "/article-03ad9f5e30e8.html"
     },
     {
       "category": "policy",
@@ -139,6 +172,17 @@
       "domain": "Hespress / Morocco World News / NewsMorocco",
       "source_url": "https://en.hespress.com/148591-mauritania-says-it-seeks-to-be-part-of-solution-to-sahara-file.html",
       "date": "Sat, 07 Nov 2026 06:45:00 GMT"
+    },
+    {
+      "category": "policy",
+      "title": "لعريبي يوثق \"الرؤية الملكية العربية\"",
+      "description": "لعريبي يوثق \"الرؤية الملكية العربية\" Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQOXpaeVo3S09Ydll6YUp2YnJtaWo5X1N3V0lmdXlZb3lvYXFTcDR5MzRCM0Q2R0hyZjFPeE9rdjZEaWYybm1idERnQ2dmUUNBbjhmaGNYYWV5UEVOcXl1V2lPSWtWQVBOZDJMY0Ntamp1eUEyeU9fRzN2R1ctTXY5bFNtNWdnS0lFVEJyTUFJLXJIWW9HMGpQUUdVS2hqcHNJQ0hnSWtNd2RkZElqS1pKWktTcVJoSVY0QV9xUXZzM1Y2dzg1Y0JtU1FCbHNHb3RsdDUwR2xkTWM1YVljSnlYNkJFWF9CUDJBdm1QbTd1Wm5CQkkyN1huRW0wZHJnamdXaHlnaVdKZlI0QkI5VUNWMFNUTUN1RHNRbVJBNTNiZWhOMXVLdVp4cE85R1Y4enB6ZnFvN0xrRzZuUmJWMW9GWDhxbWk?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 20 Nov 2026 05:33:14 GMT",
+      "local_url": "/article-0b5a771f4767.html"
     },
     {
       "category": "sports",
@@ -197,14 +241,14 @@
     },
     {
       "category": "sports",
-      "title": "إنجاز تاريخي .. المغرب خامسا في \"تصنيف فيفا\" أمام البرتغال والبرازيل",
-      "description": "إنجاز تاريخي .. المغرب خامسا في \"تصنيف فيفا\" أمام البرتغال والبرازيل Hespress",
+      "title": "منتخب مبتوري الأطراف في نصف النهائي",
+      "description": "منتخب مبتوري الأطراف في نصف النهائي Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSU5vUjd6ZVlPN3lvX1Zrc3VERkN0SGFVZHlMbjJqRnFXWmxiRFBuUEZuZ2F2cVM1RWJxWUx4N0lxbktnbWVQWEZ2TFVzZTdlYW92S0hxM1J2c3ZrX1oyeFcxX2NzM3JVRk4zOGxDQmRWbFF1NVBBcFVIRy1GV2tLSDViUGdlaXQxRFY2eDU3Mzg3RjB6U2FkNHlCVnktbk1QNm45R1Q3a1V2OWdpTVZONDU2eTVsSnZseUM3ZHczUGtJVkhPMDJ6bDJDbXprbEt3bU5iMjJXTGJ6UThmWG42X1lQcTNmWVEtUFp3UmlfNndNZFVRenlmX2p1aTJ1OFVfQndaSzBOMG5zODZWSzg2bW45Rkc0eTBVenlUZnRRWmRUM1R5ZXNYbEhCNXVLOG9HVF9OVlRlQ0xWMjUzQi03dkstVjFxZk1tdEpLRmJuaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONGhFZjRKRE5QNlZoYkl5ZWR5ZHRITXoxaTluTi1IZ2JSeGVHMVVkSGtoeUFHeWRyZVBFS0ZTeVo1M0JVN0RyYnNmQXhDSjQydXhDS1Z6Z1BYYkdKN096ZldiRE5pWjRSS3lQZHFweEdXbnYxSVo3UUdwVlFET25oc3QzaUpFY3ZicXdGMDFrMlptVmF4QmhkRWRlS3p5T2VkdTRTWGh6TmV6djNiMW1EaDNuOU92WUhmUDRWQ2NWRmZPSmo0Qy1GVG1CUHVzX1lpTDA5T2FiWUtTRFRubm5LUTI2Q3VhRVhEdGMzRjROTXp5LTdVN21oMDVpQjRYRW9FbVA1NzB3RThBeWxDSm5vQU5Ma1c2Nzd6UHdqbVgta21VbnhEelNzcjNmdkI3R0RKVkhFVVR2T3NYc1ZINmwyNGN1eTJDQQ?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Wed, 18 Nov 2026 10:33:53 GMT",
-      "local_url": "/article-48d401d3a09e.html"
+      "date": "Thu, 19 Nov 2026 23:55:10 GMT",
+      "local_url": "/article-083e60da9225.html"
     },
     {
       "category": "sports",
@@ -219,14 +263,14 @@
     },
     {
       "category": "sports",
-      "title": "\"فوتسال المغرب\" يلاعب السعودية",
-      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
+      "title": "المنتخب المغربي يكتفي بهدف أمام النيجر ويحسم التأهل إلى كأس إفريقيا",
+      "description": "المنتخب المغربي يكتفي بهدف أمام النيجر ويحسم التأهل إلى كأس إفريقيا Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZnJ1Q1VBekZyZmQ3blJlRWVWY1Z6UGRjaFNoZFJnb3daNWRLQzM1aUtOZFFiT1JpdmRNb3dveHlPZnp3dlluNHFESUpVb2NseHhSa3RZbVF6YlhYT3ZkVHhubzhQQzdEWnJJQVgxRHJ6UW1UZDIyYlRnSkl5Y0xLNVJ1YUJ0YUlYSDIxWUYtYnBUOFVaZkFvbTdXZkRpby1fTHpORURIVi1KV0hWdlZ0UmZzVlYyTWd3UFd3ODU3TlNUNUtJZExvTk5FRU1CU2llRW56MExfbVdqb2s1WUNRaHJRVXVoVVVZODdxcTBWNklqRkw2VEdDTGNfT0F2ckljRDBGanF1LXJMTlNrYUpYZ0huRE93REcxeml2OG82LTRKWXY2ZUQ3eXhLN29ud0ZUSFI0eThkTkZ1cnVQdnh2MGN5ZkdHaGdHSnRRSV9rdGxlZ2NGN3c?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 19 Nov 2026 10:49:06 GMT",
-      "local_url": "/article-1e6cc071b6e6.html"
+      "date": "Thu, 19 Nov 2026 12:14:01 GMT",
+      "local_url": "/article-f3d3bf459260.html"
     },
     {
       "category": "sports",
@@ -249,26 +293,26 @@
       "date": "Sun, 18 Oct 2026 13:13:00 GMT"
     },
     {
-      "category": "technology",
-      "title": "Meta says 'reevaluating' 2030 net zero target amid AI buildout",
-      "description": "Meta says 'reevaluating' 2030 net zero target amid AI buildout AFP.com",
+      "category": "sports",
+      "title": "\"فوتسال المغرب\" يلاعب السعودية",
+      "description": "\"فوتسال المغرب\" يلاعب السعودية Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbFlmcEVxTzlqczF1ay1YSmk5RUpsXzIwbF9ST2RNUkRXUzJnTUtPaF9BS0l1Tm1qVmo2c2dua1dkb2FvYVk4azFxUQ?oc=5",
-      "domain": "AFP.com",
-      "source_url": "https://www.afp.com",
-      "date": "Thu, 19 Nov 2026 21:07:54 GMT",
-      "local_url": "/article-dcbc159da4d4.html"
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDF5RGM2dUlhdkpVNC1RVl9XMC1WM1FtNlE2WmE5SFQ5cVdVVTgtZFJudVByVWR2MHV3QmZLX3I2YjVVeW0wWTBDQ19Tb3ZPeWV2ZGNBV3RMOWNOdVdMdGlCeUk1MnE3TGNOUVUteTBDSEJnNDZmcE5oSEJVQWdSMjNCRHFkd2c2ZTl2VjhNQTRjQ3cwR3J0MkNjcGRGa3M2R3h0cnI5MTE5UUNIamJMREhjSXJIWFhCQnRTV0RyTUkybEZGRTJNNnFtT2gyVjVSSE9GRk9jeGw2QU93TENxN2pBTTdaR29pTmg5aFEwSDFyTnViVUJUeWRYNEkxV0VLTzF0YmZYdTZwUUJGajZkYUZ2c1NKQnpVSFpV?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Fri, 20 Nov 2026 11:19:24 GMT",
+      "local_url": "/article-1e6cc071b6e6.html"
     },
     {
       "category": "technology",
-      "title": "الشركات الألمانية في مرمى القراصنة والذكاء الاصطناعي يفاقم التهديد",
-      "description": "الشركات الألمانية في مرمى القراصنة والذكاء الاصطناعي يفاقم التهديد DW.com",
+      "title": "الملك يترأس جلسة عمل بشأن \"عرض المغرب\" وتطوير صناعة الدفاع والأمن",
+      "description": "الملك يترأس جلسة عمل بشأن \"عرض المغرب\" وتطوير صناعة الدفاع والأمن Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQd0hCNkNiQktLalNVcEtoeW9TTkJQREhQQzlwTmVxVzZkN3NXWklLTDFqN01lOURaRFRIakZ5N1pNbEFDeHVFdFpPQlJwZGE0VE9SdW13NGRuTnVCQlo4ZUl3THA3OHdPbi1sYS1uY2xaQ2VFbHhTbmlXeEFKOFBqUjJlaTZRZlZVT2M2NTRVWWNDMnRrdzFZQnF1NEE0WjcxdXB1blpYS1FoTFZiTUNtYUFtRWlWekdQVzRjZUNtQk1aY0ZDeklGRVNham1JbjRUVkI1VGZVU0Itb1VSTzMta0lwaHhPMWUyN0JneTVvd2N1N0lJaHQ4SzBRQTAwOEd6Nk5KNHV3dm5ub1B4S3hnSWYwcFhpeERGZlVtM01qRkNFb1RBZG4yM2Zpd0VQT3pSNkVNS01TajhMUU9SRGVhUDNSNURzYVZWc0Q0bElWNWV1LTBId3pIS1cycGZIU2Y0c2YwMXRiY3FVdzUxd1VYWFpYWFNGTFY5THg5dllmNWNhaGJsS0dnVi1MUTdUWmVLdV9rdG5BbVNabnhCYi03UTVzXzdnam1iWTFibU8zY1hOektXSEdKRHdPaFUwcmhHVUhySFV6a1BWYjkwQ0RtbURIZWl4YUJmYS1zakdmTzBmQUY3V0Mtc1JmN3R5Tlp5QkpfakJER0xwa3lZcGFOOWhZTC1DRUxpaE54OVljU2NHT2s2Q2JrQVhGN01xd2IwRlFPRNIBpARBVV95cUxQd0hCNkNiQktLalNVcEtoeW9TTkJQREhQQzlwTmVxVzZkN3NXWklLTDFqN01lOURaRFRIakZ5N1pNbEFDeHVFdFpPQlJwZGE0VE9SdW13NGRuTnVCQlo4ZUl3THA3OHdPbi1sYS1uY2xaQ2VFbHhTbmlXeEFKOFBqUjJlaTZRZlZVT2M2NTRVWWNDMnRrdzFZQnF1NEE0WjcxdXB1blpYS1FoTFZiTUNtYUFtRWlWekdQVzRjZUNtQk1aY0ZDeklGRVNham1JbjRUVkI1VGZVU0Itb1VSTzMta0lwaHhPMWUyN0JneTVvd2N1N0lJaHQ4SzBRQTAwOEd6Nk5KNHV3dm5ub1B4S3hnSWYwcFhpeERGZlVtM01qRkNFb1RBZG4yM2Zpd0VQT3pSNkVNS01TajhMUU9SRGVhUDNSNURzYVZWc0Q0bElWNWV1LTBId3pIS1cycGZIU2Y0c2YwMXRiY3FVdzUxd1VYWFpYWFNGTFY5THg5dllmNWNhaGJsS0dnVi1MUTdUWmVLdV9rdG5BbVNabnhCYi03UTVzXzdnam1iWTFibU8zY1hOektXSEdKRHdPaFUwcmhHVUhySFV6a1BWYjkwQ0RtbURIZWl4YUJmYS1zakdmTzBmQUY3V0Mtc1JmN3R5Tlp5QkpfakJER0xwa3lZcGFOOWhZTC1DRUxpaE54OVljU2NHT2s2Q2JrQVhGN01xd2IwRlFPRA?oc=5",
-      "domain": "DW.com",
-      "source_url": "https://amp.dw.com",
-      "date": "Thu, 19 Nov 2026 13:08:04 GMT",
-      "local_url": "/article-ae86d950049f.html"
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxObEJfQUxrUy1pTFNodzhzQlFFa0d3WXBlSDhLZ0pzelB5aTJKdWkzYTR2NmVINDJHQ0hRazhSZGh2ZThER0M0ZnpHaXlNdFhyZGFEQTFmcmJNOC1JcXk1U09tX3Q0R2Z6c1hCbG43QnFDckdOTUlOUGE3QkVBUGJsNWxhNDIxYjcwMW5fQ2o2VTRSdXFqS05tRnduYTJibzJ1RWpXNmpycXFOM0NkclNuQk44akZxZHJoaUpySlJlTkJJYXR4Z08tQlBKSktodE9Oc1pvWW9qb0x2Y0VLcHN5ZTBWMzdwWFhBcjF4YVN2NEdfZ2E0dXd4UHZ1VjJjRGhoaUpPSkpnNG9HR24zemFQa1RlNVkxZl9ock9vdVhZUzNwc2dtX0haa1pYWVJBTWJrdXdiaVZwcEVEOVdOM0djcE1PX3gzWnRrekhMUHlSYkRLVmh1UjRF?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 18 Nov 2026 16:07:59 GMT",
+      "local_url": "/article-b63dceca2005.html"
     },
     {
       "category": "technology",
@@ -283,58 +327,14 @@
     },
     {
       "category": "technology",
-      "title": "كيف يساهم الذكاء الاصطناعي في تعزيز استدامة قطاع الطاقة؟",
-      "description": "كيف يساهم الذكاء الاصطناعي في تعزيز استدامة قطاع الطاقة؟ CNN Arabic",
+      "title": "تقرير أوروبي يرصد تطورات صناعة السيارات و\"الدرونات\" في المغرب",
+      "description": "تقرير أوروبي يرصد تطورات صناعة السيارات و\"الدرونات\" في المغرب Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY1RRUkhnVGtTLXg3Q3p2cF9GZ3VEOEMyVXYwcnVDdThnVUR2NWVpaGRzNjEtLVhUdGVnWWtUU282YW04eGNOYkxTRi1OeC13dVF2ZU1vc2M4V1BsU0toN1NyUTEtSDcwcmszWlR0X3F2UDY4YjQ1dVk1OTR3RnBWSXdSSS1OY0hQS2JDTFNzd1M2Uk5WQWhnRkhJeHZLTVdGczY1TEc0c1pmOGxlT3BHRFRWR2FHUU4yZlFnS3VyQzRZbG12YUJ4NWo0YzhwZlBTN2F4YUFKSE1LQQ?oc=5",
-      "domain": "CNN Arabic",
-      "source_url": "https://arabic.cnn.com",
-      "date": "Fri, 20 Nov 2026 05:25:39 GMT",
-      "local_url": "/article-3dd599e98178.html"
-    },
-    {
-      "category": "general",
-      "title": "توقعات طقس اليوم الخميس بالمغرب",
-      "description": "توقعات طقس اليوم الخميس بالمغرب Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOUUxpWkQ1SlVNcXA3NUpmdC1zcEptUXpfT1hoMVN6ZWlLMTlfcTdvdXFucWJtbzZqLWxNOW12WFFLOXlvejk4UGZhZ0ZpenhsZF9rLWhTRGFRT2dVMUEzVkswVlBUYlFud0c0LS0xdkFTWExkT3NKZHZ0Vk8wa3l1TGxYRFA4QkpsLXNkTTRCa3ktT25seUVZMDBWcFp6T1JPakxOa19RMHVDQ01hT3VXUDNYT1lEbHdhTkFyRGo4ZlM5Q3hQdm5iakVka0RtX2RJVkxUZWVKVkRma25RWndQai1mMHRscFItM2lBZVlqMFdidVRrMHFoVk5sWEZmcDRCY09xbVQ3YUVfMkJoNUxDVTFTX0VuWnhpWUp6anJpbTZEQ3hCdWRNOUxmZGt3TEdDemVzN24yRHhrcDh4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOcFFSUG81RzF6Z08tbGgtMFk2cURPZ1BibmhQUi1XQmlHMlBpT0FFMDVjYWRvUUdzZmswOXhJajlsQnVxeXN0QTFqTy1aeUdtN0M2T3ZfalFPUEFfYXhoTG9BcnlacnhPNHF3YmVzTGVkeDhWMmVNQlB6TWR1RkpGQUFPRVBuSXBFMVlVSnRMRGhOcTlXTjJ2TE11d0laVG81X19ySS1RLTFmeGZSbm5yTlQ3MzQ2bWR1cG05ZmtsY3N3YmsybmE1aTRpaWJ6QTNfUldtQ1N0MWQ5ZEZHTWdScmxjT3JiZGN6Wm1wZ2Q3b0NkMXVhblg5SktQWXpEZ1hENm9RMDN3SU51aG52akxpeGdZblNYNHpQc0dEeDl0V2l2Q294eHlLcExCbmU4YTBVZHFGNXhCWkxCcXFSRHQ3OWpocHpQNUVqdHNPNVBXMEJEMnVyMkE?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 19 Nov 2026 07:38:08 GMT",
-      "local_url": "/article-5ce85794ef26.html"
-    },
-    {
-      "category": "general",
-      "title": "من حماية الحدود إلى صناعة السلاح .. المغرب يعيد رسم مفهوم السيادة",
-      "description": "من حماية الحدود إلى صناعة السلاح .. المغرب يعيد رسم مفهوم السيادة Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPLTFqcU1Jb2hXaDlfa2Zzb3p5UTd2NDdMYWdXZlZpMDgySjNKQl9jZ0ZEMnpzNTRkYmk3RFNVR18yUHZBVGcyLTFicUhlUWNxN210ZWl1cmJGOUE4aWIyZnA3cmozeTM1XzY2Y1JBU0N3WDUxOTJiQTFVSG5LZzB5dVFRWXNlZjZzcFQ0eEtQMDdzRWczOFFlcHZTWm9wSFZzTFVHMl9md0ZhT3VyUGp0VWtTZ3VUQTVrRVFfbFhoT3FJSnRJUW1NLVRYYUdYX0h0bHpjbkxrTUtDY0lQMl9pVElEdW41aUNCU1RBb1lfZWhiMEtVOEtGWDBmcGhMdlFPZG9aWHk0dFkxRFlvTkxxWlk2eUEwVjlFT1M4QWFWc2pVQUo3OEwtTnhjQ2NmaDhJV2R6Ri1GWVNlVzNaZlpJRmhmV1hQbjc2QjNzRFFHcEpkLWJ4UU1F?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 19 Nov 2026 01:03:29 GMT",
-      "local_url": "/article-49ba32898aac.html"
-    },
-    {
-      "category": "business",
-      "title": "صندوق النقد: الناتج الداخلي الخام يتجاوز 5000 دولار لأول مرة بالمغرب",
-      "description": "صندوق النقد: الناتج الداخلي الخام يتجاوز 5000 دولار لأول مرة بالمغرب Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQcEJWVTY5aDFFTEd4UFBzdDl0bktNd0IxRldhVUxOZHhqMDkwR1BjQmxIX0JMcjlKa0JUcjZPcXpGSlJjZklRd2JDRFJLcXpuVWlLUXd2RzZ3WGdPWUpkMFV3YkZHM1owd3ZFRXRrMTJCV3djSE05WjJFQW9GdWNqNUhiQUNlXzhESkF1bm5jaVRwUV8wVDY3TkhnWHFBUzFNZm1aamdWQTVJaHJiLWx0RndsWXpUdmpLNFBaTVJqQUx3TjZDNkZ5dFprLTZfWG1iOUl1bHZIOEpFQTRVejVzLWFFZ2pyTFJxd2JvTjkzV3hob1JWMkhwTFFIZUxkSEFvQ2tZbktLaHhWX1l4WmR3QS1PT3RUT3RZVkpxVmVTQ3BPRENjbXhLekhESHdZcGk4Z29RT1YzaWtLeHpTam9JMjJFd2Z6eEdaVWw4d01EVlQyNW9jVmc?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 18 Nov 2026 17:03:34 GMT",
-      "local_url": "/article-b3edc4b47d01.html"
-    },
-    {
-      "category": "business",
-      "title": "والي الدار البيضاء يفتح ملف \"الكارديانات\" لتقليص فوضى حراسة السيارات",
-      "description": "والي الدار البيضاء يفتح ملف \"الكارديانات\" لتقليص فوضى حراسة السيارات Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYlBJSlN5YkowbDZEY3NqQVNrMnRRdVcyQ0xXTm1KaHVKekRZemlYVWE3ZmxNek55SkZPeDdxU2FWVGktVDFDSmF4WWZxaW9GQ2taellCelRBcE43LVdfUkNYcXA1eDdVUjZFVFk2VkdNazd5WjdoV1NLTmVaZXFYNGNlNTRPVmtrZGlsVlQ0RmhtTW53N1lpQnFyVjZ2MVAzTFdYLUxjcWRuOEhUYWJYeG5PTFJEcFpQUUJFSVdGUUZWZGVVS1dQbEZoOFBxeUVfVHVkakhaQS02Q3hSWFdhVkpQcXlSLVZ2cHMyZkpLWUFvZ3I3ZDFsVVJrQ3kwS01oR1RLbllmMG9SSHVnOGY5cThhdXFSMllQY0ZXUjY5dlBKNjJ2VDZ6REozZnRBZTJ2VXR0UEc5TW0yZURsVDdJYmhqUUE5a2RXUFBzeldERDh5MXhDR2c?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 18 Nov 2026 13:33:42 GMT",
-      "local_url": "/article-62823aaf1c70.html"
+      "date": "Thu, 19 Nov 2026 06:03:02 GMT",
+      "local_url": "/article-245c7d1320e3.html"
     },
     {
       "category": "international",
@@ -359,48 +359,26 @@
       "local_url": "/article-0904fcfe8c24.html"
     },
     {
-      "category": "business",
-      "title": "الاقتصاد اليوم - إيطاليا تفرض غرامة قياسية على ميتا بسبب صور المستخدمين على فيسبوك",
-      "description": "الاقتصاد اليوم - إيطاليا تفرض غرامة قياسية على ميتا بسبب صور المستخدمين على فيسبوك France 24",
+      "category": "international",
+      "title": "صور: فريق IT'S A WONDERFUL LIFE: A LIVE RADIO PLAY يحيّي الجمهور في ليلة الحفل",
+      "description": "صور: فريق IT'S A WONDERFUL LIFE: A LIVE RADIO PLAY يحيّي الجمهور في ليلة الحفل BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxQeUs0a0RhT01tbjVrNzNQYjVVSnlpZGJ0N09ua29CVjJJdnp1MC04cEhHRmEwNjBJcXZEYktrc21hUV9JS3ZHSWJHZGllVzlmQ25wQ1NhN1VZTkFSQXBZSG1tN1YwR1VBVlJGd2R6b096aktMNFlicHdfbUk5UjFRTFVNODNTemcwYlBYVzdBVFlHeC1EanhLVEZaNmZuQUVkZzFoWUVsY3pGRG1XNkU4RlFiN2Z5ZnlpN1o2UXd6WEdaMTVJdHMwMTFwaGhUS3FpM2Y3eURiOXUxQnhzT2tfeVprUHUyOXgxMkQ2QVplNkYySDIzempGaFpnOF80anhuMTRIcHZEaG9rS2lQb1JRcDAwbEsyMnAxdC10Qm9VY09vSnFDTXRKUk11RnFtejNNcV9HSjhIUU11dXNNY1RJdDNLVEdrUXc2MkE0LWlPNF9pSmNseUVOcFBJb1p4SWxyeTlSNFJkRnhabWN0X1JwRm5Xa0M3YUdNRkN1cjdFLS12bk1OOXRjSE54UlZ0anllT1hMRXRNN2ZGTzdWVk9wNU5JMmFGYkRuVjgtajR6Y2pKbmZuTkU2cGRiX0Q5eGhLai1EckI1WUJBZC1UZC15ZEFtZVNESHpWQWMtN29mdi1zcGpCUHZiNTJ4ZU9LdGdNNTQ4NVYyRWxNcTgydGVUWm5uUC0wQVF6blNZZUFpYnExY0piLTRBYWNPNHAxMFZTVGkxcWtIemF4RlFsMW9IUHVpNlpXcWpFYUk1MGxZLUdueHhmRm9wOTg0RmphM2hVRE1GQlh2RzMxM1ZobWwycFZPcnVrYjdFX19IMDdpOFNySTFtZTFEVU5HOFFDelBGWDJuV19PUUVQcFhKdklCdkxlRlVXUjVBZE1lS2JiRmd0X2p0U3Vn?oc=5",
-      "domain": "France 24",
-      "source_url": "https://www.france24.com",
-      "date": "Thu, 19 Nov 2026 10:47:56 GMT",
-      "local_url": "/article-878fcaddb137.html"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVgxbVBrTW1rUEtrQmhYRUhyaDNiUTZfSHpURGx0SWVaSUJDcTNWNk1JY1prcHoxZVNlT2hBTl83dUZsOE5CM0ZiVFg3RURTdjJkLTFxcXNwemFXZW05T0NtR3l2ZWhRb0EwR2xQbGtQME5Fejhob0d0MXpxc0UyNks5SWZkZTdHOWZ2WEd6STNWTVZLS3FZYWtTTGZDcFJLWWc2ZzlUQjAzVVFlQi1RbG5LX3QyZHZIa3JvOGpXbkRiWVN1Unc?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Thu, 19 Nov 2026 12:05:26 GMT",
+      "local_url": "/article-5dd190ae52f2.html"
     },
     {
       "category": "business",
-      "title": "الكتاكيت تبشر بخفض أسعار الدجاج",
-      "description": "الكتاكيت تبشر بخفض أسعار الدجاج Hespress",
+      "title": "وفرة الطماطم المغربية في أوروبا تخفض الأسعار وتضغط على الأرباح",
+      "description": "وفرة الطماطم المغربية في أوروبا تخفض الأسعار وتضغط على الأرباح Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxORldqVTZOUlh5Qkl3ZVZ0VzB5eUszOGJDMk5fcHBOUlVvbGxvV0lhZGdlWmdzSTlFY25SMXhNRDFQYlk1TUMwWndac0tpQlN1cXBQZWJNYWFjSG5fS0RtOUlfZGtUN0EteHJjemw3V1p4QVBkTnFOeHBINXl1Nmo2Y2h6dzhvdzduTUp1VjFJM3FJbjh1WTVrSGlrQ1p0Ukp6MkdGazUyQ0Fud3hES1FtYTJFRGZXeFQybnFrMXhCQm00RWhRc2MyQzhzcVRXbWxHQXZqQUk4TG1pN25OOUtvbUlLR0dnZUVsaVlkcC1YeEVZVFQzNFl1SFEzQjc0WjFoMUUta1Q3RUo3ZHN6cGt6MWpkR1hOcUJkN0RRUmRpZ2xzUUx5ejlyNmhyS3k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOMkhQdldCbGVFUV9TRjFiWHVIbVhoaHlRQVFtNVVjRmVuRlhFU1ZGRDZjUE93QTRjNUpoTzlOR3psNUt6X1V2WHhLMWI4UUtPWHRTRDg5alRpc2tMd212RHZTTmFfZ3VlNVZkS2g5ZnhIalVtTy1YeUJMd1pOTGszUlN5dUhsSjFPd0Q2TmZhTkRqLTlIc09xejBlbzZQRVc0TTA4UDE5UktVdFZqRmdrSmtNZ0FwUTctWl90dUdTTDE0OVJvVFh5aklGWGVFdDRySjd2N1VyUXpfeGlpdzllNmRINEZkY3R1MnE5WlpFSDBrWEpGcWl2X3BuOHk5ejAxTU5VVzNBQ2Q4ekVMa3lCcEVhdEdGU3pJNmc1YV9BVHhzT1dCM2Z3Rjh1cmM1azJ0dEczWGhXQlVOTkJURnVkVXB3eVI0QVNJS0RQTDBXX2xSX0l0a2Jr?oc=5",
       "domain": "Hespress",
       "source_url": "https://www.hespress.com",
-      "date": "Thu, 19 Nov 2026 10:24:05 GMT",
-      "local_url": "/article-721f3a87a779.html"
-    },
-    {
-      "category": "business",
-      "title": "صناعة الدفاع تدعم الاقتصاد المغربي",
-      "description": "صناعة الدفاع تدعم الاقتصاد المغربي Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcDRGelIzaGt6MlA5R09zWWlRRnY5enVvMENsaGFhYktUcVczTDZwTVdmdXVDa19HcVpBVkptaGxSVFd3czJlRW1ucGs5NDdGUkNVaDM4LTdiVGhFMll6YXF1U1I1cEZEaTJEMjViV0JLQjJQMHVsaVdUdXJpRlVZZnpkbFoyVXFlVUlDNHBTTGlrT1ROdVpVN3Q1UHhDWURndWV4dUkzZXF5YW9yQ2VtZE1IRVhwUzNpd0wzYVZPc3lOWkhibllfUzh2b0xDcU9MNlV0bDctWUN6TkdQcVBPVGs2Z19tRWhpREJDaEpWM3kwM0tVLWxWbFZmWU9uSEtDQ0czSXY3VFUzV2NsZjJpaWZ5QmwyRm9ua3Q2U1hiSDZxc3JSUmtNcVhtQ3pDWjdiaTVFSGZHX2ViQVctTVU0bTQzd3Y?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 19 Nov 2026 08:51:54 GMT",
-      "local_url": "/article-056bf8d94dc7.html"
-    },
-    {
-      "category": "business",
-      "title": "أسعار الذهب في العراق الخميس 19 نوفمبر 2026.. مكاسب محدودة",
-      "description": "أسعار الذهب في العراق الخميس 19 نوفمبر 2026.. مكاسب محدودة CNN الاقتصادية",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNQldzdk1hUHRyam9ORmg3Y3hSajJZTjZPOEZtN0ozOVVPd3hJVHM4cGZlVkZEallBeXo3OEJJSnVhRU9yX1RmMXV4RzNYSjV3QXVKY2NqcU13c205M3FZTWw5QTF3N2lQRHl1bFZqU1RQQnNINU1UT0xBMnNwR1pHM3BFTlZzNTNaQ21FdUQzcmI4VFNSWVl4bWJfSTBFZTR5UmhMakk5U0FTclpHNmlMNnYtVlFPb21uMDIzY1hUM3hBUHF1UlE4SE1HXzJZZmo2dVFCSTBweDNlS0VlNDhDQm9oVFVXZGQ2eFlIRTExUXBUUWI0WVMxSnotREpPekpKNmNFRGJqMml6a1dSTW5RQ0pZdmg3cFRFOFFUblRxZ1pYdTM0YmJsNHFMSFE4SXNUU1AxVVpiUDVZc0lpbFMzN0RSUWM0MFdlSVJTN2NGM0cxdXZrNXFKNmFEWVpGSF9lQ2NTX1phb0xab2ttWWJ6dzBIMk9jX3RtQkxsUllFeFJlQU9aaW03SUJVc21id1Z4TXBVRkNNUjAxVnZHT20yQTd3TlZhelhqNnJRVjdwMEhVdFZFcUpSOFk5YjMyWk43?oc=5",
-      "domain": "CNN الاقتصادية",
-      "source_url": "https://cnnbusinessarabic.com",
-      "date": "Thu, 19 Nov 2026 05:58:04 GMT",
-      "local_url": "/article-7f05b0878d84.html"
+      "date": "Fri, 20 Nov 2026 08:08:15 GMT",
+      "local_url": "/article-af60e615b977.html"
     },
     {
       "category": "policy",
