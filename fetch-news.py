@@ -363,7 +363,18 @@ def generate_homepage_static_news(items):
         return html.escape(str(value or ""), quote=True)
 
     def href(article):
-        return article.get("local_url") or article.get("url") or "#"
+        candidate = article.get("local_url") or article.get("url") or "#"
+        candidate = str(candidate).strip()
+        parsed = urllib.parse.urlparse(candidate)
+        if parsed.scheme in {"http", "https"} and parsed.netloc:
+            return candidate
+        if not parsed.scheme and not candidate.startswith("//"):
+            if candidate.startswith(("/", "./", "../")):
+                return candidate
+            # Plain relative filenames are permitted, but reject URL-like values.
+            if candidate and not re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", candidate):
+                return candidate
+        return "#"
 
     category_labels = {
         "policy": "🇲🇦 سياسة", "sports": "⚽ الرياضة المغربية",
@@ -380,7 +391,11 @@ def generate_homepage_static_news(items):
         if key not in deduped:
             deduped[key] = article
     ordered = list(deduped.values())
-    featured = ordered[0] if ordered else None
+    if not ordered:
+        print("::warning::No dated homepage news found; skipping index.html generation.")
+        return
+
+    featured = ordered[0]
 
     if featured:
         feature_html = (
