@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18T18:00:00+00:00",
+  "updated_at": "2026-11-22T21:40:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "نهائي تاريخي.. المغرب يواجه غانا على لقب كأس العالم لمبتوري الأطراف",
+      "description": "المنتخب المغربي يواجه غانا في نهائي كأس العالم لمبتوري الأطراف، فجر الاثنين 23 نونبر على الساعة 1:30 صباحاً بتوقيت المغرب. البث المباشر مجاناً عبر قناة WAFF الرسمية على YouTube.",
+      "image": "/nm-amputee-final-2026.svg",
+      "url": "article-morocco-amputee-football-world-cup-final-2026.html",
+      "local_url": "/article-morocco-amputee-football-world-cup-final-2026.html",
+      "domain": "WAFF / Le360 / NewsMorocco",
+      "source_url": "https://amputeefootball.org/2026/11/20/world-cup-2026-mexico-morocco-and-ghana-reach-the-final/",
+      "date": "Sun, 22 Nov 2026 21:40:00 GMT"
+    },
     {
       "category": "policy",
       "title": "الملك محمد السادس يترأس جلسة عمل حول تطوير الصناعة الدفاعية المغربية",
