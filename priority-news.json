@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-22T21:40:00+00:00",
+  "updated_at": "2026-11-23T13:00:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "المغرب والسنغال أمام قرار الطاس غداً.. الحسم في قضية نهائي كأس إفريقيا",
+      "description": "محكمة التحكيم الرياضي أكدت أن قرارها في طعن السنغال ضد الكاف والجامعة الملكية المغربية سيصدر الثلاثاء 24 نونبر 2026 بعد الظهر، دون تحديد ساعة.",
+      "image": "/tas-morocco-senegal-verdict-november-2026.svg",
+      "url": "article-tas-morocco-senegal-verdict-november-24-2026.html",
+      "local_url": "/article-tas-morocco-senegal-verdict-november-24-2026.html",
+      "domain": "TAS / NewsMorocco",
+      "source_url": "https://www.tas-cas.org/",
+      "date": "23 نوفمبر 2026 · NewsMorocco"
+    },
     {
       "category": "sports",
       "title": "نهائي تاريخي.. المغرب يواجه غانا على لقب كأس العالم لمبتوري الأطراف",
