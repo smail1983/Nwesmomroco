@@ -1,14 +1,5 @@
 [
   {
-    "category": "sports",
-    "title": "المغرب والسنغال أمام قرار الطاس غداً.. الحسم في قضية نهائي كأس إفريقيا",
-    "description": "محكمة التحكيم الرياضي أكدت أن قرارها في طعن السنغال ضد الكاف والجامعة الملكية المغربية سيصدر الثلاثاء 24 نونبر 2026 بعد الظهر، دون تحديد ساعة.",
-    "image": "/tas-morocco-senegal-verdict-november-2026.svg",
-    "url": "/article-tas-morocco-senegal-verdict-november-24-2026.html",
-    "domain": "NewsMorocco",
-    "date": "نشر في 23 نونبر 2026 · NewsMorocco · رياضة"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -352,15 +343,6 @@
   },
   {
     "category": "general",
-    "title": "البث المباشر .. مباراة الحلم للمنتخب المغربي لذوي الهمم ضد غانا من أجل تحقيق لقب المونديال",
-    "description": "سبورت Le360",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-1ddeca40b335.html",
-    "domain": "NewsMorocco",
-    "date": "سبورت Le360 • Sun, 22 Nov 2026 22:09:52 GMT"
-  },
-  {
-    "category": "general",
     "title": "مونديال 2030: أماكن هامة يزوروها مفتشو «فيفا» الأسبوع المقبل بمدينة طنجة",
     "description": "سبورت Le360",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -547,6 +529,24 @@
     "url": "/article-d8e451c2e9ea.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Mon, 26 Oct 2026 15:08:46 GMT"
+  },
+  {
+    "category": "general",
+    "title": "تأجيل أربع مباريات من الجولة الثامنة للبطولة الاحترافية",
+    "description": "سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-dbd1c3a7408e.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Mon, 23 Nov 2026 10:44:03 GMT"
+  },
+  {
+    "category": "general",
+    "title": "البث المباشر .. مباراة الحلم للمنتخب المغربي لذوي الهمم ضد غانا من أجل تحقيق لقب المونديال",
+    "description": "سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1ddeca40b335.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Mon, 23 Nov 2026 10:07:08 GMT"
   },
   {
     "category": "general",
@@ -1096,6 +1096,15 @@
     "url": "/article-60167b4385c8.html",
     "domain": "NewsMorocco",
     "date": "| MapNews • Sat, 21 Nov 2026 18:45:35 GMT"
+  },
+  {
+    "category": "general",
+    "title": "قمة الداخلة العالمية.. خبراء يؤكدون أهمية التلقيح والتشخيص في مكافحة الأمراض المعدية",
+    "description": "MapNews",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-9624222c7394.html",
+    "domain": "NewsMorocco",
+    "date": "| MapNews • Sat, 21 Nov 2026 15:15:55 GMT"
   },
   {
     "category": "general",
@@ -2302,6 +2311,15 @@
     "url": "/article-gcc-states-renew-moroccan-sahara-un-assembly-nov-10-2026.html",
     "domain": "NewsMorocco",
     "date": "NewsMorocco • الثلاثاء 10 نونبر 2026"
+  },
+  {
+    "category": "general",
+    "title": "المغرب والسنغال أمام قرار الطاس غداً.. الحسم في قضية نهائي كأس إفريقيا",
+    "description": "محكمة التحكيم الرياضي أكدت أن قرارها في طعن السنغال ضد الكاف والجامعة الملكية المغربية سيصدر الثلاثاء 24 نونبر 2026 بعد الظهر، دون تحديد ساعة.",
+    "image": "/tas-morocco-senegal-verdict-november-2026.svg",
+    "url": "/article-tas-morocco-senegal-verdict-november-24-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • الاثنين 23 نونبر 2026"
   },
   {
     "category": "general",
@@ -5077,6 +5095,24 @@
   },
   {
     "category": "general",
+    "title": "لقجع يقر بعدم جدوى دعم مستوردي الماشية ويتوعد بإنهاء ريع \"البونات\"",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-d1d222b9e69a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 23 Nov 2026 12:02:08 GMT"
+  },
+  {
+    "category": "general",
+    "title": "ملف نهائي \"الكان\" يدخل مرحلة الحسم .. و\"الطاس\" تعلن موعد القرار",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-5e4d866a1826.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 23 Nov 2026 09:49:12 GMT"
+  },
+  {
+    "category": "general",
     "title": "المنتخب المغربي لكرة القدم لمبتوري الأطراف يصنع التاريخ في \"المونديال\"",
     "description": "Hespress",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -7471,6 +7507,15 @@
   },
   {
     "category": "general",
+    "title": "رئيس الذكاء الاصطناعي في ميتا يحذر من تسليم المجتمع للذكاء الاصطناعي",
+    "description": "Euronews.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-8992c3d1a3be.html",
+    "domain": "NewsMorocco",
+    "date": "Euronews.com • Mon, 23 Nov 2026 11:17:52 GMT"
+  },
+  {
+    "category": "general",
     "title": "مسافرون يفضلون مراقبة أسعار الغرف عبر الذكاء الاصطناعي لا تخطيط الرحلات دراسة",
     "description": "مسافرون يفضلون مراقبة أسعار الغرف عبر الذكاء الاصطناعي لا تخطيط الرحلات دراسة Euronews.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -7710,7 +7755,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-ba6b6807381e.html",
     "domain": "NewsMorocco",
-    "date": "DW.com • Sun, 22 Nov 2026 10:25:57 GMT"
+    "date": "DW.com • Sun, 22 Nov 2026 19:20:15 GMT"
   },
   {
     "category": "general",
