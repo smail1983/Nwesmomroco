@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24T14:30:00+00:00",
+  "updated_at": "2026-11-24T16:45:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "الجامعة الملكية المغربية تعلن الطعن في قرار الطاس وتثير ملف التواصل مع مسؤول سنغالي",
+      "description": "الجامعة الملكية المغربية لكرة القدم تحتج على قرار محكمة الطاس بشأن نهائي المغرب والسنغال 2025، وتعلن سلوك جميع المساطر القانونية المتاحة للطعن.",
+      "image": "/tas-morocco-senegal-verdict-november-2026.svg",
+      "url": "article-frmf-reaction-cas-senegal-november-24-2026.html",
+      "local_url": "/article-frmf-reaction-cas-senegal-november-24-2026.html",
+      "domain": "الجامعة الملكية المغربية لكرة القدم / TAS-CAS / Reuters / NewsMorocco",
+      "source_url": "https://frmf.ma/",
+      "date": "2026-11-24T16:45:00+00:00"
+    },
     {
       "category": "sports",
       "title": "عاجل.. الطاس تلغي قرار الكاف والسنغال تستعيد لقب كأس إفريقيا 2025",
