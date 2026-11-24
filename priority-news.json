@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24T16:45:00+00:00",
+  "updated_at": "2026-11-24T21:15:00+00:00",
   "articles": [
+    {
+      "category": "sports",
+      "title": "جدل حول اتصال مزعوم بين رئيس الاتحاد السنغالي ومحكم ألماني في قضية المغرب أمام الطاس",
+      "description": "الجامعة الملكية المغربية لكرة القدم أثارت مسألة اتصال بين رئيس الاتحاد السنغالي عبد الله فال والمحكم الألماني أولريش هاس قبل قرار الطاس بشأن نهائي كأس إفريقيا 2025. رويترز لم تتمكن من التحقق بشكل مستقل من وقوع المكالمة أو مضمونها، فيما نفى الاتحاد السنغالي حصولها.",
+      "image": "/tas-morocco-senegal-verdict-november-2026.svg",
+      "url": "article-cas-arbitrator-phone-call-senegal-president-november-24-2026.html",
+      "local_url": "/article-cas-arbitrator-phone-call-senegal-president-november-24-2026.html",
+      "domain": "Reuters / Seneweb / Hespress / NewsMorocco",
+      "source_url": "https://www.reuters.com/sports/soccer/moroccan-federation-reports-incident-cas-during-senegal-afcon-appeal-source-says-2026-11-24/",
+      "date": "2026-11-24T21:15:00+00:00"
+    },
     {
       "category": "sports",
       "title": "الجامعة الملكية المغربية تعلن الطعن في قرار الطاس وتثير ملف التواصل مع مسؤول سنغالي",
