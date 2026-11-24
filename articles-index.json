@@ -1,14 +1,5 @@
 [
   {
-    "category": "sports",
-    "title": "الجامعة الملكية المغربية تعلن الطعن في قرار الطاس وتثير ملف التواصل مع مسؤول سنغالي",
-    "description": "الجامعة الملكية المغربية لكرة القدم تحتج على قرار محكمة الطاس بشأن نهائي المغرب والسنغال 2025، وتعلن سلوك جميع المساطر القانونية المتاحة للطعن.",
-    "image": "/tas-morocco-senegal-verdict-november-2026.svg",
-    "url": "/article-frmf-reaction-cas-senegal-november-24-2026.html",
-    "domain": "الجامعة الملكية المغربية لكرة القدم / TAS-CAS / Reuters / NewsMorocco",
-    "date": "الثلاثاء 24 نونبر 2026"
-  },
-  {
     "category": "general",
     "title": "🇲🇦 المغرب يعلن تطوير وتصنيع مسيّرة IRIFI بعيدة المدى محلياً",
     "description": "المغرب يوقع إعلان نوايا مع Harmattan AI لتطوير وإنتاج نظام المسيّرة IRIFI على الأراضي المغربية، ضمن توجه لتوطين الصناعات الدفاعية.",
@@ -214,6 +205,15 @@
     "url": "/article-1dda215510dd.html",
     "domain": "NewsMorocco",
     "date": "سبورت Le360 • Tue, 27 Oct 2026 10:45:28 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس إفريقيا 2025: محكمة التحكيم الرياضي « الطاس » تلغي قرار لجنة الاستئناف التابعة لـ « الكاف »",
+    "description": "سبورت Le360",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-e37034b65927.html",
+    "domain": "NewsMorocco",
+    "date": "سبورت Le360 • Tue, 24 Nov 2026 14:28:56 GMT"
   },
   {
     "category": "general",
@@ -1062,6 +1062,15 @@
     "date": "| MapNews • Tue, 24 Nov 2026 10:48:39 GMT"
   },
   {
+    "category": "business",
+    "title": "نبذة عن السيد عبد الجبار الرشيدي، الوزير المنتدب لدى وزير السياحة والصناعة التقليدية والاقتصاد التضامني، المكلف بالصناعة التقليدية والاقتصاد التضامني | Page 8 | MAP",
+    "description": "MapNews",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-a3258bfb1eac.html",
+    "domain": "NewsMorocco",
+    "date": "| MapNews • Tue, 24 Nov 2026 09:37:48 GMT"
+  },
+  {
     "category": "general",
     "title": "الرباط.. السيد وهبي يتباحث مع وزير العدل الفرنسي | Page 2 | MAP",
     "description": "MapNews",
@@ -1305,15 +1314,6 @@
     "date": "| MapNews • Mon, 23 Nov 2026 23:03:57 GMT"
   },
   {
-    "category": "business",
-    "title": "نبذة عن السيد عبد الجبار الرشيدي، الوزير المنتدب لدى وزير السياحة والصناعة التقليدية والاقتصاد التضامني، المكلف بالصناعة التقليدية والاقتصاد التضامني | Page 8 | MAP",
-    "description": "MapNews",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-a3258bfb1eac.html",
-    "domain": "NewsMorocco",
-    "date": "| MapNews • Mon, 23 Nov 2026 22:47:56 GMT"
-  },
-  {
     "category": "general",
     "title": "رئيس مجلس النواب يجري مباحثات مع وزيرة الشؤون الخارجية لجمهورية مدغشقر",
     "description": "MapNews",
@@ -1339,6 +1339,24 @@
     "url": "/article-c56f49051b5d.html",
     "domain": "NewsMorocco",
     "date": "| MapNews • Mon, 23 Nov 2026 18:46:17 GMT"
+  },
+  {
+    "category": "general",
+    "title": "كأس العالم لأقل من 17 سنة (المجموعة 8/الجولة 2).. المنتخب المغربي يتعادل مع نظيره الصيني (2-2) ويقترب من التأهل إلى سدس عشر النهائي",
+    "description": "MapNews",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-0317a1833ecd.html",
+    "domain": "NewsMorocco",
+    "date": "| MapNews • Mon, 23 Nov 2026 18:06:10 GMT"
+  },
+  {
+    "category": "general",
+    "title": "مطارات المغرب استقبلت ما يقارب 33 مليون مسافر خلال الأشهر العشرة الأولى من سنة 2026 | Page 3 | MAP",
+    "description": "MapNews",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-47dddbcd8b9b.html",
+    "domain": "NewsMorocco",
+    "date": "| MapNews • Mon, 23 Nov 2026 15:48:18 GMT"
   },
   {
     "category": "general",
@@ -1906,6 +1924,15 @@
     "url": "/article-3a3d3e3b9a03.html",
     "domain": "NewsMorocco",
     "date": "Reuters • Tue, 27 Oct 2026 13:48:09 GMT"
+  },
+  {
+    "category": "general",
+    "title": "الاتحاد المغربي يحتج على قرار المحكمة الرياضية بفوز السنغال باللقب القاري",
+    "description": "Reuters",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-1cfb5a8c7bac.html",
+    "domain": "NewsMorocco",
+    "date": "Reuters • Tue, 24 Nov 2026 16:19:43 GMT"
   },
   {
     "category": "general",
@@ -2646,6 +2673,15 @@
     "date": "NewsMorocco • الثلاثاء 24 نونبر 2026 • رياضة"
   },
   {
+    "category": "sports",
+    "title": "الجامعة الملكية المغربية تعلن الطعن في قرار الطاس وتثير ملف التواصل مع مسؤول سنغالي",
+    "description": "الجامعة الملكية المغربية لكرة القدم تحتج على قرار محكمة الطاس بشأن نهائي المغرب والسنغال 2025، وتعلن سلوك جميع المساطر القانونية المتاحة للطعن.",
+    "image": "/tas-morocco-senegal-verdict-november-2026.svg",
+    "url": "/article-frmf-reaction-cas-senegal-november-24-2026.html",
+    "domain": "NewsMorocco",
+    "date": "NewsMorocco • الثلاثاء 24 نونبر 2026 • أخبار الرياضة المغربية"
+  },
+  {
     "category": "general",
     "title": "الجزائر تعترض على سيارات Stellantis المصنّعة في المغرب؟ ما الذي نعرفه حتى الآن",
     "description": "تداولت صفحات على مواقع التواصل ادعاءً بشأن اعتراض جزائري على سيارات Stellantis المصنّعة في المغرب. NewsMorocco يتحقق من المعطيات المتاحة والمصادر الرسمية.",
@@ -2923,15 +2959,6 @@
     "url": "/article-053cca524033.html",
     "domain": "NewsMorocco",
     "date": "MAP SPORT • Mon, 26 Oct 2026 16:19:36 GMT"
-  },
-  {
-    "category": "sports",
-    "title": "كأس العالم لأقل من 17 سنة (المجموعة 8/الجولة 2).. المنتخب المغربي يتعادل مع نظيره الصيني (2-2) ويقترب من التأهل إلى سدس عشر النهائي",
-    "description": "MAP SPORT",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-0317a1833ecd.html",
-    "domain": "NewsMorocco",
-    "date": "MAP SPORT • Mon, 23 Nov 2026 19:57:33 GMT"
   },
   {
     "category": "sports",
@@ -3607,6 +3634,24 @@
     "url": "/article-fe6592ba03da.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Tue, 27 Oct 2026 04:05:35 GMT"
+  },
+  {
+    "category": "general",
+    "title": "\"صنع يدويا بالمغرب\" .. علامة موحدة لحماية منتجات الصناعة التقليدية",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-7e35ce60880a.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 24 Nov 2026 16:24:31 GMT"
+  },
+  {
+    "category": "general",
+    "title": "والي بنك المغرب يدعو إلى توجيه الادخار الوطني نحو الاستثمارات المنتجة",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-09c7bfa912a0.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Tue, 24 Nov 2026 16:03:34 GMT"
   },
   {
     "category": "general",
@@ -4471,15 +4516,6 @@
     "url": "/article-03ed83c6a5f4.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Sun, 22 Nov 2026 23:27:03 GMT"
-  },
-  {
-    "category": "general",
-    "title": "\"ماركا\": المغرب بطل كأس إفريقيا",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-48d041800707.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Sun, 22 Nov 2026 23:18:22 GMT"
   },
   {
     "category": "general",
@@ -5544,6 +5580,15 @@
     "date": "Hespress • Mon, 23 Nov 2026 19:17:50 GMT"
   },
   {
+    "category": "general",
+    "title": "\"ماركا\": المغرب بطل كأس إفريقيا",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-48d041800707.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 23 Nov 2026 18:47:49 GMT"
+  },
+  {
     "category": "policy",
     "title": "ارتفاع أسعار المحروقات يدفع الحكومة إلى مواصلة دعم مهنيي النقل",
     "description": "Hespress",
@@ -5551,6 +5596,24 @@
     "url": "/article-bc2f2ce366b7.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Mon, 23 Nov 2026 18:33:48 GMT"
+  },
+  {
+    "category": "general",
+    "title": "خلفيات تحرك دفاع المغرب أمام الطاس",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-c247d6f5bdd6.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 23 Nov 2026 16:39:32 GMT"
+  },
+  {
+    "category": "general",
+    "title": "محكمة التحكيم الرياضي \"طاس\" تجرد المغرب من لقب كأس إفريقيا للأمم",
+    "description": "Hespress",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-0d60b4603fab.html",
+    "domain": "NewsMorocco",
+    "date": "Hespress • Mon, 23 Nov 2026 15:58:51 GMT"
   },
   {
     "category": "general",
@@ -5569,15 +5632,6 @@
     "url": "/article-a019ada6fdf9.html",
     "domain": "NewsMorocco",
     "date": "Hespress • Mon, 23 Nov 2026 13:48:28 GMT"
-  },
-  {
-    "category": "general",
-    "title": "خلفيات تحرك دفاع المغرب أمام الطاس",
-    "description": "Hespress",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-    "url": "/article-c247d6f5bdd6.html",
-    "domain": "NewsMorocco",
-    "date": "Hespress • Mon, 23 Nov 2026 13:39:32 GMT"
   },
   {
     "category": "general",
@@ -8182,6 +8236,15 @@
   },
   {
     "category": "general",
+    "title": "قضية نهائي أفريقيا تتصاعد.. المغرب يخطر «كاس» باتصال هاتفي عاجل",
+    "description": "Elaph",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-307366e8e9b1.html",
+    "domain": "NewsMorocco",
+    "date": "Elaph • Tue, 24 Nov 2026 16:00:00 GMT"
+  },
+  {
+    "category": "general",
     "title": "دراسة: اتساع الفجوة الرقمية بين أوروبا وكل من الصين والولايات المتحدة",
     "description": "دراسة: اتساع الفجوة الرقمية بين أوروبا وكل من الصين والولايات المتحدة DW.com",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -8206,6 +8269,15 @@
     "url": "/article-0fed6babe9b6.html",
     "domain": "NewsMorocco",
     "date": "DW.com • Wed, 04 Nov 2026 19:51:04 GMT"
+  },
+  {
+    "category": "general",
+    "title": "محكمة التحكيم الرياضية تعلن فوز السنغال بكأس الأمم الأفريقية لكرة القدم",
+    "description": "DW.com",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+    "url": "/article-812c99050696.html",
+    "domain": "NewsMorocco",
+    "date": "DW.com • Tue, 24 Nov 2026 14:36:33 GMT"
   },
   {
     "category": "technology",
@@ -8520,7 +8592,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-45e72683abdb.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Tue, 24 Nov 2026 12:17:29 GMT"
+    "date": "CNN الاقتصادية • Tue, 24 Nov 2026 12:17:38 GMT"
   },
   {
     "category": "business",
@@ -8529,7 +8601,7 @@
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
     "url": "/article-2840a36a40c8.html",
     "domain": "NewsMorocco",
-    "date": "CNN الاقتصادية • Tue, 24 Nov 2026 11:08:14 GMT"
+    "date": "CNN الاقتصادية • Tue, 24 Nov 2026 11:38:23 GMT"
   },
   {
     "category": "business",
