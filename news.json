@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26T20:48:26.975543+00:00",
+  "updated_at": "2026-11-26T21:27:24.144810+00:00",
   "articles": [
+    {
+      "category": "policy",
+      "title": "المغرب في قلب الانتخابات الاسبانية",
+      "description": "المغرب في قلب الانتخابات الاسبانية جريدة القدس العربي | Alquds Alarabi Newspaper",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPYWlVaVA0OHgxQXdZb2NqNW81WUFzemJBdWt1UFhmNjJ0NXpyX1hBbHE4NS1janptdWY4WmoyMFJDeGxzWldVTlgyUTByU3JnTlB3SDNjTmlPNFE3YnIxaE1jUXJaZVh1bWxTM0lhM0Z6RGRuaXdIN2lBMGNVdlBnSjVVcHVGM3V1WGpqS3FDTFYtV1RVNXhreG5JM05BTUpXRi1wVFhJWEtobFNlZmxtbDd5cE9tVTI1UlZmeFh3ZFVPQ1JmZmczTG9PTVJ2RWV2bnlfTklZRUZrSTVuVmVBcldqVzZFTDJCT1p4anlFbExmVTdoMjY1RV9xVElGLW9CMXgxRnNtenF0TVVrRERkRkVfeU1naEc5NHczTE5IQWYtWDRMRFFPdFBramF3VFRTemlvdA?oc=5",
+      "domain": "جريدة القدس العربي | Alquds Alarabi Newspaper",
+      "source_url": "https://www.alquds.co.uk",
+      "date": "Thu, 26 Nov 2026 21:14:58 GMT",
+      "local_url": "/article-8acb946fb5a8.html"
+    },
     {
       "category": "policy",
       "title": "رئيسة الحكومة تعقد اجتماعا لتتبع تقدم المشاورات الجارية لإعداد الاستراتيجية الوطنية المندمجة للشباب",
@@ -13,40 +24,7 @@
       "local_url": "/article-2a58d56bb947.html"
     },
     {
-      "category": "technology",
-      "title": "في المرتبة 94 .. المغرب يفقد خمسة مراكز ضمن التصنيف العالمي للمعرفة",
-      "description": "في المرتبة 94 .. المغرب يفقد خمسة مراكز ضمن التصنيف العالمي للمعرفة Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOOHhmc0pKQ2djSXh1aThRdFB2RUFidms3T0RBUFJ1RWEtOGVrM2xwOU4tMkxTV1B5dGJpS2JXQ1NFUmRlU3hqWEl4dEs5Q09nRWFWNERyVG1iVDQwajIwcXdQUExnMUNDZjFqTEVfV0wwQVpDTjhVUjNBay1BdnZ2eHJDS3BZNUhJQmVfRjBMcUpZdTVzS2tndTZoV0lxLTdLSlFXV3AyN0ItSG5hdU9naE1taDVKb25aQ0xLTG15TTdxdW1PNy11MmZlT3Q5NXdLZUN6clptZlB6a0ZydHhnLTk4OXlpZGk3N1U2TFoyclR0SWl1QVdBWWN0bVhONG12N3ZDOVItbTl0YXI2bWphWFlheUIzV3R3QzExVlNLOWNOM0kwX19ZbVpfdXVfQjRDNFBzcmJCRWhLc0JYWjV1WVY2Ukx4QVhTeVFrV3pWSWdFVlU?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 26 Nov 2026 18:02:44 GMT",
-      "local_url": "/article-660c157ac52d.html"
-    },
-    {
-      "category": "policy",
-      "title": "رقية أحمد نية: مؤسسة محمد السادس للعلماء الأفارقة منارة علمية وحصن في مواجهة دعاة الفرقة والغلو والتطرف",
-      "description": "رقية أحمد نية: مؤسسة محمد السادس للعلماء الأفارقة منارة علمية وحصن في مواجهة دعاة الفرقة والغلو والتطرف | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxPbFN6UkIyb1N1Tm5CUXFZeExrMFQ1M1BhUzVBb1VZdEFZRkVBNU9rRjdDel9razk3c0hUVTRDdUdnVWVMS05hUHZEUlA1Q1JtWGdkZWxpcnV2eGNwSGRoXzd2LVVnb0ZfSnUzaE12VEJqU0xJNk1GVjBSOEhBSWpNemlUU201Q21MTUlHMmN6dG1pOEZJV1Q5ZE1ZT2VQak1xcWdtb1Y2OWhnT2JtMF8ybGhUQ3NqUGZLd05ReHFZcTZBSGUzcGRzblRKRmJHQ0NSS1JabnIzU3dhTzR1U3NWR1duZGNUVlBZdTZyX0Y1MEM5dlhMSHg5bERvaGlZajU3dUROV2poYmxsdFY3czRyeG5wY0FDejVPNlVYMHRBYW5nRnZjNFFpd0kySHFwU1pJVy1ReVotVzNkV0dKYk54Mi1KT01IZWZNMjNwUmJucHR5RHQyWEFnbWowZ1duR0tXVWZqcGxObnZua1o3Z0x5OGQ3M1c5dnFmNS1PZHlrWW5GYXZPWmRGSm1CeXpPUHkxUUFQOTNwZ2Y0MWx4SDJ3MGZzb1c1eFI5OUhXRjE3YURtbVpvSmxUd1AyRE5hbUgyc2FuRXNrMEdMV1ZLaWVudWJ2Mm1rZ1ExU3oxMm5jVndjSVg4WFdsejJRb2lvU1drbVZsVURHajhSakVMUEVOLXVmaWI5M3dQUVljY3d2dE43dlo1R2ZkZDVuTWFrU2pyRmlaZ0JZZ1JBcHllYlNBZHA5c3dybEZncTVqNVJmVHUwYUpfbWo3VDBtR2JIQXQ4S1oxeFpwZG1kTllpU1BpdVlWU2RjeGJIVDhsZkZlVTlYajFYYkxFMzhjQ3ZRbUxEelJBNW5ERWNwU1pxaFNla2Z4c3hjeVRMb0pMWkJPOEo?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 26 Nov 2026 17:44:58 GMT",
-      "local_url": "/article-cb303f23817c.html"
-    },
-    {
-      "category": "policy",
-      "title": "محمد رفقي: أمير المؤمنين يريد أن يجعل من مؤسسة محمد السادس للعلماء الأفارقة إطارا علميا شامخا يحفظ الدين ومقتضياته على مستوى إفريقيا كلها",
-      "description": "محمد رفقي: أمير المؤمنين يريد أن يجعل من مؤسسة محمد السادس للعلماء الأفارقة إطارا علميا شامخا يحفظ الدين ومقتضياته على مستوى إفريقيا كلها | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxPczVtcG5XYkY2MmdRWjdNSXZudE9VdndFLTU0WVRJeUI2WVBYNVpqSUQ0Vk1Od1cwV1VsTU90VEdaQ1FPNlZlQ2l1N05laVV6TDRaNGtLYW9EM0NtM24ybFd5bWdwZW9EbUxMbUdTeFl5bDJadV9FUzVwQ3pxRmhPSGFXTXhvd1VrRDhxaWJYeTdtaTVVY1BGVm1HWTVJdE1LMFdneXdpZ3hLNVdneC1IclJ4VEY1YzdmN0RIaVRjWG5hSWQ5T0FfOW4zLXVRT1hnOVlaSFlXOVdEcTZVM1hSOXQ1OWg1M1ZLRmJJYTB1ZVBPVUJQNnZvVnAxQjVNd2hkUkxNdmxJeE1ib3lZblBHbi1zQkJvcGc1NHYwaE50N1BaWVRfZ0dOWGFrYV9QaVNLRURfcllGMEhZUDZNaGVkeTF2VmVPV1RxU2ZwU3U1MVFaYldPZTAwWS1Wd3BiY0VXM0MtcFlIXzlldGlkcnJ2RVh1UGlIbVphMi03b1hpemRLT3Nsd2JONTRQTTlmUlBGNkZLbE14aVB4SDBpSzNWV3lJR2lSdEF3VERJeFJuNVliTEduZjNUNHozbU1jd2thT29HeG5vVDFYR0NLaW43Skc3dVJfelBrdjVwWWstYktvdVdKcE5LTzNsSVptRXlLNDAyYnVfNVNCRFl3NlNsUnR2Y2JPWWNkaVdvOFVoc3pqcE84bWl0UXJtRlhQVTdlMVRjamc4WnpPN2JxanhORFJTeGRsbFdpQ0QxenRKaWhLUUVLbnFEZ1U4elkwS3AtbEVSRzdqb0Zzcl8tNFcwSi1YODlnTFZZNVI4eTc2V1NmR3V4ZE5jU1Z5d2RhZWw2bzREUzFqMzV5TUZ4anRFc1dwb0JpOGRQSUE4dnNxVHY?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 26 Nov 2026 17:40:40 GMT",
-      "local_url": "/article-77aae3eeb496.html"
-    },
-    {
-      "category": "policy",
+      "category": "sports",
       "title": "كأس العالم لأقل من 17 سنة.. المنتخب المغربي يتأهل إلى دور الـ 32 رغم انهزامه أمام نظيره الإسباني (0-2)",
       "description": "كأس العالم لأقل من 17 سنة.. المنتخب المغربي يتأهل إلى دور الـ 32 رغم انهزامه أمام نظيره الإسباني (0-2) | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -68,17 +46,6 @@
       "local_url": "/article-3f1c8072a6ca.html"
     },
     {
-      "category": "policy",
-      "title": "الشيخ محمد الأمين توري يشيد بالرعاية الملكية للشأن الديني وصون الثوابت الإسلامية بإفريقيا",
-      "description": "الشيخ محمد الأمين توري يشيد بالرعاية الملكية للشأن الديني وصون الثوابت الإسلامية بإفريقيا | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxNdWZEXzFJMEdPUkVXM3dpeWZCaWF5M1QxM2dsWF9ZQTNTWUpTYkVXYTd0QndFYzR3VG1FQVRkMXBHaERUbnVQcHZCNmFMRTJHQ25uN1d3MldKZmcyWjZoUlpOcUtOZG1kT3hMTXRxQzJCTWI5MjlWNGltWVF0TVdJU3E0TndERW0tYmRON1hjVUFzUTV6MHp6eGhyZHU5OHRyTkFtcFRUYTlTQl9SZVNZczN3SHVUYkgtQ09icV9MYUVnZjZxMmgwT1BjRmdHTTNEaGZKYU1Eb0FEc045MnBMRDhzZTlQdDJYTnJTVEZmSkhZV0VJUnB6NGZkUjFldG80NUJCd3RYWXpLYXlTV1Z5eW41UlpaSEtMOFJGZktfU0tpRTZzV1RYYm9lYklGakZMMVIxbzlkNGE5cDhlbWR2ajBWYmRiTHNONmY2QXoyNVpoemFuWFNwMU55bWVwRU9nczdBcVREZEhmRHVnZ1QycF8wMFVyT0dtcFZ5NGllckdhWFdybnc5YmVkYmNzMktZUGctbFQ2VlJjZnRzbkN0Ulc4R1BCTkw3bmM0QVdwRlpDYVpNSENSNzJ5Q3lfOXkwT0sweU1vREk2UVVrdE1ZVUpTcVdiVVF4NzlaSnNtRjFOT3J0XzRuRXBwZ09oaGxhdFh6ZXU4NDM2djJmZDBTRURkWkd1UlJOdUI4djVHMVJ1U00xbENSV0tONkkydXBFOFh5d0ZMN29jb3R3OXJFY2ludHNsUkx0Tmx5ZTVjdDM3T0Y5V1hkZGlubGF6di1EZDcxYjFHZGdualIwaEhxVndrRVpuLVRJcDNTOWdxdUc0Ykh2T3hZdWZFUk02VDNINFR2cy1TN1RtcjZONWVrZWpLYWpUTHhJYVBIUE5TOFJYZ1pHVmZ1a0c4Z1FZUQ?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 26 Nov 2026 17:16:22 GMT",
-      "local_url": "/article-3b173c91a411.html"
-    },
-    {
       "category": "sports",
       "title": "الرجاء يفوز على الجيش الملكي",
       "description": "الرجاء يفوز على الجيش الملكي Assabah",
@@ -88,17 +55,6 @@
       "source_url": "https://assabah.ma",
       "date": "Thu, 26 Nov 2026 15:58:51 GMT",
       "local_url": "/article-a7359ebb8b88.html"
-    },
-    {
-      "category": "policy",
-      "title": "سانشيز يؤكد الدعم لمغربية الصحراء",
-      "description": "سانشيز يؤكد الدعم لمغربية الصحراء Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPY1VxRHdId2thM3hpeWk1bXVjTThuZ19PVzFiYzhOSEg1bExjaHE4XzBHc19NTkJzeXJOcDZuaWhnZ3BBNlBrNTBvbGdZTzhCa1JuNUlVQ3VmUWc3emZ5cXdVd2lpc1E1dkFYUE9pZ0diaDAxUWRrR3FYVkN6dXdzaEkyYkNmOFlQd1p4Z1htVVZwcDNNWWVlaTVBeFVCQTRCeDB4UHZsZWlLYnVtbXdfTXVQeXp1MXJTSWxKMlBHRjh2ZUV0T3RVVkNudlBrTnlqTERHZVdCd0t1WHJua2xSNVJGMUloT2xjbWdhdzNNZW5raWpJa3hvT1JpNVpXOVFpbnNvdXhqTTVLM1hnUXE5NG5SclVuRE5fOHA5cy05ZWUxTWEyLTV1bjNnVFVnbm9iNFl2bFN3MGd3LXA0?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Thu, 26 Nov 2026 15:25:36 GMT",
-      "local_url": "/article-3ae8a959f84a.html"
     },
     {
       "category": "sports",
@@ -124,17 +80,6 @@
     },
     {
       "category": "policy",
-      "title": "تنفيذا للتعليمات السامية لجلالة الملك، السيد لوديي يستقبل عضو الكونغرس الأمريكي، أبراهام ج. حمادة",
-      "description": "تنفيذا للتعليمات السامية لجلالة الملك، السيد لوديي يستقبل عضو الكونغرس الأمريكي، أبراهام ج. حمادة | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQWkFRdHp2NjcwT016M3h0MU5rNlRpSGpSVnQ5QkRCNVBrUGQwSTUxdDZPYkJZcVZpSjcxQm1RWjVNdy1SSTJ6UVZsX3hOWV9ZZDJzLU14eHVnbmRnQVdmOHZlT29FdDA3Z0RGTjhGSlhEVkxzS1p1ZDBEVjRseXZoZk9jZFo0b2tmUTg1c0k3cVk1Z2xJMWlfV0VIaG9RMHpSTkR4REVRSm4xUGhueEJ0a2dva28wR0d2OWNfTlBkcHF2UXdST1NZZ0ZPbUVsZWQtN2tBWU5FUkdIbmwwa2NXeDh0QU0zYlJ2Z24wbklnNy14eTNBdE9QOUVEc3VLWkxiLWJta05Hbk11YUxyVDZSWi1ELS1Qb0RsVGlXRjBsUGc2RmtzN3ZVZTh2M2NSdEhNOWU2cHNzUk8tZXhzN2NTU3p0c3hRNW5oSTRRcjFfYkhyU2x4Sm5VSzhpT2QyUC16STFsSndMNnJwZnYySEJ4dGhuRk4zOVpYeHJuTW1MMU5kQmZUMFFLam43aHhDV2ZQQWc1RGVtVGFQdFI5NHJjSjFfQW1SNVNKbmx2YlNpVU1HaFFNY0RYNnU3cjZWRWRxNS1nUjlON1Z4QlVuSk5zQk43MExrRFVSdG9maEswd1hOSDVYT3ItLS1NcHB6enZQNUJhRGtvbFFTLW5sSGlTTTZiY0dPOU1saHY2cGoxeE0yd09YTjRCMEE3M204RFVQaXpkanRLTndRdmZoUDNKUHRPR1RNMjlhbGZwMF9sRlNNNmhNT2NKNkhobUprQ252b1ZmVmFLTWhqSUJJMHdfam9ZX0tkY2RScnBCWm96VWtXdXN1dVpBY2tKWTEwQWpJUkltbTFaN21hOW1wNWxLYUpramtja0RDai1kQ3BDTHh2TnRjOUJCX1dEZ0Z1bWlrX2dndUlvNA?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 26 Nov 2026 13:43:20 GMT",
-      "local_url": "/article-6b9487d65591.html"
-    },
-    {
-      "category": "international",
       "title": "التنسيق حول التقارير الوطنية لإعمال الاتفاقيات الدولية لحقوق الإنسان يروم الإعداد الجيد للحوار التفاعلي مع اللجان الأممية (السيد بلكوش)",
       "description": "التنسيق حول التقارير الوطنية لإعمال الاتفاقيات الدولية لحقوق الإنسان يروم الإعداد الجيد للحوار التفاعلي مع اللجان الأممية (السيد بلكوش) | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -165,17 +110,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Thu, 26 Nov 2026 11:57:11 GMT",
       "local_url": "/article-c77f891b3dd6.html"
-    },
-    {
-      "category": "policy",
-      "title": "الفن \"لعبة جادة\" في مسيرة جيف غولدبلوم",
-      "description": "الفن \"لعبة جادة\" في مسيرة جيف غولدبلوم | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbHl5R3pVTUc1WnNzUnNvZk5hZEl1RXN4VFJxUm1Ra1A0YmxkQnFLbkMwdWVPbEpqZldweE40NGdrQU94WkpVTnk5TlEyWDVsc0NLZTFmYklUMDhxaUJOUWctQVBteXRmbHFhVkJtVElxVDk3VzlWeTVRWndZcVgzM2J2b0ZEMW55cFNXbkNIYmdVeEhIRDBWbFMxS0dFTEt5Y1pTc2hFWGJPbk5ra3E0SE9XVkJyMmJDVmdNNWE5WUhVbm1ycThWN0VwTWR0SnhBZHVhNTNpa0tsOWpHSHdkVkFyZ0ROQ2NHZG8tbnQzQWlQcndtVHRkUUNhd1FHQ05nNlAyVXlmRWt3dmZhNjFOZ2JrUElrVUVKOFhNcm1sX3ZYRUdjM1MtV0RFTE1MdG5QLUJJWUVTbVFpQ0szRXBVdVpzUU5IUjNIbWxQOU85cExZaHpqWjZJNkVUc09rNGNpaE1XczZwSmtHOXRxNjNF?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Thu, 26 Nov 2026 10:30:51 GMT",
-      "local_url": "/article-fce4ca7dc7d6.html"
     },
     {
       "category": "business",
@@ -244,6 +178,17 @@
       "local_url": "/article-4c094e4004af.html"
     },
     {
+      "category": "technology",
+      "title": "تامسنا : اللقاء الوطني الثامن لفائدة السجينات يستكشف سبل إعادة الإدماج في عصر الذكاء الاصطناعي",
+      "description": "تامسنا : اللقاء الوطني الثامن لفائدة السجينات يستكشف سبل إعادة الإدماج في عصر الذكاء الاصطناعي | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxPamtVT3R2clo0YTBVZnIxeW45Q1UydUd5aXpHb3VlNGlpU0JPR1pwa3VDckxPeGJnU2tPYkJ4Nzd4VDFXNERpUTh0V1dTek9OekhlbHhDcTE0RnhzQ3AtRmlqMGdFM3R1MmlYQ3R1WnM4MWY4TkZ1VGFNZDhRbW81T3oxb2ltOTFxUl8tdW9uc2N5cmlXbFFwbUNjVEZzZEE0dlp1SkRvS3c2OGN5LVlmdGEtS1dDOTBKeVZNMXdrTGJJbnVkajA3QW5WZkktWV9peGhQZjE1YTJPQldpbURGcV8yYnhYSUl1T1RRWlJxVEFXejlqTlhwc0tsWFNIN0N1MG5KVUxSN0dRN2ZoNURZMHM2Tm53TVZWQmVfbmdQeVJHcVdCSVZua0lFRWJtRjZrVUdsYWpnOGJpVEUyb29xOXBINEUzWVZNRGJCT0xjUVlDYWxtTFNKRjB2ZTFpSVZGeG51NXhHYnItYmdfX2pPZm1KdENQWTYyRXZUaW1yMGhIU25jS3RIMllzakd0dVRJWHZYME5xeHdrZWRjU0VJQjl1SXJQVU5OYW0za3dvWktYeFg0OC1XVWQ3Q0lRQUcyRFhXa0trV2tXR2UxRzlOYUY4LWkwalNRMllvcHgta1lVSkl1UHJSVmphZlhkMWVLbnQtNFlkcW00ZVRPUDU2VjFhV191aGgxaTNXUmNYMTRkQXlkQm5rRFRRaEdxWDBIVzBZaDdoMTlpVWlqaG9TU2xvVnhmdUJuZjhnQ28xNngtaElhM190clBHV3JBRnU3eHk5c1YwN044Y1kyQUlJWGVOSTdJbGw1ZTA4eGhnam1INU5aRHZkSkN1YnZCeDc0RlVrWk5LQ2lDeXFySWtKYzJCb0RvSGhLcnFZdFJ1UFdhRE5ENlZoalp3Q0V3UFhnUWJ0U1Rhdw?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Wed, 25 Nov 2026 21:42:36 GMT",
+      "local_url": "/article-0c1b6f488eb9.html"
+    },
+    {
       "category": "international",
       "title": "تأجيل Macy’s Thanksgiving Day Parade إلى السبت بسبب الأحوال الجوية القاسية",
       "description": "تأجيل Macy’s Thanksgiving Day Parade إلى السبت بسبب الأحوال الجوية القاسية BroadwayWorld",
@@ -255,81 +200,59 @@
       "local_url": "/article-0991b861df92.html"
     },
     {
-      "category": "international",
-      "title": "فيديو: «Supercalifragilisticexpialidocious» من MARY POPPINS في Paper Mill بطولة Kara Lindsay",
-      "description": "فيديو: «Supercalifragilisticexpialidocious» من MARY POPPINS في Paper Mill بطولة Kara Lindsay BroadwayWorld",
+      "category": "policy",
+      "title": "السيدة كلاع تستقبل بالرباط الوزيرة المكلفة بالوظيفة العمومية وتعزيز القدرات بالغابون",
+      "description": "السيدة كلاع تستقبل بالرباط الوزيرة المكلفة بالوظيفة العمومية وتعزيز القدرات بالغابون | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVXVkN09iQ0ZTRWhnOHRKWjgxLXdjdnBNY0dEWS1wMTdkNEIzbTVXdmRtbWppSmhnWkhoNzdFOE9MOHduWVBRaERDWUJRS19yUWVaLUFzZGFOUGZJY2FBbkRpS0s3V0kzR1JQNTdiSzRYV1NCNE8xS0tiVE51RTR5NW9VTmR5ekxNNFUyamVjM0VDM25CQjhTcUhRSUduSHNfZGJtQlRRcTJmQzc0cjIxdjVvdHF4WEx4VXRXMkM5YUdfZVZFNlVvc1FiaEZ4ZXZLc2g0WGNDZ0VnSndP?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 25 Nov 2026 20:43:54 GMT",
-      "local_url": "/article-1fd67e21e509.html"
+      "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxNRE1RZ3QyeVp0VnFVeGI2VlJTUDQ0MFVwSTN1YWYxSnYwYUxTUUxGNjRnN3A3TjAza3BnTGYwa0RXeERYeFBneUJfMTd4ekZqTnZjcHZJSF9NdEJUc1VlNG9yYnYzZXYtdEFhX000UFhrdE9teFZFdXYtRVRXbVplYzJaUF9zODU0SnhhWEtYTFJYdFBJdDlIbmY2RDV2ZlhGdDhkTFlpell6UFR1RUVVVERzcmxnQ0NpdUFqS1A0dlA2TUdqX2V4c1VxbENRX3ZTeXU0bjQxWDdGV0VpTzNoUVctM3BPYm9LdWNzTF90RnlvUTZsS3RXVTJEZkY4OFQxMDhZZFVnT3oySThkODhTTld4UjZWVlhwbFYwSUh6UFNfR2dLbndvbGVrRWtqNHF1LTN3cDJGbGZGeUxCWnFHRTlSdm9hMjUtY3RJRWcyWVZ1THpPYm9hTDlObWd6OEtrU1laM3JseHFjZTVpZU1FZ29SNFRtQzJBa0E0ZVlCZlU4emdkMS15LUZjYjJZbXFxdUZyYjFoTllvNjNkUlJsMHlsNF9VSUJWVWxoYkpOaDRfQlRhMnVRcGJTNnY0Nm9XdWxJcDVhRVVNdkctd2pCSk9halZMTi1Ud25LaU12OFVWd0NIbWhnY3k4QjNERjhkV1A1Y0RBN0JPYXF6UHQxSTBUOEsyR19wRW9Ja212aVlINGpaak5VQjNhNmM4VFRGWWdlQkkxSlVPLXdTWEZnTWUxQW9wRU1lbFE0ZmdaS3kzYVNaUWp3Wld3WlFxeTh4NzBtZGpZLThjcVM0djBnRTUyZzFTU2ZTczVKb0paU0s5YWJlczJuZURsYjl3cnp1NV92d1pHWXBWZnUwNFZDTUszSQ?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Wed, 25 Nov 2026 21:15:10 GMT",
+      "local_url": "/article-8be4d60c37c0.html"
+    },
+    {
+      "category": "sports",
+      "title": "منتخب U23 يفتتح مشواره في تصفيات “الكان” بمواجهة إثيوبيا",
+      "description": "منتخب U23 يفتتح مشواره في تصفيات “الكان” بمواجهة إثيوبيا Assabah",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9hQVczdXYtT01ZWXo5UzBRZV85Q0phVFJNWEFyVlFfYUNlU1haV2pPTzU1cV81Y2VpWEhNU2Ntdm9ETHdv?oc=5",
+      "domain": "Assabah",
+      "source_url": "https://assabah.ma",
+      "date": "Wed, 25 Nov 2026 20:30:34 GMT",
+      "local_url": "/article-7d835bf81526.html"
     },
     {
       "category": "policy",
-      "title": "الرباط.. المركز الثقافي الصيني ينظم يوما ثقافيا حول الحوار المغربي-الصيني والتراث اللامادي",
-      "description": "الرباط.. المركز الثقافي الصيني ينظم يوما ثقافيا حول الحوار المغربي-الصيني والتراث اللامادي | MapNews",
+      "title": "الأميرة للا أسماء تحل بسان سلفادور",
+      "description": "الأميرة للا أسماء تحل بسان سلفادور Hespress",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxOZ2QzWUJldlY1QjQ0MER4dTZKNHVpc3RicGhoaURVbEd4WVotWnZuT2ZhQlg1N0J0aXZ3dm1NRHotQWNmdVhEdk1STmhnZFMzMkdjWkE3S1hMcURsOGxoU1pFLW9XNFdJY3BaSVlvT193SHo4UEtyZmtkVDd6VFIzYVU2S2ZwOV9rRThtSjJVakhXekQ2ajh5aE9nUlNMVEhQUmgwYUo5T0hGTFA5UGpXU2ZLN21xcFhCeTlTdVlEVDcyTkl0dnRkZU5TZXB2cWV3cUtaUDdZcDBUNktVVGxxYWlmeWdwM2Z0WVhVbWdVS3Itd3VCZ0xRWkkyZXRvUGdUb1NTeVZ0OTFVeURGcDlScTFMOUhxWnZQcG1iM3duRmhYQy1wZGFzbEVSZ3dhRndTVlpEWkdCdUpMc3Y4dVFXN2l6aEt3YlJmNld3V242akdlSVFPMnBIRDRxWk1KcFBZdklHWTFaYVhmZ19jYVZTOG1iQzN1LXUzUDRaQ3pxMGl0NGJkUFBITWNOdVoyWHdDa3AwT2lwdmtnY2QzWVYzeHotby1JZk5Ua2t1TXdEMU8tRG51NDhjN2tDVkdaajFfNFB3bnJEUG82SGZCSDUxQzNZazFoY0xBMlp1OFZRNFkwaWVUVy1sOVNSeWs5UmhOYk5iX1owdEIzX2pBUFYtX2c5M1JfcWVzZFFMblFwX1EybmlWZ3pPM2FvbTVYRDl1R2RheEJrVG1HT1hEcnhudkVfMVFGem5QZWliOU85bXp0cll6cGc4ZFZIX0tRNEp1RkRNVnM4Zl9mRUJmTS12MVRTQkhWWlMxei02Tk1SZGI3RUU1cDk4cjhiU1hNTWRVYTU5LXRHdmo2c2U5dlpQZVY1WUJyQ21CdDc3eTZmREV2OUtZbXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTnRYblR5TElPOHpxZXFBbG43SEFCenBqc2h4dHoxR05qQzJra2txbENnWE9hTUZlUmdsM0U4dU9pNTNVN0UyT0EycWlYeVFkSmdkWTNidWxHUnNUYWdJdzJYZE0zLXh5UFFtcGFDMWg0X3I1UEIyeWNRNmw4Qjk5MllEN3J0bWJLUzljbXNvVDlMQ09oendOOUpFSDluN2NNYzlfRHV6eVRzSDJrYk55V1pGeGs5MGVIUjZzUEFBTUxvQjl4R3A4ZFFBZG0xSlpMLThWWXpKN2NaSWE0cU13TThBbHZGbVhIOE4wQUdqczRFQXFfWHJOckFvWlBBOXY2enFFSEtYeGJoT1ktakFWeHlTYzJtU2tmNmkzMExzdkZ1bzBkbF9oWWxqc0lsYWpyTkFabExYS3NEbEhRZXc?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 25 Nov 2026 19:16:42 GMT",
+      "local_url": "/article-c1bba8566e4a.html"
+    },
+    {
+      "category": "policy",
+      "title": "رئيس مجلس النواب يستقبل أعضاء المكتب التنفيذي للاتحاد العالمي للكشافة البرلمانيين",
+      "description": "رئيس مجلس النواب يستقبل أعضاء المكتب التنفيذي للاتحاد العالمي للكشافة البرلمانيين | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxQNndYN0ZwV1NzSHNQRnZMUmRndVB0Tk4zQ0RHSFA1b1lpQW1ydzRfU0xRV0VWNl9FNTdUcWY1ZzNyV2xzQXBaeTRQNHlTR1BVRDNpdlVFRkxhRGNhVENQTTh1MFE0Q2l4VFc5anRTNC1reHl3SFdhWkRxdm9fSkdZWnpNUlZrZ1c2OTZQbnNGWjFGdldwdDU1RlN0OElNUk9PMGM0TWJSRjM0c3hKUXBuQi00bEdZWHlfQjE5VllxN2REZllVS0ZSOUlhU0FSMWZXRDlhamk2bUpNMjdBRXhoVUh0ajVLOGQ5SHN3M3NoYUg2ekFSbGM2LThFVUwtdEdCZFB3OWJ2QzJoVHhGczAzRTM4MF80Wm5UYkczVzlRR3VHemFTdUVmd21fUmE1bWRuc09GVnBKZ1lza3c2TkNIWWtGRUVQZ0pRajM0a0dTeUNmb2ZWaVFSTjRZdnVqbzBFTXk2WEZQQXljWkkxYVM0dk0xREp2YzdwSzlNcWlZSnNZRzVlSHN2MnlYU2JXc295aG90NzdLM0ppYjlNUHpVUno4OENaNFNfVmhzS3lYd0lyRGx3Vy1LLTllNVBSR0lINUdIb2FoZ1hMS3dGQUkyRllPc1I4bm1lSDNaZjhOQzh1a2NVOUxTOXM5NElYQmZ6SlY2SmFHRUdXbHhBRGVkbGZGaVpfNG14NWtULWdCSGFLemJ1b1BkUWJabmhmWUUtdkhVRkV2QzM5OUFvM0FVTHZBNjJlbktySllvNmlXOTJaTzIzQm1zZ2JaZzdVRVhxenlhakswWjdfMnNoeWhsbVRRYlYwSV9hd3FCTUtLTUVYOTBRNG5PXzVRLXgwZkJicWVlc1AzdE5fTFpVU3p4TUgxVnhDcVpQcDBENi1MRVRSOVVmZG5tVTRCVTV5cEkyTzc0SV9SWThnWk40?oc=5",
       "domain": "| MapNews",
       "source_url": "https://www.mapnews.ma",
-      "date": "Wed, 25 Nov 2026 20:38:45 GMT",
-      "local_url": "/article-d6e00e553ec6.html"
+      "date": "Wed, 25 Nov 2026 19:14:25 GMT",
+      "local_url": "/article-00e36d72ff2e.html"
     },
     {
-      "category": "business",
-      "title": "المغرب يشرك القطاع المالي في جهود تعزيز صناعة الدفاع",
-      "description": "المغرب يشرك القطاع المالي في جهود تعزيز صناعة الدفاع Reuters",
+      "category": "policy",
+      "title": "840 ألف فرصة شغل مرتقبة بالمغرب بفضل استثمارات مونديال 2030 (السيد بنسعيد)",
+      "description": "840 ألف فرصة شغل مرتقبة بالمغرب بفضل استثمارات مونديال 2030 (السيد بنسعيد) | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0V3ptNVVtSmhxRWdxVXJrbWxTaVZDVllvWThPVEJ1dWJGUTlETUkyR3JqZjdfTEsxZW9CSmlFdFA2cTFNX0c0NWRxRl82c3FZZEg0V2RfSHdpeElKOXEtWVFTZndCVUVjT2d4ejlOOEd6M2s1UXgtNUZOY2Z3dXc?oc=5",
-      "domain": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "date": "Wed, 25 Nov 2026 19:31:53 GMT",
-      "local_url": "/article-aa64b29117d7.html"
-    },
-    {
-      "category": "international",
-      "title": "فيديو: Anaïs Mitchell و«العمال» من فريق HADESTOWN البريطاني يؤدون «Why We Build the Wall»",
-      "description": "فيديو: Anaïs Mitchell و«العمال» من فريق HADESTOWN البريطاني يؤدون «Why We Build the Wall» BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMG9LQXZSMXYzT0MwRXVmSlVtM3JiYzdxejlmNEViZWVkVWtScnJnS01MUDdRbjN3RG1rYTB0cFJ3RVRtM1R1dDFxcFdjS3dYNW9HTTVJVTNBNUtMSlMtaE1GQ3B2WTF0Q2tPdjNXbXJ2ODlxXzUxcUlYZXprOG8wZjREajF6cEkxbmtlck5KQ0dSY3Zud0c5S3VkSmV0blhNdE1Cb1UwbzBlYWFENUZrY1IwRzQtUEZJd3UySmJOZw?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 25 Nov 2026 19:22:19 GMT",
-      "local_url": "/article-93eb1bca50a0.html"
-    },
-    {
-      "category": "technology",
-      "title": "المغرب يقود تحالفا دوليا للإطاحة بشبكات احتيال",
-      "description": "المغرب يقود تحالفا دوليا للإطاحة بشبكات احتيال Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBjcjBJQUN1VWRQRXN4VjFjTS1tU3NKeTZxdVJKZS1wbFdqZDRkS2ZIVy1lNnNxYmlOdWJFbGlabVBnNzhj?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Wed, 25 Nov 2026 18:50:23 GMT",
-      "local_url": "/article-2755ce219c08.html"
-    },
-    {
-      "category": "international",
-      "title": "The Nutcracker وThe Magic Flute وغيرهما ضمن موسم الأعياد في Royal Ballet and Opera",
-      "description": "The Nutcracker وThe Magic Flute وغيرهما ضمن موسم الأعياد في Royal Ballet and Opera BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlBBbkY0Z3FHeWZJY0c0S2M4Y0tmanJQQlpiRm9EaUw1WEF6d2M0REpObU9YMTh3clozeDV2azlLX1pRWkYzZHdiME5Fbzg0dmxxRU9GTmpVNFNpSGJzNmpBeWhxNFJTSlh5TV9VdFZfTm9iQ2tKWkZFVDFjTkdFWHpPOUw5dk8wMkswZEw1M2JERWFRTGZqV0V3bzE0SFEzRjdzek1ZYmxxc0t0TVU0aE53S1RfNDZtZ0lZYTlMQWp1V2tuM2VSemxEVDJ1R25EMlUxaA?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 25 Nov 2026 18:02:34 GMT",
-      "local_url": "/article-3de28b5e2e07.html"
-    },
-    {
-      "category": "international",
-      "title": "THE HOLES يسترد استثماره البالغ $285,000 في Off-Broadway",
-      "description": "THE HOLES يسترد استثماره البالغ $285,000 في Off-Broadway BroadwayWorld",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZENxa3VUcERoUkx5NEhrd1VGc09ySU11WEE3Z09RcnEwT0hFaXk1WEVjby14MWl0SFlGUXdrOFNJb2xvU3hZOXdWZG95ZXZqVUtrTHltTzl2YVBRSzVIZkpZSC1teHBnUGFNdFVjX2pGUlF5eXM0MENPVUNiaGRKXzZzMk5QYzcySDVhQ2FydFgyTWNHN0JsV0JXNVFBVVVaVGc?oc=5",
-      "domain": "BroadwayWorld",
-      "source_url": "https://www.broadwayworld.com",
-      "date": "Wed, 25 Nov 2026 17:38:54 GMT",
-      "local_url": "/article-1cd1c1e461d5.html"
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPb1NEYy1PczVnc0Q1NlBneDAxOVV4RWNzU3NuMVZ0ck9WY2lkcF80LVEtdXJjNGV1blB5TUs3akQ1WTVfdmU1MDVVbVJ5QkZvR1QyWDJBRnFYbWlyOFBGblJ1MVhXTEtRMGpwTHE5U0lZWHk4SXFtaG9GTFp0REtFNTRqREsyNkQ3V2p6aENmWkRaYldoWkR6QUppN0JJaGxfXzFDcUdWdkZ0a3lBdlo3TVZOc1UwbC1sU1NKSXR1UWc4RTduaEk4ZlRGSi1WMThXRFpUTUEwcHlEeFRNRms3RTNHUTMxZkpTMVR1aWF3ZlZ2U3dmeW56RFEzSmRHZ1BCYUVfTzJTbjRDaldTMUczNGxOT24zRjRNVDdVRlJHRGZ2U2ZLZWZ0UEVMcTBUdXNKaE12elVBZTNGem1EMU0xV0t1TVU5eTJzZ3lZSUpzU25SMDFvQ0lvdDNnNnhjY2Q3NjUxRVVRclNRTERaRWlvR2pKa0ZWSFdHdm83cVJlUGQ0eXZtWEdsc1Y4cERzcmluZExUM0FVOUZTX3h6X0ZCX2ozbV9Fcm5OZWpFalhkMGtKeVhDcDVrc3g2aDZjMGcteXZuMzdNdWliQXZGcVJUdXdhT2dVX1dxQ2FwNnFhLXFxaklFalREU1VlR0xjMTNBdTRLVXdNN2gzbGJmLURidExiYlBSSFdVTzZTV0NaWlc1RTZFWmNPRlAtNGhlQTJlY3U1WUU1T0hZT3g2b0toTzVaSTY1c3VwYnN5R1ltRQ?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Wed, 25 Nov 2026 19:11:02 GMT",
+      "local_url": "/article-1b7ef811683e.html"
     },
     {
       "category": "sports",
@@ -365,17 +288,6 @@
       "local_url": "/article-6a2e377b06ea.html"
     },
     {
-      "category": "business",
-      "title": "التكنولوجيا والطاقة تجمعان شركات مغربية وإيطالية بالبيضاء",
-      "description": "التكنولوجيا والطاقة تجمعان شركات مغربية وإيطالية بالبيضاء Assabah",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84YVBBT3NLNXMxY1AzOF83LUlWTGZGaUExcENTOENkZDFFcnFLcFhaWVJlQk0tLTlxZWk5SzI1WVRaNmp5?oc=5",
-      "domain": "Assabah",
-      "source_url": "https://assabah.ma",
-      "date": "Wed, 25 Nov 2026 16:26:34 GMT",
-      "local_url": "/article-04a19a20ab5c.html"
-    },
-    {
       "category": "policy",
       "title": "لقاءات \"مالرو\" بالرباط.. دورة تتمحور حول صناعة ألعاب الفيديو | Page 1404 | MAP",
       "description": "لقاءات \"مالرو\" بالرباط.. دورة تتمحور حول صناعة ألعاب الفيديو | Page 1404 | MAP | MapNews",
@@ -385,17 +297,6 @@
       "source_url": "https://www.mapnews.ma",
       "date": "Wed, 25 Nov 2026 15:39:12 GMT",
       "local_url": "/article-948c7bd239a8.html"
-    },
-    {
-      "category": "policy",
-      "title": "الفساد المرتبط بحماية البيئة يطرح تحديات جديدة أمام المجتمعات (رئيس الجمعية الدولية لهيئات مكافحة الفساد)",
-      "description": "الفساد المرتبط بحماية البيئة يطرح تحديات جديدة أمام المجتمعات (رئيس الجمعية الدولية لهيئات مكافحة الفساد) | MapNews",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxQcmVSenhPQ3ZqUkFQc0VodnI0bTg4YVRTMHVtVzNfV3FacHJsTTNGU1BEZ3Q0MHlUQ0VBX0JLQ09RR1NYTGVDNGMydjJJM1R2YzJISGhlajU1M1JXbzFodEZrVHpOZzNNY1d5RDdtQlo3LTJ2UlBaQmxLMlBTZl9OalBUazZocGdQNXk3Vi1DRi1VVXNQSVM3eFE4RnhCRGJMM0J3YzFWNi1KYUpZRXRUZXNUZ0VKSVBlSXhaWjA1eFBDcjZxYzgyYzBPUl9qQVE5NGJOVEhuMl9CT2NTbzkwS0VESEc2WVRqZldXdmxNaEZ0dXpJeFJ0dWV2dXd6SmV6dThwM0V3ckF2dlh3cnR2Mkk4eWFMNDhOU2QxSGFtYkNKcS1GdGpCenkxN2M5Wkg2RU8tTmRwZmI3WnZ6YVRKUFNkdmFIWGVaak1XaF9IV3JwSjB6c0lxVUl6d0ZET002U1JmVkFXLUtmcEtTaTNERWpCNGE3TnVlSmk2RUVqMEZlSTlwQlBZWGw0NUNDQWExb3ljbFJDWW5raXJIZW1IaGF3UjBUNE5yNVNnZjlLNm9UMlpUVWh5d2hIUmdoU0tZTlI2bEFGcHFZbnRqdElhYnktVDh6cHYwdHVpX2hWTUpCM0JhVTAzSWFXbVNfNnNHRjBpalBpdFBQT0NLR0RxcV9sdGtDbF9Ic0JxWEhneXpjdWdKM2FUUHBiLWxtc3lsX3ZqZ2NBWEdxVDBXdDY0V2szRzdkX3V5ZnRVaG5RVXNVaTJMTGpJckNRREZ3MUp4SVhvNGF4Mk5oVWg2MXlSSUJEaWZGcjlxQW84N094X05RaXRNRXdROE9sSUl5WFd2Z1VENGJYYmpNdjYzOElsNDNOMnBuclF3eEh1dllhMUpQTVdMMEJhWFdWQW1DS0Z2R0NmOTFRM1AxNGNqSnJFQ01xckQ1SDk4Ympv?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Wed, 25 Nov 2026 15:30:48 GMT",
-      "local_url": "/article-49e47d1c8ac9.html"
     },
     {
       "category": "policy",
@@ -418,6 +319,17 @@
       "source_url": "https://www.mapnews.ma",
       "date": "Wed, 25 Nov 2026 14:59:06 GMT",
       "local_url": "/article-2c9248ba112e.html"
+    },
+    {
+      "category": "international",
+      "title": "صور: Andy Karl وآخرون يقودون فريق A Christmas Carol في PPAC",
+      "description": "صور: Andy Karl وآخرون يقودون فريق A Christmas Carol في PPAC BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3BDdFo0WHctRjJ0Z1F1bnFZZV94SjNiUnR6VTlZNmZrWEVUbG13S3FiaWMzVi1fd1I1NzJZWGUtR2hCYWlTaGlMNVVJcXVtNU5hZ3ZDV2FrRnhnbHdaeHpBQklEdzRhWGFzckd1Slk0cV9HYmRtMGY0cXhUV1pRejVYMVVmUS16ODV2X2JSMTlQZC0xRndTSGZ6N3Q4ZGNMTXVyZGJOdGJqRTRy?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 25 Nov 2026 14:50:32 GMT",
+      "local_url": "/article-8a8b1abe1eb8.html"
     },
     {
       "category": "sports",
@@ -464,7 +376,7 @@
       "local_url": "/article-dd6adb389756.html"
     },
     {
-      "category": "policy",
+      "category": "business",
       "title": "نواكشوط تستضيف ما بين 16 و22 نونبر فعاليات الدورة الثالثة للتظاهرة الاقتصادية والثقافية \"أسبوع المغرب\"",
       "description": "نواكشوط تستضيف ما بين 16 و22 نونبر فعاليات الدورة الثالثة للتظاهرة الاقتصادية والثقافية \"أسبوع المغرب\" | MapNews",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
@@ -497,26 +409,26 @@
       "local_url": "/article-5e4d866a1826.html"
     },
     {
-      "category": "policy",
-      "title": "الكاتب رشيد بنزين يستحضر في لندن تأثير النموذج المغربي للتعايش على مساره | Page 3 | MAP",
-      "description": "الكاتب رشيد بنزين يستحضر في لندن تأثير النموذج المغربي للتعايش على مساره | Page 3 | MAP | MapNews",
+      "category": "international",
+      "title": "Jasmin Vardimon تعود إلى Sadler's Wells East مع LULLABY",
+      "description": "Jasmin Vardimon تعود إلى Sadler's Wells East مع LULLABY BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxNcFctbXZTWkVhZjlXaE9URVR6NTEtdUZRVXlVZGY3OUEyeXQ0SkRqQ2ZzY2I4ODZWdWxtUy1lZmxkUGR1anMzQl9hV01Lb1EwaTBFMGJRXzdHcVp0NGNNbkhGQkxObVdtdWFPUXdkbUR0bjBiRi14V29IbzQ5LW1ocVI1ZGJlVndXM2NnVV9KSE5sWFhnTXZzWW1uQ3JCbkJsaW9QMVNUNG1tckhUY3F6bWFCbWZnWDZsOVhkWjJmVVV3QXY2OUJRS000WmlTcWFlNzVHQkZHN0RJNGVsMTU0OFV4aXFaWlZLRmRIR3pteDlnY2pGdzVhaVYwWnBSc3RMZjJEOXJubUFSZVNyWV9YdWxfYU1OS2l4V19WUUdpX2U4Y2tNaFpnQkliVDdfbk1MbVBfQ2tyRVpweUJ0QlFkeVdEakx6QWFSQ2QwUl9oUXpCUGpmc08xenA4cjBhOFVJR3I3dEJtWUtSQnZnemNDTEZ1THNuUEZSaG96Y2FTdWJmYVlIbUR2VGtNT2FOSGNHNFRBSXgxbUxlbllKNVhkbjFaVU9nemlEX0JaYUFna0FHLWtDdEx5bGJ0ZFppaUkyMU43REl3Nkp2alF6WDRfOHZyam52cEtIb2xEZWllOElRMnBtYUgwclo2Q2E3TURxMjZQY3RKM3BMd3VyNmUyVG1XVEFSX2d6Mi1EbVY4alZ3VTVZcXE1c3RiQmFXOUc3THlVakFMYjFiUnNwcGpaaHpaOWhtWW5fVGt1TFNxVXdLNnNKSDBWTlhhS3VCS0V5U09ycEplUHNWekRpaEtUSHQtZWRRUURfU0dGbnBDSQ?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Wed, 25 Nov 2026 13:22:37 GMT",
-      "local_url": "/article-47a8666c72e6.html"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm1XM3dWVF9hbGJ0SkdFNTRzQ1JHRjNjcVcwYlNFLXBaaXkwQjFZa255OF9UWDhESDlZTS1QdWJVOGI4WWlQX2kyUVJMUWtpdzgzalU1M1E0a2Y4SWhNejhzcHNWZGV3S211cE5oQ3c1dEl2VGRLOXdnVHlBRTV3ZWNxN1h2eC1VS2o1VC1qVzVaLXM5MFBDeFMxSHpVZGRWeDNMSGZ0YjlLRFNtZFdENHVR?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 25 Nov 2026 13:05:57 GMT",
+      "local_url": "/article-c152c71a410d.html"
     },
     {
-      "category": "policy",
-      "title": "بإذن من أمير المؤمنين، المجلس العلمي الأعلى يعقد دورته الخريفية العادية الـ38 يومي 20 و21 نونبر الجاري بالرباط",
-      "description": "بإذن من أمير المؤمنين، المجلس العلمي الأعلى يعقد دورته الخريفية العادية الـ38 يومي 20 و21 نونبر الجاري بالرباط | MapNews",
+      "category": "international",
+      "title": "Robert Lindsay وTonya Pinkins يتصدران العرض البريطاني الأول لمسرحية THE NOTEBOOK",
+      "description": "Robert Lindsay وTonya Pinkins يتصدران العرض البريطاني الأول لمسرحية THE NOTEBOOK BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPNUYtQWQxMm9UQkVfcl9PQXJIQXY2cDhLX0JiaUhKeVVCek5nRHZFcjRsakdpTEFmWTRhejkzUmhlZUJxdGlWSFhRemR6dDk4SUF0VGVxS2hxRWhFRFNaaElzX01ENjIxWEtUZmxhcTBoMlFoRGVIektUbjk5b1BGeDExMExIVGUydVB6Q2dJSGxMajNiMTkzd29TN0dhanJ5dl9Wd0FJX2lrTVcxcHFfUFhWTkI0dUtuX2RzMWdxUDVKMEI5WG05cThzQVc0bjVMeG5yazJ6WDkzNW1fTGN6MFBJM3U2dXFfUG45UUIySDMzSU5BRl9NYkNPcXdrQldGbWx5UEh0WUR3aWhmd05hT2ViRGd5QnVXTEFDNjdKZ01DOU96amJFWWVveDZCaXBkck1QV2ZuWUltUmJwaXFXSWhUMEUxeXgtZHVwNEJRYzlmMEpJRThjbzRNNTNDdi02a1lwUFBxU0hTZ0IxVWxSaHg3N25neklGTUhpdVFlTU1QeHNDd2stNXl4cU0wa0I4c1lGQm1tOUdDbGxxS3pSb2lxQUNmR2k0WXpKdmxwUzZVOFR0ZU5xenhpR3NONUFXS2ZwNmIyLVRudVJuXzRMTUJQbkVfVE1RbEVSSWJON3hTMm1pS2xKSzdXbDBSRlNFZFBjZ1luRVpfeDljbHU2dlBuT0NwajFTblRRMzFQaExQOUtaTDRSMDhXekpiQjRrMW9mbzRjQV9oLTktaGJJVnlFZW52dE9yN0dxdnprT2thcmExVE9rV2NZRlNvOHB6Q212WHYyaThXaHRiUEFVYWdmYXhuNVBlcHJJX1c0OFYzaGZtekdVY3NmOVhnUWtZSVk4aDNqS29peVRqU0s1NHhUSzlJd3lDSndyWWVoVnFxM3M1X0tqd1pn?oc=5",
-      "domain": "| MapNews",
-      "source_url": "https://www.mapnews.ma",
-      "date": "Wed, 25 Nov 2026 12:09:55 GMT",
-      "local_url": "/article-3af62e06d79f.html"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbThoeG41NWcxWVZhM1NaWS10YWQtMXRsTWtNNG83NEhiVjJINmVBY1B5d1kzWmIxLVI5bnE1ajFBcUxMeE9JdjctblBHWTJaYTJLTHg0N2xzQzBqbld2WXB0UEdiUDd5LThJVXp6QVdRdlZ4SUVtN05Wb2drc2JXMGJWenI5OVBBVXo1OXNCRll5SDZtVjVWUGVKVGVZOEhpTjBndWx2TzBlTlBGRFBJZGhRNUlPUmJIaXdaeUJETQ?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 25 Nov 2026 12:50:44 GMT",
+      "local_url": "/article-1bb7a13d2e65.html"
     },
     {
       "category": "sports",
@@ -530,6 +442,17 @@
       "local_url": "/article-0ca948750923.html"
     },
     {
+      "category": "international",
+      "title": "Fulltone Orchestra تقدم THE NUTCRACKER SUITE ومقطوعات عيد الميلاد المحبوبة في Marlborough",
+      "description": "Fulltone Orchestra تقدم THE NUTCRACKER SUITE ومقطوعات عيد الميلاد المحبوبة في Marlborough BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckpNWWpZV09NSEo0cnVWby11b2ZMeUtMWmxmc3UwZGF5cFRLcE1LUGxLc253SUQ3MDJ1enBzRS1hWWM1WVNaV3FhZDFsYjV2MlJ2aUhXZFFVMFhUOWZXMnpCcWV2enhqVUc3WGFMSXQ1TmlhWk51UUpjUTN3eHBNRW5FRWJNYnJfNXR4S2dwN1ZvS0hUYWFvRHV5d2NUTTJsdzZ4bzV1eEIyUEZ2QURvZk8xZVhOTmkyc0hxbHdDLTR0cHplZ2h4bWlQOWJBQjlILTIwUHV6RQ?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 25 Nov 2026 11:17:12 GMT",
+      "local_url": "/article-731cbf618d7a.html"
+    },
+    {
       "category": "general",
       "title": "أمر ملكي بإقامة صلاة الاستسقاء الجمعة",
       "description": "أمر ملكي بإقامة صلاة الاستسقاء الجمعة Hespress",
@@ -541,15 +464,26 @@
       "local_url": "/article-7a187c34791f.html"
     },
     {
-      "category": "general",
-      "title": "وزير موريتاني سابق: التفوق العسكري للمغرب يضيق خيارات البوليساريو",
-      "description": "وزير موريتاني سابق: التفوق العسكري للمغرب يضيق خيارات البوليساريو Hespress",
+      "category": "international",
+      "title": "فريق DICK WHITTINGTON AND HIS CAT يزور دونكاستر قبل عرض البانتومايم الميلادي في Cast",
+      "description": "فريق DICK WHITTINGTON AND HIS CAT يزور دونكاستر قبل عرض البانتومايم الميلادي في Cast BroadwayWorld",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPV2Z1OXdjb1E5cDB2bHRNRWhJS3p2WnB3YVlmWWVYcmJpcmNBUDdiaUZkMlM1NVdTN3Jic3dubVNHNGM1MkhxZkpOVEN4LUNSLWRQU0lqQzAwa2RtUnV2M2U0THl2aWotQTlwV1AtcnZwckZVTWRPdEI1TE9vQko4anNUZFhFSkJMUWNMdGs2TnlTWUp3blU0cHlWR205ZjhUZFhab2dMYmloWHluYXFfMWx2N05yMnRDeTM5S2F4bVZOdHQ0cVVocGJVUE1RTXYzMlRxenNUNFBsejBiVkg5MUJzZkFGYUVjSGdQcGpzWGt0THd3UDVEMGEtUzU4V1lXNDl1OXVuaFh4SVdKYkdJTkhlUnpIVGVSNTJIMjhGZnJ1QVhqcC13TUdQUnB1R3pFYTNjRUgtSDl1cjRmdndTeDV4VGUyTGNwVHpWdlNlcFE1X014U2c?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Wed, 25 Nov 2026 08:09:38 GMT",
-      "local_url": "/article-6561f4e412bb.html"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNclhCWVdaYTZxUmQ1ZGdKMV9fdzZ5UTR2Y1FoMHg5QU1tU1JTUjJxdmdOX0ZTcERIM2tNNEZaVl9uYlQzWjRocWlDR0RtQ1h3Z2hTRWxoald2UTh6QUJjQm5SMzB2Zk5UNWprUW1VS0NYWGlzY1JWVXphWHZwdWtqdjRZWHlBNmZUaUVxMXNWS2g3b2dzZDBxZkpncmVQZ1dSWUFZbXBrTTdMQktKc05ZQUhJZEpQMkp3YnUyckJZVkhITkpWUDhJMlgzdUxheFZKYWY0Xw?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 25 Nov 2026 10:04:02 GMT",
+      "local_url": "/article-ec95e7e9a068.html"
+    },
+    {
+      "category": "policy",
+      "title": "التوقيع بالرباط على \"ميثاق الأغلبية\"، وثيقة تعاقدية سياسية وأخلاقية لتأطير عمل الائتلاف الحكومي",
+      "description": "التوقيع بالرباط على \"ميثاق الأغلبية\"، وثيقة تعاقدية سياسية وأخلاقية لتأطير عمل الائتلاف الحكومي | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxNWnVpa01McnNtU2NCejRZMkVWNlM3M1Vrbm9hUnNqMmhHMGVMdkdPV3BxdUNjc0k3dmQ5NFh1eHFYMEVUc3h5V0hyUHF5NWUxaGFKdE1PU0pjX2ZvRzk3RWszSDVvWjRuUk1sQkNVbXlqcjhzWkNObnNxN3BlR2kzSk1yeGt1Q1p6MjFHbmtWcnJSRkp3cEk3emNwQmVEWEJyMktzNHdRbl9xSVRWLTlMd05yZE83dTAxV1hJY2NpM0FJaGhLaUJmRThvSTNsVHlYMjB0dEFGN0t0Mm5zVF83aS1wZ2NfaGljOGNTY01QS01mdDZLUllocDdtemtNNXJFNm9pS1FLUXV3R3N3bGdLQ0FEWEEzRXpseFhjU3F6emhCMkUwdW9BaTJNQkRVWUI0TVp6b1R3RXh5V0NDMlhPRFJZdGpMbWJ0NTBCeDA0QjdLMUo1amFtelluNllvRm1tNUlNdnNCQXFrb1pMNlhpSzVOVVlSUXdHVDNZMnJZZ3g0U1NGS3N0UlZsNTM0cHc2NXNYeXFlZ0Z0T3dOOXFTaUpvU3czZ1hsUlRrLVNfdUdxMnlMU284R1VRZEpvS280X2lBNFNOUXBCemZkbFgtTmJPdkNKZzhrb3ZLVDFHNldLY05KY3dSY1llLUl6NHdqaU9fcmdqLUNNLXZiTGdsalcxLVI2Ump5N2RxQ2x4d042Z3k5bk9QRm5IYUMtVXhrLWE2My0yZG1pQTdWTUxGNHl4VVBmc0JQcFJPWTZ2UjJMN0NWVllrazRiX1NlcUx5SUdwQ3lwWVgyaExFQjVsdkF4TG5ZVFNqNENoa01JNUd0bjN1eTJwSS1adUN4VVdhTW5HR0xjbEJzTmoxdFZTOG1DazM?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Wed, 25 Nov 2026 09:34:02 GMT",
+      "local_url": "/article-b3d94a595542.html"
     },
     {
       "category": "sports",
@@ -561,6 +495,17 @@
       "source_url": "https://www.hespress.com",
       "date": "Wed, 25 Nov 2026 04:17:58 GMT",
       "local_url": "/article-351ff129cd66.html"
+    },
+    {
+      "category": "international",
+      "title": "فيديو: من بروفات 13 GOING ON 30 – THE MUSICAL في تورونتو",
+      "description": "فيديو: من بروفات 13 GOING ON 30 – THE MUSICAL في تورونتو BroadwayWorld",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOENXNnV6Wi1ESC01TzR4a1FJVlVRaGNXbk8xRTBfaG9sZzV4WkczcktYS2RZZWN4SWRkY0MtbVNqYU5hWERseVllcnRfaTVyV0FMZlRHTUNtQzJvTFlwWjRiQXBVaXA4YTgtUWpUVnB4a2ZsQzhiQ3VlQjFFd29pLWE2d1l5OHBXRnRtTURocWVfSTBHSFRLZl8xRklRR2NFM1pZMmhwSnlibWZqRzZCR2czQUdXSFN5?oc=5",
+      "domain": "BroadwayWorld",
+      "source_url": "https://www.broadwayworld.com",
+      "date": "Wed, 25 Nov 2026 03:53:24 GMT",
+      "local_url": "/article-aee683860a2e.html"
     },
     {
       "category": "sports",
@@ -585,6 +530,72 @@
       "local_url": "/article-10b54ae5e9e9.html"
     },
     {
+      "category": "policy",
+      "title": "نبذة عن خالد حاتيمي، وزير الفلاحة والصيد البحري والسيادة الغذائية | Page 2494 | MAP",
+      "description": "نبذة عن خالد حاتيمي، وزير الفلاحة والصيد البحري والسيادة الغذائية | Page 2494 | MAP | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxQOUNrbHpTa29Hd3NjNHMzZGNKdWNtWHdVc2lnejlsVlRMc3VzdkR5TXdNZ0YxVEZhLVZ1VXl4MnRjLXIzRjJUaGVHdzlWV282TldwblFMMy1IOXUzalNPN0tuUG84ckcwMHM4bHN6bTdIaGlqWFk0V3BmTmFWQ0R4LWl2ZVZUQ19BRWxBaENGSlZtLUlIemh6VDVFWTljaGV6bGpwUk5SbGZXdFBybWJ6SE5aRWxjcjdGZllER0RTRkZRLXFKOEpJd2V3RVBYMDNPQmFxakI1M1BCZkZuVVNfSUlpWkhrUzN2TklSNXJCMXJPUC1CTzN6TURDUFFxQVlydDlJOGJMdTZaaVlhQ0p5TGFmZ0k5cHBsVk8tdmpxaHBIdC1YTU1iQnVSOUZmYWJ5THB0VjQ4dTFFdHExYzJzZmV3eUUtNUJnblo4R3NBNHZGRXpnQlZxb2lRRDhrcmcwM0lwT1Z4bElfRlFfWGt1dS03WWt2SE01QkVOeW4zZmRKWmdkeTZsZDJERl90WnhGYVJubzN5aW9LUnJBU1ZCd0VQR2JjYVpES0JqZUVrU1BXRDZGbDRUMkZ1UnZ1amhJZ1NOZV9Qc2lvdDRMVGF3TDRVWERiVkx5RlpKeFVoclk3YTl6bUNDaWJhVUFVdldQb1JKa1B3dkl2cy1yUnYwNFNoRE5tOWhsYjBOdzI0TGt0MDZrd3hRenZ5TXROMjJBdUFXREJfaEZWZFhtSi1wZ0J5MENkakM3c2dqbUVaOTFvbEtCRU9DR09ZM1NOcm9l?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Wed, 25 Nov 2026 01:54:14 GMT",
+      "local_url": "/article-4784576248b7.html"
+    },
+    {
+      "category": "sports",
+      "title": "\"الأشبال\" يخوضون بطولة شمال إفريقيا",
+      "description": "\"الأشبال\" يخوضون بطولة شمال إفريقيا Hespress",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVHgxWXNZNGhxSVRSczZTVTZCLVNicFhiQ0FZMWRfNDcwSFlkUU5ZOFh3TEVkaFZHSDc0S1hyRXFES2Y0bWZJZ3pWSHl5aHFwbVdZTy1raW9JRlNPUXNSeG80bWFQUEtoYzcyNVNlazIzREY5Y01YaExDQms1dmdoUm5QUDhxekthZXNDX3U0SE9fX1A1cTBmSkw1TUN0RHdfRTVyb0RBd3A4TEJTWWZURWIxN2c4U29TNGVEbXlNaV8yOF9qTjdXUGtNWm5PcVN5eXBDNVpZQ2ZqbUJ4YkhzNi10aEF3S2VPOE1fQjQ2dEVWY2hhUmgzZ3ZtVkRMaDB4YUJaVEY5WmN6a0FLZWk4Y0ZuZnlOaXNUX0E1QmFGbGw3MzROdXVXaHI5MDBmTWN0X2hSeFJOamlpeHND?oc=5",
+      "domain": "Hespress",
+      "source_url": "https://www.hespress.com",
+      "date": "Wed, 25 Nov 2026 00:14:57 GMT",
+      "local_url": "/article-d9457e87b768.html"
+    },
+    {
+      "category": "policy",
+      "title": "الحكومة حريصة على مأسسة الحوار الاجتماعي وضمان استمراريته (السيد شهيد) | Page 3182 | MAP",
+      "description": "الحكومة حريصة على مأسسة الحوار الاجتماعي وضمان استمراريته (السيد شهيد) | Page 3182 | MAP | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOYmhTeGxLTzZNdGF2el9FVW5OMzJBdG9jNFVpTEdMdE82ZE1CNFJLTlpSWGpVdy1JSUhiNnRtRGhrVTl1VFJWaUtVZDl3S1l6ZElBU3p6ZEdJMVozZm5wcXNIeFpwOTY2WUEyeFppZjFPX3NsZnVkQUJlZHFHS3NvUFRtU1NnNTNvT2ZkU1g4MWZtZHRuOFpjSzdfWHh0SUViRjN0UEh2Q1Q5Q29laUU5c1VKQTJJYjk0bktzcjhUQlVPNGNjbEcweFIyWXZmYU5UX09OZy14TmNmakJmZmRFRTd4a3QwWEVDNnhPbmRWUGFBQWhUanhfbklSZVVwa1lfWWpNeERfZmNleGVHSlFtbjg0eG9rVk0wM1l5Z3ZqUzBDMlFyVnFWU1loUEpaeXNiQmpyR1RhakQ4Y0k0OUJHeFRvREJsSWJmOHNpTkpnbGhaQTUzSmFVVXdVZFo3U0I0ZmtzcFpQQmRLbU01aDFYMkdkQlJHdjc1c0haMDVFdGZJVUtCV3NYazF2MkFvWDRuRUtJeHF1RXoyN1JWX2FuWGI3R0p0VGFOU2E3VjNCaDNyX3JuZGt3cVR0by13d1BhUzhTVnVFZVV0aHFCRHZ2d0lYeTAxaGpCTHAxNF9VV0NWMXBWbmtubkF0ZFExNGRzWWM5NE44UkQ0OVFtSkFpV045dVpTQkxRNUIwc0hGYVBiOVhEN0k0OV85Q1FVTDRKS3l4WkpVY0QwVmdpZUx5dXVWSWE5YXBHc2JxOUVvWVkxc0lwR2RDOGR6cnFNc0ZpaTdiMzRxQWM0enV2ODRyNzFkM0Z6ZGVH?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Tue, 24 Nov 2026 23:45:38 GMT",
+      "local_url": "/article-bc64cb11cbb7.html"
+    },
+    {
+      "category": "policy",
+      "title": "الحكومة ستعتمد تعاقدا اجتماعيا جديدا مع مختلف الفاعلين في قطاع الصيد البحري (السيد المزواري)",
+      "description": "الحكومة ستعتمد تعاقدا اجتماعيا جديدا مع مختلف الفاعلين في قطاع الصيد البحري (السيد المزواري) | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxPU3hYVHZDanpyZ1l5WWhGc1RVME5ZRkMyWWdRUVllNDFXYTJKc0xPZ2dtT1kwT1BLRnFSNHJkLVRsclFVYWR5SkVoUHlkSzRETW1yamhzekNxYzZQejJEVUtNajVnX2daaHFEWk5Eek9TSG5VeTFlblhwN2FLWDVjTW0yVzBONVU0N0tTUVFMSG1TRFU3NGlBeTVBVEwtT01VVmRoMTVZYXlhNXAxVFdOT19LQ3VmdGFnNmJMcGtMTWpfbDE3c0pwOTVOdGpfbDVHTk1FMk13dDJMSzRNY3lKLUlsZGFBVmJZVFZUX2ZkWjNYdDVSRjFzS2ZhT3JrNHZBd0RJQ2ZjQmJ1TEJkZnFSOFBrdUZNbmFPYTlzdlFlQmpsTFRjQ2NYaWhnQ3cxLUZkWXplZzdfQzFsbDQzaDVNbTRialIzZHg0eWNHeGVOcVpwRjAwX3VzSHV5TUN1RHJwd2xBWDhWdDZPdERqeFlRTV9ZSERmRFFxQVRpS0xsWF9aZzA4RG5KQXh5SE1jaXR6NlpGdXlYMjdnTmV3Wm1JdkdqSVY4bVhzVHFHVG1XZEpCV0w5YUF1c1g1TFEwYko5Rl9hR3VsUG05TDFlaU8tYm9HM0dGelBaRTlpRGxhWWVlR2tJUmZ3dVVKSW56dldPOUZzb2JmMzRFcU9ZemxQcFlPdlp1MUQyZ3lmUVhITjlmbFIzRm5raGVZNEoxa1pLR1lGZlJCNE9nS1ZMTUVOMmItOXphQ0lEczVlMldoY3NvblQyRG01ZFlid1ZHQVlMaTB6OWtQeFk0ODVWS1draDE1U0Q0UWsxTjZaVVREV3VSV1E0UmVwcVlidHdYWUNOVG5KWHdCcUtHRGdpeTEtZ3hvNmVtVlg4NDJfSDdMZmRhOTl1aWdOcV9heFZSaVhsOWdJSFM2aXVnYktq?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Tue, 24 Nov 2026 23:42:49 GMT",
+      "local_url": "/article-52242a1c86f8.html"
+    },
+    {
+      "category": "policy",
+      "title": "أحزاب سياسية ممثلة في البرلمان تؤكد أهمية التوافق حول تحسين الإطار القانوني والتنظيمي للانتخابات المقبلة",
+      "description": "أحزاب سياسية ممثلة في البرلمان تؤكد أهمية التوافق حول تحسين الإطار القانوني والتنظيمي للانتخابات المقبلة | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxNQ1pzZWZoM2ZGdFgyS3hSTkpoQmxUcWtGZUg5MU5adkRDZ3pyTEwxLV9URnFmOE5KdmUxOFpacDlaWGdZY0FQOGZpd21QcS1HcmxGd1ljQ0J4QzNleUxpU2RNLVhpeFF3OEcyRkhlRHBUUkVJSmhad2MyNE11V0RhZWh5eVlLek9Oa1pZLURtbUhrOUxYRl9oRjN5UEhtb0NGSGJxZlNvOWh6bnpxLVlDMURpMGV0WjI1R0xxT0ZSSTYzM2Q2RWZkcWVQOU9pU29PU0FxS3RLVHR3OXVqM19OY0xmQm5jNFQ2c0gwWUN2azh0S0NCdGFRZWQ0bkFTRmZoTFBPWGdrcVFYQWlmV21jUjdlcWExNEtwdXJibENOOHhsc081N3FrUVRHcHpuMUgtRS1yeFhHcXk5SG5RUXkzbG5DendRczItVnpTUnF5UFpyNDluR3pMSGJ0OU5UVVlOQnhMMFAzcS00Y0tGazNzTzNaa2JzY05mbHhQZHEta3BKVTEzVWhZZjM2aTV2TW9RRFZRN2R2bUF0ellzc1dmY3htNHpMd3ZBUUgwX2RUOVdjelFkYWtjVXVYV2N0Q2FPNHl3dktmc2xZYWFheGlFVXZlajhkZDdPNTFhNGxxMnZFaHFwRndxc25EQ0U3MUVZVUZpa1E4a0VFMEstV0NQaklCUW5ZZlRzXzA3UFduN1V0eGpjLXpHWlJVVHNZMnRDaGM0clUtOXFiVXE5TE5hcHVNOU9SUWRFaG8yT1VmcXRXVXBnc3FXQVR6ZExRVkxlQi13dVpFaDdRWm0tLWhQR3FkSEg5YTZ0dkF0Vmh4dzgyNzBRM3lPQ1NxemlKVm5ORWpKV2tZR2NZeGJ6WWpaZWpFSQ?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Tue, 24 Nov 2026 23:37:47 GMT",
+      "local_url": "/article-00b431b160a8.html"
+    },
+    {
+      "category": "policy",
+      "title": "أحزاب سياسية ممثلة في البرلمان تؤكد أهمية التوافق حول تحسين الإطار القانوني والتنظيمي للانتخابات المقبلة",
+      "description": "أحزاب سياسية ممثلة في البرلمان تؤكد أهمية التوافق حول تحسين الإطار القانوني والتنظيمي للانتخابات المقبلة | MapNews",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
+      "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPcEFlU0x1b0xra1ZvZlBTbjgzV01yM3FxWGxsanpwYzFEdl9YSU9ZY3hWZEJDS2J2ai1sdHNFNFRSdkp6d1NaRGlmSDVHQjNtb3p2SXRlazYyU2tMQlpLWGNIWk1vb1M3a1hxWDhWNWNESkhPcjNac3dyZzk3QzZoMVFVYVQ5S3ZKS3hwR1lUaFNxWF9HVHFWTWRET0Z6ZGkzZmdhQUdzWWliVFZ2dU1pTkVnOU9pdmVoaUZPUjNNOHZxbzlXYkkwS3hWWWROeUhQeWVpb0ppdElRWnBwcWduZHVlV1FKZnFsMkRVRWJhSC1KR1dORmJoV3ZMMUVHdHdrVHNKNjc4YVJtb1VaZHZpN2ZySUFkc1VxNERQMW9uM25DaUhlV052OW4tT2t6R0o0Tm9jVjRCbEl6VmJiRDVOc3NSZmd3STVCMDB3OHpsX0dwS0ZTWnNub0lvTFFxdnp1U0JRX3VZaWZMd25qaGJuQmtzeThqcVl6WWtTSEZPMGRzZjRyTUR5VkJfc29WZVRGaVV2bElsa2hqcFBWbTd0UmFSNUdXazYxMlAxeWNfZ3pveW0zdnY1MTEzQWFRcURrVXotNFZjTWtlNEcxQ1pySXF0cFZfQTBOaFJWMEFTZFBxVnNFNThqVmZhems4dHpSV0Y0MHZwLUM2WmdWUkYzV1BpTGpPQkMwX0NnU0c1cUhlQjNLdkxwY3hiMmc3dG9nYkx2UmtDNC1SeklfUl95NXhLbmo3NjAycERPUGk4SkxEWXZGY3U4eHJ2TDdCaV91YmF3SzJXZV9OWi1DR1g2VnZTREZ4QzNCaWlmaVR4OGloMnZUS09EYnBvSGNPNGNwU21kVXVsWG5xTWdLTW9n?oc=5",
+      "domain": "| MapNews",
+      "source_url": "https://www.mapnews.ma",
+      "date": "Tue, 24 Nov 2026 23:37:47 GMT",
+      "local_url": "/article-00b431b160a8.html"
+    },
+    {
       "category": "technology",
       "title": "Nvidia, Anthropic end sharply lower as AI selloff resumes",
       "description": "Nvidia, Anthropic end sharply lower as AI selloff resumes AFP.com",
@@ -605,17 +616,6 @@
       "source_url": "https://www.hespress.com",
       "date": "Tue, 24 Nov 2026 21:54:18 GMT",
       "local_url": "/article-9427f97386f0.html"
-    },
-    {
-      "category": "technology",
-      "title": "المغرب يطور حلولا ذكية للإجهاد المائي",
-      "description": "المغرب يطور حلولا ذكية للإجهاد المائي Hespress",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYzg2SGhkUlJUTDh2MDRzMlh5a2FBdjVpSkh2N3dsdWxfS2VQMW44UUVfbEZIc29sbHdBRkhRYVZfUUhiWXQ2WVFmMkI1cnlFN0JiNEdQOXdGVDlKVW1LQm83cUV1cXlzVnVOZjdiWno2VFZ6YUtUeC1BUHlyT0FwOUhkd0ZaaXRWZnJpS0tCT0tHRm82eXo4YmZyaGloV29hTC1sSVRKV25IV1RIZ2lKRkdwZVJua2dtWDktbHZTS29fZFZsUjZPNUJZMUwzdS04RkR4Z3hocUs0T2dtN3BGZ0FDRWg5QWhSY0VCU256VGRfUHNiVlZkODZxV011b0tUNzVOTV9naFB2Wm5DZkdNYThlU2ZoMlBQejdDYmN4dTE0UjJwYy1FQ0QyckVoaXhrVFd6UjV1cWdhSEFhcE12cnNjTEYtalhoZTROSTFCNHNKN2pjVUE?oc=5",
-      "domain": "Hespress",
-      "source_url": "https://www.hespress.com",
-      "date": "Tue, 24 Nov 2026 21:16:15 GMT",
-      "local_url": "/article-7cf93a12a10d.html"
     },
     {
       "category": "general",
