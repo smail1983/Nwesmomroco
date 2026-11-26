@@ -28,13 +28,23 @@ jobs:
       - name: Build permanent article archive
         run: python build-archive.py
 
+      - name: Validate scripts and generated sitemaps
+        run: |
+          python -m py_compile fetch-news.py build-archive.py
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          for name in ("sitemap.xml", "sitemap-news.xml"):
+              ET.parse(name)
+              print(f"Valid XML: {name}")
+          PY
+
       - name: Normalize canonical hostname
         run: |
           python - <<'PY'
           from pathlib import Path
           old = "https://nwesmomroco.com"
           new = "https://www.nwesmomroco.com"
-          files = list(Path(".").glob("article-*.html")) + [Path("index.html"), Path("sitemap.xml"), Path("news.json")]
+          files = list(Path(".").glob("article-*.html")) + [Path("index.html"), Path("sitemap.xml"), Path("sitemap-news.xml"), Path("news.json")]
           changed = 0
           for path in files:
               if not path.exists():
@@ -71,9 +81,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- '*.html' news.json articles-index.json sitemap.xml
+          git add -- '*.html' news.json articles-index.json sitemap.xml sitemap-news.xml
           if ! git diff --cached --quiet; then
-            git commit -m "Use Monetag Light tag"
+            git commit -m "Refresh NewsMorocco feed, archive and sitemaps"
             git push
           else
             echo "No canonical, news feed, or Monetag changes."

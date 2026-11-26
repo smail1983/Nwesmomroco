@@ -116,6 +116,25 @@ def item_description(item, title, source):
     return raw[:360].rstrip() + ("…" if len(raw) > 360 else "")
 
 
+def date_value(value):
+    """Return a sortable UTC timestamp for ISO-8601 or RSS date strings."""
+    if not value:
+        return 0
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.timestamp()
+    except (TypeError, ValueError):
+        try:
+            parsed = parsedate_to_datetime(str(value))
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=timezone.utc)
+            return parsed.timestamp()
+        except (TypeError, ValueError, OverflowError):
+            return 0
+
+
 def is_recent(pub_date):
     try:
         dt = parsedate_to_datetime(pub_date)
@@ -301,12 +320,12 @@ manual_urls = {item.get("url") for item in manual_articles}
 articles = []
 for category in FEEDS:
     items = articles_by_category[category]
-    items.sort(key=lambda x: (article_score(x), x.get("date", "")), reverse=True)
+    items.sort(key=lambda x: (date_value(x.get("date", "")), article_score(x)), reverse=True)
     articles.extend(items[:20])
 
 generated_articles = [item for item in articles if item.get("url") not in manual_urls]
 articles = manual_articles + generated_articles[:max(0, 80 - len(manual_articles))]
-articles.sort(key=lambda x: (article_score(x), x.get("date", "")), reverse=True)
+articles.sort(key=lambda x: (date_value(x.get("date", "")), article_score(x)), reverse=True)
 
 if not articles:
     raise SystemExit("No trusted news was fetched; deployment stopped to avoid an empty feed.")
@@ -326,7 +345,7 @@ def build_sitemap():
     urls = [("/", today), ("/articles/", today), ("/about.html", today), ("/contact.html", today), ("/editorial-policy.html", today)]
     for path in sorted(Path(".").glob("article-*.html")):
         page = path.read_text(encoding="utf-8", errors="ignore")
-        if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\']noindex', page, re.IGNORECASE):
+        if re.search(r"<meta\s+name=.robots.\s+content=.[^>]*noindex", page, re.IGNORECASE):
             continue
         urls.append((f"/{path.name}", today))
     rows = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
@@ -334,6 +353,49 @@ def build_sitemap():
         rows.append(f"  <url><loc>{SITE_URL}{path}</loc><lastmod>{lastmod}</lastmod></url>")
     rows.append("</urlset>")
     Path("sitemap.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
+
+    # Google News sitemap: only recent, indexable first-party article pages.
+    sitemap_ns = "http://www.sitemaps.org/schemas/sitemap/0.9"
+    news_ns = "http://www.google.com/schemas/sitemap-news/0.9"
+    ET.register_namespace("", sitemap_ns)
+    ET.register_namespace("news", news_ns)
+    root = ET.Element(f"{{{sitemap_ns}}}urlset")
+    cutoff = datetime.now(timezone.utc) - timedelta(days=2)
+    included = 0
+    for article in articles:
+        local_url = article.get("local_url") or article.get("url") or ""
+        if not local_url.startswith("/") or local_url.startswith("//"):
+            continue
+        article_path = Path(local_url.lstrip("/"))
+        if not article_path.is_file():
+            continue
+        page = article_path.read_text(encoding="utf-8", errors="ignore")
+        if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*noindex', page, re.IGNORECASE):
+            continue
+        published_value = article.get("date", "")
+        published_timestamp = date_value(published_value)
+        if not published_timestamp:
+            continue
+        published = datetime.fromtimestamp(published_timestamp, timezone.utc)
+        if published < cutoff or published > datetime.now(timezone.utc) + timedelta(minutes=5):
+            continue
+        title = clean_text(article.get("title", ""))
+        if not title:
+            continue
+        url_node = ET.SubElement(root, f"{{{sitemap_ns}}}url")
+        ET.SubElement(url_node, f"{{{sitemap_ns}}}loc").text = f"{SITE_URL}/{article_path.as_posix()}"
+        news_node = ET.SubElement(url_node, f"{{{news_ns}}}news")
+        publication = ET.SubElement(news_node, f"{{{news_ns}}}publication")
+        ET.SubElement(publication, f"{{{news_ns}}}name").text = "NewsMorocco"
+        ET.SubElement(publication, f"{{{news_ns}}}language").text = "ar"
+        ET.SubElement(news_node, f"{{{news_ns}}}publication_date").text = published.isoformat().replace("+00:00", "Z")
+        ET.SubElement(news_node, f"{{{news_ns}}}title").text = title
+        included += 1
+        if included >= 1000:
+            break
+    ET.ElementTree(root).write("sitemap-news.xml", encoding="utf-8", xml_declaration=True)
+    print(f"Google News sitemap refreshed: {included} recent indexable articles.")
+
 
 build_sitemap()
 print("Fetched", len(articles), "trusted articles and generated first-party pages.")
