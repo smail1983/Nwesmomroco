@@ -15,7 +15,7 @@ def clean(value):
 
 def sortable_date(raw, meta):
     # Prefer the machine-readable NewsArticle date; use visible metadata only as fallback.
-    match = re.search(r'"datePublished"\\s*:\\s*"([^"]+)"', raw, re.I)
+    match = re.search(r'"datePublished"\s*:\s*"([^"]+)"', raw, re.I)
     value = match.group(1) if match else meta
     if not value:
         return 0
@@ -51,7 +51,7 @@ archive = []
 for path in sorted(Path(".").glob("article-*.html")):
     raw = path.read_text(encoding="utf-8", errors="ignore")
     # Keep noindex pages out of the public archive so it does not promote thin pages.
-    if re.search(r"<meta\\s+name=.robots.\\s+content=.[^>]*noindex", raw, re.I):
+    if re.search(r"<meta\s+name=.robots.\s+content=.[^>]*noindex", raw, re.I):
         continue
     title_match = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.I | re.S)
     if not title_match:
