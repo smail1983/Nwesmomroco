@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">مباراة التعليم 2026 وإجراءات المراقبة</title>
+  <desc id="desc">تصميم توضيحي لورقة امتحان وقلم ورمز حماية، مع الإشارة إلى 124 ألفاً و971 مترشحاً.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10283b"/>
+      <stop offset="1" stop-color="#1b594f"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e9f0f4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1050" cy="80" r="210" fill="#ffffff" opacity=".06"/>
+  <circle cx="120" cy="570" r="250" fill="#ffffff" opacity=".05"/>
+  <rect x="75" y="72" width="1050" height="486" rx="34" fill="#ffffff" opacity=".08" stroke="#ffffff" stroke-opacity=".18"/>
+  <g transform="translate(130 145)">
+    <rect x="0" y="0" width="300" height="350" rx="22" fill="url(#paper)"/>
+    <rect x="38" y="42" width="170" height="18" rx="9" fill="#1b594f" opacity=".9"/>
+    <rect x="38" y="91" width="224" height="11" rx="5" fill="#aab8c3"/>
+    <rect x="38" y="121" width="204" height="11" rx="5" fill="#aab8c3"/>
+    <rect x="38" y="169" width="24" height="24" rx="5" fill="none" stroke="#1b8065" stroke-width="4"/>
+    <path d="M43 180l7 7 14-17" fill="none" stroke="#1b8065" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="79" y="175" width="165" height="10" rx="5" fill="#aab8c3"/>
+    <rect x="38" y="220" width="24" height="24" rx="5" fill="none" stroke="#1b8065" stroke-width="4"/>
+    <rect x="79" y="226" width="145" height="10" rx="5" fill="#aab8c3"/>
+    <rect x="38" y="271" width="24" height="24" rx="5" fill="none" stroke="#1b8065" stroke-width="4"/>
+    <rect x="79" y="277" width="175" height="10" rx="5" fill="#aab8c3"/>
+    <path d="M230 320l42-42 18 18-42 42-23 6z" fill="#d28b38"/>
+    <path d="M272 278l10-10a13 13 0 0 1 18 18l-10 10z" fill="#f0c27b"/>
+  </g>
+  <g transform="translate(520 154)" fill="#ffffff" font-family="Tahoma, Arial, sans-serif" text-anchor="middle">
+    <text x="285" y="34" font-size="34" font-weight="700" opacity=".88" direction="rtl">المغرب • السبت 28 نونبر 2026</text>
+    <text x="285" y="112" font-size="58" font-weight="800" direction="rtl">مباراة التعليم 2026</text>
+    <text x="285" y="177" font-size="34" font-weight="700" fill="#bcebd8" direction="rtl">124,971 مترشحاً</text>
+    <text x="285" y="232" font-size="26" direction="rtl">اختبارات كتابية بمراقبة مشددة</text>
+    <rect x="80" y="274" width="410" height="64" rx="18" fill="#ffffff" opacity=".14"/>
+    <text x="285" y="316" font-size="25" font-weight="700" direction="rtl">رصد إلكتروني • منع الهواتف • لجان مراقبة</text>
+  </g>
+  <g transform="translate(950 385)">
+    <path d="M85 0l72 27v59c0 60-36 100-72 120C49 186 13 146 13 86V27z" fill="#d5f6e9" opacity=".96"/>
+    <path d="M85 37l39 14v35c0 36-18 61-39 75-21-14-39-39-39-75V51z" fill="#1b8065"/>
+    <path d="M62 88l17 17 32-36" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="600" y="592" fill="#d8e6ed" font-size="20" font-family="Arial, sans-serif" text-anchor="middle">NewsMorocco</text>
+</svg>
